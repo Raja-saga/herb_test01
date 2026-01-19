@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #6a85f1, #7b6ed6);
+  min-height: 100vh;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  padding: 25px;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+/* Card */
+.card {
+  background: white;
+  width: 450px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 14px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+/* Upload box */
+.upload-box {
+  border: 2px dashed #b0b0ff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+/* File input */
+input[type="file"] {
+  margin-top: 10px;
+}
+
+/* Result */
+.result {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.result h3 {
+  color: #333;
+}
+
+.result p {
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+/* Loading */
+.loading {
+  margin-top: 15px;
+  color: #555;
+  font-style: italic;
+}
+/* Image preview */
+.preview {
+  margin-top: 15px;
+}
+
+.preview img {
+  width: 100%;
+  max-height: 220px;
+  object-fit: contain;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
