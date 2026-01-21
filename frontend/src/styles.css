@@ -1,78 +1,117 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-}
-
-body {
-  background: linear-gradient(135deg, #6a85f1, #7b6ed6);
-  min-height: 100vh;
-}
-
-/* Header */
-.header {
-  text-align: center;
-  padding: 25px;
-  color: white;
-  font-size: 32px;
-  font-weight: bold;
-}
-
-/* Card */
-.card {
-  background: white;
-  width: 450px;
-  margin: 40px auto;
-  padding: 30px;
-  border-radius: 14px;
-  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
-  text-align: center;
-}
-
-/* Upload box */
-.upload-box {
-  border: 2px dashed #b0b0ff;
+.app-container {
+  display: flex;
+  height: 100vh;
+  gap: 20px;
   padding: 20px;
-  border-radius: 10px;
-  margin-top: 15px;
 }
 
-/* File input */
-input[type="file"] {
-  margin-top: 10px;
+.left-panel {
+  width: 50%;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow-y: auto;
 }
 
-/* Result */
-.result {
-  margin-top: 20px;
-  text-align: left;
+.right-panel {
+  width: 50%;
+  height: 90%;
+  padding: 20px;
+  
+  border: 1px solid #ddd;
+  border-radius: 8px;
 }
 
-.result h3 {
-  color: #333;
-}
-
-.result p {
-  font-size: 16px;
-  margin-top: 5px;
-}
-
-/* Loading */
-.loading {
-  margin-top: 15px;
-  color: #555;
-  font-style: italic;
-}
-/* Image preview */
-.preview {
-  margin-top: 15px;
+.upload-box input {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 2px dashed #ccc;
+  border-radius: 4px;
+  width: 100%;
 }
 
 .preview img {
-  width: 100%;
-  max-height: 220px;
-  object-fit: contain;
-  border-radius: 10px;
-  border: 1px solid #ddd;
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.result {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 4px;
+  background: #f9f9f9;
+}
+
+.confidence-message {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.confidence-message.retry {
+  background: #ffebee;
+  color: #c62828;
+}
+
+.confidence-message.accept_with_warning {
+  background: #fff3e0;
+  color: #ef6c00;
+}
+
+.confidence-message.accept {
+  background: #e8f5e8;
+  color: #2e7d32;
+}
+
+.error {
+  background: #ffebee;
+  color: #c62828;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.map-static, .map-interactive {
+  height: 450px;
+}
+
+.map-placeholder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background: #f5f5f5;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+}
+
+.static-map-visual {
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.loading-locations {
+  margin-top: 10px;
+  padding: 10px;
+  background: #e3f2fd;
+  border-radius: 4px;
+  color: #1976d2;
+  font-style: italic;
+}
+
+.map-status {
+  margin-bottom: 10px;
+  padding: 8px;
+  background: #f5f5f5;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.herb-map h3 {
+  margin-bottom: 15px;
+  color: #333;
 }
