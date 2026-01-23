@@ -24,7 +24,7 @@ export const getConfidenceMessage = (confidence) => {
       return {
         message: "Uncertain prediction. Result may not be accurate.",
         action: "ACCEPT_WITH_WARNING",
-        showMap: false
+        showMap: true
       };
     case 'HIGH':
       return {

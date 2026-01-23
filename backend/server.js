@@ -59,32 +59,54 @@ app.post("/api/predict", upload.single("image"), async (req, res) => {
   });
 });
 
-// ---------- LOCATIONS ----------
-app.get("/api/locations/:herbName", (req, res) => {
-  const filePath = path.join(
-    METADATA_PATH,
-    `${req.params.herbName}.json`
-  );
+// Test endpoint to verify dataset access
+app.get('/api/test-locations', (req, res) => {
+  const testHerb = 'Acorus_calamus';
+  const filePath = path.join(__dirname, '../dataset/metadata', `${testHerb}.json`);
+  
+  if (fs.existsSync(filePath)) {
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    res.json({
+      message: 'Dataset access working',
+      herb: testHerb,
+      locationCount: data.locations.length,
+      sampleLocations: data.locations.slice(0, 3)
+    });
+  } else {
+    res.json({ error: 'Dataset not found', path: filePath });
+  }
+});
+
+// Enhanced backend with direct dataset integration
+app.get('/api/locations/:herbName', (req, res) => {
+  const { herbName } = req.params;
+
+  const filePath = path.join(__dirname, '../dataset/metadata', `${herbName}.json`);
 
   if (!fs.existsSync(filePath)) {
-    return res.json({ count: 0, locations: [] });
+    return res.json({ herb: herbName, count: 0, locations: [] });
   }
 
-  const raw = JSON.parse(fs.readFileSync(filePath, "utf8"));
+  const raw = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
-  const locations = raw.locations.map((l) => ({
-    lat: Number(l.latitude),
-    lng: Number(l.longitude),
-    name: `${l.country}${l.state ? ", " + l.state : ""}`,
-  }));
+  const locations = raw.locations
+    .map((loc) => ({
+      lat: Number(loc.lat ?? loc.latitude),
+      lng: Number(loc.lon ?? loc.lng ?? loc.longitude),
+      name: `${loc.country}${loc.state ? ', ' + loc.state : ''}`,
+    }))
+    .filter((l) => !isNaN(l.lat) && !isNaN(l.lng));
 
-  console.log(`✅ Sending ${locations.length} locations`);
+  console.log(`Sending ${locations.length} valid locations for ${herbName}`);
 
   res.json({
+    herb: herbName,
     count: locations.length,
     locations,
   });
 });
+
+
 
 app.listen(PORT, () =>
   console.log(`✅ Backend running at http://localhost:${PORT}`)
