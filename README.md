@@ -28,7 +28,7 @@ Final Year Engineering Project - Computer Science/AI
 | Confidence Range | Action | Map Display | User Guidance |
 |------------------|--------|-------------|---------------|
 | < 40% | Retry | No | "Upload clearer image" |
-| 40-65% | Accept with Warning | No | "Uncertain prediction" |
+| 40-65% | Accept with Warning | Yes | "Uncertain prediction" |
 | ≥ 65% | Accept | Yes | "High confidence" |
 
 ## Dataset
