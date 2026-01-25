@@ -9,10 +9,19 @@ L.Icon.Default.mergeOptions({
   shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png",
 });
 
-export default function HerbMap({ herbName, confidence = 0, locations = [] }) {
+// Create custom user location icon
+const userIcon = L.divIcon({
+  className: 'user-location-marker',
+  html: '<div style="background: #ff4444; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.3);"></div>',
+  iconSize: [16, 16],
+  iconAnchor: [8, 8]
+});
+
+export default function HerbMap({ herbName, confidence = 0, locations = [], userLocation, validationResults }) {
   const mapRef = useRef(null);
   const map = useRef(null);
   const markers = useRef(null);
+  const userMarker = useRef(null);
 
   // Initialize map once
   useEffect(() => {
@@ -27,16 +36,37 @@ export default function HerbMap({ herbName, confidence = 0, locations = [] }) {
     setTimeout(() => map.current.invalidateSize(), 300);
   }, []);
 
+  // Update user location marker
+  useEffect(() => {
+    if (!map.current) return;
+    
+    // Remove existing user marker
+    if (userMarker.current) {
+      map.current.removeLayer(userMarker.current);
+      userMarker.current = null;
+    }
+    
+    // Add user location marker if available
+    if (userLocation) {
+      userMarker.current = L.marker(
+        [userLocation.latitude, userLocation.longitude], 
+        { icon: userIcon }
+      )
+        .bindPopup('<b>Your Location</b><br/>Prediction made from here')
+        .addTo(map.current);
+    }
+  }, [userLocation]);
+
   // Update markers when data changes
   useEffect(() => {
-    console.log('🗺️ HerbMap received:', { herbName, confidence, locationsCount: locations.length });
+    console.log('HerbMap received:', { herbName, confidence, locationsCount: locations.length });
     
     if (!map.current || !markers.current) return;
     markers.current.clearLayers();
 
     // Show markers if confidence >= 40% AND we have locations
     if (confidence >= 40 && herbName && locations.length > 0) {
-      console.log('✅ Adding markers for', herbName);
+      console.log('Adding markers for', herbName);
       
       let validCount = 0;
       locations.forEach((loc, i) => {
@@ -51,33 +81,71 @@ export default function HerbMap({ herbName, confidence = 0, locations = [] }) {
         }
       });
       
-      console.log(`📍 Added ${validCount} markers out of ${locations.length} locations`);
+      console.log(`Added ${validCount} markers out of ${locations.length} locations`);
       
-      // Fit map to show all markers
+      // Fit map to show all markers and user location
       if (validCount > 0) {
-        const group = L.featureGroup(markers.current.getLayers());
-        const bounds = group.getBounds();
-        if (bounds.isValid()) {
-          map.current.fitBounds(bounds, { padding: [30, 30], maxZoom: 8 });
+        const allLayers = [...markers.current.getLayers()];
+        if (userMarker.current) {
+          allLayers.push(userMarker.current);
+        }
+        
+        if (allLayers.length > 0) {
+          const group = L.featureGroup(allLayers);
+          const bounds = group.getBounds();
+          if (bounds.isValid()) {
+            map.current.fitBounds(bounds, { padding: [30, 30], maxZoom: 8 });
+          }
         }
       }
     } else {
-      console.log('❌ Not showing markers:', { confidence, herbName, locationsCount: locations.length });
+      console.log('Not showing markers:', { confidence, herbName, locationsCount: locations.length });
+      
+      // If no herb markers but user location exists, center on user
+      if (userLocation && userMarker.current) {
+        map.current.setView([userLocation.latitude, userLocation.longitude], 6);
+      }
     }
-  }, [locations, confidence, herbName]);
+  }, [locations, confidence, herbName, userLocation]);
 
-  const statusMessage = !herbName
-    ? "Upload an herb image to see distribution"
-    : confidence < 65
-    ? `Low confidence (${confidence}%) - Upload clearer image`
-    : locations.length === 0
-    ? `No location data found for ${herbName}`
-    : `Showing ${locations.length} locations for ${herbName}`;
+  // Generate status message based on validation results
+  const getStatusMessage = () => {
+    if (!herbName) {
+      return "Provide location and upload herb image to see distribution";
+    }
+    
+    if (confidence < 40) {
+      return `Confidence too low (${confidence}%) - Upload clearer image`;
+    }
+    
+    if (locations.length === 0) {
+      return `No location data found for ${herbName}`;
+    }
+    
+    const nearestDistance = validationResults?.locationPlausibility?.nearestDistance;
+    const distanceText = nearestDistance ? ` (nearest: ${nearestDistance.toFixed(1)} km)` : '';
+    
+    return `Showing ${locations.length} known locations for ${herbName}${distanceText}`;
+  };
 
   return (
     <div className="herb-map">
       <h3>Herb Distribution Map</h3>
-      <p>{statusMessage}</p>
+      <p>{getStatusMessage()}</p>
+      
+      {userLocation && (
+        <div style={{fontSize: '12px', color: '#666', marginBottom: '10px'}}>
+          Your location: {userLocation.latitude.toFixed(4)}, {userLocation.longitude.toFixed(4)}
+        </div>
+      )}
+      
+      {validationResults && (
+        <div style={{fontSize: '12px', color: '#666', marginBottom: '10px'}}>
+          Final confidence: {validationResults.finalConfidence.score}% 
+          (Visual: {validationResults.visualConfidence.score}% + Geo: {(validationResults.geographicalValidation.score * 100).toFixed(1)}%)
+        </div>
+      )}
+      
       <div
         ref={mapRef}
         style={{

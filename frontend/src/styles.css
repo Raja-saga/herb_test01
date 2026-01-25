@@ -3,6 +3,7 @@
   height: 100vh;
   gap: 20px;
   padding: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 .left-panel {
@@ -11,58 +12,219 @@
   border: 1px solid #ddd;
   border-radius: 8px;
   overflow-y: auto;
+  background: #fafafa;
 }
 
 .right-panel {
   width: 50%;
   height: 90%;
   padding: 20px;
-  
   border: 1px solid #ddd;
   border-radius: 8px;
+  background: white;
+}
+
+.subtitle {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+/* Location Input Styles */
+.location-input {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+}
+
+.location-input h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.location-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.location-btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s;
+}
+
+.location-btn.current {
+  background: #2196f3;
+  color: white;
+}
+
+.location-btn.current:hover {
+  background: #1976d2;
+}
+
+.location-btn.manual {
+  background: #ff9800;
+  color: white;
+}
+
+.location-btn.manual:hover {
+  background: #f57c00;
+}
+
+.location-btn.clear {
+  background: #f44336;
+  color: white;
+}
+
+.location-btn.clear:hover {
+  background: #d32f2f;
+}
+
+.location-btn:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+.manual-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.manual-form input {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.manual-form button {
+  padding: 8px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Upload Section */
+.upload-section {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+}
+
+.upload-section h3 {
+  margin: 0 0 15px 0;
+  color: #333;
 }
 
 .upload-box input {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   padding: 10px;
   border: 2px dashed #ccc;
   border-radius: 4px;
   width: 100%;
+  background: white;
+}
+
+.upload-box input:disabled {
+  background: #f5f5f5;
+  cursor: not-allowed;
+  border-color: #ddd;
+}
+
+.upload-box input.disabled {
+  opacity: 0.6;
+}
+
+.location-warning {
+  color: #f44336;
+  font-size: 14px;
+  margin: 5px 0;
+  font-weight: 500;
 }
 
 .preview img {
   max-width: 100%;
-  max-height: 300px;
+  max-height: 200px;
   border-radius: 4px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+}
+
+.loading {
+  background: #e3f2fd;
+  padding: 15px;
+  border-radius: 4px;
+  color: #1976d2;
+  margin: 10px 0;
+}
+
+.loading p {
+  margin: 5px 0;
+}
+
+.loading-indicator {
+  color: #1976d2;
+  font-style: italic;
+  margin: 10px 0;
+}
+
+/* Result Section */
+.result-section {
+  margin-top: 20px;
+}
+
+.basic-result {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
   margin-bottom: 20px;
 }
 
-.result {
-  margin-top: 20px;
-  padding: 15px;
-  border-radius: 4px;
-  background: #f9f9f9;
+.basic-result h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.basic-result p {
+  margin: 5px 0;
 }
 
 .confidence-message {
-  margin-top: 10px;
+  margin-top: 15px;
   padding: 10px;
   border-radius: 4px;
+  font-weight: 500;
 }
 
 .confidence-message.retry {
   background: #ffebee;
   color: #c62828;
+  border: 1px solid #ffcdd2;
 }
 
 .confidence-message.accept_with_warning {
   background: #fff3e0;
   color: #ef6c00;
+  border: 1px solid #ffcc02;
 }
 
 .confidence-message.accept {
   background: #e8f5e8;
   color: #2e7d32;
+  border: 1px solid #c8e6c9;
 }
 
 .error {
@@ -70,8 +232,142 @@
   color: #c62828;
   padding: 15px;
   border-radius: 4px;
+  border: 1px solid #ffcdd2;
 }
 
+/* Validation Results Styles */
+.validation-results {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.validation-results h3 {
+  margin: 0 0 20px 0;
+  color: #333;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 10px;
+}
+
+.validation-step {
+  margin-bottom: 25px;
+  padding: 15px;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  background: #fafafa;
+}
+
+.validation-step h4 {
+  margin: 0 0 10px 0;
+  color: #333;
+  font-size: 16px;
+}
+
+.score-display {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 10px 0;
+}
+
+.score-value {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2196f3;
+  min-width: 60px;
+}
+
+.score-label {
+  font-size: 14px;
+  color: #666;
+  font-weight: 500;
+}
+
+.final-step {
+  border-color: #4caf50;
+  background: #f1f8e9;
+}
+
+.final-step .score-value {
+  color: #4caf50;
+  font-size: 28px;
+}
+
+.explanation {
+  color: #555;
+  font-size: 14px;
+  margin: 8px 0;
+  font-style: italic;
+}
+
+.location-info {
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+  font-size: 14px;
+}
+
+.location-info p {
+  margin: 5px 0;
+}
+
+.fusion-weights {
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+  font-size: 14px;
+}
+
+.fusion-weights p {
+  margin: 5px 0;
+}
+
+.validation-summary {
+  margin-top: 20px;
+  padding: 15px;
+  background: #e8f5e8;
+  border-radius: 6px;
+  border: 1px solid #c8e6c9;
+}
+
+.validation-summary h4 {
+  margin: 0 0 15px 0;
+  color: #2e7d32;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.summary-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  background: white;
+  border-radius: 4px;
+}
+
+.summary-label {
+  font-weight: 500;
+  color: #333;
+}
+
+.summary-value {
+  color: #666;
+}
+
+.summary-value.final {
+  color: #4caf50;
+  font-weight: bold;
+}
+
+/* Map Styles */
 .map-static, .map-interactive {
   height: 450px;
 }
@@ -85,30 +381,6 @@
   background: #f5f5f5;
   border: 2px dashed #ccc;
   border-radius: 8px;
-}
-
-.static-map-visual {
-  font-size: 14px;
-  color: #666;
-  text-align: center;
-  margin-top: 20px;
-}
-
-.loading-locations {
-  margin-top: 10px;
-  padding: 10px;
-  background: #e3f2fd;
-  border-radius: 4px;
-  color: #1976d2;
-  font-style: italic;
-}
-
-.map-status {
-  margin-bottom: 10px;
-  padding: 8px;
-  background: #f5f5f5;
-  border-radius: 4px;
-  font-size: 14px;
 }
 
 .herb-map h3 {

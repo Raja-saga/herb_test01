@@ -2,7 +2,7 @@ import { useState } from "react";
 import { predictHerb } from "../services/api";
 import { getConfidenceMessage } from "../utils/confidenceLogic";
 
-export default function ImageUpload({ onPredictionChange }) {
+export default function ImageUpload({ onPredictionChange, location }) {
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
   const [preview, setPreview] = useState(null);
@@ -11,6 +11,13 @@ export default function ImageUpload({ onPredictionChange }) {
   const handleUpload = async (e) => {
     const image = e.target.files[0];
     if (!image) return;
+
+    // MANDATORY: Check if location is provided
+    if (!location) {
+      alert("Location Required: Please provide your location before uploading an image.");
+      e.target.value = ""; // Clear the file input
+      return;
+    }
 
     // Cleanup previous preview URL to prevent memory leaks
     if (preview) {
@@ -27,21 +34,34 @@ export default function ImageUpload({ onPredictionChange }) {
     setLoading(true);
 
     try {
-      const res = await predictHerb(image);
+      console.log('Starting prediction with location:', location);
+      const res = await predictHerb(image, location);
       
-      if (!res.herb || res.confidence === undefined) {
+      if (!res.herb || res.visualConfidence === undefined) {
         throw new Error('Invalid prediction response');
       }
       
-      const confInfo = getConfidenceMessage(res.confidence);
+      console.log('Prediction response:', res);
       
-      setResult(res);
+      // Use final confidence for UI logic
+      const displayConfidence = res.finalConfidence || res.visualConfidence;
+      const confInfo = getConfidenceMessage(displayConfidence);
+      
+      setResult({
+        herb: res.herb,
+        visualConfidence: res.visualConfidence,
+        finalConfidence: res.finalConfidence,
+        locationPlausibilityScore: res.locationPlausibilityScore,
+        nearestDistanceKm: res.nearestDistanceKm,
+        success: res.success
+      });
       setConfidenceInfo(confInfo);
       
-      // Always notify parent - map will decide what to show
+      // Notify parent component
       onPredictionChange({
         herb: res.herb,
-        confidence: res.confidence
+        confidence: res.visualConfidence,
+        finalConfidence: res.finalConfidence
       });
     } catch (err) {
       console.error('Prediction error:', err);
@@ -53,23 +73,46 @@ export default function ImageUpload({ onPredictionChange }) {
     setLoading(false);
   };
 
+  const isLocationProvided = location && location.latitude && location.longitude;
+
   return (
     <>
-      <div className="upload-box">
-        <input type="file" accept="image/*" onChange={handleUpload} />
+      <div className="upload-section">
+        <h3>Herb Image Upload</h3>
+        
+        <div className="upload-box">
+          <input 
+            type="file" 
+            accept="image/*" 
+            onChange={handleUpload}
+            disabled={!isLocationProvided}
+            className={!isLocationProvided ? 'disabled' : ''}
+          />
+          {!isLocationProvided && (
+            <p className="location-warning">Location required for prediction</p>
+          )}
+        </div>
+
+        {/* IMAGE PREVIEW */}
+        {preview && (
+          <div className="preview">
+            <img src={preview} alt="Uploaded herb" />
+          </div>
+        )}
+
+        {loading && (
+          <div className="loading">
+            <p>Processing image...</p>
+            <p>• Running ViT classification</p>
+            <p>• Performing geo-validation</p>
+            <p>• Computing final confidence</p>
+          </div>
+        )}
       </div>
 
-      {/* IMAGE PREVIEW */}
-      {preview && (
-        <div className="preview">
-          <img src={preview} alt="Uploaded herb" />
-        </div>
-      )}
-
-      {loading && <p className="loading">Predicting...</p>}
-
+      {/* PREDICTION RESULTS */}
       {result && (
-        <div className="result">
+        <div className="result-section">
           {result.error ? (
             <div className="error">
               <h3>Error</h3>
@@ -78,22 +121,27 @@ export default function ImageUpload({ onPredictionChange }) {
                 Try Another Image
               </button>
             </div>
-          ) : confidenceInfo ? (
-            <>
-              <h3>Result</h3>
-              <p><strong>Herb:</strong> {result.herb}</p>
-              <p><strong>Confidence:</strong> {result.confidence}%</p>
+          ) : (
+            <div className="basic-result">
+              <h3>Prediction Result</h3>
+              <p><strong>Identified Herb:</strong> {result.herb}</p>
+              <p><strong>Visual Confidence:</strong> {result.visualConfidence}%</p>
+              <p><strong>Location Plausibility:</strong> {result.locationPlausibilityScore ? (result.locationPlausibilityScore * 100).toFixed(1) + '%' : 'N/A'}</p>
+              <p><strong>Nearest Distance:</strong> {result.nearestDistanceKm ? result.nearestDistanceKm.toFixed(1) + ' km' : 'Unknown'}</p>
+              <p><strong>Final Confidence:</strong> {result.finalConfidence}%</p>
               
-              <div className={`confidence-message ${confidenceInfo.action.toLowerCase()}`}>
-                <p>{confidenceInfo.message}</p>
-                {confidenceInfo.action === 'RETRY' && (
-                  <button onClick={() => document.querySelector('input[type="file"]').click()}>
-                    Upload Another Image
-                  </button>
-                )}
-              </div>
-            </>
-          ) : null}
+              {confidenceInfo && (
+                <div className={`confidence-message ${confidenceInfo.action.toLowerCase()}`}>
+                  <p>{confidenceInfo.message}</p>
+                  {confidenceInfo.action === 'RETRY' && (
+                    <button onClick={() => document.querySelector('input[type="file"]').click()}>
+                      Upload Another Image
+                    </button>
+                  )}
+                </div>
+              )}
+            </div>
+          )}
         </div>
       )}
     </>
