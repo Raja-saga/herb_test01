@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require("express");
 const multer = require("multer");
 const path = require("path");
@@ -7,10 +8,12 @@ const cors = require("cors");
 const { performExplainableGeoValidation } = require("./services/geoValidationService");
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
+const HOST = process.env.HOST || '0.0.0.0';
+const HOST_IP = process.env.HOST_IP || '39.42.239.242';
 
 // METADATA PATH
-const METADATA_PATH = path.join(__dirname, "../dataset/metadata");
+const METADATA_PATH = path.join(__dirname, process.env.METADATA_PATH || "../dataset/metadata");
 
 app.use(cors());
 app.use(express.json());
@@ -182,8 +185,12 @@ app.get('/api/locations/:herbName', (req, res) => {
   });
 });
 
+app.get("/" , (req,res) =>{
+  res.send("Working")
+})
+
 
 
 app.listen(PORT, () =>
-  console.log(`✅ Backend running at http://localhost:${PORT}`)
+  console.log(`✅ Backend running at ${PORT}`)
 );
