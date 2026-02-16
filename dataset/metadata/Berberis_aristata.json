@@ -1,0 +1,2432 @@
+{
+  "herb": "Berberis aristata",
+  "locations": [
+    {
+      "latitude": -41.217398,
+      "longitude": 173.585507,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.244603,
+      "longitude": 173.595375,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.217398,
+      "longitude": 173.585507,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.217398,
+      "longitude": 173.585507,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 28.73957,
+      "longitude": 81.89529,
+      "country": "Nepal",
+      "state": "Karnali"
+    },
+    {
+      "latitude": 28.74663,
+      "longitude": 81.88385,
+      "country": "Nepal",
+      "state": "Karnali"
+    },
+    {
+      "latitude": -41.253876,
+      "longitude": 173.723923,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.253876,
+      "longitude": 173.723923,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.253876,
+      "longitude": 173.723923,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.253876,
+      "longitude": 173.723923,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34889,
+      "longitude": 173.654568,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.253876,
+      "longitude": 173.723923,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.253876,
+      "longitude": 173.723923,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34889,
+      "longitude": 173.654568,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34889,
+      "longitude": 173.654568,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34889,
+      "longitude": 173.654568,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34889,
+      "longitude": 173.654568,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34889,
+      "longitude": 173.654568,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 32.261553,
+      "longitude": 77.188619,
+      "country": "India",
+      "state": "Himachal Pradesh"
+    },
+    {
+      "latitude": 28.128003,
+      "longitude": 85.351332,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": -39.45402,
+      "longitude": 174.408452,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 28.782063,
+      "longitude": 83.728246,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.814121,
+      "longitude": 83.851098,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": -38.04823,
+      "longitude": 175.54525,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 28.594901,
+      "longitude": 84.186341,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": -41.180109,
+      "longitude": 173.603977,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.163909,
+      "longitude": 173.608108,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.180109,
+      "longitude": 173.603977,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.180109,
+      "longitude": 173.603977,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.309021,
+      "longitude": 173.612226,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.163909,
+      "longitude": 173.608108,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.309021,
+      "longitude": 173.612226,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.163909,
+      "longitude": 173.608108,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.180109,
+      "longitude": 173.603977,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.309021,
+      "longitude": 173.612226,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.309021,
+      "longitude": 173.612226,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.309021,
+      "longitude": 173.612226,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.163909,
+      "longitude": 173.608108,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.180109,
+      "longitude": 173.603977,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.180109,
+      "longitude": 173.603977,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.163909,
+      "longitude": 173.608108,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.163909,
+      "longitude": 173.608108,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.309021,
+      "longitude": 173.612226,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 28.45692,
+      "longitude": 84.38215,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": -41.34181,
+      "longitude": 173.645585,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.266476,
+      "longitude": 173.656573,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.266476,
+      "longitude": 173.656573,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34181,
+      "longitude": 173.645585,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.25121,
+      "longitude": 173.743647,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.25121,
+      "longitude": 173.743647,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.266476,
+      "longitude": 173.656573,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.266476,
+      "longitude": 173.656573,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.25121,
+      "longitude": 173.743647,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.321267,
+      "longitude": 173.666622,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34181,
+      "longitude": 173.645585,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.266476,
+      "longitude": 173.656573,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.321267,
+      "longitude": 173.666622,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.321267,
+      "longitude": 173.666622,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.25121,
+      "longitude": 173.743647,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.321267,
+      "longitude": 173.666622,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34181,
+      "longitude": 173.645585,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.321267,
+      "longitude": 173.666622,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.25121,
+      "longitude": 173.743647,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.321267,
+      "longitude": 173.666622,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34181,
+      "longitude": 173.645585,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.266476,
+      "longitude": 173.656573,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.34181,
+      "longitude": 173.645585,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.25121,
+      "longitude": 173.743647,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 30.48215,
+      "longitude": 78.038639,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -41.370642,
+      "longitude": 173.60805,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.225343,
+      "longitude": 173.580161,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.225343,
+      "longitude": 173.580161,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.370642,
+      "longitude": 173.60805,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.370642,
+      "longitude": 173.60805,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.225343,
+      "longitude": 173.580161,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.225343,
+      "longitude": 173.580161,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.370642,
+      "longitude": 173.60805,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.370642,
+      "longitude": 173.60805,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.225343,
+      "longitude": 173.580161,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.225343,
+      "longitude": 173.580161,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -33.71462,
+      "longitude": 150.37579,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 33.778463,
+      "longitude": 73.742559,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 28.754861,
+      "longitude": 84.469811,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 28.581111,
+      "longitude": 84.4125,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 28.605556,
+      "longitude": 84.462778,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 27.80663,
+      "longitude": 86.719528,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.948721,
+      "longitude": 85.482194,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.331955,
+      "longitude": 83.832695,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 33.076158,
+      "longitude": 74.5769,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 30.082165,
+      "longitude": 80.231934,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 28.594522,
+      "longitude": 84.172996,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.54681,
+      "longitude": 84.38228,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": -42.39459,
+      "longitude": 171.48638,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -42.39524,
+      "longitude": 171.48846,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 28.59806,
+      "longitude": 84.44754,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 28.437033,
+      "longitude": 83.674385,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.799444,
+      "longitude": 85.386665,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.529444,
+      "longitude": 84.837219,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.726252,
+      "longitude": 83.7105,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.726252,
+      "longitude": 83.7105,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 32.25742,
+      "longitude": 77.176147,
+      "country": "India",
+      "state": "Himachal Pradesh"
+    },
+    {
+      "latitude": 28.660372,
+      "longitude": 84.050522,
+      "country": "Nepal",
+      "state": "Western"
+    },
+    {
+      "latitude": 28.215377,
+      "longitude": 85.518034,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 32.251608,
+      "longitude": 77.171675,
+      "country": "India",
+      "state": "Himachal Pradesh"
+    },
+    {
+      "latitude": 27.779247,
+      "longitude": 86.722513,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.703267,
+      "longitude": 86.718458,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.779247,
+      "longitude": 86.722513,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 43.764419,
+      "longitude": 39.74477,
+      "country": "Russian Federation",
+      "state": null
+    },
+    {
+      "latitude": -34.473977,
+      "longitude": 150.434883,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.661196,
+      "longitude": 150.377604,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.656739,
+      "longitude": 150.316969,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.638684,
+      "longitude": 150.34376,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.661521,
+      "longitude": 150.296785,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.658532,
+      "longitude": 150.316944,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.5459,
+      "longitude": 150.511554,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.619681,
+      "longitude": 150.30473,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.446117,
+      "longitude": 150.467497,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 29.847342,
+      "longitude": 80.536906,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 29.173375,
+      "longitude": 82.941208,
+      "country": "Nepal",
+      "state": "Mid-Western"
+    },
+    {
+      "latitude": 28.134444,
+      "longitude": 85.356111,
+      "country": "Nepal",
+      "state": "Bagmati Zone"
+    },
+    {
+      "latitude": -23.8175,
+      "longitude": 29.961667,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 27.560045,
+      "longitude": 89.906593,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 27.446712,
+      "longitude": 90.414841,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": -34.560235,
+      "longitude": 150.588845,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -23.8175,
+      "longitude": 29.961944,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 27.689,
+      "longitude": 86.72885,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.80579,
+      "longitude": 86.70881,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.441757,
+      "longitude": 90.01519,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": -29.08614,
+      "longitude": 151.96683,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 21.519167,
+      "longitude": 93.940278,
+      "country": "Myanmar",
+      "state": "Chin"
+    },
+    {
+      "latitude": -23.817222,
+      "longitude": 29.961944,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 21.400556,
+      "longitude": 93.812222,
+      "country": "Myanmar",
+      "state": "Chin"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 85.3,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 21.234444,
+      "longitude": 93.901111,
+      "country": "Myanmar",
+      "state": "Chin"
+    },
+    {
+      "latitude": 63.434,
+      "longitude": 10.671,
+      "country": "Norway",
+      "state": null
+    },
+    {
+      "latitude": -34.573039,
+      "longitude": 150.395755,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 29.319167,
+      "longitude": 81.010278,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 29.292778,
+      "longitude": 81.006944,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 21.398611,
+      "longitude": 93.818056,
+      "country": "Myanmar",
+      "state": "Chin"
+    },
+    {
+      "latitude": 28.104167,
+      "longitude": 85.324444,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.104444,
+      "longitude": 85.324444,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.099444,
+      "longitude": 85.315278,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.11,
+      "longitude": 85.337778,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 21.2275,
+      "longitude": 93.916944,
+      "country": "Myanmar",
+      "state": "Chin"
+    },
+    {
+      "latitude": -43.586,
+      "longitude": 172.09,
+      "country": "New Zealand",
+      "state": "Canterbury Land District"
+    },
+    {
+      "latitude": -43.586,
+      "longitude": 172.09,
+      "country": "New Zealand",
+      "state": "Canterbury Land District"
+    },
+    {
+      "latitude": -43.583465,
+      "longitude": 172.091015,
+      "country": "New Zealand",
+      "state": "South Island"
+    },
+    {
+      "latitude": 26.997778,
+      "longitude": 88.029722,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 26.997778,
+      "longitude": 88.029722,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.070833,
+      "longitude": 88.75,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.039722,
+      "longitude": 88.433333,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.069167,
+      "longitude": 87.944722,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.799444,
+      "longitude": 85.386667,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.193333,
+      "longitude": 85.448333,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.662222,
+      "longitude": 83.594722,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.175,
+      "longitude": 85.359444,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.712222,
+      "longitude": 83.558889,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.175556,
+      "longitude": 85.357778,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.535556,
+      "longitude": 83.653056,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.660278,
+      "longitude": 83.593889,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.195556,
+      "longitude": 85.449444,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.869444,
+      "longitude": 83.481111,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.853056,
+      "longitude": 83.480833,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.853056,
+      "longitude": 83.480833,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.860278,
+      "longitude": 83.484444,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.869444,
+      "longitude": 83.481111,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.625133,
+      "longitude": 83.6251,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.712222,
+      "longitude": 83.641667,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.669444,
+      "longitude": 83.596944,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.680556,
+      "longitude": 83.605278,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.437033,
+      "longitude": 83.674383,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.101944,
+      "longitude": 85.145556,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.101944,
+      "longitude": 85.145556,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.3925,
+      "longitude": 83.773056,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.706389,
+      "longitude": 84.261667,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 27.779444,
+      "longitude": 86.723056,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.757222,
+      "longitude": 86.705278,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.817083,
+      "longitude": 86.686361,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.109798,
+      "longitude": 85.307005,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 50.96111,
+      "longitude": 28.72806,
+      "country": "Ukraine",
+      "state": "Zhytomyr Region"
+    },
+    {
+      "latitude": -34.612718,
+      "longitude": 150.300768,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -29.078688,
+      "longitude": 151.960827,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -36.184268,
+      "longitude": 149.281908,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.470157,
+      "longitude": 150.427628,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 60.43487,
+      "longitude": 22.17257,
+      "country": "Finland",
+      "state": null
+    },
+    {
+      "latitude": 43.255001,
+      "longitude": -2.156,
+      "country": "Spain",
+      "state": "Ss"
+    },
+    {
+      "latitude": 21.9,
+      "longitude": -100.533333,
+      "country": "Mexico",
+      "state": "San Luis Potosi"
+    },
+    {
+      "latitude": 21.938889,
+      "longitude": -100.5,
+      "country": "Mexico",
+      "state": "San Luis Potosi"
+    },
+    {
+      "latitude": 22.109444,
+      "longitude": -100.609444,
+      "country": "Mexico",
+      "state": "San Luis Potosi"
+    },
+    {
+      "latitude": 38.6,
+      "longitude": -90.25,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 6.91667,
+      "longitude": 80.81667,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 38.08,
+      "longitude": -1.76,
+      "country": "Spain",
+      "state": "Murcia"
+    },
+    {
+      "latitude": 38.08,
+      "longitude": -1.76,
+      "country": "Spain",
+      "state": "Murcia"
+    },
+    {
+      "latitude": 28.36667,
+      "longitude": 83.7105,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.601389,
+      "longitude": 83.596111,
+      "country": "Nepal",
+      "state": "Western"
+    },
+    {
+      "latitude": 28.353611,
+      "longitude": 83.688056,
+      "country": "Nepal",
+      "state": "Western"
+    },
+    {
+      "latitude": 23.06667,
+      "longitude": -99.23333,
+      "country": "Mexico",
+      "state": "Tamaulipas"
+    },
+    {
+      "latitude": -43.5883,
+      "longitude": 172.646,
+      "country": "New Zealand",
+      "state": "Canterbury Land District"
+    },
+    {
+      "latitude": -43.5883,
+      "longitude": 172.646,
+      "country": "New Zealand",
+      "state": "Canterbury Land District"
+    },
+    {
+      "latitude": -34.533611,
+      "longitude": 150.394722,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.540096,
+      "longitude": 150.392844,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 27.083333,
+      "longitude": 87.333333,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 28.72708,
+      "longitude": 81.64972,
+      "country": "Nepal",
+      "state": "Mid-Western"
+    },
+    {
+      "latitude": 30.99625,
+      "longitude": 78.940915,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 27.75,
+      "longitude": 85.333333,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 27.657309,
+      "longitude": 85.427062,
+      "country": "Nepal",
+      "state": "Bagmati"
+    },
+    {
+      "latitude": 27.657309,
+      "longitude": 85.427062,
+      "country": "Nepal",
+      "state": "Bagmati"
+    },
+    {
+      "latitude": 27.0,
+      "longitude": 87.25,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 29.25,
+      "longitude": 83.833333,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.034895,
+      "longitude": 82.378619,
+      "country": "Nepal",
+      "state": "Lumbini"
+    },
+    {
+      "latitude": 27.583,
+      "longitude": 86.308,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 27.608,
+      "longitude": 86.258,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 27.583,
+      "longitude": 86.308,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 27.580883,
+      "longitude": 84.361279,
+      "country": "Nepal",
+      "state": "Bagmati"
+    },
+    {
+      "latitude": 20.50833,
+      "longitude": -98.5125,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 27.715102,
+      "longitude": 85.288441,
+      "country": "Nepal",
+      "state": "Bagmati"
+    },
+    {
+      "latitude": 27.715102,
+      "longitude": 85.288441,
+      "country": "Nepal",
+      "state": "Bagmati"
+    },
+    {
+      "latitude": 27.570555,
+      "longitude": 85.40667,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.3,
+      "longitude": 83.88,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": -43.538,
+      "longitude": 171.955,
+      "country": "New Zealand",
+      "state": "Canterbury Land District"
+    },
+    {
+      "latitude": 27.56547,
+      "longitude": 85.535754,
+      "country": "Nepal",
+      "state": "Bagmati"
+    },
+    {
+      "latitude": -43.586,
+      "longitude": 172.09,
+      "country": "New Zealand",
+      "state": "Canterbury Land District"
+    },
+    {
+      "latitude": -45.8701,
+      "longitude": 170.503,
+      "country": "New Zealand",
+      "state": "Otago Land District"
+    },
+    {
+      "latitude": 27.692,
+      "longitude": 85.52,
+      "country": "Nepal",
+      "state": "Bagmati"
+    },
+    {
+      "latitude": 27.2883,
+      "longitude": 87.5153,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.7667,
+      "longitude": 87.3667,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.7347,
+      "longitude": 87.3361,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.1481,
+      "longitude": 87.4122,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 26.656311,
+      "longitude": 87.550828,
+      "country": "Nepal",
+      "state": "Koshi"
+    },
+    {
+      "latitude": 26.796856,
+      "longitude": 87.265379,
+      "country": "Nepal",
+      "state": "Koshi"
+    },
+    {
+      "latitude": 27.833333,
+      "longitude": 86.083333,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.366667,
+      "longitude": 83.733333,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.633333,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 27.77,
+      "longitude": 86.72,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": -41.786479,
+      "longitude": 172.344423,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 29.7,
+      "longitude": 81.0,
+      "country": "Nepal",
+      "state": "Far-Western"
+    },
+    {
+      "latitude": 28.52,
+      "longitude": 83.279442,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.516667,
+      "longitude": 83.283333,
+      "country": "Nepal",
+      "state": "Dhawalagiri"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 85.29,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 85.29,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 85.3,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.17,
+      "longitude": 85.98,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.17,
+      "longitude": 85.98,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 27.773333,
+      "longitude": 87.435555,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 28.5,
+      "longitude": 83.25,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 26.85,
+      "longitude": 87.566667,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.7181,
+      "longitude": 85.5203,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.0569,
+      "longitude": 85.2247,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 85.29,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 27.633333,
+      "longitude": 86.683333,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.17287,
+      "longitude": 87.86704,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 28.215,
+      "longitude": 85.08,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 31.511825,
+      "longitude": 77.795563,
+      "country": "India",
+      "state": "Himachal Pradesh"
+    },
+    {
+      "latitude": 27.8125,
+      "longitude": 85.383888,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 55.697337,
+      "longitude": 13.202704,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 27.0789,
+      "longitude": 87.2978,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 27.8,
+      "longitude": 87.5,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 28.5067,
+      "longitude": 83.3206,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.4294,
+      "longitude": 83.1831,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 27.8047,
+      "longitude": 86.7111,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 28.13139,
+      "longitude": 84.855278,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 85.1,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 27.165277,
+      "longitude": 84.974442,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 29.639166,
+      "longitude": 82.114441,
+      "country": "Nepal",
+      "state": "Mid-Western"
+    },
+    {
+      "latitude": 29.083334,
+      "longitude": 82.366665,
+      "country": "Nepal",
+      "state": "Mid-Western"
+    },
+    {
+      "latitude": 28.0708,
+      "longitude": 85.2319,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.2236,
+      "longitude": 85.585,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.253008,
+      "longitude": 83.938548,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.253008,
+      "longitude": 83.938548,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 27.7181,
+      "longitude": 85.5203,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 29.223709,
+      "longitude": 80.875208,
+      "country": "Nepal",
+      "state": "Sudur Paschim"
+    },
+    {
+      "latitude": 37.515651,
+      "longitude": 15.083698,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 29.38756,
+      "longitude": 79.466171,
+      "country": "India",
+      "state": "Uttarankhand"
+    },
+    {
+      "latitude": 30.458144,
+      "longitude": 78.079834,
+      "country": "India",
+      "state": "Uttarankhand"
+    },
+    {
+      "latitude": 51.333333,
+      "longitude": -2.666667,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": null
+    },
+    {
+      "latitude": 30.44972,
+      "longitude": 78.08306,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 31.21,
+      "longitude": 77.404,
+      "country": "India",
+      "state": "Himachal Pradesh"
+    },
+    {
+      "latitude": 31.1,
+      "longitude": 77.166667,
+      "country": "India",
+      "state": "Himachal Pradesh"
+    },
+    {
+      "latitude": 20.286944,
+      "longitude": -98.668056,
+      "country": "Mexico",
+      "state": "Hidalgo"
+    },
+    {
+      "latitude": 20.4837,
+      "longitude": -98.85757,
+      "country": "Mexico",
+      "state": "Hidalgo"
+    },
+    {
+      "latitude": 59.37,
+      "longitude": 18.0471,
+      "country": "Sweden",
+      "state": "Stockholms l\u00e4n"
+    },
+    {
+      "latitude": -33.700791,
+      "longitude": 150.318468,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 28.25306,
+      "longitude": 83.93861,
+      "country": "Nepal",
+      "state": "Gandaki Province"
+    },
+    {
+      "latitude": 28.25306,
+      "longitude": 83.93861,
+      "country": "Nepal",
+      "state": "Gandaki Province"
+    },
+    {
+      "latitude": -37.816667,
+      "longitude": 144.966667,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 31.1,
+      "longitude": 77.166667,
+      "country": "India",
+      "state": "Himachal Pradesh"
+    },
+    {
+      "latitude": 26.0,
+      "longitude": 78.0,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 29.68,
+      "longitude": 115.98,
+      "country": "China",
+      "state": "\u6c5f\u897f"
+    },
+    {
+      "latitude": 29.68,
+      "longitude": 115.98,
+      "country": "China",
+      "state": "\u6c5f\u897f"
+    },
+    {
+      "latitude": 27.95,
+      "longitude": 85.483333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 27.1,
+      "longitude": 87.4,
+      "country": "Nepal",
+      "state": "Dhankuta"
+    },
+    {
+      "latitude": 27.6,
+      "longitude": 86.283333,
+      "country": "Nepal",
+      "state": "Ramechhap"
+    },
+    {
+      "latitude": 28.983333,
+      "longitude": 81.633333,
+      "country": "Nepal",
+      "state": "Kalikot"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.333333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.583333,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.3,
+      "longitude": 83.833333,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 27.033333,
+      "longitude": 87.3,
+      "country": "Nepal",
+      "state": "Dhankuta"
+    },
+    {
+      "latitude": 28.5,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.416667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.683333,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 27.6,
+      "longitude": 86.283333,
+      "country": "Nepal",
+      "state": "Ramechhap"
+    },
+    {
+      "latitude": 27.733333,
+      "longitude": 87.333333,
+      "country": "Nepal",
+      "state": "Sankhuwasawa"
+    },
+    {
+      "latitude": 27.616667,
+      "longitude": 86.233333,
+      "country": "Nepal",
+      "state": "Dolakha"
+    },
+    {
+      "latitude": 28.583333,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 29.483333,
+      "longitude": 81.633333,
+      "country": "Nepal",
+      "state": "Bajura"
+    },
+    {
+      "latitude": 28.633333,
+      "longitude": 84.116667,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 29.333333,
+      "longitude": 83.666667,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 27.033333,
+      "longitude": 87.3,
+      "country": "Nepal",
+      "state": "Dhankuta"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.433333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.35,
+      "longitude": 83.683333,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 27.566667,
+      "longitude": 87.85,
+      "country": "Nepal",
+      "state": "Taplejung"
+    },
+    {
+      "latitude": 28.616667,
+      "longitude": 83.616667,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.716667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.533333,
+      "longitude": 84.233333,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 28.283333,
+      "longitude": 83.85,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.333333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 83.6,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.533333,
+      "longitude": 84.366667,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 28.416667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.75,
+      "longitude": 83.683333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.516667,
+      "longitude": 84.333333,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 28.35,
+      "longitude": 83.683333,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.433333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.633333,
+      "longitude": 84.466667,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.433333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 27.8,
+      "longitude": 85.383333,
+      "country": "Nepal",
+      "state": "Kathmandu"
+    },
+    {
+      "latitude": 28.7,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 27.716667,
+      "longitude": 85.333333,
+      "country": "Nepal",
+      "state": "Kathmandu"
+    },
+    {
+      "latitude": 28.1,
+      "longitude": 85.333333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.166667,
+      "longitude": 85.433333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.416667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.416667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.533333,
+      "longitude": 84.233333,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 27.733333,
+      "longitude": 87.35,
+      "country": "Nepal",
+      "state": "Sankhuwasawa"
+    },
+    {
+      "latitude": 27.316667,
+      "longitude": 87.566667,
+      "country": "Nepal",
+      "state": "Taplejung"
+    },
+    {
+      "latitude": 28.616667,
+      "longitude": 83.383333,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 29.166667,
+      "longitude": 82.833333,
+      "country": "Nepal",
+      "state": "Dolpa"
+    },
+    {
+      "latitude": 27.65,
+      "longitude": 85.5,
+      "country": "Nepal",
+      "state": "Kathmandu"
+    },
+    {
+      "latitude": 28.416667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 27.8,
+      "longitude": 85.383333,
+      "country": "Nepal",
+      "state": "Kathmandu"
+    },
+    {
+      "latitude": 27.316667,
+      "longitude": 87.566667,
+      "country": "Nepal",
+      "state": "Taplejung"
+    },
+    {
+      "latitude": 29.0,
+      "longitude": 82.5,
+      "country": "Nepal",
+      "state": "Dolpa"
+    },
+    {
+      "latitude": 27.116667,
+      "longitude": 87.433333,
+      "country": "Nepal",
+      "state": "Terhathum"
+    },
+    {
+      "latitude": 29.116667,
+      "longitude": 82.566667,
+      "country": "Nepal",
+      "state": "Dolpa"
+    },
+    {
+      "latitude": 27.55,
+      "longitude": 85.383333,
+      "country": "Nepal",
+      "state": "Lalitpur"
+    },
+    {
+      "latitude": 28.35,
+      "longitude": 83.683333,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 27.033333,
+      "longitude": 87.3,
+      "country": "Nepal",
+      "state": "Dhankuta"
+    },
+    {
+      "latitude": 28.383333,
+      "longitude": 83.75,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 28.483333,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 27.766667,
+      "longitude": 87.366667,
+      "country": "Nepal",
+      "state": "Sankhuwasawa"
+    },
+    {
+      "latitude": 28.55,
+      "longitude": 83.383333,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.283333,
+      "longitude": 83.9,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 28.35,
+      "longitude": 83.683333,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 28.683333,
+      "longitude": 81.616667,
+      "country": "Nepal",
+      "state": "Dailekh"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.333333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.616667,
+      "longitude": 83.383333,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 27.8,
+      "longitude": 85.383333,
+      "country": "Nepal",
+      "state": "Kathmandu"
+    },
+    {
+      "latitude": 28.3,
+      "longitude": 83.833333,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 27.55,
+      "longitude": 85.383333,
+      "country": "Nepal",
+      "state": "Lalitpur"
+    },
+    {
+      "latitude": 28.483333,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.583333,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.333333,
+      "longitude": 83.55,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 29.383333,
+      "longitude": 81.15,
+      "country": "Nepal",
+      "state": "Bajura"
+    },
+    {
+      "latitude": 28.5,
+      "longitude": 83.25,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 27.75,
+      "longitude": 85.333333,
+      "country": "Nepal",
+      "state": "Kathmandu"
+    },
+    {
+      "latitude": 28.166667,
+      "longitude": 85.433333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 83.6,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.583333,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 26.916667,
+      "longitude": 87.933333,
+      "country": "Nepal",
+      "state": "Iram"
+    },
+    {
+      "latitude": 27.6,
+      "longitude": 86.283333,
+      "country": "Nepal",
+      "state": "Ramechhap"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.433333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 29.516667,
+      "longitude": 81.4,
+      "country": "Nepal",
+      "state": "Bajura"
+    },
+    {
+      "latitude": 27.566667,
+      "longitude": 87.85,
+      "country": "Nepal",
+      "state": "Taplejung"
+    },
+    {
+      "latitude": 28.633333,
+      "longitude": 84.466667,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 28.616667,
+      "longitude": 83.383333,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 83.6,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.533333,
+      "longitude": 84.366667,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 28.416667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 27.783333,
+      "longitude": 87.6,
+      "country": "Nepal",
+      "state": "Sankhuwasawa"
+    },
+    {
+      "latitude": 27.9,
+      "longitude": 86.316667,
+      "country": "Nepal",
+      "state": "Dolakha"
+    },
+    {
+      "latitude": 28.633333,
+      "longitude": 83.6,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.45,
+      "longitude": 83.366667,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.433333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.533333,
+      "longitude": 84.783333,
+      "country": "Nepal",
+      "state": "Gorkha"
+    },
+    {
+      "latitude": 28.7,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.416667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 27.616667,
+      "longitude": 86.233333,
+      "country": "Nepal",
+      "state": "Dolakha"
+    },
+    {
+      "latitude": 28.15,
+      "longitude": 85.433333,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.116667,
+      "longitude": 85.3,
+      "country": "Nepal",
+      "state": "Rasuwa"
+    },
+    {
+      "latitude": 28.516667,
+      "longitude": 84.333333,
+      "country": "Nepal",
+      "state": "Manang"
+    },
+    {
+      "latitude": 28.416667,
+      "longitude": 83.65,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.583333,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.75,
+      "longitude": 83.683333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 83.6,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.616667,
+      "longitude": 83.616667,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.616667,
+      "longitude": 83.383333,
+      "country": "Nepal",
+      "state": "Myagdi"
+    },
+    {
+      "latitude": 28.283333,
+      "longitude": 83.85,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 28.583333,
+      "longitude": 83.633333,
+      "country": "Nepal",
+      "state": "Mustang"
+    },
+    {
+      "latitude": 28.3,
+      "longitude": 83.833333,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 28.283333,
+      "longitude": 83.9,
+      "country": "Nepal",
+      "state": "Kaski"
+    },
+    {
+      "latitude": 27.033333,
+      "longitude": 87.3,
+      "country": "Nepal",
+      "state": "Dhankuta"
+    },
+    {
+      "latitude": 27.166667,
+      "longitude": 87.416667,
+      "country": "Nepal",
+      "state": "Dhankuta"
+    },
+    {
+      "latitude": 27.8,
+      "longitude": 85.383333,
+      "country": "Nepal",
+      "state": "Kathmandu"
+    },
+    {
+      "latitude": 38.888096,
+      "longitude": -77.013661,
+      "country": "United States of America",
+      "state": "District of Columbia"
+    }
+  ],
+  "scientific_name": "Berberis aristata",
+  "common_name": null,
+  "description": null
+}

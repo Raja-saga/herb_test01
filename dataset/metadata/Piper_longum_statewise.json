@@ -1,0 +1,51 @@
+{
+  "herb": "Piper longum",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Kerala": {
+      "count": 6,
+      "normalizedScore": 0.86,
+      "presence": "High"
+    },
+    "UttarPradesh": {
+      "count": 2,
+      "normalizedScore": 0.29,
+      "presence": "Low"
+    },
+    "WestBengal": {
+      "count": 7,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Gujarat": {
+      "count": 1,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    },
+    "Puducherry": {
+      "count": 1,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    },
+    "AndamanandNicobarIslands": {
+      "count": 2,
+      "normalizedScore": 0.29,
+      "presence": "Low"
+    },
+    "Sikkim": {
+      "count": 1,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 4,
+      "normalizedScore": 0.57,
+      "presence": "Medium"
+    },
+    "Meghalaya": {
+      "count": 1,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    }
+  }
+}

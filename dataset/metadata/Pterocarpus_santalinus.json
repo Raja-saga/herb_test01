@@ -1,0 +1,506 @@
+{
+  "herb": "Pterocarpus santalinus",
+  "locations": [
+    {
+      "latitude": 8.66,
+      "longitude": 77.46,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.28,
+      "longitude": 85.78,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 16.786154,
+      "longitude": 81.063505,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 12.341352,
+      "longitude": 79.087694,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 8.484234,
+      "longitude": 77.457566,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 13.068804,
+      "longitude": 77.443292,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 17.297099,
+      "longitude": 78.228723,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 12.352381,
+      "longitude": 79.022446,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 20.3,
+      "longitude": 85.8,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.328582,
+      "longitude": 79.121624,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.331276,
+      "longitude": 79.025563,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.018539,
+      "longitude": 76.668103,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 13.687274,
+      "longitude": 78.567894,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 13.640078,
+      "longitude": 78.527692,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 17.443922,
+      "longitude": 78.527952,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.527116,
+      "longitude": 78.46249,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 9.432575,
+      "longitude": 77.463102,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.21076,
+      "longitude": 79.092767,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 13.810542,
+      "longitude": 79.060028,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 12.181391,
+      "longitude": 79.927393,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 28.47,
+      "longitude": 77.16,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.220488,
+      "longitude": 76.427866,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 13.137153,
+      "longitude": 80.225293,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 26.97,
+      "longitude": 80.89,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 17.089843,
+      "longitude": 79.26588,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 22.0294,
+      "longitude": 87.8041,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 22.7875,
+      "longitude": 87.9027,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 13.760686,
+      "longitude": 78.506692,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 10.288093,
+      "longitude": 76.536733,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 22.78,
+      "longitude": 83.57,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.057346,
+      "longitude": 75.396496,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 11.275711,
+      "longitude": 76.989465,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 10.510219,
+      "longitude": 76.268749,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 13.09,
+      "longitude": 79.66,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.9634,
+      "longitude": 79.7637,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.91,
+      "longitude": 76.41,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.514202,
+      "longitude": 76.956283,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 13.732882,
+      "longitude": 79.5092,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 12.658157,
+      "longitude": 78.2086,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 12.168917,
+      "longitude": 76.660972,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 10.176579,
+      "longitude": 76.422435,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 13.69,
+      "longitude": 79.29,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.5846,
+      "longitude": 88.4162,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 11.928525,
+      "longitude": 79.823021,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.907492,
+      "longitude": 76.415914,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.907492,
+      "longitude": 76.415914,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.298868,
+      "longitude": 79.146989,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.78,
+      "longitude": 80.03,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.78,
+      "longitude": 80.03,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.78,
+      "longitude": 80.03,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.78,
+      "longitude": 80.03,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.78,
+      "longitude": 80.03,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.962124,
+      "longitude": 79.769279,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.681888,
+      "longitude": 77.600594,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.681888,
+      "longitude": 77.600594,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.299611,
+      "longitude": 77.745702,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 23.236,
+      "longitude": 72.6768,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 11.9523,
+      "longitude": 79.7659,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.9523,
+      "longitude": 79.7659,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.519697,
+      "longitude": 76.782395,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 14.1997,
+      "longitude": 79.4236,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.78,
+      "longitude": 77.32,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.008539,
+      "longitude": 79.81943,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.008539,
+      "longitude": 79.81943,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.008539,
+      "longitude": 79.81943,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.594606,
+      "longitude": 78.823322,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 47.60639,
+      "longitude": -122.33083,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 47.60639,
+      "longitude": -122.33083,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 7.25,
+      "longitude": 80.6,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 25.021754,
+      "longitude": 121.528045,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 12.13333,
+      "longitude": 78.16667,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 26.2914,
+      "longitude": 127.7803,
+      "country": "Japan",
+      "state": "Okinawa Pref."
+    },
+    {
+      "latitude": 44.7316,
+      "longitude": -93.178,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 25.609,
+      "longitude": -80.4987,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 44.7316,
+      "longitude": -93.178,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 25.7743,
+      "longitude": -80.1937,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.7743,
+      "longitude": -80.1937,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 15.56667,
+      "longitude": 101.85,
+      "country": "Thailand",
+      "state": "Eastern"
+    },
+    {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "country": null,
+      "state": null
+    },
+    {
+      "latitude": 14.4689,
+      "longitude": 78.8241,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 23.5863,
+      "longitude": 81.173004,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.5863,
+      "longitude": 81.173004,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.5863,
+      "longitude": 81.173004,
+      "country": "India",
+      "state": null
+    }
+  ],
+  "scientific_name": "Pterocarpus santalinus",
+  "common_name": "red sanders",
+  "description": null
+}

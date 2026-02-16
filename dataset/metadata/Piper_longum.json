@@ -1,0 +1,1130 @@
+{
+  "herb": "Piper longum",
+  "locations": [
+    {
+      "latitude": 8.880989,
+      "longitude": 76.601046,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 24.037405,
+      "longitude": 89.104368,
+      "country": "Bangladesh",
+      "state": "Rajshahi"
+    },
+    {
+      "latitude": 28.493546,
+      "longitude": 80.749555,
+      "country": "India",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "latitude": 11.131512,
+      "longitude": 76.384723,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 8.442489,
+      "longitude": 80.525789,
+      "country": "Sri Lanka",
+      "state": "Anuradhapura"
+    },
+    {
+      "latitude": 11.925884,
+      "longitude": 75.79673,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 26.188923,
+      "longitude": 78.163184,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -1.325833,
+      "longitude": -48.454722,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": 10.129813,
+      "longitude": 76.687063,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 15.569133,
+      "longitude": 102.42212,
+      "country": "Thailand",
+      "state": "Nakhon Ratchasima"
+    },
+    {
+      "latitude": 12.756662,
+      "longitude": 77.623833,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.112288,
+      "longitude": 89.086338,
+      "country": "Bangladesh",
+      "state": "Rajshahi"
+    },
+    {
+      "latitude": 8.396667,
+      "longitude": 77.093056,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.272417,
+      "longitude": 76.392847,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 39.485833,
+      "longitude": -84.524167,
+      "country": "United States of America",
+      "state": "Ohio"
+    },
+    {
+      "latitude": 12.938896,
+      "longitude": 77.494753,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 19.051594,
+      "longitude": 72.857882,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 26.12,
+      "longitude": 91.35,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.752094,
+      "longitude": 73.498521,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.751827,
+      "longitude": 73.498421,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.752094,
+      "longitude": 73.498521,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.5846,
+      "longitude": 88.4162,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 9.001848,
+      "longitude": 76.878582,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 20.67869,
+      "longitude": 97.17439,
+      "country": "Myanmar",
+      "state": "Shan State"
+    },
+    {
+      "latitude": 20.678694,
+      "longitude": 97.174389,
+      "country": "Myanmar",
+      "state": "Shan"
+    },
+    {
+      "latitude": 23.22094,
+      "longitude": 72.67861,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 7.271248,
+      "longitude": 80.595879,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 16.6917,
+      "longitude": 106.8719,
+      "country": "Viet Nam",
+      "state": "Quang Tri"
+    },
+    {
+      "latitude": 16.691667,
+      "longitude": 106.872,
+      "country": "Viet Nam",
+      "state": "Quang Tri"
+    },
+    {
+      "latitude": 16.691667,
+      "longitude": 106.872,
+      "country": "Viet Nam",
+      "state": "Quang Tri"
+    },
+    {
+      "latitude": 16.691667,
+      "longitude": 106.872,
+      "country": "Viet Nam",
+      "state": "Quang Tri"
+    },
+    {
+      "latitude": 11.07,
+      "longitude": 77.55,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 27.561389,
+      "longitude": 84.464167,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 21.475834,
+      "longitude": 101.56752,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 21.475834,
+      "longitude": 101.56752,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 21.919623,
+      "longitude": 101.27736,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 21.934011,
+      "longitude": 101.260734,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 26.90488,
+      "longitude": 86.660284,
+      "country": "Nepal",
+      "state": "Koshi"
+    },
+    {
+      "latitude": 38.68306,
+      "longitude": -90.52333,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 26.90488,
+      "longitude": 86.660284,
+      "country": "Nepal",
+      "state": "Koshi"
+    },
+    {
+      "latitude": 26.90488,
+      "longitude": 86.660284,
+      "country": "Nepal",
+      "state": "Koshi"
+    },
+    {
+      "latitude": 37.87167,
+      "longitude": -122.27167,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 7.25,
+      "longitude": 80.6,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 22.856111,
+      "longitude": 108.353611,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 28.4,
+      "longitude": 81.5,
+      "country": "Nepal",
+      "state": "Lumbini Province"
+    },
+    {
+      "latitude": 22.310424,
+      "longitude": 73.186512,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 18.9,
+      "longitude": 98.95,
+      "country": "Thailand",
+      "state": "Northern"
+    },
+    {
+      "latitude": 25.8544,
+      "longitude": 98.8486,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.854601,
+      "longitude": 98.848701,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 22.02,
+      "longitude": 100.8,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 19.159809,
+      "longitude": 77.238001,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.475834,
+      "longitude": 101.56752,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 21.475834,
+      "longitude": 101.56752,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 21.48,
+      "longitude": 101.57,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 20.773849,
+      "longitude": 73.496539,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.773849,
+      "longitude": 73.496539,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.35,
+      "longitude": 106.85,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.88,
+      "longitude": 102.12,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 22.35,
+      "longitude": 106.85,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.88,
+      "longitude": 102.12,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 21.191948,
+      "longitude": 72.859989,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.02,
+      "longitude": 100.8,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 22.02,
+      "longitude": 100.8,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.82,
+      "longitude": 98.3,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 22.02,
+      "longitude": 100.8,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 22.02,
+      "longitude": 100.8,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.88,
+      "longitude": 102.12,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 23.95,
+      "longitude": 117.33,
+      "country": "China",
+      "state": "\u798f\u5efa"
+    },
+    {
+      "latitude": -17.713371,
+      "longitude": 178.065032,
+      "country": "Fiji",
+      "state": null
+    },
+    {
+      "latitude": 22.25,
+      "longitude": 99.46,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 22.25,
+      "longitude": 99.46,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 22.25,
+      "longitude": 99.46,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 22.25,
+      "longitude": 99.46,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 22.25,
+      "longitude": 99.46,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.02,
+      "longitude": 97.85,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.02,
+      "longitude": 97.85,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.02,
+      "longitude": 97.85,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.02,
+      "longitude": 97.85,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 21.48,
+      "longitude": 101.57,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.02,
+      "longitude": 97.85,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.02,
+      "longitude": 97.85,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.02,
+      "longitude": 97.85,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 11.935502,
+      "longitude": 79.834445,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 19.88375,
+      "longitude": 102.13454,
+      "country": "Lao People\u2019s Democratic Republic",
+      "state": "Louangphabang"
+    },
+    {
+      "latitude": 23.12,
+      "longitude": 104.7,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 23.12,
+      "longitude": 104.7,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.45394,
+      "longitude": 81.85716,
+      "country": "India",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "latitude": 23.032898,
+      "longitude": 72.551653,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 15.39719,
+      "longitude": 74.338219,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 15.43643,
+      "longitude": 74.310355,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 15.39719,
+      "longitude": 74.338219,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.0,
+      "longitude": 98.5,
+      "country": "Myanmar",
+      "state": "Tanintharyi"
+    },
+    {
+      "latitude": 14.0,
+      "longitude": 98.5,
+      "country": "Myanmar",
+      "state": "Tanintharyi"
+    },
+    {
+      "latitude": 23.45,
+      "longitude": 104.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 22.307159,
+      "longitude": 73.181219,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.307159,
+      "longitude": 73.181219,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.310424,
+      "longitude": 73.186512,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.400727,
+      "longitude": 76.735817,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.082121,
+      "longitude": 109.876746,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 22.307159,
+      "longitude": 73.181219,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.307159,
+      "longitude": 73.181219,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.490446,
+      "longitude": 111.295924,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 23.490446,
+      "longitude": 111.295924,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 23.9022,
+      "longitude": 106.618742,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 23.9022,
+      "longitude": 106.618742,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 22.52,
+      "longitude": 103.97,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.72,
+      "longitude": 97.93,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 20.770231,
+      "longitude": 72.982378,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.391288,
+      "longitude": 106.817838,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 10.670393,
+      "longitude": -61.521685,
+      "country": "Trinidad and Tobago",
+      "state": null
+    },
+    {
+      "latitude": 15.99446,
+      "longitude": 108.01323,
+      "country": "Viet Nam",
+      "state": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+      "latitude": 10.8231,
+      "longitude": 106.62966,
+      "country": "Viet Nam",
+      "state": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+      "latitude": 17.25,
+      "longitude": 99.03333,
+      "country": "Thailand",
+      "state": "Northern"
+    },
+    {
+      "latitude": 7.27123,
+      "longitude": 80.59522,
+      "country": "Sri Lanka",
+      "state": "Kandy"
+    },
+    {
+      "latitude": 7.258283,
+      "longitude": 80.593971,
+      "country": "Sri Lanka",
+      "state": "Central"
+    },
+    {
+      "latitude": 22.86477,
+      "longitude": 88.36326,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 22.862249,
+      "longitude": 88.367962,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 6.8,
+      "longitude": -58.15,
+      "country": "Guyana",
+      "state": null
+    },
+    {
+      "latitude": 6.8,
+      "longitude": -58.15,
+      "country": "Guyana",
+      "state": null
+    },
+    {
+      "latitude": 21.06667,
+      "longitude": 105.33334,
+      "country": "Viet Nam",
+      "state": "H\u00e0 T\u00e2y"
+    },
+    {
+      "latitude": 10.28988,
+      "longitude": 103.98402,
+      "country": "Viet Nam",
+      "state": "Ki\u00ean Giang"
+    },
+    {
+      "latitude": 10.22425,
+      "longitude": 103.98402,
+      "country": "Viet Nam",
+      "state": "Ki\u00ean Giang"
+    },
+    {
+      "latitude": 10.8231,
+      "longitude": 106.62966,
+      "country": "Viet Nam",
+      "state": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+      "latitude": 22.57265,
+      "longitude": 88.36389,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 21.15444,
+      "longitude": 96.50694,
+      "country": "Myanmar",
+      "state": "Shan State"
+    },
+    {
+      "latitude": 21.6832,
+      "longitude": 106.1656,
+      "country": "Viet Nam",
+      "state": "L\u1ea1ng S\u01a1n"
+    },
+    {
+      "latitude": 22.57265,
+      "longitude": 88.36389,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": -9.8628,
+      "longitude": 124.33104,
+      "country": "Indonesia",
+      "state": null
+    },
+    {
+      "latitude": 10.8231,
+      "longitude": 106.62966,
+      "country": "Viet Nam",
+      "state": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+      "latitude": 22.57265,
+      "longitude": 88.36389,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 10.8231,
+      "longitude": 106.62966,
+      "country": "Viet Nam",
+      "state": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+      "latitude": 10.8231,
+      "longitude": 106.62966,
+      "country": "Viet Nam",
+      "state": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+      "latitude": 22.57265,
+      "longitude": 88.36389,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 11.91383,
+      "longitude": 79.81448,
+      "country": "India",
+      "state": "Puducherry"
+    },
+    {
+      "latitude": 22.57265,
+      "longitude": 88.36389,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 12.35889,
+      "longitude": 92.85306,
+      "country": "India",
+      "state": "Andaman and Nicobar Islands"
+    },
+    {
+      "latitude": 21.15444,
+      "longitude": 96.50694,
+      "country": "Myanmar",
+      "state": "Shan State"
+    },
+    {
+      "latitude": 11.74194,
+      "longitude": 122.87861,
+      "country": "Philippines",
+      "state": "Capiz"
+    },
+    {
+      "latitude": 27.55361,
+      "longitude": 88.46361,
+      "country": "India",
+      "state": "Sikkim"
+    },
+    {
+      "latitude": 7.60806,
+      "longitude": 80.70472,
+      "country": "Sri Lanka",
+      "state": "Central Province"
+    },
+    {
+      "latitude": 4.75417,
+      "longitude": 101.05778,
+      "country": "Malaysia",
+      "state": "Perak"
+    },
+    {
+      "latitude": 22.88361,
+      "longitude": 79.61611,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 22.88361,
+      "longitude": 79.61611,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 25.48417,
+      "longitude": 91.30944,
+      "country": "India",
+      "state": "Meghalaya"
+    },
+    {
+      "latitude": 22.88361,
+      "longitude": 79.61611,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 12.35889,
+      "longitude": 92.85306,
+      "country": "India",
+      "state": "Andaman and Nicobar Islands"
+    },
+    {
+      "latitude": 22.88361,
+      "longitude": 79.61611,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 21.32472,
+      "longitude": 105.81111,
+      "country": "Viet Nam",
+      "state": null
+    },
+    {
+      "latitude": 27.561389,
+      "longitude": 84.464167,
+      "country": "Nepal",
+      "state": "Central Development Region"
+    },
+    {
+      "latitude": 15.0,
+      "longitude": 100.0,
+      "country": "Thailand",
+      "state": null
+    },
+    {
+      "latitude": 13.662228,
+      "longitude": 101.086754,
+      "country": "Thailand",
+      "state": null
+    },
+    {
+      "latitude": 13.662228,
+      "longitude": 101.086754,
+      "country": "Thailand",
+      "state": null
+    },
+    {
+      "latitude": 13.662228,
+      "longitude": 101.086754,
+      "country": "Thailand",
+      "state": null
+    },
+    {
+      "latitude": 13.662228,
+      "longitude": 101.086754,
+      "country": "Thailand",
+      "state": null
+    },
+    {
+      "latitude": 21.934011,
+      "longitude": 101.260734,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 21.68,
+      "longitude": 101.31,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 26.0,
+      "longitude": 78.0,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -6.17444,
+      "longitude": 106.82944,
+      "country": "Indonesia",
+      "state": "Java"
+    },
+    {
+      "latitude": 1.0,
+      "longitude": 114.0,
+      "country": "Indonesia",
+      "state": "Borneo"
+    },
+    {
+      "latitude": 20.59,
+      "longitude": 78.96,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.06,
+      "longitude": 108.28,
+      "country": "Viet Nam",
+      "state": null
+    },
+    {
+      "latitude": 4.21,
+      "longitude": 101.98,
+      "country": "Malaysia",
+      "state": null
+    },
+    {
+      "latitude": 28.39,
+      "longitude": 84.12,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 7.87,
+      "longitude": 80.77,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 35.86,
+      "longitude": 104.2,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 11.0,
+      "longitude": 76.0,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.312082,
+      "longitude": 73.183637,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.200372,
+      "longitude": 74.79222,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.310424,
+      "longitude": 73.186512,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 18.758314,
+      "longitude": 73.375703,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.9999,
+      "longitude": 75.9991,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 24.72,
+      "longitude": 97.93,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    }
+  ],
+  "scientific_name": "Piper longum",
+  "common_name": "Long pepper",
+  "description": null
+}

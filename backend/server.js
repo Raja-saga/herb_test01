@@ -4,11 +4,12 @@ const path = require("path");
 const { spawn } = require("child_process");
 const fs = require("fs");
 const cors = require("cors");
+const { performExplainableGeoValidation } = require("./services/geoValidationService");
 
 const app = express();
 const PORT = 3001;
 
-// 🔥 CORRECT METADATA PATH
+// METADATA PATH
 const METADATA_PATH = path.join(__dirname, "../dataset/metadata");
 
 app.use(cors());
@@ -22,7 +23,7 @@ const storage = multer.diskStorage({
 });
 const upload = multer({ storage });
 
-// ---------- PYTHON ----------
+// ---------- PYTHON ML PREDICTION ----------
 function runPythonPrediction(imagePath) {
   return new Promise((resolve) => {
     const script = path.join(__dirname, "../ml_service/predict.py");
@@ -43,19 +44,94 @@ function runPythonPrediction(imagePath) {
   });
 }
 
-// ---------- PREDICT ----------
+// ---------- LOAD HERB METADATA ----------
+function loadHerbMetadata(herbName) {
+  const filePath = path.join(METADATA_PATH, `${herbName}.json`);
+  if (!fs.existsSync(filePath)) {
+    return null;
+  }
+  return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+}
+
+// ---------- MAIN PREDICTION ENDPOINT WITH EXPLAINABLE VALIDATION ----------
 app.post("/api/predict", upload.single("image"), async (req, res) => {
   const imagePath = req.file.path;
-  const result = await runPythonPrediction(imagePath);
-  fs.unlinkSync(imagePath);
+  const { latitude, longitude } = req.body;
 
-  if (!result.herb) {
-    return res.status(500).json({ error: "Prediction failed" });
+  console.log(`🔍 Prediction request: lat=${latitude}, lon=${longitude}`);
+
+  // STEP 1: Validate location input (MANDATORY)
+  if (!latitude || !longitude) {
+    fs.unlinkSync(imagePath);
+    return res.status(400).json({ 
+      error: "Location is mandatory",
+      message: "Please provide your location (latitude, longitude) before prediction" 
+    });
   }
 
+  const userLat = parseFloat(latitude);
+  const userLon = parseFloat(longitude);
+
+  if (isNaN(userLat) || isNaN(userLon)) {
+    fs.unlinkSync(imagePath);
+    return res.status(400).json({ 
+      error: "Invalid coordinates",
+      message: "Latitude and longitude must be valid numbers" 
+    });
+  }
+
+  // STEP 2: Get ViT ML prediction
+  console.log(` Running ViT prediction on image...`);
+  const mlResult = await runPythonPrediction(imagePath);
+  fs.unlinkSync(imagePath);
+
+  if (!mlResult.herb || !mlResult.confidence) {
+    return res.status(500).json({ 
+      error: "ML prediction failed",
+      message: "Vision Transformer model could not process the image" 
+    });
+  }
+
+  console.log(`ViT prediction: ${mlResult.herb} (${mlResult.confidence}%)`);
+
+  // STEP 3: Load herb geographical metadata
+  const herbMetadata = loadHerbMetadata(mlResult.herb);
+  if (!herbMetadata || !herbMetadata.locations || herbMetadata.locations.length === 0) {
+    console.log(`⚠️ No geographical data for ${mlResult.herb}`);
+    return res.json({
+      herb: mlResult.herb,
+      visualConfidence: mlResult.confidence,
+      finalConfidence: mlResult.confidence,
+      message: "No geographical data available for validation",
+      validationResults: null
+    });
+  }
+
+  // STEP 4: Perform explainable geo-validation pipeline
+  console.log(` Running explainable geo-validation...`);
+  const validationResults = performExplainableGeoValidation(
+    userLat, 
+    userLon, 
+    herbMetadata, 
+    mlResult.confidence
+  );
+
+  console.log(`📊 Validation complete: Final confidence ${validationResults.finalConfidence.score}%`);
+
+  // STEP 5: Return all explainable results
   res.json({
-    herb: result.herb,
-    confidence: result.confidence,
+    success: true,
+    herb: mlResult.herb,
+    
+    // All step-by-step validation results for explainable UI
+    validationResults: validationResults,
+    
+    // Legacy fields for backward compatibility
+    visualConfidence: mlResult.confidence,
+    finalConfidence: validationResults.finalConfidence.score,
+    locationPlausibilityScore: validationResults.locationPlausibility.score,
+    geographicalValidationScore: validationResults.geographicalValidation.score,
+    nearestDistanceKm: validationResults.locationPlausibility.nearestDistance
   });
 });
 

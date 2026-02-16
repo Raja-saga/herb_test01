@@ -1,0 +1,3008 @@
+{
+  "herb": "Rosmarinus officinalis",
+  "locations": [
+    {
+      "latitude": 49.452267,
+      "longitude": 8.499362,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 43.115236,
+      "longitude": 3.060822,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 43.50209,
+      "longitude": 5.600824,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 39.007573,
+      "longitude": -1.845949,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 43.505908,
+      "longitude": 5.55422,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 42.555018,
+      "longitude": 2.747468,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 37.00678,
+      "longitude": -8.936783,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 43.116562,
+      "longitude": 5.78379,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 50.859353,
+      "longitude": 0.260037,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 36.730835,
+      "longitude": -2.136268,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.478813,
+      "longitude": -4.688183,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.022044,
+      "longitude": -8.829369,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 40.036104,
+      "longitude": 9.70061,
+      "country": "Italy",
+      "state": "Sardegna"
+    },
+    {
+      "latitude": 38.212383,
+      "longitude": -3.955817,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.796421,
+      "longitude": 7.688226,
+      "country": "Italy",
+      "state": "Liguria"
+    },
+    {
+      "latitude": 37.142106,
+      "longitude": -7.608751,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 38.394547,
+      "longitude": -1.642288,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 37.726036,
+      "longitude": -3.047311,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.206462,
+      "longitude": -3.952297,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.145656,
+      "longitude": 2.998903,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 37.398205,
+      "longitude": -5.93327,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 41.113881,
+      "longitude": 1.268175,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.22264,
+      "longitude": 5.513278,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 39.743841,
+      "longitude": -9.062277,
+      "country": "Portugal",
+      "state": "Leiria"
+    },
+    {
+      "latitude": 37.99721,
+      "longitude": -1.132328,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 39.424653,
+      "longitude": 8.429508,
+      "country": "Italy",
+      "state": "Sardegna"
+    },
+    {
+      "latitude": 40.036144,
+      "longitude": 9.705934,
+      "country": "Italy",
+      "state": "Sardegna"
+    },
+    {
+      "latitude": 38.28857,
+      "longitude": -0.810391,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 43.112534,
+      "longitude": 5.791155,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 38.02537,
+      "longitude": -8.827524,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 43.118839,
+      "longitude": 3.079164,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 52.27359,
+      "longitude": 7.457511,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 37.035646,
+      "longitude": -7.81995,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 38.727933,
+      "longitude": 0.175513,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 37.558674,
+      "longitude": -2.125759,
+      "country": "Spain",
+      "state": "Almer\u00eda"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 37.769356,
+      "longitude": -8.798486,
+      "country": "Portugal",
+      "state": "Beja"
+    },
+    {
+      "latitude": 37.044221,
+      "longitude": -7.974675,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 38.424954,
+      "longitude": -1.239169,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 36.58813,
+      "longitude": -4.879895,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.255297,
+      "longitude": -3.492773,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 36.835594,
+      "longitude": -2.702342,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 39.151583,
+      "longitude": -1.816748,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 36.591812,
+      "longitude": -4.857597,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 39.912145,
+      "longitude": -0.237862,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.936682,
+      "longitude": -0.240085,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.424808,
+      "longitude": -1.238105,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 39.86158,
+      "longitude": -0.240198,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.864368,
+      "longitude": -0.244498,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.294052,
+      "longitude": -8.527179,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 39.874925,
+      "longitude": -0.227415,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.561253,
+      "longitude": -0.061233,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.029259,
+      "longitude": -8.986801,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 39.906761,
+      "longitude": -0.228958,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 36.587495,
+      "longitude": -4.866249,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 40.498212,
+      "longitude": -3.748005,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 41.460232,
+      "longitude": 2.09688,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.933953,
+      "longitude": -0.23827,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.865578,
+      "longitude": -0.2435,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.272767,
+      "longitude": 1.959422,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.873498,
+      "longitude": -0.227582,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.960232,
+      "longitude": -0.119373,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.29693,
+      "longitude": -4.258796,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 42.477158,
+      "longitude": 3.150667,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 43.343114,
+      "longitude": 2.904165,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 41.830003,
+      "longitude": -1.757906,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 32.566233,
+      "longitude": -116.663006,
+      "country": "Mexico",
+      "state": "Baja California"
+    },
+    {
+      "latitude": 43.920424,
+      "longitude": 4.724602,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 40.016798,
+      "longitude": -0.053698,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.88483,
+      "longitude": -0.22166,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.908707,
+      "longitude": -0.224252,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.912525,
+      "longitude": -0.228757,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.89517,
+      "longitude": 45.565128,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 40.675927,
+      "longitude": -3.818253,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 39.865038,
+      "longitude": -0.246143,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 36.845951,
+      "longitude": -3.98181,
+      "country": "Spain",
+      "state": "M\u00e1laga"
+    },
+    {
+      "latitude": 37.694817,
+      "longitude": -8.08929,
+      "country": "Portugal",
+      "state": "Beja"
+    },
+    {
+      "latitude": 42.59999,
+      "longitude": -1.365384,
+      "country": "Spain",
+      "state": "Navarra"
+    },
+    {
+      "latitude": 39.96244,
+      "longitude": -0.118538,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 40.004533,
+      "longitude": -0.076227,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 42.161541,
+      "longitude": 1.095458,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 49.962955,
+      "longitude": 8.040805,
+      "country": "Germany",
+      "state": "Rheinland-Pfalz"
+    },
+    {
+      "latitude": 37.52838,
+      "longitude": -6.284362,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 45.705051,
+      "longitude": 9.648692,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 38.348929,
+      "longitude": -0.477572,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.178745,
+      "longitude": -1.923103,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 40.025025,
+      "longitude": -0.036265,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.902667,
+      "longitude": -0.686462,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.765898,
+      "longitude": 2.1134,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.006023,
+      "longitude": -0.075522,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.564574,
+      "longitude": 2.067609,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.202844,
+      "longitude": -5.086262,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 39.549193,
+      "longitude": -8.868345,
+      "country": "Portugal",
+      "state": "Leiria"
+    },
+    {
+      "latitude": 39.958319,
+      "longitude": -0.106577,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.92567,
+      "longitude": -0.225905,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.754131,
+      "longitude": -0.197105,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.04382,
+      "longitude": -7.976074,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 41.877057,
+      "longitude": 1.963595,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.427985,
+      "longitude": 2.104501,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.514865,
+      "longitude": -4.027677,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 41.915975,
+      "longitude": 0.865875,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.906972,
+      "longitude": -0.17754,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.303192,
+      "longitude": 1.957742,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.925933,
+      "longitude": -0.21918,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.54517,
+      "longitude": 1.891337,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 37.160196,
+      "longitude": -8.196598,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 36.132478,
+      "longitude": -5.34587,
+      "country": "Gibraltar",
+      "state": null
+    },
+    {
+      "latitude": 43.703746,
+      "longitude": 4.9858,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 40.01188,
+      "longitude": -0.066798,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 36.977018,
+      "longitude": -7.86478,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 40.67092,
+      "longitude": -8.725017,
+      "country": "Portugal",
+      "state": "Aveiro"
+    },
+    {
+      "latitude": 38.210263,
+      "longitude": -3.95405,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.055706,
+      "longitude": 5.831031,
+      "country": "France",
+      "state": "Var (83)"
+    },
+    {
+      "latitude": 38.036682,
+      "longitude": -8.426949,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 41.941993,
+      "longitude": -4.516024,
+      "country": "Spain",
+      "state": "Palencia"
+    },
+    {
+      "latitude": 42.031686,
+      "longitude": -3.647274,
+      "country": "Spain",
+      "state": "Burgos"
+    },
+    {
+      "latitude": 36.851315,
+      "longitude": -6.315165,
+      "country": "Spain",
+      "state": "C\u00e1diz"
+    },
+    {
+      "latitude": 41.235672,
+      "longitude": 1.4529,
+      "country": "Spain",
+      "state": "Tarragona"
+    },
+    {
+      "latitude": 38.207157,
+      "longitude": -3.953183,
+      "country": "Spain",
+      "state": "Ja\u00e9n"
+    },
+    {
+      "latitude": 36.841956,
+      "longitude": -2.469416,
+      "country": "Spain",
+      "state": "Almer\u00eda"
+    },
+    {
+      "latitude": 36.852286,
+      "longitude": -6.308964,
+      "country": "Spain",
+      "state": "C\u00e1diz"
+    },
+    {
+      "latitude": 42.389581,
+      "longitude": 3.161501,
+      "country": "Spain",
+      "state": "Girona"
+    },
+    {
+      "latitude": 37.59593,
+      "longitude": -1.034734,
+      "country": "Spain",
+      "state": "Murcia"
+    },
+    {
+      "latitude": 37.552208,
+      "longitude": -1.362118,
+      "country": "Spain",
+      "state": "Murcia"
+    },
+    {
+      "latitude": 39.91416,
+      "longitude": 3.075717,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 43.09182,
+      "longitude": -1.605603,
+      "country": "Spain",
+      "state": "Navarra"
+    },
+    {
+      "latitude": 38.634815,
+      "longitude": -0.406806,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 38.85242,
+      "longitude": -0.376945,
+      "country": "Spain",
+      "state": "Valencia"
+    },
+    {
+      "latitude": 39.898477,
+      "longitude": -0.556402,
+      "country": "Spain",
+      "state": "Castell\u00f3n"
+    },
+    {
+      "latitude": 38.527912,
+      "longitude": -0.395298,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 36.633685,
+      "longitude": -4.595255,
+      "country": "Spain",
+      "state": "M\u00e1laga"
+    },
+    {
+      "latitude": 41.011267,
+      "longitude": 0.683978,
+      "country": "Spain",
+      "state": "Tarragona"
+    },
+    {
+      "latitude": 38.478059,
+      "longitude": -0.421238,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 39.256602,
+      "longitude": -0.616259,
+      "country": "Spain",
+      "state": "Valencia"
+    },
+    {
+      "latitude": 37.335906,
+      "longitude": -3.775561,
+      "country": "Spain",
+      "state": "Granada"
+    },
+    {
+      "latitude": 37.206331,
+      "longitude": -8.007931,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 38.662317,
+      "longitude": 0.088075,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 36.784478,
+      "longitude": -3.886939,
+      "country": "Spain",
+      "state": "M\u00e1laga"
+    },
+    {
+      "latitude": 39.081995,
+      "longitude": -0.27562,
+      "country": "Spain",
+      "state": "Valencia"
+    },
+    {
+      "latitude": 38.711696,
+      "longitude": -9.130197,
+      "country": "Portugal",
+      "state": "Lisboa"
+    },
+    {
+      "latitude": 38.863481,
+      "longitude": -9.067382,
+      "country": "Portugal",
+      "state": "Lisboa"
+    },
+    {
+      "latitude": 38.810112,
+      "longitude": -0.467805,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.11935,
+      "longitude": -6.786247,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.463728,
+      "longitude": 5.456465,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 41.458844,
+      "longitude": 1.95725,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.772282,
+      "longitude": -0.222643,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 27.470031,
+      "longitude": -97.863187,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 40.256543,
+      "longitude": -3.654805,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 41.895008,
+      "longitude": 1.88427,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.371867,
+      "longitude": -8.51732,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 39.956657,
+      "longitude": -0.08734,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 40.946126,
+      "longitude": -3.465392,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 37.999492,
+      "longitude": -1.133065,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 37.653038,
+      "longitude": -5.53519,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 41.655656,
+      "longitude": 1.845313,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.813964,
+      "longitude": 5.482487,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 37.038562,
+      "longitude": -7.973658,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 41.962066,
+      "longitude": 1.866121,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.654566,
+      "longitude": 1.844712,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.565388,
+      "longitude": 2.053352,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.452112,
+      "longitude": 5.32574,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 41.673505,
+      "longitude": 2.002294,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.687827,
+      "longitude": 5.369542,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 43.63204,
+      "longitude": 3.869066,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 41.565646,
+      "longitude": 2.052616,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -38.106992,
+      "longitude": 145.137942,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 40.0518,
+      "longitude": -0.041452,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 40.046748,
+      "longitude": -0.024452,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.238905,
+      "longitude": 13.478412,
+      "country": "Italy",
+      "state": "Lazio"
+    },
+    {
+      "latitude": 36.837164,
+      "longitude": -5.401189,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 40.01409,
+      "longitude": -0.090207,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.924502,
+      "longitude": -0.182897,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.622433,
+      "longitude": 2.082729,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.05666,
+      "longitude": -7.911695,
+      "country": "Portugal",
+      "state": "Portalegre"
+    },
+    {
+      "latitude": 43.633288,
+      "longitude": 3.868522,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 41.088477,
+      "longitude": 1.002952,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 42.74386,
+      "longitude": 10.127256,
+      "country": "Italy",
+      "state": "Toscana"
+    },
+    {
+      "latitude": 39.915935,
+      "longitude": -0.153398,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 43.059955,
+      "longitude": 2.952407,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 42.740457,
+      "longitude": 10.130423,
+      "country": "Italy",
+      "state": "Toscana"
+    },
+    {
+      "latitude": 39.917897,
+      "longitude": -0.159035,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.007758,
+      "longitude": -4.533103,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 42.813473,
+      "longitude": -1.649166,
+      "country": "Spain",
+      "state": "Comunidad Foral de Navarra"
+    },
+    {
+      "latitude": 39.831644,
+      "longitude": 2.81065,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 38.905026,
+      "longitude": -6.379671,
+      "country": "Spain",
+      "state": "Extremadura"
+    },
+    {
+      "latitude": 40.076836,
+      "longitude": 0.107873,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.088393,
+      "longitude": -3.520228,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.705238,
+      "longitude": -0.115939,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.654886,
+      "longitude": 1.844712,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.339421,
+      "longitude": 1.578174,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 37.327492,
+      "longitude": -4.334408,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.086746,
+      "longitude": -3.514481,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 40.120711,
+      "longitude": -5.571078,
+      "country": "Spain",
+      "state": "Extremadura"
+    },
+    {
+      "latitude": 42.771078,
+      "longitude": 10.105753,
+      "country": "Italy",
+      "state": "Toscana"
+    },
+    {
+      "latitude": 41.566486,
+      "longitude": 1.671589,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.7428,
+      "longitude": -3.891444,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 41.339087,
+      "longitude": 1.579016,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.740503,
+      "longitude": 3.680162,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 44.505165,
+      "longitude": 4.22111,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 36.586563,
+      "longitude": -4.609663,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.327453,
+      "longitude": -4.33445,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.561993,
+      "longitude": -0.055139,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 42.107561,
+      "longitude": 1.883075,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.021938,
+      "longitude": -0.11986,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 44.507271,
+      "longitude": 4.221031,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 42.254686,
+      "longitude": -0.2065,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 41.56631,
+      "longitude": 1.674945,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.009457,
+      "longitude": -0.211885,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 39.961988,
+      "longitude": -0.132195,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.837192,
+      "longitude": -5.311871,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.562867,
+      "longitude": -0.05355,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.563779,
+      "longitude": -0.055197,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.043941,
+      "longitude": -7.977007,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 42.543201,
+      "longitude": -2.78591,
+      "country": "Spain",
+      "state": "La Rioja"
+    },
+    {
+      "latitude": 37.04428,
+      "longitude": -7.978141,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 38.662317,
+      "longitude": 0.088075,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.42323,
+      "longitude": 2.109232,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.912615,
+      "longitude": -0.144885,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 43.649134,
+      "longitude": 3.869227,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 36.844948,
+      "longitude": -2.63679,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.595478,
+      "longitude": -8.81695,
+      "country": "Portugal",
+      "state": "Beja"
+    },
+    {
+      "latitude": 41.621928,
+      "longitude": -0.879335,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 41.559297,
+      "longitude": 1.899505,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 44.085363,
+      "longitude": 9.885796,
+      "country": "Italy",
+      "state": "Liguria"
+    },
+    {
+      "latitude": 36.844883,
+      "longitude": -2.636668,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.185418,
+      "longitude": -3.923338,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.682627,
+      "longitude": 7.191752,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 35.22873,
+      "longitude": -5.176308,
+      "country": "Morocco",
+      "state": "Tanger - T\u00e9touan"
+    },
+    {
+      "latitude": 35.232545,
+      "longitude": -5.175763,
+      "country": "Morocco",
+      "state": "Tanger - T\u00e9touan"
+    },
+    {
+      "latitude": 34.525745,
+      "longitude": 9.65293,
+      "country": "Tunisia",
+      "state": "Sidi Bou Zid"
+    },
+    {
+      "latitude": 36.617767,
+      "longitude": -6.360631,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 51.10726,
+      "longitude": 2.60237,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 47.37317,
+      "longitude": 8.53098,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.5581,
+      "longitude": 7.6047,
+      "country": "Switzerland",
+      "state": "Bs"
+    },
+    {
+      "latitude": 45.83895,
+      "longitude": 8.95092,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 46.47676,
+      "longitude": 6.75503,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 35.232867,
+      "longitude": -5.176117,
+      "country": "Morocco",
+      "state": "Tanger - T\u00e9touan"
+    },
+    {
+      "latitude": 35.232203,
+      "longitude": -5.175889,
+      "country": "Morocco",
+      "state": "Tanger - T\u00e9touan"
+    },
+    {
+      "latitude": 35.228894,
+      "longitude": -5.176369,
+      "country": "Morocco",
+      "state": "Tanger - T\u00e9touan"
+    },
+    {
+      "latitude": 35.234324,
+      "longitude": -5.176511,
+      "country": "Morocco",
+      "state": "Tanger - T\u00e9touan"
+    },
+    {
+      "latitude": 36.90832,
+      "longitude": -2.573995,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 35.232225,
+      "longitude": -5.175875,
+      "country": "Morocco",
+      "state": "Tanger - T\u00e9touan"
+    },
+    {
+      "latitude": 39.634901,
+      "longitude": -8.759516,
+      "country": "Portugal",
+      "state": "Leiria"
+    },
+    {
+      "latitude": 39.003748,
+      "longitude": -0.77923,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 28.779033,
+      "longitude": -17.965635,
+      "country": "Spain",
+      "state": "Santa Cruz de Tenerife"
+    },
+    {
+      "latitude": 41.812286,
+      "longitude": 0.706144,
+      "country": "Spain",
+      "state": "Lleida"
+    },
+    {
+      "latitude": 41.676741,
+      "longitude": 2.060239,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 40.957705,
+      "longitude": 0.234512,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 38.442393,
+      "longitude": -9.081105,
+      "country": "Portugal",
+      "state": null
+    },
+    {
+      "latitude": 41.219406,
+      "longitude": 1.7516,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.521694,
+      "longitude": -8.356116,
+      "country": "Portugal",
+      "state": null
+    },
+    {
+      "latitude": 51.576958,
+      "longitude": -0.312908,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": null
+    },
+    {
+      "latitude": 39.925413,
+      "longitude": -0.456456,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 36.385254,
+      "longitude": -6.210223,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 43.232712,
+      "longitude": 5.585852,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 41.627599,
+      "longitude": 1.729885,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 36.349445,
+      "longitude": -6.145933,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 49.227389,
+      "longitude": 7.585586,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 37.664487,
+      "longitude": -1.703561,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 37.664487,
+      "longitude": -1.703561,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 43.546798,
+      "longitude": 1.453072,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 37.256012,
+      "longitude": -3.600295,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 43.237916,
+      "longitude": 5.484499,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 41.518642,
+      "longitude": 1.738519,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 52.72846,
+      "longitude": -1.24772,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 38.567945,
+      "longitude": -0.144233,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.567945,
+      "longitude": -0.144233,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.56776,
+      "longitude": -0.144007,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.334412,
+      "longitude": -4.355447,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 49.786312,
+      "longitude": 9.18606,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.792732,
+      "longitude": 9.17841,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 41.329448,
+      "longitude": 0.352628,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.506583,
+      "longitude": -7.90582,
+      "country": "Portugal",
+      "state": "Portalegre"
+    },
+    {
+      "latitude": 24.386058,
+      "longitude": -106.038208,
+      "country": "Mexico",
+      "state": "Durango"
+    },
+    {
+      "latitude": 38.569302,
+      "longitude": -0.144458,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 42.653822,
+      "longitude": 11.038188,
+      "country": "Italy",
+      "state": "Toscana"
+    },
+    {
+      "latitude": 38.650155,
+      "longitude": 0.077035,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.567765,
+      "longitude": -0.144247,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.661973,
+      "longitude": 0.087903,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.662178,
+      "longitude": 0.088045,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 40.216169,
+      "longitude": -8.433898,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 38.007514,
+      "longitude": 23.756053,
+      "country": "Greece",
+      "state": "Attica"
+    },
+    {
+      "latitude": 43.730571,
+      "longitude": 3.665763,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 43.565448,
+      "longitude": 3.711794,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 33.306247,
+      "longitude": 126.290475,
+      "country": "Korea, Republic of",
+      "state": "Jeju"
+    },
+    {
+      "latitude": -38.686405,
+      "longitude": 176.068389,
+      "country": "New Zealand",
+      "state": "Waikato"
+    },
+    {
+      "latitude": 37.939176,
+      "longitude": 12.841336,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 39.601566,
+      "longitude": -1.073228,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.816998,
+      "longitude": -0.847512,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 36.826478,
+      "longitude": -5.386096,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.568468,
+      "longitude": -0.137943,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 28.521993,
+      "longitude": -13.997222,
+      "country": "Spain",
+      "state": "Las Palmas"
+    },
+    {
+      "latitude": 41.99406,
+      "longitude": 1.504211,
+      "country": "Spain",
+      "state": "Lleida"
+    },
+    {
+      "latitude": 39.024353,
+      "longitude": 1.600999,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 38.567137,
+      "longitude": -0.14489,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 39.03852,
+      "longitude": 1.607566,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 39.108762,
+      "longitude": 1.537096,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 40.268899,
+      "longitude": 0.310361,
+      "country": "Spain",
+      "state": "Castell\u00f3n"
+    },
+    {
+      "latitude": 38.56782,
+      "longitude": -0.144687,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 38.38477,
+      "longitude": -0.93354,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 37.129256,
+      "longitude": -6.491628,
+      "country": "Spain",
+      "state": "Huelva"
+    },
+    {
+      "latitude": 38.669199,
+      "longitude": 1.529637,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 36.574535,
+      "longitude": -4.889654,
+      "country": "Spain",
+      "state": "M\u00e1laga"
+    },
+    {
+      "latitude": 37.412189,
+      "longitude": -5.961652,
+      "country": "Spain",
+      "state": "Sevilla"
+    },
+    {
+      "latitude": 36.69279,
+      "longitude": -4.590411,
+      "country": "Spain",
+      "state": "M\u00e1laga"
+    },
+    {
+      "latitude": 41.031737,
+      "longitude": 0.896058,
+      "country": "Spain",
+      "state": "Tarragona"
+    },
+    {
+      "latitude": 37.027339,
+      "longitude": -8.974205,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 37.083666,
+      "longitude": -8.233224,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 38.644726,
+      "longitude": 1.39475,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 38.644662,
+      "longitude": 1.39468,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 4.45,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 37.220032,
+      "longitude": -7.137768,
+      "country": "Spain",
+      "state": "Huelva"
+    },
+    {
+      "latitude": 41.239779,
+      "longitude": 1.454387,
+      "country": "Spain",
+      "state": "Tarragona"
+    },
+    {
+      "latitude": 41.233002,
+      "longitude": 1.448374,
+      "country": "Spain",
+      "state": "Tarragona"
+    },
+    {
+      "latitude": 42.173539,
+      "longitude": 2.741119,
+      "country": "Spain",
+      "state": "Girona"
+    },
+    {
+      "latitude": 37.880382,
+      "longitude": -1.454106,
+      "country": "Spain",
+      "state": "Murcia"
+    },
+    {
+      "latitude": 43.637049,
+      "longitude": 3.815488,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 40.768336,
+      "longitude": -3.856286,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 37.912997,
+      "longitude": -1.175422,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 38.739417,
+      "longitude": 0.104306,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.620477,
+      "longitude": -1.029741,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 43.629647,
+      "longitude": 5.527327,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 38.568468,
+      "longitude": -0.137943,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 40.206382,
+      "longitude": -8.416891,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 36.588652,
+      "longitude": -4.611079,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 42.069427,
+      "longitude": 2.913422,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.763761,
+      "longitude": -3.415925,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 43.435252,
+      "longitude": 5.70392,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 38.943289,
+      "longitude": -8.022045,
+      "country": "Portugal",
+      "state": "\u00c9vora"
+    },
+    {
+      "latitude": 41.99406,
+      "longitude": 1.504211,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 29.62153,
+      "longitude": -98.528496,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 35.139885,
+      "longitude": 24.910342,
+      "country": "Greece",
+      "state": "Crete"
+    },
+    {
+      "latitude": 41.531045,
+      "longitude": 2.022675,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.56782,
+      "longitude": -0.144687,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": -0.856837,
+      "longitude": -78.575825,
+      "country": "Ecuador",
+      "state": "Cotopaxi"
+    },
+    {
+      "latitude": 40.042962,
+      "longitude": -0.079548,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.688084,
+      "longitude": 2.172421,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.845695,
+      "longitude": 18.282242,
+      "country": "Italy",
+      "state": "Apulia"
+    },
+    {
+      "latitude": 41.678019,
+      "longitude": 1.868673,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.632215,
+      "longitude": 5.522044,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 41.349257,
+      "longitude": 2.002268,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.566503,
+      "longitude": -0.133557,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 36.865367,
+      "longitude": -2.245505,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.941442,
+      "longitude": -0.564572,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.514088,
+      "longitude": 2.301984,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.336708,
+      "longitude": 1.753143,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.450388,
+      "longitude": 1.84452,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 37.681388,
+      "longitude": -3.627672,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 32.648563,
+      "longitude": -16.958904,
+      "country": "Portugal",
+      "state": "Madeira"
+    },
+    {
+      "latitude": 41.450929,
+      "longitude": 1.847531,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.449955,
+      "longitude": 1.844512,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.336478,
+      "longitude": 1.752099,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.338,
+      "longitude": 1.753421,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.451634,
+      "longitude": 1.845373,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.318144,
+      "longitude": 1.724686,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.338851,
+      "longitude": 1.755481,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 37.588987,
+      "longitude": -0.876892,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 38.742845,
+      "longitude": -0.419987,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 25.855393,
+      "longitude": -97.476114,
+      "country": "Mexico",
+      "state": "Tamaulipas"
+    },
+    {
+      "latitude": 41.451564,
+      "longitude": 1.846004,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.342746,
+      "longitude": 1.761306,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.451641,
+      "longitude": 1.845415,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.337956,
+      "longitude": 1.754773,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.338957,
+      "longitude": 1.755763,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.338005,
+      "longitude": 1.754997,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.276905,
+      "longitude": 2.06483,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.337928,
+      "longitude": 1.75478,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.68983,
+      "longitude": 5.35676,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 40.024842,
+      "longitude": 15.275519,
+      "country": "Italy",
+      "state": "Campania"
+    },
+    {
+      "latitude": 41.33852,
+      "longitude": 1.759009,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 36.55289,
+      "longitude": -6.141465,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 41.451613,
+      "longitude": 1.845434,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.451617,
+      "longitude": 1.845409,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.338869,
+      "longitude": 1.754871,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.595086,
+      "longitude": 5.625191,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 43.623594,
+      "longitude": 3.838601,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 37.044275,
+      "longitude": -7.97479,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 41.314103,
+      "longitude": -6.8659,
+      "country": "Portugal",
+      "state": "Bragan\u00e7a"
+    },
+    {
+      "latitude": 37.637406,
+      "longitude": -6.319514,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.749308,
+      "longitude": 5.309733,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 36.861883,
+      "longitude": -5.177331,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.220597,
+      "longitude": 5.411687,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 47.963581,
+      "longitude": 16.196555,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 39.756715,
+      "longitude": -0.234382,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.007413,
+      "longitude": -5.885958,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.589621,
+      "longitude": 5.621311,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 46.518179,
+      "longitude": 6.614191,
+      "country": "Switzerland",
+      "state": "Vaud"
+    },
+    {
+      "latitude": 37.624897,
+      "longitude": -6.2092,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 41.283215,
+      "longitude": 1.909283,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.146375,
+      "longitude": 1.243855,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 37.933647,
+      "longitude": -6.802392,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 39.653566,
+      "longitude": -7.310082,
+      "country": "Portugal",
+      "state": "Castelo Branco"
+    },
+    {
+      "latitude": 43.448402,
+      "longitude": 5.229165,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 43.591923,
+      "longitude": 5.616679,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 43.562766,
+      "longitude": 5.578693,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 39.785297,
+      "longitude": 2.802258,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 40.899503,
+      "longitude": -3.497349,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 38.730574,
+      "longitude": -9.469872,
+      "country": "Portugal",
+      "state": "Lisboa"
+    },
+    {
+      "latitude": 38.620021,
+      "longitude": -9.15798,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 38.730574,
+      "longitude": -9.469872,
+      "country": "Portugal",
+      "state": "Lisboa"
+    },
+    {
+      "latitude": 43.331723,
+      "longitude": 5.446566,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 39.66,
+      "longitude": -8.578267,
+      "country": "Portugal",
+      "state": "Santar\u00e9m"
+    },
+    {
+      "latitude": 37.974906,
+      "longitude": -1.045447,
+      "country": "Spain",
+      "state": "Murcia"
+    },
+    {
+      "latitude": 37.030228,
+      "longitude": -7.821565,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 41.737406,
+      "longitude": -7.416165,
+      "country": "Portugal",
+      "state": "Vila Real"
+    },
+    {
+      "latitude": 37.644771,
+      "longitude": -1.735841,
+      "country": "Spain",
+      "state": "Murcia"
+    },
+    {
+      "latitude": 38.760395,
+      "longitude": -8.936116,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 51.3,
+      "longitude": 5.3,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 51.3,
+      "longitude": 5.3,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 42.214851,
+      "longitude": -0.289179,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 32.824173,
+      "longitude": -16.962239,
+      "country": "Portugal",
+      "state": "Madeira"
+    },
+    {
+      "latitude": 40.521216,
+      "longitude": -6.054838,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 38.58837,
+      "longitude": -7.89498,
+      "country": "Portugal",
+      "state": "\u00c9vora"
+    },
+    {
+      "latitude": 19.542853,
+      "longitude": -96.915969,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 39.9999,
+      "longitude": 3.83335,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 41.62483,
+      "longitude": 1.45051,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.566236,
+      "longitude": -8.965774,
+      "country": "Portugal",
+      "state": "Leiria"
+    },
+    {
+      "latitude": 39.501003,
+      "longitude": 3.298775,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 40.415376,
+      "longitude": -0.129798,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.788403,
+      "longitude": 2.608901,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.661913,
+      "longitude": 0.087782,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 40.113499,
+      "longitude": -5.279992,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 41.569606,
+      "longitude": 1.680333,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.596922,
+      "longitude": -0.209983,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 43.694944,
+      "longitude": 5.001003,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 37.076743,
+      "longitude": -6.688959,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 42.073359,
+      "longitude": 0.064865,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 40.332518,
+      "longitude": -0.117716,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.568737,
+      "longitude": 1.680692,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.297523,
+      "longitude": 1.966587,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.567668,
+      "longitude": -0.14442,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 42.0796,
+      "longitude": 0.763945,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.463208,
+      "longitude": 5.334284,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 41.561861,
+      "longitude": 1.680592,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.444028,
+      "longitude": -9.098757,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 37.075536,
+      "longitude": -6.68896,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 39.908988,
+      "longitude": -0.20196,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 38.911951,
+      "longitude": -6.996011,
+      "country": "Spain",
+      "state": "Extremadura"
+    },
+    {
+      "latitude": 41.565699,
+      "longitude": 1.681808,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 37.621761,
+      "longitude": -1.951313,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 36.754553,
+      "longitude": -2.799447,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 53.342728,
+      "longitude": -2.219283,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 40.635204,
+      "longitude": -3.775563,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 40.49136,
+      "longitude": -4.168675,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 40.985805,
+      "longitude": 0.399164,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.391665,
+      "longitude": -0.094273,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 43.134811,
+      "longitude": 17.732808,
+      "country": "Bosnia and Herzegovina",
+      "state": "Federacija Bosna i Hercegovina"
+    },
+    {
+      "latitude": 39.243375,
+      "longitude": 9.304559,
+      "country": "Italy",
+      "state": "Sardegna"
+    },
+    {
+      "latitude": 38.662293,
+      "longitude": 0.08798,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 40.944425,
+      "longitude": -3.54136,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 41.500899,
+      "longitude": 2.103193,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 37.10722,
+      "longitude": -8.239226,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 39.762633,
+      "longitude": 2.769574,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 42.289784,
+      "longitude": 3.290401,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.440339,
+      "longitude": 1.971274,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.88032,
+      "longitude": 3.182478,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 37.629471,
+      "longitude": -4.304873,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 39.471177,
+      "longitude": 2.916503,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 41.57107,
+      "longitude": 1.683399,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.635642,
+      "longitude": -3.775154,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 40.524662,
+      "longitude": -7.530538,
+      "country": "Portugal",
+      "state": "Guarda"
+    },
+    {
+      "latitude": 40.555896,
+      "longitude": -3.745372,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 38.73789,
+      "longitude": -9.46927,
+      "country": "Portugal",
+      "state": "Lisboa"
+    },
+    {
+      "latitude": 41.413038,
+      "longitude": 2.152256,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.567668,
+      "longitude": -0.14442,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 41.774419,
+      "longitude": 3.008465,
+      "country": "Spain",
+      "state": "Girona"
+    },
+    {
+      "latitude": 43.221208,
+      "longitude": 5.428795,
+      "country": "France",
+      "state": "Bouches-du-Rh\u00f4ne (13)"
+    },
+    {
+      "latitude": 42.187317,
+      "longitude": 0.833479,
+      "country": "Spain",
+      "state": "Lleida"
+    },
+    {
+      "latitude": 41.613125,
+      "longitude": 1.645217,
+      "country": "Spain",
+      "state": "Barcelona"
+    },
+    {
+      "latitude": 42.21474,
+      "longitude": -2.239887,
+      "country": "Spain",
+      "state": "La Rioja"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 42.852338,
+      "longitude": -1.618177,
+      "country": "Spain",
+      "state": "Navarra"
+    },
+    {
+      "latitude": 42.244446,
+      "longitude": -0.170936,
+      "country": "Spain",
+      "state": "Huesca"
+    },
+    {
+      "latitude": 37.333436,
+      "longitude": -7.495208,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 47.5581,
+      "longitude": 7.6047,
+      "country": "Switzerland",
+      "state": "Bs"
+    },
+    {
+      "latitude": 46.47635,
+      "longitude": 6.68992,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 37.729384,
+      "longitude": -2.021509,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.38102,
+      "longitude": -124.2696,
+      "country": "United States of America",
+      "state": "Oregon"
+    },
+    {
+      "latitude": 42.025223,
+      "longitude": 0.737132,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 37.024089,
+      "longitude": -4.546037,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 40.454519,
+      "longitude": -3.723701,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 41.589812,
+      "longitude": 1.839092,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 42.252364,
+      "longitude": -0.253061,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": -1.608,
+      "longitude": -78.630619,
+      "country": "Ecuador",
+      "state": "Chimborazo"
+    },
+    {
+      "latitude": 39.363487,
+      "longitude": -4.080453,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 39.384182,
+      "longitude": -4.094191,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 38.194392,
+      "longitude": -0.547209,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.59305,
+      "longitude": 1.749062,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.194102,
+      "longitude": -0.547822,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.087722,
+      "longitude": -8.738608,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 37.736032,
+      "longitude": -2.018778,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 44.860797,
+      "longitude": 13.817259,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 34.962841,
+      "longitude": 32.433503,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 43.354232,
+      "longitude": 5.405144,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 43.229314,
+      "longitude": 5.502744,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 37.093506,
+      "longitude": -8.247325,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 36.240381,
+      "longitude": -5.910357,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.40485,
+      "longitude": -2.360545,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 36.587634,
+      "longitude": -4.610544,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.351983,
+      "longitude": 5.406226,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    }
+  ],
+  "scientific_name": "Salvia rosmarinus",
+  "common_name": "Rosemary",
+  "description": null
+}

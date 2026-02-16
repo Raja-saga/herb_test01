@@ -1,0 +1,96 @@
+{
+  "herb": "Plumbago zeylanica",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Maharashtra": {
+      "count": 53,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "TamilNadu": {
+      "count": 18,
+      "normalizedScore": 0.34,
+      "presence": "Low"
+    },
+    "Kerala": {
+      "count": 13,
+      "normalizedScore": 0.25,
+      "presence": "Low"
+    },
+    "Karnataka": {
+      "count": 34,
+      "normalizedScore": 0.64,
+      "presence": "Medium"
+    },
+    "NCTofDelhi": {
+      "count": 7,
+      "normalizedScore": 0.13,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 9,
+      "normalizedScore": 0.17,
+      "presence": "Very Low"
+    },
+    "Rajasthan": {
+      "count": 12,
+      "normalizedScore": 0.23,
+      "presence": "Low"
+    },
+    "Telangana": {
+      "count": 28,
+      "normalizedScore": 0.53,
+      "presence": "Medium"
+    },
+    "Haryana": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Uttarakhand": {
+      "count": 6,
+      "normalizedScore": 0.11,
+      "presence": "Very Low"
+    },
+    "WestBengal": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 6,
+      "normalizedScore": 0.11,
+      "presence": "Very Low"
+    },
+    "UttarPradesh": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Goa": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "HimachalPradesh": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "Puducherry": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    }
+  }
+}

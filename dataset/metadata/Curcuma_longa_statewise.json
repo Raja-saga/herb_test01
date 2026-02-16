@@ -1,0 +1,66 @@
+{
+  "herb": "Curcuma longa",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Uttarakhand": {
+      "count": 2,
+      "normalizedScore": 0.17,
+      "presence": "Very Low"
+    },
+    "Maharashtra": {
+      "count": 12,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Kerala": {
+      "count": 9,
+      "normalizedScore": 0.75,
+      "presence": "High"
+    },
+    "MadhyaPradesh": {
+      "count": 4,
+      "normalizedScore": 0.33,
+      "presence": "Low"
+    },
+    "Chhattisgarh": {
+      "count": 4,
+      "normalizedScore": 0.33,
+      "presence": "Low"
+    },
+    "WestBengal": {
+      "count": 5,
+      "normalizedScore": 0.42,
+      "presence": "Low"
+    },
+    "JammuandKashmir": {
+      "count": 11,
+      "normalizedScore": 0.92,
+      "presence": "High"
+    },
+    "AndhraPradesh": {
+      "count": 4,
+      "normalizedScore": 0.33,
+      "presence": "Low"
+    },
+    "Odisha": {
+      "count": 1,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 3,
+      "normalizedScore": 0.25,
+      "presence": "Low"
+    },
+    "UttarPradesh": {
+      "count": 1,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Assam": {
+      "count": 1,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    }
+  }
+}

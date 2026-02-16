@@ -1,0 +1,71 @@
+{
+  "herb": "Centella asiatica",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Odisha": {
+      "count": 1,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "WestBengal": {
+      "count": 5,
+      "normalizedScore": 0.38,
+      "presence": "Low"
+    },
+    "TamilNadu": {
+      "count": 7,
+      "normalizedScore": 0.54,
+      "presence": "Medium"
+    },
+    "Karnataka": {
+      "count": 2,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Meghalaya": {
+      "count": 2,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Telangana": {
+      "count": 3,
+      "normalizedScore": 0.23,
+      "presence": "Low"
+    },
+    "Uttarakhand": {
+      "count": 4,
+      "normalizedScore": 0.31,
+      "presence": "Low"
+    },
+    "Kerala": {
+      "count": 13,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Nagaland": {
+      "count": 1,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Maharashtra": {
+      "count": 3,
+      "normalizedScore": 0.23,
+      "presence": "Low"
+    },
+    "AndhraPradesh": {
+      "count": 1,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 2,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Rajasthan": {
+      "count": 1,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    }
+  }
+}

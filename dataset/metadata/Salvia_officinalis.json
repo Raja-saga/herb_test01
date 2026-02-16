@@ -1,0 +1,3008 @@
+{
+  "herb": "Salvia officinalis",
+  "locations": [
+    {
+      "latitude": 43.144839,
+      "longitude": 16.876311,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 49.985435,
+      "longitude": 8.4378,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078243,
+      "longitude": 9.19261,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.956314,
+      "longitude": 8.447414,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 51.55,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 42.009128,
+      "longitude": 13.411382,
+      "country": "Italy",
+      "state": "Abruzzo"
+    },
+    {
+      "latitude": 59.81381,
+      "longitude": 17.66714,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 47.688174,
+      "longitude": -122.363039,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 46.819992,
+      "longitude": 12.760425,
+      "country": "Austria",
+      "state": "Tirol"
+    },
+    {
+      "latitude": 40.966046,
+      "longitude": 15.815172,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 37.616072,
+      "longitude": -1.026725,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 48.692928,
+      "longitude": 12.440029,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 38.614916,
+      "longitude": -121.393442,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 53.840166,
+      "longitude": 10.597736,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 51.616657,
+      "longitude": 7.950153,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.95026,
+      "longitude": 11.591648,
+      "country": "Germany",
+      "state": "Th\u00fcringen"
+    },
+    {
+      "latitude": 45.273557,
+      "longitude": 14.259053,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 51.504584,
+      "longitude": -0.329275,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 38.068025,
+      "longitude": -122.807337,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 45.036005,
+      "longitude": 14.535434,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 44.810613,
+      "longitude": 13.89675,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 59.81387,
+      "longitude": 17.66717,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 40.614478,
+      "longitude": -2.59492,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 43.601133,
+      "longitude": 5.130445,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 51.530204,
+      "longitude": 6.91386,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 38.69947,
+      "longitude": -0.480537,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.477657,
+      "longitude": -0.387317,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 50.90578,
+      "longitude": 4.37216,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 59.314705,
+      "longitude": 18.102285,
+      "country": "Sweden",
+      "state": "Stockholm"
+    },
+    {
+      "latitude": 43.129556,
+      "longitude": 16.830733,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 36.830992,
+      "longitude": -2.445773,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 40.584387,
+      "longitude": 14.347938,
+      "country": "Italy",
+      "state": "Campania"
+    },
+    {
+      "latitude": 39.808037,
+      "longitude": -77.133819,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 40.005042,
+      "longitude": 3.870138,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 43.14489,
+      "longitude": 16.595914,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 40.242375,
+      "longitude": -3.42967,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 48.679422,
+      "longitude": 19.940626,
+      "country": "Slovakia",
+      "state": null
+    },
+    {
+      "latitude": 44.467369,
+      "longitude": 8.420539,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 46.575712,
+      "longitude": 0.349423,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 39.497253,
+      "longitude": -0.394406,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 36.672078,
+      "longitude": 2.961811,
+      "country": "Algeria",
+      "state": null
+    },
+    {
+      "latitude": 39.962021,
+      "longitude": -0.250941,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 45.744836,
+      "longitude": -0.623344,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 49.10383,
+      "longitude": 6.17407,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 51.354589,
+      "longitude": 7.114371,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 45.35091,
+      "longitude": 14.461607,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 49.078247,
+      "longitude": 9.192605,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078243,
+      "longitude": 9.192602,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 43.946252,
+      "longitude": 6.19457,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 46.25393,
+      "longitude": 7.40623,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": -46.595569,
+      "longitude": 169.189146,
+      "country": "New Zealand",
+      "state": "Southland"
+    },
+    {
+      "latitude": 50.98592,
+      "longitude": 5.4809,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.55,
+      "longitude": 5.35,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.3,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 37.124104,
+      "longitude": -3.61064,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.87112,
+      "longitude": -0.410981,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 43.731048,
+      "longitude": 4.027592,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 48.850949,
+      "longitude": 2.416306,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 55.976649,
+      "longitude": -3.229738,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 33.647151,
+      "longitude": -96.598839,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 35.074599,
+      "longitude": -85.082368,
+      "country": "United States of America",
+      "state": "Tennessee"
+    },
+    {
+      "latitude": 36.482427,
+      "longitude": 3.90083,
+      "country": "Algeria",
+      "state": "Tizi Ouzou"
+    },
+    {
+      "latitude": 43.210687,
+      "longitude": 16.645304,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 43.224574,
+      "longitude": 16.522017,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 43.219158,
+      "longitude": 16.532928,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 31.754411,
+      "longitude": 35.167283,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 49.078247,
+      "longitude": 9.192613,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078224,
+      "longitude": 9.192643,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 59.81386,
+      "longitude": 17.66718,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 43.224831,
+      "longitude": 16.550147,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": -41.251274,
+      "longitude": 174.777969,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 30.114887,
+      "longitude": -97.853476,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -41.32671,
+      "longitude": 174.728568,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 49.614787,
+      "longitude": 6.134162,
+      "country": "Luxembourg",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 53.198881,
+      "longitude": -2.874321,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": -19.888086,
+      "longitude": -43.998635,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": 43.510222,
+      "longitude": 16.126233,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 43.508133,
+      "longitude": 16.286497,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 53.756904,
+      "longitude": -0.373706,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 38.680983,
+      "longitude": -9.158261,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 43.334685,
+      "longitude": 16.816461,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 47.801598,
+      "longitude": 13.051717,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 51.415405,
+      "longitude": 9.109741,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.99227,
+      "longitude": 4.79648,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 42.943691,
+      "longitude": 17.540371,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 43.73437,
+      "longitude": 15.875392,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 43.490892,
+      "longitude": 16.342458,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 46.715697,
+      "longitude": 15.79419,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 43.491372,
+      "longitude": 16.345653,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 40.498242,
+      "longitude": -3.142517,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 40.459853,
+      "longitude": -3.060117,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 36.398812,
+      "longitude": 6.664351,
+      "country": "Algeria",
+      "state": "Constantine"
+    },
+    {
+      "latitude": 50.5243,
+      "longitude": 5.22389,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 37.947251,
+      "longitude": -6.891699,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 46.97014,
+      "longitude": 8.32565,
+      "country": "Switzerland",
+      "state": "Nw"
+    },
+    {
+      "latitude": 42.770838,
+      "longitude": 17.386367,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 45.348755,
+      "longitude": 14.462646,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.350517,
+      "longitude": 14.462158,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 43.891558,
+      "longitude": 15.155906,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 45.351198,
+      "longitude": 14.461887,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 43.370832,
+      "longitude": 16.473205,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 45.329312,
+      "longitude": 14.451021,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.345781,
+      "longitude": 14.460592,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.350495,
+      "longitude": 14.462104,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.327325,
+      "longitude": 14.442176,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 43.911422,
+      "longitude": 15.125439,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 45.347145,
+      "longitude": 14.461989,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.348249,
+      "longitude": 14.462438,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 43.508883,
+      "longitude": 16.407622,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 45.350869,
+      "longitude": 14.462115,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.348259,
+      "longitude": 14.461653,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 42.668611,
+      "longitude": 18.089167,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 45.341922,
+      "longitude": 14.463252,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.350691,
+      "longitude": 14.462161,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.34217,
+      "longitude": 14.462691,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.350527,
+      "longitude": 14.462165,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.349343,
+      "longitude": 14.461637,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.347771,
+      "longitude": 14.46186,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.206731,
+      "longitude": 14.64701,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.32591,
+      "longitude": 14.481287,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.347806,
+      "longitude": 14.461778,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.348058,
+      "longitude": 14.461804,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.347497,
+      "longitude": 14.461976,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 44.767641,
+      "longitude": 13.919757,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 45.349091,
+      "longitude": 14.462638,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 44.811332,
+      "longitude": 13.894268,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 41.691768,
+      "longitude": 16.036595,
+      "country": "Italy",
+      "state": "Apulia"
+    },
+    {
+      "latitude": 39.601394,
+      "longitude": 2.952815,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 40.111212,
+      "longitude": -8.489085,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 43.274925,
+      "longitude": 17.341842,
+      "country": "Bosnia and Herzegovina",
+      "state": "Federacija Bosna i Hercegovina"
+    },
+    {
+      "latitude": 42.128231,
+      "longitude": -6.333563,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 43.509783,
+      "longitude": 16.125558,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 51.31962,
+      "longitude": 4.83791,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 52.036919,
+      "longitude": 9.676609,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 45.069211,
+      "longitude": 14.36167,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 43.755304,
+      "longitude": 15.886744,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 45.07212,
+      "longitude": 14.360067,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 51.412539,
+      "longitude": 19.739525,
+      "country": "Poland",
+      "state": "\u0141\u00f3d\u017a"
+    },
+    {
+      "latitude": 43.332131,
+      "longitude": 16.821154,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 43.45801,
+      "longitude": 16.703175,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 42.648178,
+      "longitude": 18.113681,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 43.645812,
+      "longitude": 7.009512,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 45.213868,
+      "longitude": 13.749549,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 43.963464,
+      "longitude": 15.108175,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 45.207116,
+      "longitude": 14.645193,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 41.306613,
+      "longitude": 13.629242,
+      "country": "Italy",
+      "state": "Lazio"
+    },
+    {
+      "latitude": 42.899979,
+      "longitude": 17.548002,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 43.503433,
+      "longitude": 16.279825,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 43.076458,
+      "longitude": 17.420717,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 43.284321,
+      "longitude": 17.09173,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 6.05,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.27359,
+      "longitude": 7.457511,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 43.894428,
+      "longitude": 15.610693,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 50.98585,
+      "longitude": 5.48087,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 41.385343,
+      "longitude": 2.121583,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 41.84882,
+      "longitude": -1.542608,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 42.349389,
+      "longitude": -2.422868,
+      "country": "Spain",
+      "state": "La Rioja"
+    },
+    {
+      "latitude": 47.959655,
+      "longitude": 7.778233,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 42.145615,
+      "longitude": 2.570586,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 50.991388,
+      "longitude": 11.054348,
+      "country": "Germany",
+      "state": "Th\u00fcringen"
+    },
+    {
+      "latitude": 47.961371,
+      "longitude": 7.77659,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 40.171959,
+      "longitude": -3.284045,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 41.385232,
+      "longitude": 2.121511,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 47.959653,
+      "longitude": 7.778401,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959671,
+      "longitude": 7.778349,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 39.915495,
+      "longitude": -3.703646,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 45.211014,
+      "longitude": 14.233804,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.159687,
+      "longitude": 14.732624,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 49.994422,
+      "longitude": 7.938763,
+      "country": "Germany",
+      "state": "Hessen"
+    },
+    {
+      "latitude": 43.725825,
+      "longitude": 3.257614,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 40.31483,
+      "longitude": -3.710906,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 40.006246,
+      "longitude": -2.094355,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 44.704658,
+      "longitude": 14.845673,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 41.385269,
+      "longitude": 2.121416,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 44.82841,
+      "longitude": 14.423854,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 41.846745,
+      "longitude": -1.544283,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 43.559296,
+      "longitude": 16.519712,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 45.76132,
+      "longitude": 15.88105,
+      "country": "Croatia",
+      "state": "Grad Zagreb"
+    },
+    {
+      "latitude": 49.248543,
+      "longitude": 7.436829,
+      "country": "Germany",
+      "state": "Rheinland-Pfalz"
+    },
+    {
+      "latitude": 45.062862,
+      "longitude": 14.879284,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 37.29202,
+      "longitude": -3.463637,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 41.38532,
+      "longitude": 2.121571,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 42.176793,
+      "longitude": -0.374181,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 55.72039,
+      "longitude": 13.2403,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 59.81381,
+      "longitude": 17.66714,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.81386,
+      "longitude": 17.66718,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 50.856419,
+      "longitude": 6.156889,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 51.75,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 4.5,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 45.666592,
+      "longitude": 4.789211,
+      "country": "France",
+      "state": "Rh\u00f4ne (69)"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 4.5,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.04553,
+      "longitude": 3.71564,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.61966,
+      "longitude": 19.51724,
+      "country": "Poland",
+      "state": "\u0141\u00f3d\u017a"
+    },
+    {
+      "latitude": 53.448112,
+      "longitude": 13.029012,
+      "country": "Germany",
+      "state": "Mecklenburg-Vorpommern"
+    },
+    {
+      "latitude": 41.209032,
+      "longitude": -3.937346,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 40.718411,
+      "longitude": 24.720264,
+      "country": "Greece",
+      "state": "Macedonia and Thrace"
+    },
+    {
+      "latitude": 51.545565,
+      "longitude": 0.701361,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 42.34943,
+      "longitude": -2.422728,
+      "country": "Spain",
+      "state": "La Rioja"
+    },
+    {
+      "latitude": 55.7203,
+      "longitude": 13.2405,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 50.803802,
+      "longitude": 8.788633,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.803802,
+      "longitude": 8.788633,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.967202,
+      "longitude": 8.042505,
+      "country": "Germany",
+      "state": "Rheinland-Pfalz"
+    },
+    {
+      "latitude": 40.290264,
+      "longitude": 20.125389,
+      "country": "Albania",
+      "state": null
+    },
+    {
+      "latitude": 40.296406,
+      "longitude": 20.16165,
+      "country": "Albania",
+      "state": null
+    },
+    {
+      "latitude": 40.19743,
+      "longitude": 20.271732,
+      "country": "Albania",
+      "state": null
+    },
+    {
+      "latitude": 41.054541,
+      "longitude": -2.827412,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 4.5,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 4.45,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 53.752222,
+      "longitude": -0.368237,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 45.176788,
+      "longitude": 14.206742,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 54.13908,
+      "longitude": 12.030686,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 40.397813,
+      "longitude": -1.054972,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 25.526622,
+      "longitude": -80.536469,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 50.53071,
+      "longitude": 5.11762,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.8056,
+      "longitude": 5.67639,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.08295,
+      "longitude": 5.17824,
+      "country": "Belgium",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.8,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 44.002656,
+      "longitude": 6.10394,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 44.7045,
+      "longitude": 14.849567,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 46.87719,
+      "longitude": 8.6521,
+      "country": "Switzerland",
+      "state": "Ur"
+    },
+    {
+      "latitude": 46.25389,
+      "longitude": 7.34139,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.1636,
+      "longitude": 7.14736,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.87787,
+      "longitude": 8.58652,
+      "country": "Switzerland",
+      "state": "Ur"
+    },
+    {
+      "latitude": 46.25389,
+      "longitude": 7.34139,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.47713,
+      "longitude": 6.82013,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 6.6,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 42.651396,
+      "longitude": 18.108207,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 37.37001,
+      "longitude": 34.835182,
+      "country": "T\u00fcrkiye",
+      "state": null
+    },
+    {
+      "latitude": 55.42726,
+      "longitude": 12.96657,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 43.367061,
+      "longitude": 16.499505,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 44.801629,
+      "longitude": 14.880459,
+      "country": "Croatia",
+      "state": "Licko-Senjska"
+    },
+    {
+      "latitude": 42.641833,
+      "longitude": 18.10893,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 45.386028,
+      "longitude": 15.609603,
+      "country": "Croatia",
+      "state": "Karlovacka"
+    },
+    {
+      "latitude": 45.37775,
+      "longitude": 15.611334,
+      "country": "Croatia",
+      "state": "Karlovacka"
+    },
+    {
+      "latitude": 45.072012,
+      "longitude": 14.359115,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 43.509565,
+      "longitude": 16.409027,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 42.970158,
+      "longitude": 17.273562,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 42.652303,
+      "longitude": 18.108525,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 45.315394,
+      "longitude": 14.168158,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 47.95962,
+      "longitude": 7.77827,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959607,
+      "longitude": 7.77813,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959687,
+      "longitude": 7.778296,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959662,
+      "longitude": 7.778359,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959679,
+      "longitude": 7.778354,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959681,
+      "longitude": 7.778384,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959595,
+      "longitude": 7.778508,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.961355,
+      "longitude": 7.775564,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959642,
+      "longitude": 7.778148,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959667,
+      "longitude": 7.778366,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 47.959635,
+      "longitude": 7.778404,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 42.646595,
+      "longitude": 18.108828,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 40.946487,
+      "longitude": -0.452951,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 40.787297,
+      "longitude": -0.148485,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 49.316868,
+      "longitude": 8.717324,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.81357,
+      "longitude": 4.445,
+      "country": "Belgium",
+      "state": "Brussels Capital Region"
+    },
+    {
+      "latitude": 50.9852,
+      "longitude": 5.47876,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.3,
+      "longitude": 5.3,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 50.803802,
+      "longitude": 8.788633,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 40.201454,
+      "longitude": 20.328777,
+      "country": "Albania",
+      "state": null
+    },
+    {
+      "latitude": 44.64908,
+      "longitude": 14.244968,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 49.905399,
+      "longitude": 8.21407,
+      "country": "Germany",
+      "state": "Rheinland-Pfalz"
+    },
+    {
+      "latitude": 41.393222,
+      "longitude": -2.196378,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 41.858433,
+      "longitude": -4.149708,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 44.771577,
+      "longitude": 13.919848,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 51.65,
+      "longitude": 4.95,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 41.662281,
+      "longitude": 1.6136,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 44.974926,
+      "longitude": 14.658557,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 39.928045,
+      "longitude": -3.690787,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 50.207418,
+      "longitude": 8.737787,
+      "country": "Germany",
+      "state": "Hessen"
+    },
+    {
+      "latitude": 49.078239,
+      "longitude": 9.192617,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 55.72017,
+      "longitude": 13.24083,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 49.96019,
+      "longitude": 5.980787,
+      "country": "Luxembourg",
+      "state": "Diekirch"
+    },
+    {
+      "latitude": 44.224497,
+      "longitude": 15.768775,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 57.651663,
+      "longitude": -3.305742,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 44.5461,
+      "longitude": 33.665957,
+      "country": "Ukraine",
+      "state": "Sevastopol'"
+    },
+    {
+      "latitude": 55.951839,
+      "longitude": -3.19529,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 49.577824,
+      "longitude": 7.845556,
+      "country": "Germany",
+      "state": "Rheinland-Pfalz"
+    },
+    {
+      "latitude": 44.224502,
+      "longitude": 15.76906,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 49.538938,
+      "longitude": 5.821144,
+      "country": "Luxembourg",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 39.529726,
+      "longitude": -1.469302,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 55.72017,
+      "longitude": 13.24083,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 59.81385,
+      "longitude": 17.66718,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 55.161263,
+      "longitude": 15.059113,
+      "country": "Denmark",
+      "state": "Hovedstaden"
+    },
+    {
+      "latitude": 53.783813,
+      "longitude": -1.538081,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 45.057036,
+      "longitude": 14.872581,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 52.104591,
+      "longitude": -2.344115,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 47.46823,
+      "longitude": 7.5381,
+      "country": "Switzerland",
+      "state": "Bl"
+    },
+    {
+      "latitude": 46.75816,
+      "longitude": 10.28614,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.70333,
+      "longitude": 7.73284,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 30.272597,
+      "longitude": -83.031695,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 46.20188,
+      "longitude": 6.17545,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.20188,
+      "longitude": 6.17545,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 44.771184,
+      "longitude": 14.777036,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 44.974975,
+      "longitude": 14.658732,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 44.768936,
+      "longitude": 13.921849,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 43.43714,
+      "longitude": 16.132824,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 44.771346,
+      "longitude": 14.777066,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 51.192861,
+      "longitude": 11.744242,
+      "country": "Germany",
+      "state": "Sachsen-Anhalt"
+    },
+    {
+      "latitude": 47.67622,
+      "longitude": 13.092264,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 59.86369,
+      "longitude": 17.7429,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 52.6,
+      "longitude": 5.4,
+      "country": "Netherlands",
+      "state": "Flevoland"
+    },
+    {
+      "latitude": 41.341655,
+      "longitude": -2.725153,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 50.942089,
+      "longitude": 6.923254,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 50.545719,
+      "longitude": -3.657676,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 49.567626,
+      "longitude": 6.150742,
+      "country": "Luxembourg",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 51.489247,
+      "longitude": 6.121929,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.856419,
+      "longitude": 6.156889,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.55434,
+      "longitude": 4.49033,
+      "country": "Belgium",
+      "state": "Walloon Brabant"
+    },
+    {
+      "latitude": 44.658683,
+      "longitude": 14.378695,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 44.770839,
+      "longitude": 13.917664,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 44.478846,
+      "longitude": 14.921226,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 45.031527,
+      "longitude": 14.154406,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 45.496497,
+      "longitude": 13.533547,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 44.773458,
+      "longitude": 13.908303,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 44.701489,
+      "longitude": 14.844797,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.158428,
+      "longitude": 14.187584,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 44.768967,
+      "longitude": 13.916894,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 53.913995,
+      "longitude": 27.608531,
+      "country": "Belarus",
+      "state": "Minsk"
+    },
+    {
+      "latitude": 53.91365,
+      "longitude": 27.608493,
+      "country": "Belarus",
+      "state": "Minsk"
+    },
+    {
+      "latitude": 51.101616,
+      "longitude": 6.951294,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 50.035137,
+      "longitude": 8.280428,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 45.073953,
+      "longitude": 14.678319,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 43.493427,
+      "longitude": 16.226866,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 40.373347,
+      "longitude": -1.55123,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 58.76487,
+      "longitude": 17.03054,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 50.70896,
+      "longitude": 4.78144,
+      "country": "Belgium",
+      "state": "Walloon Brabant"
+    },
+    {
+      "latitude": 40.794675,
+      "longitude": -96.606567,
+      "country": "United States of America",
+      "state": "Nebraska"
+    },
+    {
+      "latitude": 44.810414,
+      "longitude": 13.896533,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 45.084223,
+      "longitude": 14.164963,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 44.709647,
+      "longitude": 14.862847,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 44.810653,
+      "longitude": 13.895303,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 43.90807,
+      "longitude": 15.438283,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 45.111468,
+      "longitude": 14.294416,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 43.119664,
+      "longitude": 16.950408,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 43.900692,
+      "longitude": 15.4476,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 51.633444,
+      "longitude": 0.61704,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 50.868223,
+      "longitude": 12.747429,
+      "country": "Germany",
+      "state": "Sachsen"
+    },
+    {
+      "latitude": 43.798213,
+      "longitude": 15.637997,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 51.591649,
+      "longitude": -0.327609,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 49.79974,
+      "longitude": 5.20528,
+      "country": "Belgium",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 49.79974,
+      "longitude": 5.20528,
+      "country": "Belgium",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 50.856419,
+      "longitude": 6.156889,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 44.792658,
+      "longitude": 13.906861,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 50.98518,
+      "longitude": 5.47902,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.98519,
+      "longitude": 5.47891,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.98516,
+      "longitude": 5.47908,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.98519,
+      "longitude": 5.47899,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.98517,
+      "longitude": 5.47898,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": -37.874628,
+      "longitude": 145.300435,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 42.310832,
+      "longitude": 19.05063,
+      "country": "Montenegro",
+      "state": "Bar"
+    },
+    {
+      "latitude": 42.99767,
+      "longitude": 17.206752,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 43.156049,
+      "longitude": 17.611691,
+      "country": "Bosnia and Herzegovina",
+      "state": "Federacija Bosna i Hercegovina"
+    },
+    {
+      "latitude": -28.212724,
+      "longitude": -51.53375,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": 43.600297,
+      "longitude": 15.92387,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 39.229052,
+      "longitude": -82.206173,
+      "country": "United States of America",
+      "state": "Ohio"
+    },
+    {
+      "latitude": 43.50108,
+      "longitude": 16.015613,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 45.073295,
+      "longitude": 14.153455,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 50.98514,
+      "longitude": 5.47902,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.98517,
+      "longitude": 5.479,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.98518,
+      "longitude": 5.47902,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 59.23488,
+      "longitude": 15.22635,
+      "country": "Sweden",
+      "state": "N\u00e4rke"
+    },
+    {
+      "latitude": 49.078239,
+      "longitude": 9.19261,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 43.662596,
+      "longitude": 15.662536,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 43.13634,
+      "longitude": 17.304785,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 42.353912,
+      "longitude": 19.024784,
+      "country": "Montenegro",
+      "state": "Cetinje"
+    },
+    {
+      "latitude": 38.800156,
+      "longitude": -75.711823,
+      "country": "United States of America",
+      "state": "Delaware"
+    },
+    {
+      "latitude": 43.599695,
+      "longitude": 15.92197,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 43.807324,
+      "longitude": 15.964052,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 43.16711,
+      "longitude": 16.536089,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 59.81383,
+      "longitude": 17.66718,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 57.70195,
+      "longitude": 11.78416,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.70195,
+      "longitude": 11.78416,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.70173,
+      "longitude": 11.78384,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.70329,
+      "longitude": 11.78343,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 49.196687,
+      "longitude": 8.137394,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 9.422995,
+      "longitude": -82.523492,
+      "country": "Panama",
+      "state": "Bocas del Toro"
+    },
+    {
+      "latitude": 48.619653,
+      "longitude": 8.777272,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 42.27232,
+      "longitude": 19.146698,
+      "country": "Montenegro",
+      "state": "Podgorica"
+    },
+    {
+      "latitude": 44.811764,
+      "longitude": 13.900716,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 57.70174,
+      "longitude": 11.78384,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.70194,
+      "longitude": 11.78414,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.70197,
+      "longitude": 11.78418,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.70202,
+      "longitude": 11.78347,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.702,
+      "longitude": 11.78344,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 41.743063,
+      "longitude": -111.812267,
+      "country": "United States of America",
+      "state": "Utah"
+    },
+    {
+      "latitude": 42.431858,
+      "longitude": 18.829584,
+      "country": "Montenegro",
+      "state": "Cetinje"
+    },
+    {
+      "latitude": 41.21458,
+      "longitude": -3.935729,
+      "country": "Spain",
+      "state": "Castilla y Le\u00f3n"
+    },
+    {
+      "latitude": 51.093819,
+      "longitude": 7.063415,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 42.649325,
+      "longitude": 18.110223,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 49.078217,
+      "longitude": 9.19261,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078243,
+      "longitude": 9.192588,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078236,
+      "longitude": 9.19261,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078236,
+      "longitude": 9.192605,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078236,
+      "longitude": 9.192609,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078239,
+      "longitude": 9.192614,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 41.558228,
+      "longitude": -0.554008,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 43.508709,
+      "longitude": 16.412831,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 42.510387,
+      "longitude": 19.596479,
+      "country": "Albania",
+      "state": "Shkod\u00ebr"
+    },
+    {
+      "latitude": -37.713409,
+      "longitude": 144.991728,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 45.828918,
+      "longitude": 13.774384,
+      "country": "Slovenia",
+      "state": "Obalno-kra\u0161ka"
+    },
+    {
+      "latitude": 45.228109,
+      "longitude": 14.575393,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 45.678348,
+      "longitude": 13.865497,
+      "country": "Italy",
+      "state": "Friuli-Venezia Giulia"
+    },
+    {
+      "latitude": -1.165079,
+      "longitude": 36.706505,
+      "country": "Kenya",
+      "state": "Kiambu"
+    },
+    {
+      "latitude": 43.360692,
+      "longitude": 17.004035,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 49.078236,
+      "longitude": 9.192618,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078232,
+      "longitude": 9.192607,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078239,
+      "longitude": 9.192614,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078239,
+      "longitude": 9.192614,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 43.151213,
+      "longitude": 16.69683,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 43.151343,
+      "longitude": 16.696185,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 57.702,
+      "longitude": 11.78344,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 45.967194,
+      "longitude": 6.13996,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 43.370666,
+      "longitude": 16.599327,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 5.8,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 49.078236,
+      "longitude": 9.192609,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 43.700855,
+      "longitude": 7.277798,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 44.499395,
+      "longitude": 14.511975,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 49.078236,
+      "longitude": 9.192606,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 53.915858,
+      "longitude": 27.612809,
+      "country": "Belarus",
+      "state": "Minsk"
+    },
+    {
+      "latitude": 39.899873,
+      "longitude": -75.569595,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": -41.268073,
+      "longitude": 174.758258,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 57.702,
+      "longitude": 11.78344,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 55.72257,
+      "longitude": 13.1849,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 48.824324,
+      "longitude": 2.416356,
+      "country": "France",
+      "state": "\u00cele-de-France"
+    },
+    {
+      "latitude": 51.6,
+      "longitude": 5.3,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 5.0,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 42.559786,
+      "longitude": 2.751306,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 49.078232,
+      "longitude": 9.192598,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.024338,
+      "longitude": 8.985654,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.001202,
+      "longitude": 9.102868,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": -43.953271,
+      "longitude": -176.5556,
+      "country": "New Zealand",
+      "state": "Chatham Islands"
+    },
+    {
+      "latitude": -40.121182,
+      "longitude": -71.270061,
+      "country": "Argentina",
+      "state": "Neuqu\u00e9n"
+    },
+    {
+      "latitude": 43.153886,
+      "longitude": 16.8785,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 34.659018,
+      "longitude": 3.278071,
+      "country": "Algeria",
+      "state": "Djelfa"
+    },
+    {
+      "latitude": 43.152489,
+      "longitude": 16.879217,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 55.72257,
+      "longitude": 13.1849,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 43.825353,
+      "longitude": 11.486805,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 39.853722,
+      "longitude": -3.327629,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 40.670385,
+      "longitude": -4.117484,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 41.240122,
+      "longitude": 1.805655,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.43036,
+      "longitude": -2.959763,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 50.28519,
+      "longitude": 5.97108,
+      "country": "Belgium",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 50.85944,
+      "longitude": 4.72253,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 41.821213,
+      "longitude": -0.852355,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 46.43249,
+      "longitude": 6.88569,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 43.804977,
+      "longitude": 15.97062,
+      "country": "Croatia",
+      "state": "\u0160ibensko-kninska"
+    },
+    {
+      "latitude": 49.078262,
+      "longitude": 9.192657,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 48.839662,
+      "longitude": 2.442042,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 40.408852,
+      "longitude": -3.684438,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 43.492309,
+      "longitude": 16.250107,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 41.836022,
+      "longitude": 12.680955,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 44.474953,
+      "longitude": 14.982763,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 42.104827,
+      "longitude": -0.380017,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 48.06293,
+      "longitude": 16.29067,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 48.062019,
+      "longitude": 16.29128,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 42.44688,
+      "longitude": 19.272361,
+      "country": "Montenegro",
+      "state": "Podgorica"
+    },
+    {
+      "latitude": 44.676911,
+      "longitude": 14.446424,
+      "country": "Croatia",
+      "state": "Primorsko-Goranska"
+    },
+    {
+      "latitude": 32.650016,
+      "longitude": -16.90141,
+      "country": "Portugal",
+      "state": "Madeira"
+    },
+    {
+      "latitude": 49.642192,
+      "longitude": 8.333231,
+      "country": "Germany",
+      "state": "Rheinland-Pfalz"
+    },
+    {
+      "latitude": 49.078266,
+      "longitude": 9.192643,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.07827,
+      "longitude": 9.19265,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.078259,
+      "longitude": 9.192663,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.07827,
+      "longitude": 9.192645,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 46.83765,
+      "longitude": -1.86204,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 47.298993,
+      "longitude": 8.559494,
+      "country": "Switzerland",
+      "state": null
+    },
+    {
+      "latitude": 39.477679,
+      "longitude": -0.386686,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 50.985655,
+      "longitude": 5.480336,
+      "country": "Belgium",
+      "state": "Vlaanderen"
+    },
+    {
+      "latitude": 42.567036,
+      "longitude": 18.334583,
+      "country": "Croatia",
+      "state": "Dubrovacko-Neretvanska"
+    },
+    {
+      "latitude": 42.185823,
+      "longitude": -0.388881,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 45.6187,
+      "longitude": 13.883332,
+      "country": "Italy",
+      "state": "Friuli-Venezia Giulia"
+    },
+    {
+      "latitude": 43.894458,
+      "longitude": 15.607892,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 43.940983,
+      "longitude": 15.557447,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 43.942136,
+      "longitude": 15.555067,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 43.894281,
+      "longitude": 15.608,
+      "country": "Croatia",
+      "state": "Zadarska"
+    },
+    {
+      "latitude": 40.657505,
+      "longitude": 0.225503,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 43.775517,
+      "longitude": 15.630577,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 5.25,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 43.167815,
+      "longitude": 16.639627,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    },
+    {
+      "latitude": 37.721169,
+      "longitude": 26.860849,
+      "country": "Greece",
+      "state": null
+    },
+    {
+      "latitude": 37.711765,
+      "longitude": 27.050541,
+      "country": "Greece",
+      "state": null
+    },
+    {
+      "latitude": 48.681538,
+      "longitude": 2.171965,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 48.655149,
+      "longitude": 2.293234,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 39.956909,
+      "longitude": -2.068208,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 48.843838,
+      "longitude": 2.360423,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 43.459043,
+      "longitude": 3.685226,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 48.110902,
+      "longitude": -1.6992,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 47.436803,
+      "longitude": 0.967417,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 46.905258,
+      "longitude": 6.355346,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": -43.644892,
+      "longitude": 172.468343,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 28.539614,
+      "longitude": -16.266457,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 39.797151,
+      "longitude": 3.106658,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 45.239469,
+      "longitude": 14.203878,
+      "country": "Croatia",
+      "state": "Istarska"
+    },
+    {
+      "latitude": 43.821962,
+      "longitude": 15.938302,
+      "country": "Croatia",
+      "state": "\u0160ibensko-Kninska"
+    },
+    {
+      "latitude": 41.43773,
+      "longitude": 2.145585,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 43.337005,
+      "longitude": 16.819382,
+      "country": "Croatia",
+      "state": "Splitsko-Dalmatinska"
+    }
+  ],
+  "scientific_name": "Salvia officinalis",
+  "common_name": "garden sage",
+  "description": null
+}

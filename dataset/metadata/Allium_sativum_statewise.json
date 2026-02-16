@@ -1,0 +1,11 @@
+{
+  "herb": "Allium sativum",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "WestBengal": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    }
+  }
+}

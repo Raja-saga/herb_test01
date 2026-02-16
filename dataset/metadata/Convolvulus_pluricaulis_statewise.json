@@ -1,0 +1,31 @@
+{
+  "herb": "Convolvulus pluricaulis",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Rajasthan": {
+      "count": 20,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Gujarat": {
+      "count": 7,
+      "normalizedScore": 0.35,
+      "presence": "Low"
+    },
+    "DamanandDiu": {
+      "count": 2,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 12,
+      "normalizedScore": 0.6,
+      "presence": "Medium"
+    },
+    "Uttarakhand": {
+      "count": 1,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    }
+  }
+}

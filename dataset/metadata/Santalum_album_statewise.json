@@ -1,0 +1,76 @@
+{
+  "herb": "Santalum album",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Karnataka": {
+      "count": 78,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Telangana": {
+      "count": 45,
+      "normalizedScore": 0.58,
+      "presence": "Medium"
+    },
+    "TamilNadu": {
+      "count": 39,
+      "normalizedScore": 0.5,
+      "presence": "Medium"
+    },
+    "Rajasthan": {
+      "count": 14,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    },
+    "Maharashtra": {
+      "count": 47,
+      "normalizedScore": 0.6,
+      "presence": "Medium"
+    },
+    "Kerala": {
+      "count": 39,
+      "normalizedScore": 0.5,
+      "presence": "Medium"
+    },
+    "AndhraPradesh": {
+      "count": 16,
+      "normalizedScore": 0.21,
+      "presence": "Low"
+    },
+    "UttarPradesh": {
+      "count": 3,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 1,
+      "normalizedScore": 0.01,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 22,
+      "normalizedScore": 0.28,
+      "presence": "Low"
+    },
+    "Puducherry": {
+      "count": 1,
+      "normalizedScore": 0.01,
+      "presence": "Very Low"
+    },
+    "Assam": {
+      "count": 1,
+      "normalizedScore": 0.01,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 2,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    },
+    "WestBengal": {
+      "count": 2,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    }
+  }
+}

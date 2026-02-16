@@ -1,0 +1,920 @@
+{
+  "herb": "Cuminum cyminum",
+  "locations": [
+    {
+      "latitude": 29.220612,
+      "longitude": 51.244146,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 29.220623,
+      "longitude": 51.244115,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 8.118333,
+      "longitude": 98.624444,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118527,
+      "longitude": 98.624829,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 29.218291,
+      "longitude": 51.24058,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 29.218278,
+      "longitude": 51.240586,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 29.218264,
+      "longitude": 51.240571,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": -41.592731,
+      "longitude": 173.454539,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.567875,
+      "longitude": 173.313185,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": -41.567875,
+      "longitude": 173.313185,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 2.20219,
+      "longitude": -75.64634,
+      "country": "Colombia",
+      "state": "Huila"
+    },
+    {
+      "latitude": 29.221674,
+      "longitude": 51.241344,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 29.221693,
+      "longitude": 51.241435,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": -39.672202,
+      "longitude": 176.86622,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 57.004866,
+      "longitude": 9.859755,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": -36.8865,
+      "longitude": 174.712325,
+      "country": "New Zealand",
+      "state": "Auckland"
+    },
+    {
+      "latitude": -36.8865,
+      "longitude": 174.712306,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 46.99205,
+      "longitude": 2.14469,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 42.4525,
+      "longitude": 1.358,
+      "country": "Spain",
+      "state": "Lleida"
+    },
+    {
+      "latitude": 30.03,
+      "longitude": 31.2,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 24.4019,
+      "longitude": 72.64918,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 42.3005,
+      "longitude": 1.1733,
+      "country": "Spain",
+      "state": "Lleida"
+    },
+    {
+      "latitude": 63.434,
+      "longitude": 10.671,
+      "country": "Norway",
+      "state": null
+    },
+    {
+      "latitude": 49.85803,
+      "longitude": 20.27021,
+      "country": "Poland",
+      "state": null
+    },
+    {
+      "latitude": -18.068333,
+      "longitude": -64.405,
+      "country": "Bolivia (Plurinational State of)",
+      "state": null
+    },
+    {
+      "latitude": -31.365556,
+      "longitude": -51.978056,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": 34.680278,
+      "longitude": 135.218056,
+      "country": "Japan",
+      "state": "Pref. Hyogo:"
+    },
+    {
+      "latitude": 48.48356,
+      "longitude": 7.73045,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 38.861277,
+      "longitude": -76.867211,
+      "country": "United States of America",
+      "state": "Maryland"
+    },
+    {
+      "latitude": 38.6,
+      "longitude": -90.25,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 28.582492,
+      "longitude": 66.583333,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.267233,
+      "longitude": 65.917969,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.267233,
+      "longitude": 65.917969,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.267233,
+      "longitude": 65.917969,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.988245,
+      "longitude": 66.912231,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.630771,
+      "longitude": 66.610107,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.9,
+      "longitude": 66.733333,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.416667,
+      "longitude": 65.933333,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.988245,
+      "longitude": 66.912231,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 26.333333,
+      "longitude": 56.333333,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 25.352184,
+      "longitude": -101.030705,
+      "country": "Mexico",
+      "state": "Coahuila"
+    },
+    {
+      "latitude": 38.9425,
+      "longitude": -3.237778,
+      "country": "Spain",
+      "state": "Ciudad Real"
+    },
+    {
+      "latitude": 29.5,
+      "longitude": 66.7,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 32.105278,
+      "longitude": -9.083611,
+      "country": "Morocco",
+      "state": null
+    },
+    {
+      "latitude": 39.830291,
+      "longitude": 25.330181,
+      "country": "Greece",
+      "state": null
+    },
+    {
+      "latitude": 27.266667,
+      "longitude": 14.9,
+      "country": "Libya",
+      "state": "Fezzan"
+    },
+    {
+      "latitude": 28.93,
+      "longitude": 66.5,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 28.37,
+      "longitude": 66.3,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.35,
+      "longitude": 65.95,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.55,
+      "longitude": 67.016667,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.25,
+      "longitude": 65.75,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.89,
+      "longitude": 66.63,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.8,
+      "longitude": 66.54,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 28.49,
+      "longitude": 66.26,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.89,
+      "longitude": 66.63,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.828056,
+      "longitude": 66.724167,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.283333,
+      "longitude": 65.966667,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 28.3,
+      "longitude": 66.33,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.833333,
+      "longitude": 66.833333,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.166667,
+      "longitude": 65.65,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.933333,
+      "longitude": 66.483333,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.55,
+      "longitude": 66.016667,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.316667,
+      "longitude": 65.583333,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.166667,
+      "longitude": 66.81,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.083333,
+      "longitude": 64.5,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.43,
+      "longitude": 66.166667,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.833333,
+      "longitude": 66.833333,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.35,
+      "longitude": 66.633333,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 31.088889,
+      "longitude": 68.694167,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.818889,
+      "longitude": 67.765,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 28.480312,
+      "longitude": 65.563734,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.666667,
+      "longitude": 68.566667,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.872222,
+      "longitude": 67.433333,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.46,
+      "longitude": 68.5,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 31.083333,
+      "longitude": 68.69,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 27.78,
+      "longitude": 63.5,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.37,
+      "longitude": 68.37,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 67.64,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.097778,
+      "longitude": 67.331944,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.516667,
+      "longitude": 67.333333,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.366667,
+      "longitude": 68.19,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 29.983333,
+      "longitude": 67.016667,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 30.05,
+      "longitude": 66.666667,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": 26.016666,
+      "longitude": 32.849998,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 25.283333,
+      "longitude": 32.533333,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 27.316668,
+      "longitude": 30.983334,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 26.116667,
+      "longitude": 32.016666,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 26.116667,
+      "longitude": 32.016666,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 25.700001,
+      "longitude": 32.650002,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 24.950001,
+      "longitude": 32.883331,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 16.75,
+      "longitude": 43.75,
+      "country": "Yemen",
+      "state": null
+    },
+    {
+      "latitude": 59.1941326,
+      "longitude": 10.9504683,
+      "country": "Norway",
+      "state": "Viken"
+    },
+    {
+      "latitude": -7.230833,
+      "longitude": -35.881111,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 39.47,
+      "longitude": 75.98,
+      "country": "China",
+      "state": "\u65b0\u7586"
+    },
+    {
+      "latitude": 34.244,
+      "longitude": -118.534,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.983333,
+      "longitude": 56.9,
+      "country": "Iran (Islamic Republic of)",
+      "state": "Khorasan"
+    },
+    {
+      "latitude": 33.98333,
+      "longitude": 56.9,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 32.906025,
+      "longitude": 54.237076,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 32.411822,
+      "longitude": 35.380304,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 51.87694,
+      "longitude": 4.40693,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 51.87718,
+      "longitude": 4.43597,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 51.89527,
+      "longitude": 4.45012,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 51.87694,
+      "longitude": 4.40693,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 30.533333,
+      "longitude": 63.866667,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 52.46272,
+      "longitude": 4.61469,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 37.8866,
+      "longitude": -6.5779,
+      "country": "Spain",
+      "state": "Huelva"
+    },
+    {
+      "latitude": 36.211663,
+      "longitude": 79.305582,
+      "country": "China",
+      "state": "\u65b0\u7586"
+    },
+    {
+      "latitude": 37.12,
+      "longitude": 79.92,
+      "country": "China",
+      "state": "\u65b0\u7586"
+    },
+    {
+      "latitude": 37.12,
+      "longitude": 79.92,
+      "country": "China",
+      "state": "\u65b0\u7586"
+    },
+    {
+      "latitude": 52.3744,
+      "longitude": 4.90993,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 15.398196,
+      "longitude": 74.33666,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 51.913643,
+      "longitude": -0.47486,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 22.307159,
+      "longitude": 73.181219,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 53.13815,
+      "longitude": 5.90276,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 22.564518,
+      "longitude": 72.928871,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.307159,
+      "longitude": 73.181219,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.564518,
+      "longitude": 72.928871,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.564518,
+      "longitude": 72.928871,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.564518,
+      "longitude": 72.928871,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 57.72174,
+      "longitude": 11.97069,
+      "country": "Sweden",
+      "state": null
+    },
+    {
+      "latitude": -7.115,
+      "longitude": -34.863056,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 51.440813,
+      "longitude": -2.62725,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 40.205091,
+      "longitude": -8.42248,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 51.547751,
+      "longitude": -0.054443,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.546667,
+      "longitude": -0.059167,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.546667,
+      "longitude": -0.059167,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.85344,
+      "longitude": 5.00256,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 50.813333,
+      "longitude": 4.324722,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 51.0,
+      "longitude": 7.0,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 52.16138,
+      "longitude": 4.51542,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 39.46,
+      "longitude": -3.52,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.59,
+      "longitude": -3.11,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 33.06667,
+      "longitude": -7.6,
+      "country": "Morocco",
+      "state": null
+    },
+    {
+      "latitude": 32.43667,
+      "longitude": 35.21667,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.42306,
+      "longitude": 35.36417,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.42306,
+      "longitude": 35.36417,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.38472,
+      "longitude": 35.37972,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.4525,
+      "longitude": 35.36333,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.40167,
+      "longitude": 35.20278,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.4525,
+      "longitude": 35.36333,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.4525,
+      "longitude": 35.36333,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.45806,
+      "longitude": 35.41278,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 41.6,
+      "longitude": 1.03333,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": -3.03333,
+      "longitude": -78.7833,
+      "country": "Ecuador",
+      "state": null
+    },
+    {
+      "latitude": 38.9787863,
+      "longitude": -3.9811882,
+      "country": "Spain",
+      "state": "Cr"
+    },
+    {
+      "latitude": 42.5588973,
+      "longitude": -0.5011846,
+      "country": "Spain",
+      "state": "Hu"
+    },
+    {
+      "latitude": 31.0,
+      "longitude": 64.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 31.0,
+      "longitude": 65.75,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 53.13794,
+      "longitude": 5.94759,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 52.16138,
+      "longitude": 4.51542,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 51.913643,
+      "longitude": -0.47486,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 22.307159,
+      "longitude": 73.181219,
+      "country": "India",
+      "state": null
+    }
+  ],
+  "scientific_name": "Cuminum cyminum",
+  "common_name": "Cumin",
+  "description": null
+}

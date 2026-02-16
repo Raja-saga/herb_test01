@@ -1,0 +1,66 @@
+{
+  "herb": "Boswellia serrata",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Rajasthan": {
+      "count": 45,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Maharashtra": {
+      "count": 21,
+      "normalizedScore": 0.47,
+      "presence": "Medium"
+    },
+    "NCTofDelhi": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 4,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 4,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 7,
+      "normalizedScore": 0.16,
+      "presence": "Very Low"
+    },
+    "Telangana": {
+      "count": 13,
+      "normalizedScore": 0.29,
+      "presence": "Low"
+    },
+    "Bihar": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "TamilNadu": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "Odisha": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "UttarPradesh": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Karnataka": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    }
+  }
+}

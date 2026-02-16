@@ -1,0 +1,950 @@
+{
+  "herb": "Pandanus amaryllifolius",
+  "locations": [
+    {
+      "latitude": 16.517088,
+      "longitude": 100.38137,
+      "country": "Thailand",
+      "state": "Phichit"
+    },
+    {
+      "latitude": 2.314648,
+      "longitude": 111.84285,
+      "country": "Malaysia",
+      "state": "Sarawak"
+    },
+    {
+      "latitude": 23.801292,
+      "longitude": 121.484258,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 13.901083,
+      "longitude": 100.5311,
+      "country": "Thailand",
+      "state": "Nonthaburi"
+    },
+    {
+      "latitude": 1.409555,
+      "longitude": 103.869788,
+      "country": "Singapore",
+      "state": "North-East"
+    },
+    {
+      "latitude": 1.382655,
+      "longitude": 103.765428,
+      "country": "Singapore",
+      "state": "West"
+    },
+    {
+      "latitude": -7.316594,
+      "longitude": 112.756698,
+      "country": "Indonesia",
+      "state": "Jawa Timur"
+    },
+    {
+      "latitude": 9.32917,
+      "longitude": 80.685157,
+      "country": "Sri Lanka",
+      "state": "Mullaitivu"
+    },
+    {
+      "latitude": 8.118479,
+      "longitude": 98.621308,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 22.497936,
+      "longitude": 90.253267,
+      "country": "Bangladesh",
+      "state": "Barisal"
+    },
+    {
+      "latitude": 1.284767,
+      "longitude": 103.792594,
+      "country": "Singapore",
+      "state": "Central"
+    },
+    {
+      "latitude": -8.660144,
+      "longitude": 115.138023,
+      "country": "Indonesia",
+      "state": "Bali"
+    },
+    {
+      "latitude": 1.330385,
+      "longitude": 103.726559,
+      "country": "Singapore",
+      "state": "West"
+    },
+    {
+      "latitude": 1.454419,
+      "longitude": 124.826175,
+      "country": "Indonesia",
+      "state": "Sulawesi Utara"
+    },
+    {
+      "latitude": 14.079667,
+      "longitude": 100.599081,
+      "country": "Thailand",
+      "state": "Pathum Thani"
+    },
+    {
+      "latitude": 20.356706,
+      "longitude": 105.603198,
+      "country": "Viet Nam",
+      "state": "Ninh B\u00ecnh"
+    },
+    {
+      "latitude": 1.343126,
+      "longitude": 103.722714,
+      "country": "Singapore",
+      "state": "West"
+    },
+    {
+      "latitude": 1.343336,
+      "longitude": 103.722788,
+      "country": "Singapore",
+      "state": "West"
+    },
+    {
+      "latitude": 16.40204,
+      "longitude": 100.140076,
+      "country": "Thailand",
+      "state": "Phichit"
+    },
+    {
+      "latitude": 13.450008,
+      "longitude": 99.917655,
+      "country": "Thailand",
+      "state": "Samut Songkhram"
+    },
+    {
+      "latitude": 2.928113,
+      "longitude": 101.703691,
+      "country": "Malaysia",
+      "state": "Putrajaya"
+    },
+    {
+      "latitude": -7.264599,
+      "longitude": 72.375637,
+      "country": "British Indian Ocean Territory",
+      "state": null
+    },
+    {
+      "latitude": 3.150515,
+      "longitude": 101.686035,
+      "country": "Malaysia",
+      "state": "Kuala Lumpur"
+    },
+    {
+      "latitude": 1.357523,
+      "longitude": 103.745016,
+      "country": "Singapore",
+      "state": "West"
+    },
+    {
+      "latitude": 1.352074,
+      "longitude": 103.819836,
+      "country": "Singapore",
+      "state": "North"
+    },
+    {
+      "latitude": 13.451101,
+      "longitude": 99.919793,
+      "country": "Thailand",
+      "state": "Samut Songkhram"
+    },
+    {
+      "latitude": 1.378762,
+      "longitude": 103.898874,
+      "country": "Singapore",
+      "state": "North-East"
+    },
+    {
+      "latitude": 13.791229,
+      "longitude": 100.318572,
+      "country": "Thailand",
+      "state": null
+    },
+    {
+      "latitude": -1.610683,
+      "longitude": 103.517851,
+      "country": "Indonesia",
+      "state": "Jambi"
+    },
+    {
+      "latitude": 1.369927,
+      "longitude": 103.963967,
+      "country": "Singapore",
+      "state": null
+    },
+    {
+      "latitude": 19.97694,
+      "longitude": 99.844406,
+      "country": "Thailand",
+      "state": "Chiang Rai"
+    },
+    {
+      "latitude": 1.426519,
+      "longitude": 103.839379,
+      "country": "Singapore",
+      "state": "North"
+    },
+    {
+      "latitude": 1.382228,
+      "longitude": 103.766229,
+      "country": "Singapore",
+      "state": "West"
+    },
+    {
+      "latitude": 10.952,
+      "longitude": 122.571,
+      "country": "Philippines",
+      "state": "Iloilo"
+    },
+    {
+      "latitude": 10.952,
+      "longitude": 122.571,
+      "country": "Philippines",
+      "state": "Iloilo"
+    },
+    {
+      "latitude": 1.382312,
+      "longitude": 103.764924,
+      "country": "Singapore",
+      "state": "West"
+    },
+    {
+      "latitude": 1.425024,
+      "longitude": 103.723667,
+      "country": "Singapore",
+      "state": "North"
+    },
+    {
+      "latitude": 3.037279,
+      "longitude": 101.580822,
+      "country": "Malaysia",
+      "state": "Selangor"
+    },
+    {
+      "latitude": 3.037628,
+      "longitude": 101.580437,
+      "country": "Malaysia",
+      "state": "Selangor"
+    },
+    {
+      "latitude": 3.037981,
+      "longitude": 101.581025,
+      "country": "Malaysia",
+      "state": "Selangor"
+    },
+    {
+      "latitude": 3.037726,
+      "longitude": 101.580319,
+      "country": "Malaysia",
+      "state": "Selangor"
+    },
+    {
+      "latitude": 2.819871,
+      "longitude": 101.442512,
+      "country": "Malaysia",
+      "state": null
+    },
+    {
+      "latitude": 14.267,
+      "longitude": 120.867,
+      "country": "Philippines",
+      "state": "Cavite"
+    },
+    {
+      "latitude": 14.267,
+      "longitude": 120.867,
+      "country": "Philippines",
+      "state": "Cavite"
+    },
+    {
+      "latitude": 14.267,
+      "longitude": 120.867,
+      "country": "Philippines",
+      "state": "Cavite"
+    },
+    {
+      "latitude": 14.267,
+      "longitude": 120.867,
+      "country": "Philippines",
+      "state": "Cavite"
+    },
+    {
+      "latitude": 14.876,
+      "longitude": 120.463,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 14.876,
+      "longitude": 120.463,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 63.434,
+      "longitude": 10.671,
+      "country": "Norway",
+      "state": null
+    },
+    {
+      "latitude": 63.434,
+      "longitude": 10.671,
+      "country": "Norway",
+      "state": null
+    },
+    {
+      "latitude": 39.871776,
+      "longitude": -75.674657,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 13.360216,
+      "longitude": 99.912972,
+      "country": "Thailand",
+      "state": "Samut Songkhram"
+    },
+    {
+      "latitude": 21.633333,
+      "longitude": -158.05,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 1.333,
+      "longitude": 112.166,
+      "country": "Malaysia",
+      "state": "Sarawak"
+    },
+    {
+      "latitude": 3.45,
+      "longitude": -76.516667,
+      "country": "Colombia",
+      "state": "Valle del Cauca"
+    },
+    {
+      "latitude": 17.406448,
+      "longitude": 103.238945,
+      "country": "Thailand",
+      "state": "Udon Thani"
+    },
+    {
+      "latitude": 18.8,
+      "longitude": 110.4,
+      "country": "China",
+      "state": "\u6d77\u5357"
+    },
+    {
+      "latitude": 18.8,
+      "longitude": 110.4,
+      "country": "China",
+      "state": "\u6d77\u5357"
+    },
+    {
+      "latitude": 1.352825,
+      "longitude": 103.81026,
+      "country": "Singapore",
+      "state": null
+    },
+    {
+      "latitude": 1.352825,
+      "longitude": 103.81026,
+      "country": "Singapore",
+      "state": null
+    },
+    {
+      "latitude": 3.671661,
+      "longitude": 114.6333,
+      "country": "Malaysia",
+      "state": null
+    },
+    {
+      "latitude": 3.92404,
+      "longitude": -53.23477,
+      "country": "French Guiana",
+      "state": null
+    },
+    {
+      "latitude": 3.92404,
+      "longitude": -53.23477,
+      "country": "French Guiana",
+      "state": null
+    },
+    {
+      "latitude": 3.91451,
+      "longitude": -53.24036,
+      "country": "French Guiana",
+      "state": null
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.389,
+      "longitude": 123.169,
+      "country": "Philippines",
+      "state": "Zamboanga del Norte"
+    },
+    {
+      "latitude": 8.714,
+      "longitude": 125.748,
+      "country": "Philippines",
+      "state": "Agusan del Sur"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 8.576,
+      "longitude": 125.889,
+      "country": "Philippines",
+      "state": "Agusan del Sur"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 18.555,
+      "longitude": 122.135,
+      "country": "Philippines",
+      "state": "Eastern Samar"
+    },
+    {
+      "latitude": 18.542,
+      "longitude": 122.138,
+      "country": "Philippines",
+      "state": "Cagayan"
+    },
+    {
+      "latitude": 14.191,
+      "longitude": 121.526,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 7.317,
+      "longitude": 126.542,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 14.642,
+      "longitude": 120.482,
+      "country": "Philippines",
+      "state": "Bataan"
+    },
+    {
+      "latitude": 20.417,
+      "longitude": 121.95,
+      "country": "Philippines",
+      "state": "Batanes"
+    },
+    {
+      "latitude": 20.417,
+      "longitude": 121.95,
+      "country": "Philippines",
+      "state": "Batanes"
+    },
+    {
+      "latitude": 20.417,
+      "longitude": 121.95,
+      "country": "Philippines",
+      "state": "Batanes"
+    },
+    {
+      "latitude": 16.628,
+      "longitude": 120.736,
+      "country": "Philippines",
+      "state": "Benguet"
+    },
+    {
+      "latitude": 16.628,
+      "longitude": 120.736,
+      "country": "Philippines",
+      "state": "Benguet"
+    },
+    {
+      "latitude": 15.862,
+      "longitude": 121.459,
+      "country": "Philippines",
+      "state": "Aurora"
+    },
+    {
+      "latitude": 16.683,
+      "longitude": 122.317,
+      "country": "Philippines",
+      "state": "Ifugao"
+    },
+    {
+      "latitude": 7.523,
+      "longitude": 122.311,
+      "country": "Philippines",
+      "state": "Zamboanga Sibugay"
+    },
+    {
+      "latitude": 14.141,
+      "longitude": 121.469,
+      "country": "Philippines",
+      "state": "Laguna"
+    },
+    {
+      "latitude": 8.046,
+      "longitude": 126.062,
+      "country": "Philippines",
+      "state": "Agusan del Sur"
+    },
+    {
+      "latitude": 8.046,
+      "longitude": 126.062,
+      "country": "Philippines",
+      "state": "Agusan del Sur"
+    },
+    {
+      "latitude": 8.046,
+      "longitude": 126.062,
+      "country": "Philippines",
+      "state": "Agusan del Sur"
+    },
+    {
+      "latitude": 8.046,
+      "longitude": 126.062,
+      "country": "Philippines",
+      "state": "Agusan del Sur"
+    },
+    {
+      "latitude": 8.046,
+      "longitude": 126.062,
+      "country": "Philippines",
+      "state": "Agusan del Sur"
+    },
+    {
+      "latitude": 8.046,
+      "longitude": 126.062,
+      "country": "Philippines",
+      "state": "Agusan del Sur"
+    }
+  ],
+  "scientific_name": "Pandanus amaryllifolius",
+  "common_name": "Pandan",
+  "description": null
+}

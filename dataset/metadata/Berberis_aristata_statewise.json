@@ -1,0 +1,21 @@
+{
+  "herb": "Berberis aristata",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "HimachalPradesh": {
+      "count": 7,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Uttarakhand": {
+      "count": 2,
+      "normalizedScore": 0.29,
+      "presence": "Low"
+    },
+    "Uttarankhand": {
+      "count": 2,
+      "normalizedScore": 0.29,
+      "presence": "Low"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "herb": "Elettaria cardamomum",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Sikkim": {
+      "count": 2,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    },
+    "Uttarakhand": {
+      "count": 1,
+      "normalizedScore": 0.07,
+      "presence": "Very Low"
+    },
+    "Kerala": {
+      "count": 4,
+      "normalizedScore": 0.29,
+      "presence": "Low"
+    },
+    "TamilNadu": {
+      "count": 14,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Karnataka": {
+      "count": 2,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 1,
+      "normalizedScore": 0.07,
+      "presence": "Very Low"
+    }
+  }
+}

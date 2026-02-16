@@ -1,0 +1,11 @@
+{
+  "herb": "Desmodium gangeticum",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "WestBengal": {
+      "count": 3,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "herb": "Hedychium spicatum",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Uttarakhand": {
+      "count": 20,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Kerala": {
+      "count": 2,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "HimachalPradesh": {
+      "count": 3,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Sikkim": {
+      "count": 2,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "TamilNadu": {
+      "count": 1,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Manipur": {
+      "count": 2,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "JammuandKashmir": {
+      "count": 1,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Concan": {
+      "count": 1,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    }
+  }
+}

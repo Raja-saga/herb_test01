@@ -1,0 +1,356 @@
+{
+  "herb": "Commiphora mukul",
+  "locations": [
+    {
+      "latitude": 26.238697,
+      "longitude": 73.011666,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 22.535802,
+      "longitude": 71.257723,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 22.502033,
+      "longitude": 71.241855,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 22.498588,
+      "longitude": 71.240111,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 22.51274,
+      "longitude": 71.2498,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 17.54801,
+      "longitude": 78.45748,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.54759,
+      "longitude": 78.457443,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.547944,
+      "longitude": 78.457528,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 21.638813,
+      "longitude": 70.2687,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 17.626633,
+      "longitude": 75.885346,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 23.137961,
+      "longitude": 69.468772,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 26.304165,
+      "longitude": 73.017395,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 22.348035,
+      "longitude": 71.204063,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 22.273773,
+      "longitude": 71.203808,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 22.42275,
+      "longitude": 71.207712,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 20.717132,
+      "longitude": 70.965195,
+      "country": "India",
+      "state": "Daman and Diu"
+    },
+    {
+      "latitude": 22.487672,
+      "longitude": 71.165733,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 22.490408,
+      "longitude": 71.169753,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 26.116758,
+      "longitude": 74.026125,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 26.912366,
+      "longitude": 75.787271,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 22.563448,
+      "longitude": 71.252328,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 22.538457,
+      "longitude": 71.258053,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 26.866591,
+      "longitude": 75.815444,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 24.949881,
+      "longitude": 74.105211,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 21.367547,
+      "longitude": 71.026918,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 25.2228,
+      "longitude": 75.8089,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 26.302845,
+      "longitude": 73.017408,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 22.49035,
+      "longitude": 71.167563,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 9.498067,
+      "longitude": 76.338852,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 27.6094,
+      "longitude": 75.139908,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 16.865,
+      "longitude": 53.72389,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 23.236145,
+      "longitude": 72.67699,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 13.123137,
+      "longitude": 77.549675,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.916494,
+      "longitude": 75.731163,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.71196,
+      "longitude": 69.73053,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 26.302803,
+      "longitude": 73.016942,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 26.87758,
+      "longitude": 70.600615,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 21.71196,
+      "longitude": 69.73053,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 25.675,
+      "longitude": -80.2683,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.675,
+      "longitude": -80.268333,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 17.13333,
+      "longitude": 54.58333,
+      "country": "Oman",
+      "state": "Zufar"
+    },
+    {
+      "latitude": 16.6,
+      "longitude": 52.93333,
+      "country": "Yemen",
+      "state": "Al Mahrah"
+    },
+    {
+      "latitude": 16.66667,
+      "longitude": 53.08333,
+      "country": "Yemen",
+      "state": "Al Mahrah"
+    },
+    {
+      "latitude": 22.433333,
+      "longitude": 59.816667,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 26.33333,
+      "longitude": 65.66667,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 19.633333,
+      "longitude": 57.416667,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 19.633333,
+      "longitude": 57.416667,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 22.966667,
+      "longitude": 57.683333,
+      "country": "Oman",
+      "state": "Ad Dakhliyah"
+    },
+    {
+      "latitude": 23.066667,
+      "longitude": 57.116667,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 23.242,
+      "longitude": 69.666932,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.242,
+      "longitude": 69.666932,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.242,
+      "longitude": 69.666932,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.349301,
+      "longitude": 74.632026,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.242,
+      "longitude": 69.666932,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.116672,
+      "longitude": 70.028102,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 26.3333,
+      "longitude": 65.6667,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 59.37,
+      "longitude": 18.0471,
+      "country": "Sweden",
+      "state": "Stockholms l\u00e4n"
+    },
+    {
+      "latitude": 26.0,
+      "longitude": 78.0,
+      "country": "India",
+      "state": null
+    }
+  ],
+  "scientific_name": "Commiphora wightii",
+  "common_name": "Indian bdellium-tree",
+  "description": null
+}

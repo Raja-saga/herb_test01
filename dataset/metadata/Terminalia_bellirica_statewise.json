@@ -1,0 +1,81 @@
+{
+  "herb": "Terminalia bellirica",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Telangana": {
+      "count": 7,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "Maharashtra": {
+      "count": 56,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Rajasthan": {
+      "count": 13,
+      "normalizedScore": 0.23,
+      "presence": "Low"
+    },
+    "MadhyaPradesh": {
+      "count": 8,
+      "normalizedScore": 0.14,
+      "presence": "Very Low"
+    },
+    "Karnataka": {
+      "count": 35,
+      "normalizedScore": 0.62,
+      "presence": "Medium"
+    },
+    "TamilNadu": {
+      "count": 17,
+      "normalizedScore": 0.3,
+      "presence": "Low"
+    },
+    "Kerala": {
+      "count": 6,
+      "normalizedScore": 0.11,
+      "presence": "Very Low"
+    },
+    "Uttarakhand": {
+      "count": 6,
+      "normalizedScore": 0.11,
+      "presence": "Very Low"
+    },
+    "WestBengal": {
+      "count": 3,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 3,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 6,
+      "normalizedScore": 0.11,
+      "presence": "Very Low"
+    },
+    "Odisha": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "Assam": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "ArunachalPradesh": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    }
+  }
+}

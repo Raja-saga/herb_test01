@@ -4,6 +4,7 @@ import LocationInput from './components/LocationInput';
 import HerbMap from './components/HerbMap';
 import { getHerbLocations } from './services/api';
 import './styles.css';
+import DataSourceBadge from './components/DataSourceBadge';
 
 function App() {
   const [prediction, setPrediction] = useState(null);
@@ -81,6 +82,7 @@ function App() {
           userLocation={userLocation}
           validationResults={prediction?.validationResults}
         />
+        <DataSourceBadge/>
       </div>
     </div>
   );

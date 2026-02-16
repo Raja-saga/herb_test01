@@ -1,0 +1,11 @@
+{
+  "herb": "Valeriana wallichii",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Uttarakhand": {
+      "count": 6,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    }
+  }
+}

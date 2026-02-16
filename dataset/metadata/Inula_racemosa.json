@@ -1,0 +1,3008 @@
+{
+  "herb": "Inula racemosa",
+  "locations": [
+    {
+      "latitude": 57.80537,
+      "longitude": 11.88079,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 56.71818,
+      "longitude": 12.8674,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 52.45,
+      "longitude": 5.45,
+      "country": "Netherlands",
+      "state": "Flevoland"
+    },
+    {
+      "latitude": 52.45,
+      "longitude": 5.45,
+      "country": "Netherlands",
+      "state": "Flevoland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.83709,
+      "longitude": 3.64723,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.9528,
+      "longitude": 4.01444,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.80863,
+      "longitude": 3.2937,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.95093,
+      "longitude": 4.44589,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 57.80537,
+      "longitude": 11.88079,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 55.73883,
+      "longitude": 13.21035,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.5,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.5,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.5,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.5,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.5,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.78328,
+      "longitude": 3.21904,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.78617,
+      "longitude": 3.22261,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.20492,
+      "longitude": 2.94527,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.7861,
+      "longitude": 3.22258,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.20493,
+      "longitude": 2.94526,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 57.80537,
+      "longitude": 11.88079,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 50.95217,
+      "longitude": 4.00381,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.786,
+      "longitude": 3.22242,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.81867,
+      "longitude": 3.35047,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.94048,
+      "longitude": 4.70282,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.60166,
+      "longitude": 4.17252,
+      "country": "Belgium",
+      "state": "Hainaut"
+    },
+    {
+      "latitude": 50.80563,
+      "longitude": 3.29787,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 50.93463,
+      "longitude": 5.70768,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.90038,
+      "longitude": 3.67849,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.84372,
+      "longitude": 3.34885,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.83219,
+      "longitude": 3.84515,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.94082,
+      "longitude": 4.70316,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.5,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 4.75,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.5,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 43.221944,
+      "longitude": 76.913942,
+      "country": "Kazakhstan",
+      "state": "Almaty"
+    },
+    {
+      "latitude": 50.95439,
+      "longitude": 3.95323,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.99267,
+      "longitude": 4.38366,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.89838,
+      "longitude": 3.67957,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 50.99278,
+      "longitude": 4.38478,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.25,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.4,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.95,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 50.99276,
+      "longitude": 4.38469,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.8361,
+      "longitude": 3.64692,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.29448,
+      "longitude": 3.1969,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 56.71893,
+      "longitude": 12.86304,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.3,
+      "longitude": 6.1,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.55,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.2,
+      "longitude": 4.45,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.75,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.8361,
+      "longitude": 3.6469,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.94997,
+      "longitude": 4.44616,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.95105,
+      "longitude": 4.44661,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.9276,
+      "longitude": 5.61804,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.78521,
+      "longitude": 3.21396,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.20167,
+      "longitude": 2.93825,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.0356,
+      "longitude": 4.42106,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.99181,
+      "longitude": 4.38375,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.83609,
+      "longitude": 3.64691,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.88456,
+      "longitude": 4.00669,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.20193,
+      "longitude": 2.92323,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.03496,
+      "longitude": 4.42091,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 51.476887,
+      "longitude": -0.230117,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.80201,
+      "longitude": 4.65053,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.78619,
+      "longitude": 3.22254,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.92947,
+      "longitude": 4.69605,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.80543,
+      "longitude": 3.90161,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.84129,
+      "longitude": 5.12473,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.77337,
+      "longitude": 3.83773,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.06656,
+      "longitude": 3.09598,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.10625,
+      "longitude": 5.69871,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.95421,
+      "longitude": 4.0792,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.77389,
+      "longitude": 3.8375,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.05487,
+      "longitude": 4.26386,
+      "country": "Belgium",
+      "state": "Hainaut"
+    },
+    {
+      "latitude": 51.221803,
+      "longitude": 6.967864,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 50.78685,
+      "longitude": 3.21321,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.4,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.2,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.4,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 53.25,
+      "longitude": 6.3,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.05,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.91826,
+      "longitude": 5.70151,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.83082,
+      "longitude": 3.28717,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.86338,
+      "longitude": 5.29138,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.17834,
+      "longitude": 3.5399,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.7863,
+      "longitude": 3.22217,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.76941,
+      "longitude": 5.27017,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.94082,
+      "longitude": 4.7032,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.03562,
+      "longitude": 4.42107,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.92957,
+      "longitude": 3.65353,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.99097,
+      "longitude": 4.86631,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.78623,
+      "longitude": 3.22234,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.93009,
+      "longitude": 5.62122,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.91824,
+      "longitude": 5.70153,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.83614,
+      "longitude": 3.64693,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.95104,
+      "longitude": 4.44658,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.91826,
+      "longitude": 5.70156,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.20233,
+      "longitude": 2.93838,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.24281,
+      "longitude": 2.96052,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.89792,
+      "longitude": 4.14616,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.11465,
+      "longitude": 3.29473,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.00424,
+      "longitude": 3.87589,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.94955,
+      "longitude": 4.43813,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.95767,
+      "longitude": 4.718,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.0439,
+      "longitude": 3.45875,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.93014,
+      "longitude": 5.61045,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.77373,
+      "longitude": 3.83751,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.81526,
+      "longitude": 3.32806,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.95086,
+      "longitude": 4.44667,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.95026,
+      "longitude": 4.44643,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.95106,
+      "longitude": 4.44644,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.92775,
+      "longitude": 5.61785,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.80538,
+      "longitude": 3.26753,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.95507,
+      "longitude": 3.95273,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.03669,
+      "longitude": 4.42084,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.94107,
+      "longitude": 4.70304,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.76867,
+      "longitude": 5.269,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.04387,
+      "longitude": 3.45876,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.8361,
+      "longitude": 3.64694,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.94802,
+      "longitude": 5.72213,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.80398,
+      "longitude": 3.26369,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.76937,
+      "longitude": 5.27011,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.94815,
+      "longitude": 4.44046,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.03552,
+      "longitude": 4.42106,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.95032,
+      "longitude": 4.44057,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.20188,
+      "longitude": 2.9382,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.78886,
+      "longitude": 3.73591,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.05453,
+      "longitude": 3.56723,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.92965,
+      "longitude": 3.6535,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.98141,
+      "longitude": 4.06901,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.82731,
+      "longitude": 3.54818,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.9301,
+      "longitude": 5.61035,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.20208,
+      "longitude": 2.93846,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.95432,
+      "longitude": 3.95321,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.89711,
+      "longitude": 3.44143,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.9279,
+      "longitude": 5.61784,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.81653,
+      "longitude": 3.24754,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.9082,
+      "longitude": 4.78472,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.94818,
+      "longitude": 4.44042,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.9413,
+      "longitude": 4.7029,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.20219,
+      "longitude": 2.93847,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.86941,
+      "longitude": 2.99042,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.82731,
+      "longitude": 3.54818,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.03618,
+      "longitude": 4.42034,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.80918,
+      "longitude": 3.29341,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.2022,
+      "longitude": 2.93845,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.94082,
+      "longitude": 4.70318,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.87172,
+      "longitude": 3.44514,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.90048,
+      "longitude": 3.67842,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.95034,
+      "longitude": 4.44061,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.94818,
+      "longitude": 4.44042,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.91838,
+      "longitude": 5.70144,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.94081,
+      "longitude": 4.70323,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.9814,
+      "longitude": 4.06901,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.92777,
+      "longitude": 5.61787,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 57.80594,
+      "longitude": 11.87336,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 56.85838,
+      "longitude": 12.68176,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 52.2,
+      "longitude": 5.0,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 4.8,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 5.2,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 53.3,
+      "longitude": 6.1,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 4.5,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 51.15,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.7,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.2,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.3,
+      "longitude": 6.75,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.65,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.7,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.75,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.4,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 53.25,
+      "longitude": 6.3,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 53.25,
+      "longitude": 6.3,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.25,
+      "longitude": 6.3,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 51.25,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 4.5,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.25,
+      "longitude": 6.3,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.75,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.95438,
+      "longitude": 3.95327,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.98141,
+      "longitude": 4.06906,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.8307,
+      "longitude": 3.7916,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.94078,
+      "longitude": 4.70318,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.83607,
+      "longitude": 3.64695,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.80951,
+      "longitude": 3.29333,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.8884,
+      "longitude": 4.6956,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.8458,
+      "longitude": 3.32301,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.88829,
+      "longitude": 4.69561,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.84473,
+      "longitude": 3.21639,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.88577,
+      "longitude": 4.0084,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.90078,
+      "longitude": 3.67791,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.08574,
+      "longitude": 4.10459,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.94046,
+      "longitude": 4.70285,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.86446,
+      "longitude": 5.29116,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2952,
+      "longitude": 3.19699,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.76933,
+      "longitude": 5.27018,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 40.538292,
+      "longitude": -79.645225,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 44.824172,
+      "longitude": -69.813754,
+      "country": "United States of America",
+      "state": "Maine"
+    },
+    {
+      "latitude": 56.161227,
+      "longitude": 44.206448,
+      "country": "Russian Federation",
+      "state": "Nizhegorod"
+    },
+    {
+      "latitude": 51.559428,
+      "longitude": -0.42112,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 52.165216,
+      "longitude": 0.491461,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 56.24952,
+      "longitude": 12.90848,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 48.206714,
+      "longitude": 13.506139,
+      "country": "Austria",
+      "state": "Ober\u00f6sterreich"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 53.1,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.76743,
+      "longitude": 3.79882,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.76966,
+      "longitude": 5.27165,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.76205,
+      "longitude": 4.18003,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.20241,
+      "longitude": 2.9385,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.88828,
+      "longitude": 4.69594,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.84591,
+      "longitude": 3.32548,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.76967,
+      "longitude": 5.27169,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.98017,
+      "longitude": 3.98204,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.88826,
+      "longitude": 4.69563,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.80876,
+      "longitude": 3.29367,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.0369,
+      "longitude": 4.42074,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.88843,
+      "longitude": 4.69621,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.00199,
+      "longitude": 3.86369,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.94105,
+      "longitude": 4.70311,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.99217,
+      "longitude": 4.38349,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.94082,
+      "longitude": 4.70316,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.98076,
+      "longitude": 4.26341,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.7674,
+      "longitude": 3.79885,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.93643,
+      "longitude": 4.707,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.88835,
+      "longitude": 4.69537,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.06831,
+      "longitude": 4.33183,
+      "country": "Belgium",
+      "state": "Hainaut"
+    },
+    {
+      "latitude": 50.72478,
+      "longitude": 4.85963,
+      "country": "Belgium",
+      "state": "Walloon Brabant"
+    },
+    {
+      "latitude": 50.75328,
+      "longitude": 3.21109,
+      "country": "Belgium",
+      "state": "Hainaut"
+    },
+    {
+      "latitude": 50.68516,
+      "longitude": 3.56576,
+      "country": "Belgium",
+      "state": "Hainaut"
+    },
+    {
+      "latitude": 50.69812,
+      "longitude": 5.80049,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.68528,
+      "longitude": 3.56566,
+      "country": "Belgium",
+      "state": "Hainaut"
+    },
+    {
+      "latitude": 50.24532,
+      "longitude": 5.7997,
+      "country": "Belgium",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 53.354635,
+      "longitude": -6.304575,
+      "country": "Ireland",
+      "state": "Dublin"
+    },
+    {
+      "latitude": 46.751592,
+      "longitude": -71.289116,
+      "country": "Canada",
+      "state": "Qu\u00e9bec"
+    },
+    {
+      "latitude": 49.105756,
+      "longitude": 8.978731,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 43.864954,
+      "longitude": -79.195128,
+      "country": "Canada",
+      "state": "Ontario"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.9277,
+      "longitude": 5.618,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 45.386925,
+      "longitude": -75.684517,
+      "country": "Canada",
+      "state": "Ontario"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.015735,
+      "longitude": 5.519733,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.2,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.15,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.15,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 53.3,
+      "longitude": 6.85,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.2,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.15,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 4.7,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.6,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Flevoland"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 6.55,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.0,
+      "longitude": 5.5,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.55,
+      "longitude": 4.85,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.4,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.75,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.25,
+      "longitude": 4.55,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 5.0,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 4.4,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 4.35,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 4.2,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.2,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 4.5,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 6.55,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.05,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.55,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.4,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.55,
+      "longitude": 4.85,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.25,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 49.739164,
+      "longitude": 10.317348,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 6.55,
+      "country": "Netherlands",
+      "state": "Groningen"
+    },
+    {
+      "latitude": 52.85,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.35,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.4,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.85,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 40.481883,
+      "longitude": -79.908408,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 50.94922,
+      "longitude": 4.44552,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.69812,
+      "longitude": 5.80048,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 51.538871,
+      "longitude": 9.939359,
+      "country": "Germany",
+      "state": "Niedersachsen"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.25,
+      "longitude": 6.75,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 52.95,
+      "longitude": 6.9,
+      "country": "Netherlands",
+      "state": "Drenthe"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.84557,
+      "longitude": 3.32227,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.05593,
+      "longitude": 3.74833,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.99191,
+      "longitude": 4.38307,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.88829,
+      "longitude": 4.69557,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.99192,
+      "longitude": 4.38312,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.03667,
+      "longitude": 4.42085,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.99192,
+      "longitude": 4.38306,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.94048,
+      "longitude": 4.7029,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.17833,
+      "longitude": 3.53991,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.88834,
+      "longitude": 4.69565,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.91827,
+      "longitude": 5.70151,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.88833,
+      "longitude": 4.69557,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.99189,
+      "longitude": 4.38308,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.993,
+      "longitude": 4.38452,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.0369,
+      "longitude": 4.42072,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 51.04387,
+      "longitude": 3.45874,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 56.25011,
+      "longitude": 12.90587,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 57.52303,
+      "longitude": 12.14058,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.95,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.85,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.05,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.35,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.25,
+      "longitude": 4.55,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.15,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.94111,
+      "longitude": 4.70306,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.1607,
+      "longitude": 3.35265,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.03557,
+      "longitude": 4.42101,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.92781,
+      "longitude": 5.61785,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.03722,
+      "longitude": 4.41917,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.85042,
+      "longitude": 3.62089,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 51.03577,
+      "longitude": 4.42089,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 51.2422,
+      "longitude": 2.96092,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.79343,
+      "longitude": 3.22569,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 56.63145,
+      "longitude": 16.50812,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 45.387171,
+      "longitude": -75.682727,
+      "country": "Canada",
+      "state": "Ontario"
+    },
+    {
+      "latitude": 44.717395,
+      "longitude": -85.643762,
+      "country": "United States of America",
+      "state": "Michigan"
+    },
+    {
+      "latitude": 43.745159,
+      "longitude": -79.195351,
+      "country": "Canada",
+      "state": "Ontario"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.85,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.75,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.95433,
+      "longitude": 3.95311,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.9812,
+      "longitude": 4.2591,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.78723,
+      "longitude": 3.21718,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.17832,
+      "longitude": 3.53992,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.94101,
+      "longitude": 4.70306,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 56.63144,
+      "longitude": 16.50837,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 56.69998,
+      "longitude": 12.84727,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 50.75,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.45,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.80923,
+      "longitude": 3.29366,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.19344,
+      "longitude": 3.23809,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.99189,
+      "longitude": 4.3831,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.80927,
+      "longitude": 3.29363,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 41.957867,
+      "longitude": -87.675102,
+      "country": "United States of America",
+      "state": "Illinois"
+    },
+    {
+      "latitude": 50.72483,
+      "longitude": 4.85946,
+      "country": "Belgium",
+      "state": "Walloon Brabant"
+    },
+    {
+      "latitude": 50.62425,
+      "longitude": 5.54048,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.574715,
+      "longitude": 8.695218,
+      "country": "Germany",
+      "state": "Hessen"
+    },
+    {
+      "latitude": 51.515972,
+      "longitude": 9.950175,
+      "country": "Germany",
+      "state": "Niedersachsen"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    }
+  ],
+  "scientific_name": "Inula racemosa",
+  "common_name": "Indian Elecampane",
+  "description": null
+}

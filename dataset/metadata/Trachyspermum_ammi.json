@@ -1,0 +1,1040 @@
+{
+  "herb": "Trachyspermum ammi",
+  "locations": [
+    {
+      "latitude": 50.85568,
+      "longitude": 4.39743,
+      "country": "Belgium",
+      "state": "Brussels Capital Region"
+    },
+    {
+      "latitude": 25.2327,
+      "longitude": 75.8401,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 47.807556,
+      "longitude": 13.051067,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.80756,
+      "longitude": 13.05107,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.8075,
+      "longitude": 13.05111,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0705,
+      "longitude": 4.3007,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 12.526983,
+      "longitude": 77.789854,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 39.335833,
+      "longitude": -84.524167,
+      "country": "United States of America",
+      "state": "Ohio"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.85,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 14.01908,
+      "longitude": 38.33496,
+      "country": "Ethiopia",
+      "state": null
+    },
+    {
+      "latitude": 56.610798,
+      "longitude": -6.608307,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 59.49514,
+      "longitude": 17.83602,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49534,
+      "longitude": 17.83655,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49514,
+      "longitude": 17.83601,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49514,
+      "longitude": 17.83601,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49515,
+      "longitude": 17.83595,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49515,
+      "longitude": 17.83597,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 51.34112,
+      "longitude": 3.24417,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 59.49551,
+      "longitude": 17.83554,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49541,
+      "longitude": 17.83558,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49541,
+      "longitude": 17.83558,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 24.711321,
+      "longitude": 46.67168,
+      "country": "Saudi Arabia",
+      "state": null
+    },
+    {
+      "latitude": 49.211389,
+      "longitude": -122.861722,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 49.211389,
+      "longitude": -122.861722,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 28.310556,
+      "longitude": 83.171111,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 59.49566,
+      "longitude": 17.83583,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49569,
+      "longitude": 17.83581,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.495669,
+      "longitude": 17.835827,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 43.3,
+      "longitude": 66.43,
+      "country": "Uzbekistan",
+      "state": null
+    },
+    {
+      "latitude": 63.434,
+      "longitude": 10.671,
+      "country": "Norway",
+      "state": null
+    },
+    {
+      "latitude": 55.605722,
+      "longitude": 12.448167,
+      "country": "Denmark",
+      "state": "Sj\u00e6lland"
+    },
+    {
+      "latitude": 59.49681,
+      "longitude": 17.83164,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49474,
+      "longitude": 17.83348,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49681,
+      "longitude": 17.83164,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.494754,
+      "longitude": 17.833477,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 12.244999,
+      "longitude": 37.084999,
+      "country": "Ethiopia",
+      "state": null
+    },
+    {
+      "latitude": 12.245,
+      "longitude": 37.085,
+      "country": "Ethiopia",
+      "state": "Gondar"
+    },
+    {
+      "latitude": 12.245,
+      "longitude": 37.085,
+      "country": "Ethiopia",
+      "state": null
+    },
+    {
+      "latitude": 49.187778,
+      "longitude": -122.892778,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 59.49538,
+      "longitude": 17.83564,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49552,
+      "longitude": 17.83607,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49574,
+      "longitude": 17.83599,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49574,
+      "longitude": 17.83599,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49574,
+      "longitude": 17.83599,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49562,
+      "longitude": 17.83281,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49681,
+      "longitude": 17.83164,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49681,
+      "longitude": 17.83164,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.4965,
+      "longitude": 17.83409,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.4954,
+      "longitude": 17.83615,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.4954,
+      "longitude": 17.83615,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49547,
+      "longitude": 17.83611,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49519,
+      "longitude": 17.83463,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 31.383844,
+      "longitude": 35.126053,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 59.49855,
+      "longitude": 17.8298,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49855,
+      "longitude": 17.8298,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49612,
+      "longitude": 17.83292,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49855,
+      "longitude": 17.8298,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49681,
+      "longitude": 17.83164,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.49855,
+      "longitude": 17.8298,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 33.53872,
+      "longitude": 72.51728,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 47.6087,
+      "longitude": -122.3405,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 55.60504,
+      "longitude": 12.45981,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 38.861277,
+      "longitude": -76.867211,
+      "country": "United States of America",
+      "state": "Maryland"
+    },
+    {
+      "latitude": 47.60639,
+      "longitude": -122.33083,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 47.66666,
+      "longitude": -122.58333,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 55.88345,
+      "longitude": -4.055856,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 52.498903,
+      "longitude": -2.01616,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 55.861923,
+      "longitude": -3.998787,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 51.81733,
+      "longitude": -0.042852,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.817085,
+      "longitude": -0.11033,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.813905,
+      "longitude": -0.108287,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 43.76455,
+      "longitude": 7.16148,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 43.76455,
+      "longitude": 7.16148,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 52.000697,
+      "longitude": -0.267954,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.816992,
+      "longitude": -0.10453,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.819709,
+      "longitude": -0.05073,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.949967,
+      "longitude": -0.50273,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.816992,
+      "longitude": -0.10453,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 33.57,
+      "longitude": 68.42,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.003018,
+      "longitude": 71.380729,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 51.816992,
+      "longitude": -0.10453,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.783696,
+      "longitude": -0.159569,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 53.393813,
+      "longitude": -2.97892,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 53.393813,
+      "longitude": -2.97892,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 53.393813,
+      "longitude": -2.97892,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 32.525542,
+      "longitude": 72.440261,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 33.748469,
+      "longitude": 72.843972,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 32.525164,
+      "longitude": 72.426223,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 32.525164,
+      "longitude": 72.426223,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 32.905664,
+      "longitude": 70.535612,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 33.774649,
+      "longitude": 73.149311,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 33.759429,
+      "longitude": 73.138153,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 33.759429,
+      "longitude": 73.138153,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 34.504158,
+      "longitude": 73.01662,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 34.504158,
+      "longitude": 73.01662,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 34.504158,
+      "longitude": 73.01662,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 34.504158,
+      "longitude": 73.01662,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 33.255786,
+      "longitude": 73.302546,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 33.966315,
+      "longitude": 72.847397,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 33.966315,
+      "longitude": 72.847397,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 33.966315,
+      "longitude": 72.847397,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 33.859844,
+      "longitude": 73.119442,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 36.5,
+      "longitude": 73.9,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 9.4,
+      "longitude": 42.01667,
+      "country": "Ethiopia",
+      "state": "Harerge"
+    },
+    {
+      "latitude": 52.23015,
+      "longitude": 5.96537,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 9.4,
+      "longitude": 42.01667,
+      "country": "Ethiopia",
+      "state": "Harerge"
+    },
+    {
+      "latitude": 39.47,
+      "longitude": 75.98,
+      "country": "China",
+      "state": "\u65b0\u7586"
+    },
+    {
+      "latitude": 39.47,
+      "longitude": 75.98,
+      "country": "China",
+      "state": "\u65b0\u7586"
+    },
+    {
+      "latitude": 25.383333,
+      "longitude": 49.666667,
+      "country": "Saudi Arabia",
+      "state": null
+    },
+    {
+      "latitude": 52.147692,
+      "longitude": -0.496107,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 36.68,
+      "longitude": 69.57,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 51.502998,
+      "longitude": -0.4654,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 52.147692,
+      "longitude": -0.496107,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.548322,
+      "longitude": -0.271231,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.964751,
+      "longitude": -0.26934,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 33.985119,
+      "longitude": 71.557837,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 53.773205,
+      "longitude": -2.714609,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 33.1,
+      "longitude": 47.71667,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 8.524139,
+      "longitude": 76.936638,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.154559,
+      "longitude": 73.155613,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.154559,
+      "longitude": 73.155613,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 58.93867,
+      "longitude": 11.17991,
+      "country": "Sweden",
+      "state": null
+    },
+    {
+      "latitude": 53.561557,
+      "longitude": -0.026671,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 27.953649,
+      "longitude": -81.693534,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 37.271969,
+      "longitude": 79.738855,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 51.503342,
+      "longitude": -2.700146,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 31.789701,
+      "longitude": 35.241854,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 51.503342,
+      "longitude": -2.700146,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.503342,
+      "longitude": -2.700146,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 31.789701,
+      "longitude": 35.241854,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 57.71609,
+      "longitude": 11.98619,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 57.71609,
+      "longitude": 11.98619,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 57.71609,
+      "longitude": 11.98619,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 57.71609,
+      "longitude": 11.98619,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 57.71609,
+      "longitude": 11.98619,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 43.0033,
+      "longitude": 41.0192,
+      "country": "Georgia",
+      "state": null
+    },
+    {
+      "latitude": 52.50852,
+      "longitude": 4.76118,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 52.50283,
+      "longitude": 4.802,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 47.526606,
+      "longitude": 7.611254,
+      "country": "Switzerland",
+      "state": "Basel-Landschaft"
+    },
+    {
+      "latitude": 52.50852,
+      "longitude": 4.76118,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 52.50283,
+      "longitude": 4.802,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 42.3414,
+      "longitude": -83.0514,
+      "country": "United States of America",
+      "state": "Michigan"
+    },
+    {
+      "latitude": 47.95,
+      "longitude": 9.9,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 33.75,
+      "longitude": 70.33,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.5,
+      "longitude": 72.0,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 35.0,
+      "longitude": 71.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.08,
+      "longitude": 74.82,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 36.4,
+      "longitude": 73.37,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 31.0,
+      "longitude": 64.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.75,
+      "longitude": 67.25,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.25,
+      "longitude": 68.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 68.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.75,
+      "longitude": 70.83,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.5,
+      "longitude": 69.42,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 36.5,
+      "longitude": 69.5,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 59.49373,
+      "longitude": 17.81336,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 51.024938,
+      "longitude": 11.04153,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 23.5863,
+      "longitude": 81.173004,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 55.856321,
+      "longitude": -4.318068,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 55.951716,
+      "longitude": -4.003413,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 51.644007,
+      "longitude": -0.483924,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 52.001539,
+      "longitude": -0.326194,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 58.94761,
+      "longitude": 11.19656,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 39.47,
+      "longitude": 75.98,
+      "country": "China",
+      "state": "\u65b0\u7586"
+    },
+    {
+      "latitude": 51.82899,
+      "longitude": -0.216681,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.82899,
+      "longitude": -0.216681,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    }
+  ],
+  "scientific_name": "Trachyspermum ammi",
+  "common_name": "Ajowan",
+  "description": null
+}

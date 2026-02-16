@@ -1,0 +1,3008 @@
+{
+  "herb": "Sida cordifolia",
+  "locations": [
+    {
+      "latitude": -16.425557,
+      "longitude": -41.622044,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": 27.887758,
+      "longitude": -80.622238,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.888072,
+      "longitude": -80.621575,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.929033,
+      "longitude": -82.303843,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.543708,
+      "longitude": 153.174401,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 11.996599,
+      "longitude": 79.840283,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -27.523297,
+      "longitude": 152.810003,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.736384,
+      "longitude": 153.052214,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.736384,
+      "longitude": 153.052214,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.542935,
+      "longitude": 153.189352,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.019849,
+      "longitude": -97.058294,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -27.735192,
+      "longitude": 153.053903,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.732367,
+      "longitude": 153.054182,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -10.185564,
+      "longitude": 142.336225,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.735283,
+      "longitude": 153.053864,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.8752,
+      "longitude": 153.045448,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.735417,
+      "longitude": 153.053373,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.882592,
+      "longitude": 121.245024,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.89025,
+      "longitude": -80.107872,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 23.250432,
+      "longitude": 119.670657,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.696536,
+      "longitude": 153.338701,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -26.482881,
+      "longitude": 152.459366,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.770827,
+      "longitude": 120.249903,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.103029,
+      "longitude": 120.695031,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -27.924971,
+      "longitude": 153.051173,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.109845,
+      "longitude": 120.698121,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.107827,
+      "longitude": 120.697039,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.252087,
+      "longitude": 119.671378,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.252061,
+      "longitude": 119.671381,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.614803,
+      "longitude": -105.582802,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -11.340556,
+      "longitude": -40.479167,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 23.252547,
+      "longitude": 119.672734,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.252085,
+      "longitude": 119.671418,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.960237,
+      "longitude": 32.334083,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -27.436217,
+      "longitude": 152.995586,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.713992,
+      "longitude": -81.506355,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.991322,
+      "longitude": 153.171545,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.046375,
+      "longitude": 153.277297,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.43859,
+      "longitude": -81.83735,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.83794,
+      "longitude": 153.114305,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.648511,
+      "longitude": 152.893337,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.395095,
+      "longitude": 27.596313,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -24.283531,
+      "longitude": 27.865053,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 27.092808,
+      "longitude": -80.248741,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -3.847805,
+      "longitude": -38.635179,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -27.828063,
+      "longitude": 153.160705,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.777165,
+      "longitude": -80.123658,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 24.451997,
+      "longitude": 118.339172,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 16.456316,
+      "longitude": 102.804978,
+      "country": "Thailand",
+      "state": "Khon Kaen"
+    },
+    {
+      "latitude": -24.101909,
+      "longitude": 28.392957,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.278581,
+      "longitude": 152.694194,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.777177,
+      "longitude": -80.123654,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.707357,
+      "longitude": 153.138713,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.54248,
+      "longitude": 78.109464,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": -23.871457,
+      "longitude": 29.723998,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -19.967964,
+      "longitude": 29.572877,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": -26.377957,
+      "longitude": 153.11367,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.040638,
+      "longitude": 153.281755,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.15432,
+      "longitude": 30.693922,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -27.632088,
+      "longitude": 152.802862,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.895867,
+      "longitude": -80.112053,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -17.476022,
+      "longitude": -66.125832,
+      "country": "Bolivia (Plurinational State of)",
+      "state": "Cochabamba"
+    },
+    {
+      "latitude": -26.230178,
+      "longitude": 152.756317,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.968284,
+      "longitude": 153.001006,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -7.403333,
+      "longitude": -36.345555,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 22.551775,
+      "longitude": -105.587769,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 22.971556,
+      "longitude": -105.863647,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -22.575263,
+      "longitude": 30.524687,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 6.108025,
+      "longitude": -1.350217,
+      "country": "Ghana",
+      "state": "Ashanti"
+    },
+    {
+      "latitude": -24.90005,
+      "longitude": 28.399547,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.904083,
+      "longitude": 28.409733,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.91108,
+      "longitude": 28.41044,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.894258,
+      "longitude": 28.423895,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.291578,
+      "longitude": 26.991483,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 5.458892,
+      "longitude": -53.164898,
+      "country": "French Guiana",
+      "state": "Cayenne"
+    },
+    {
+      "latitude": -24.907122,
+      "longitude": 28.406343,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.900012,
+      "longitude": 28.400818,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.299217,
+      "longitude": 27.058397,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -24.901682,
+      "longitude": 28.399098,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.918093,
+      "longitude": 28.396215,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.906617,
+      "longitude": 28.405753,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.824755,
+      "longitude": 29.36087,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.829193,
+      "longitude": 29.359642,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 27.659097,
+      "longitude": -80.890953,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -24.914235,
+      "longitude": 28.401478,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.356383,
+      "longitude": 27.719805,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 27.659145,
+      "longitude": -80.890938,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -25.357758,
+      "longitude": 27.708762,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -24.814942,
+      "longitude": 29.360215,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 27.65888,
+      "longitude": -80.890762,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -6.980182,
+      "longitude": -38.45164,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -25.72919,
+      "longitude": 28.241197,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -18.812125,
+      "longitude": 143.407608,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -6.984533,
+      "longitude": -38.458299,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -27.678298,
+      "longitude": 153.018588,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.840626,
+      "longitude": 153.029706,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.36243,
+      "longitude": 27.722886,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -25.36243,
+      "longitude": 27.722886,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -24.364153,
+      "longitude": 30.947838,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -6.985278,
+      "longitude": -38.456111,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -24.645476,
+      "longitude": 28.667377,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 26.893813,
+      "longitude": -80.114197,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.772372,
+      "longitude": -80.12123,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -26.468073,
+      "longitude": 152.737991,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.196437,
+      "longitude": 152.740417,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.288772,
+      "longitude": 120.598106,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -24.828502,
+      "longitude": 29.352649,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.826962,
+      "longitude": 29.353005,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.824596,
+      "longitude": 29.360973,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.729841,
+      "longitude": 27.209383,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -27.553666,
+      "longitude": 153.187515,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.855713,
+      "longitude": -80.213317,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -24.804562,
+      "longitude": 152.446183,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.199882,
+      "longitude": 146.699946,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.759408,
+      "longitude": 153.145275,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.636475,
+      "longitude": 153.076631,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.232072,
+      "longitude": 151.922897,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.884711,
+      "longitude": 153.132139,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.718311,
+      "longitude": 27.190444,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -18.950347,
+      "longitude": -39.745847,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -23.93175,
+      "longitude": 151.331817,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.2116,
+      "longitude": 146.7755,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.563936,
+      "longitude": 31.737847,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -25.563916,
+      "longitude": 31.737562,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -27.57395,
+      "longitude": 152.943329,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 7.858242,
+      "longitude": 80.67399,
+      "country": "Sri Lanka",
+      "state": "Matale"
+    },
+    {
+      "latitude": -22.98116,
+      "longitude": 29.568031,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.987883,
+      "longitude": 29.556622,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.987883,
+      "longitude": 29.556622,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.359339,
+      "longitude": 27.72266,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -20.300278,
+      "longitude": -40.301667,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -25.789687,
+      "longitude": 28.226368,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -23.540269,
+      "longitude": 30.136037,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.928056,
+      "longitude": -42.584722,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -24.902803,
+      "longitude": 27.741342,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -23.348491,
+      "longitude": 28.922691,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.566615,
+      "longitude": 27.829233,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.910657,
+      "longitude": 28.3883,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.311422,
+      "longitude": 31.006206,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -23.34866,
+      "longitude": 28.922779,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.914307,
+      "longitude": 28.400317,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.911228,
+      "longitude": 28.402827,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -23.958808,
+      "longitude": 151.382753,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.937455,
+      "longitude": 151.366058,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.55247,
+      "longitude": 152.794936,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.333267,
+      "longitude": 152.609037,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.207758,
+      "longitude": 153.078125,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.545352,
+      "longitude": 152.582636,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.36738,
+      "longitude": 152.788758,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.872874,
+      "longitude": 153.084716,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.730832,
+      "longitude": 153.200938,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.824417,
+      "longitude": 153.135833,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -16.790442,
+      "longitude": 145.705077,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.299833,
+      "longitude": 120.112325,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -27.874935,
+      "longitude": 153.106042,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.471246,
+      "longitude": 152.964603,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.891425,
+      "longitude": 32.365333,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -27.400178,
+      "longitude": 152.509004,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.821672,
+      "longitude": 153.131942,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.893356,
+      "longitude": 153.029194,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.313563,
+      "longitude": 153.041025,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.818782,
+      "longitude": -107.377928,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -21.144869,
+      "longitude": 149.207122,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.2261,
+      "longitude": 146.635,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.768418,
+      "longitude": 152.690837,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.305189,
+      "longitude": -61.834353,
+      "country": "Argentina",
+      "state": "Formosa"
+    },
+    {
+      "latitude": -27.666926,
+      "longitude": 152.955781,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -12.582711,
+      "longitude": -74.395786,
+      "country": "Peru",
+      "state": "Huancavelica"
+    },
+    {
+      "latitude": -28.01716,
+      "longitude": 153.16472,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.69196,
+      "longitude": 152.851684,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.499425,
+      "longitude": 153.366363,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.2266,
+      "longitude": 146.7808,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.510267,
+      "longitude": 153.119486,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.248946,
+      "longitude": 119.671949,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.535947,
+      "longitude": 153.138992,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.278,
+      "longitude": 146.7252,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.535733,
+      "longitude": 153.138886,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.517622,
+      "longitude": 152.592013,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -20.452905,
+      "longitude": 148.043547,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.535947,
+      "longitude": 153.138992,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.562646,
+      "longitude": 27.741645,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -27.535743,
+      "longitude": 153.138885,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.2288,
+      "longitude": 146.6322,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.903072,
+      "longitude": 152.281717,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.545367,
+      "longitude": 152.857192,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.636668,
+      "longitude": 153.000625,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.4866,
+      "longitude": 152.8737,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.471638,
+      "longitude": 152.955187,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.717951,
+      "longitude": 27.194528,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -27.4866,
+      "longitude": 152.8737,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.765407,
+      "longitude": 120.904362,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -27.8054,
+      "longitude": 153.05002,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.498614,
+      "longitude": 152.863786,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.359497,
+      "longitude": 120.734417,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -29.607612,
+      "longitude": 30.978797,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 16.463094,
+      "longitude": 102.813436,
+      "country": "Thailand",
+      "state": "Khon Kaen"
+    },
+    {
+      "latitude": -23.855212,
+      "longitude": 29.7107,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -23.888395,
+      "longitude": 29.74353,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -19.149719,
+      "longitude": 146.845437,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.2,
+      "longitude": 146.7552,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.861013,
+      "longitude": 29.705115,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -29.781242,
+      "longitude": 30.84397,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -23.892089,
+      "longitude": 29.626407,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -29.63404,
+      "longitude": 30.947474,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -19.931643,
+      "longitude": -40.601797,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": 25.045117,
+      "longitude": -107.537134,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -23.894904,
+      "longitude": 29.631044,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.356985,
+      "longitude": 31.766071,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -23.854979,
+      "longitude": 29.710766,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 26.280247,
+      "longitude": -80.181855,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -24.111771,
+      "longitude": 28.008545,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -23.86096,
+      "longitude": 29.705114,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -19.440592,
+      "longitude": 146.952106,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.661587,
+      "longitude": 27.946459,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -25.185832,
+      "longitude": 151.666458,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.738644,
+      "longitude": 27.23358,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -21.47173,
+      "longitude": 30.02097,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": -28.132461,
+      "longitude": 153.490219,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -26.2487,
+      "longitude": 153.006797,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.463757,
+      "longitude": 17.729777,
+      "country": "Namibia",
+      "state": "Oshikoto"
+    },
+    {
+      "latitude": -19.459627,
+      "longitude": 17.732823,
+      "country": "Namibia",
+      "state": "Oshikoto"
+    },
+    {
+      "latitude": -29.793659,
+      "longitude": 31.034708,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -28.2443,
+      "longitude": 31.7998,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -26.0,
+      "longitude": 152.34,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.810065,
+      "longitude": 153.536698,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -12.199697,
+      "longitude": -38.971661,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -28.559668,
+      "longitude": 32.071266,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -28.056315,
+      "longitude": 32.27749,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -27.863597,
+      "longitude": 32.430947,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -11.013889,
+      "longitude": -41.405,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -11.013889,
+      "longitude": -41.405,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -11.105,
+      "longitude": -41.278889,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -11.002778,
+      "longitude": -41.342778,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -11.002778,
+      "longitude": -41.342778,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -11.002778,
+      "longitude": -41.342778,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -27.507233,
+      "longitude": 152.242458,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.640984,
+      "longitude": 153.28246,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.57294,
+      "longitude": 153.169587,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.537022,
+      "longitude": 153.05646,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.611415,
+      "longitude": 153.142577,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.650132,
+      "longitude": 152.119103,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.179768,
+      "longitude": 150.934384,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.636847,
+      "longitude": 153.072319,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -22.957495,
+      "longitude": -43.324478,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -25.523526,
+      "longitude": 152.66965,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -26.762907,
+      "longitude": 153.134873,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.64097,
+      "longitude": 152.437042,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.64103,
+      "longitude": 152.436845,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.477853,
+      "longitude": 153.082047,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.665072,
+      "longitude": 153.075756,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.54298,
+      "longitude": 153.06019,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.135862,
+      "longitude": 29.483528,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -27.510377,
+      "longitude": 153.118612,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.649261,
+      "longitude": 153.296286,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.077205,
+      "longitude": -80.275244,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -22.821388,
+      "longitude": 148.69689,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.773883,
+      "longitude": -80.122817,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -28.169295,
+      "longitude": 22.726353,
+      "country": "South Africa",
+      "state": "Northern Cape"
+    },
+    {
+      "latitude": -27.820509,
+      "longitude": 152.973935,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.615665,
+      "longitude": 153.180313,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.716594,
+      "longitude": 152.463106,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.861054,
+      "longitude": 153.036794,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.930498,
+      "longitude": 152.785168,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.329691,
+      "longitude": 152.701283,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.976325,
+      "longitude": 153.003628,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.887435,
+      "longitude": 152.897545,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.472433,
+      "longitude": 153.178302,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.239906,
+      "longitude": 152.403194,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.619273,
+      "longitude": 153.022471,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.930939,
+      "longitude": 153.094645,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 11.019944,
+      "longitude": 78.633668,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -27.623541,
+      "longitude": 152.933295,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.266425,
+      "longitude": 152.651943,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.068172,
+      "longitude": 152.696241,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.775427,
+      "longitude": 153.107244,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.329119,
+      "longitude": 150.48546,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.974955,
+      "longitude": 153.016555,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.46395,
+      "longitude": 152.879524,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.663682,
+      "longitude": 152.914455,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.645602,
+      "longitude": 153.131384,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.11484,
+      "longitude": -81.754007,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.59093,
+      "longitude": -81.722835,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -23.75485,
+      "longitude": 29.320488,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -19.4516,
+      "longitude": 146.9794,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.609855,
+      "longitude": 153.163143,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.2022,
+      "longitude": 146.75,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -22.848683,
+      "longitude": 148.794198,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.687268,
+      "longitude": -82.505415,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -10.658333,
+      "longitude": -39.984722,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -27.65,
+      "longitude": 152.36,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.840833,
+      "longitude": 144.260278,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.940813,
+      "longitude": 152.779536,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.977899,
+      "longitude": 153.337919,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -21.94303,
+      "longitude": 148.365237,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.066814,
+      "longitude": 152.961838,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.520307,
+      "longitude": 153.012661,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.066454,
+      "longitude": 152.962927,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.787582,
+      "longitude": 152.469502,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.461414,
+      "longitude": 152.338333,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.217282,
+      "longitude": 151.895383,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.737767,
+      "longitude": 153.187865,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.329637,
+      "longitude": 151.611423,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.782698,
+      "longitude": 152.49429,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 28.811641,
+      "longitude": -82.473845,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -15.715265,
+      "longitude": 127.828248,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -27.52042,
+      "longitude": 152.824937,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.675254,
+      "longitude": 153.169536,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 10.252506,
+      "longitude": 77.194236,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -27.431287,
+      "longitude": 152.997787,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 13.310485,
+      "longitude": 77.7103,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 26.334928,
+      "longitude": -81.758513,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -25.447956,
+      "longitude": 152.988646,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -17.91598,
+      "longitude": 145.35268,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.147372,
+      "longitude": -81.370803,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -25.447862,
+      "longitude": 152.988611,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -7.204079,
+      "longitude": -35.916834,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -27.843896,
+      "longitude": 153.053179,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.783288,
+      "longitude": 152.946004,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.604558,
+      "longitude": 153.088303,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -7.186043,
+      "longitude": -35.920675,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -27.689181,
+      "longitude": 153.016781,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -7.2775,
+      "longitude": -35.969722,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -20.849185,
+      "longitude": 17.864617,
+      "country": "Namibia",
+      "state": "Otjozondjupa"
+    },
+    {
+      "latitude": -19.835144,
+      "longitude": 146.680105,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.865084,
+      "longitude": 146.664138,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.2308,
+      "longitude": 146.7669,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.4455,
+      "longitude": 146.9736,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.4236,
+      "longitude": 146.4086,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.3788,
+      "longitude": 146.465,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.1577,
+      "longitude": 146.5991,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.906189,
+      "longitude": -53.940617,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -23.910783,
+      "longitude": -53.954489,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -19.55992,
+      "longitude": 144.189317,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.256325,
+      "longitude": 119.512087,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.702153,
+      "longitude": 152.867417,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -16.60548,
+      "longitude": 145.34185,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.256179,
+      "longitude": 119.511954,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.70637,
+      "longitude": 152.771653,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.156302,
+      "longitude": -81.365776,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.396329,
+      "longitude": 152.910705,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.965556,
+      "longitude": 153.131801,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.524841,
+      "longitude": 152.894045,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -16.60548,
+      "longitude": 145.34185,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.250812,
+      "longitude": 152.809302,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -6.991944,
+      "longitude": -35.072222,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -27.514515,
+      "longitude": 153.118007,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.609983,
+      "longitude": 153.110524,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.6925,
+      "longitude": -82.503862,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.446642,
+      "longitude": 80.717976,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 23.252928,
+      "longitude": 119.670325,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 27.120578,
+      "longitude": -81.370217,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.617214,
+      "longitude": 152.976458,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.256645,
+      "longitude": 119.512838,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -26.821875,
+      "longitude": 153.102142,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.806129,
+      "longitude": 83.318111,
+      "country": "India",
+      "state": "Chhattisgarh"
+    },
+    {
+      "latitude": -25.074118,
+      "longitude": 148.239591,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 17.392138,
+      "longitude": 78.285878,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 23.26159,
+      "longitude": 119.672243,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 28.127348,
+      "longitude": -82.737624,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -11.454444,
+      "longitude": -41.176667,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -11.995278,
+      "longitude": -41.338333,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -24.165865,
+      "longitude": 151.884207,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.479149,
+      "longitude": 152.966363,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.481049,
+      "longitude": 152.982561,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.259721,
+      "longitude": 119.516667,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.249109,
+      "longitude": 119.670547,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.251938,
+      "longitude": 119.671218,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.249963,
+      "longitude": 119.670765,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 9.63085,
+      "longitude": 79.997917,
+      "country": "Sri Lanka",
+      "state": "Jaffna"
+    },
+    {
+      "latitude": -27.790531,
+      "longitude": 152.853903,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 12.77607,
+      "longitude": 100.975687,
+      "country": "Thailand",
+      "state": "Chon Buri"
+    },
+    {
+      "latitude": 12.835219,
+      "longitude": 80.20108,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -26.176283,
+      "longitude": -48.543958,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": 6.109794,
+      "longitude": 116.117485,
+      "country": "Malaysia",
+      "state": null
+    },
+    {
+      "latitude": -27.678844,
+      "longitude": 153.131516,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.5647,
+      "longitude": 146.2491,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.994234,
+      "longitude": 120.148595,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -14.667359,
+      "longitude": 145.451769,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.617223,
+      "longitude": 152.188823,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -20.645,
+      "longitude": 145.2925,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.511423,
+      "longitude": -97.953641,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -27.276683,
+      "longitude": 153.040196,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.514918,
+      "longitude": -97.971213,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 24.876695,
+      "longitude": 67.214172,
+      "country": "Pakistan",
+      "state": "Sind"
+    },
+    {
+      "latitude": 26.997756,
+      "longitude": -80.100958,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 22.613928,
+      "longitude": 120.26342,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 20.818806,
+      "longitude": -156.919801,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -24.86781,
+      "longitude": 152.378628,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -21.737267,
+      "longitude": -41.0271,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -26.706127,
+      "longitude": 153.10052,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.580692,
+      "longitude": 153.071381,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.260652,
+      "longitude": -81.396734,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.580692,
+      "longitude": 153.071381,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 28.131328,
+      "longitude": -82.656733,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.503184,
+      "longitude": -82.676777,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.841371,
+      "longitude": 153.159788,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.435158,
+      "longitude": 118.387542,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 23.259634,
+      "longitude": 119.516014,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.304283,
+      "longitude": 73.017156,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 19.641714,
+      "longitude": 85.116409,
+      "country": "India",
+      "state": "Odisha"
+    },
+    {
+      "latitude": 22.429792,
+      "longitude": 120.488503,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 28.132146,
+      "longitude": -82.735902,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.873623,
+      "longitude": -82.841362,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 17.725692,
+      "longitude": 73.814867,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 24.76458,
+      "longitude": 120.905836,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.764625,
+      "longitude": 120.90583,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.416962,
+      "longitude": 118.220278,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 10.329966,
+      "longitude": 15.259795,
+      "country": "Cameroon",
+      "state": "Extr\u00eame-Nord"
+    },
+    {
+      "latitude": 23.288751,
+      "longitude": 119.557088,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.456513,
+      "longitude": 120.449196,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.279929,
+      "longitude": -80.107639,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 24.764625,
+      "longitude": 120.90583,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.731228,
+      "longitude": 120.382766,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 26.28265,
+      "longitude": -80.109506,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.161196,
+      "longitude": 121.414816,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -19.8194,
+      "longitude": 146.5677,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.515215,
+      "longitude": 153.224501,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.722808,
+      "longitude": 27.218723,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -25.72522,
+      "longitude": 27.222172,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -25.715407,
+      "longitude": 27.193905,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -25.724775,
+      "longitude": 27.221994,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -7.324708,
+      "longitude": -35.551599,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 26.106658,
+      "longitude": -81.774982,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.106679,
+      "longitude": -81.77498,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 7.015072,
+      "longitude": 80.255926,
+      "country": "Sri Lanka",
+      "state": "Kegalle"
+    },
+    {
+      "latitude": 26.495883,
+      "longitude": -80.081595,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.523576,
+      "longitude": -158.114284,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -20.297836,
+      "longitude": 146.233144,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.72699,
+      "longitude": 27.22306,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 27.520342,
+      "longitude": -82.644317,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.838877,
+      "longitude": -80.542881,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.345349,
+      "longitude": -80.119216,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -7.320709,
+      "longitude": -35.535402,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 28.06513,
+      "longitude": -82.832505,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -12.65983,
+      "longitude": -39.085425,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 24.849798,
+      "longitude": -107.421762,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 27.193572,
+      "longitude": -80.2212,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.07837,
+      "longitude": -80.273581,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.307442,
+      "longitude": 152.952804,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.310462,
+      "longitude": -81.301331,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.225526,
+      "longitude": -80.18893,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 20.80982,
+      "longitude": -156.912245,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 28.118051,
+      "longitude": -81.588132,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.183386,
+      "longitude": -81.342819,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 11.581325,
+      "longitude": 78.232496,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 26.286069,
+      "longitude": -80.135361,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -25.312051,
+      "longitude": -58.712461,
+      "country": "Argentina",
+      "state": "Formosa"
+    },
+    {
+      "latitude": -18.402808,
+      "longitude": 23.746763,
+      "country": "Namibia",
+      "state": "Zambezi"
+    },
+    {
+      "latitude": 27.546644,
+      "longitude": -81.494114,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.598742,
+      "longitude": -81.18819,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -20.094742,
+      "longitude": -55.964997,
+      "country": "Brazil",
+      "state": "Mato Grosso do Sul"
+    },
+    {
+      "latitude": 24.499233,
+      "longitude": 118.447472,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 22.73015,
+      "longitude": 120.381814,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -28.767429,
+      "longitude": 32.079656,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 22.613955,
+      "longitude": 120.263477,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 12.945108,
+      "longitude": 80.1264,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -31.434135,
+      "longitude": -64.194117,
+      "country": "Argentina",
+      "state": "C\u00f3rdoba"
+    },
+    {
+      "latitude": 24.875132,
+      "longitude": 120.964092,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -28.137608,
+      "longitude": 32.5397,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -28.765212,
+      "longitude": 32.080051,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 7.152115,
+      "longitude": 81.617735,
+      "country": "Sri Lanka",
+      "state": "Ampara"
+    },
+    {
+      "latitude": 26.286281,
+      "longitude": -80.131969,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.847231,
+      "longitude": -82.777866,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.378356,
+      "longitude": -80.101796,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -25.395648,
+      "longitude": 28.329988,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 23.30605,
+      "longitude": -106.465905,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 28.072748,
+      "longitude": -81.516837,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.628364,
+      "longitude": -82.23175,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.073093,
+      "longitude": -81.516773,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -23.218593,
+      "longitude": 28.847908,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 22.614537,
+      "longitude": 120.263595,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -25.524013,
+      "longitude": 152.672424,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.378517,
+      "longitude": -80.10205,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.37848,
+      "longitude": -80.101894,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.744095,
+      "longitude": 152.827336,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.497484,
+      "longitude": 152.973648,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.502342,
+      "longitude": -82.677567,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 12.91925,
+      "longitude": 79.331581,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -17.959628,
+      "longitude": 22.558289,
+      "country": "Namibia",
+      "state": "Zambezi"
+    },
+    {
+      "latitude": 7.634388,
+      "longitude": 79.875328,
+      "country": "Sri Lanka",
+      "state": "Puttalam"
+    },
+    {
+      "latitude": 26.332232,
+      "longitude": -81.790865,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.378608,
+      "longitude": -80.101788,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.208163,
+      "longitude": 22.46728,
+      "country": "South Africa",
+      "state": "Northern Cape"
+    },
+    {
+      "latitude": -25.361217,
+      "longitude": 28.571004,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 26.280965,
+      "longitude": -80.10912,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.677264,
+      "longitude": 152.849961,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 18.591637,
+      "longitude": -66.259976,
+      "country": "Puerto Rico",
+      "state": "Vega Alta"
+    },
+    {
+      "latitude": 11.272248,
+      "longitude": -74.196783,
+      "country": "Colombia",
+      "state": "Magdalena"
+    },
+    {
+      "latitude": -27.676344,
+      "longitude": 152.850556,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 18.444108,
+      "longitude": -66.308452,
+      "country": "Puerto Rico",
+      "state": "Vega Alta"
+    },
+    {
+      "latitude": -23.874534,
+      "longitude": 31.125593,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 22.407201,
+      "longitude": 120.648214,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -22.797916,
+      "longitude": 30.750436,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 27.846398,
+      "longitude": -82.77833,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.844712,
+      "longitude": 153.057825,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.847308,
+      "longitude": 153.06588,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.675294,
+      "longitude": 153.152089,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.531258,
+      "longitude": 152.208297,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.449888,
+      "longitude": 31.984997,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -24.148516,
+      "longitude": 27.774149,
+      "country": "South Africa",
+      "state": "Limpopo"
+    }
+  ],
+  "scientific_name": "Sida cordifolia",
+  "common_name": "flannel weed",
+  "description": null
+}

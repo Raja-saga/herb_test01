@@ -1,0 +1,3008 @@
+{
+  "herb": "Valeriana wallichii",
+  "locations": [
+    {
+      "latitude": 27.587542,
+      "longitude": 86.625928,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 19.4098,
+      "longitude": 84.5111,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.169433,
+      "longitude": 85.333005,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 29.423264,
+      "longitude": 79.426173,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 20.186258,
+      "longitude": 85.622274,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 27.486503,
+      "longitude": 89.361655,
+      "country": "Bhutan",
+      "state": "Paro"
+    },
+    {
+      "latitude": 30.765003,
+      "longitude": 77.788786,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 28.530306,
+      "longitude": 84.340178,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 27.321555,
+      "longitude": 90.463198,
+      "country": "Bhutan",
+      "state": "Trongsa"
+    },
+    {
+      "latitude": 29.924953,
+      "longitude": 110.674911,
+      "country": "China",
+      "state": "Hunan"
+    },
+    {
+      "latitude": 27.695066,
+      "longitude": 89.781715,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 27.746443,
+      "longitude": 89.758728,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 27.528976,
+      "longitude": 89.841904,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 27.592087,
+      "longitude": 89.879745,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 21.5734,
+      "longitude": 93.4303,
+      "country": "Myanmar",
+      "state": "Chin"
+    },
+    {
+      "latitude": 21.5734,
+      "longitude": 93.4303,
+      "country": "Myanmar",
+      "state": "Chin"
+    },
+    {
+      "latitude": 63.434,
+      "longitude": 10.671,
+      "country": "Norway",
+      "state": null
+    },
+    {
+      "latitude": 27.418514,
+      "longitude": 89.423347,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 27.3806,
+      "longitude": 88.2211,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 27.38,
+      "longitude": 88.22,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.7,
+      "longitude": 100.86,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 47.78,
+      "longitude": 14.29,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 30.016667,
+      "longitude": 109.3,
+      "country": "China",
+      "state": "Hubei (\u6e56\u5317\u7701)"
+    },
+    {
+      "latitude": 30.016667,
+      "longitude": 109.3,
+      "country": "China",
+      "state": "Hubei (\u6e56\u5317\u7701)"
+    },
+    {
+      "latitude": 47.85,
+      "longitude": 14.44,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 30.616667,
+      "longitude": 110.733333,
+      "country": "China",
+      "state": "Hubei (\u6e56\u5317\u7701)"
+    },
+    {
+      "latitude": 30.616667,
+      "longitude": 110.733333,
+      "country": "China",
+      "state": "Hubei (\u6e56\u5317\u7701)"
+    },
+    {
+      "latitude": 28.58913,
+      "longitude": 84.18663,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.58913,
+      "longitude": 84.18663,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.58913,
+      "longitude": 84.18663,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.58913,
+      "longitude": 84.18663,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.58913,
+      "longitude": 84.18663,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 29.471389,
+      "longitude": 82.139167,
+      "country": "Nepal",
+      "state": "Mid-Western"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.9837,
+      "longitude": 98.7064,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.0683,
+      "longitude": 98.6012,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.1714,
+      "longitude": 98.7694,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.4914,
+      "longitude": 98.8297,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.4914,
+      "longitude": 98.8297,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 28.249763,
+      "longitude": 85.371571,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 27.1305,
+      "longitude": 98.8378,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 47.76,
+      "longitude": 14.46,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 28.035,
+      "longitude": 98.6,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.6672,
+      "longitude": 98.7233,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.6675,
+      "longitude": 98.723333,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 35.331,
+      "longitude": 72.646,
+      "country": "Pakistan",
+      "state": "North-West Frontier"
+    },
+    {
+      "latitude": 27.7656,
+      "longitude": 98.6031,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.9839,
+      "longitude": 98.6614,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.9839,
+      "longitude": 98.6614,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 47.72,
+      "longitude": 14.33,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 25.89444,
+      "longitude": 100.10444,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 28.49,
+      "longitude": 83.52,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 28.49,
+      "longitude": 83.52,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 47.82,
+      "longitude": 14.24,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.83,
+      "longitude": 14.24,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.82,
+      "longitude": 14.23,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.82,
+      "longitude": 14.23,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.82,
+      "longitude": 14.23,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.82,
+      "longitude": 14.23,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.82,
+      "longitude": 14.24,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.82,
+      "longitude": 14.25,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.81,
+      "longitude": 14.23,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.79,
+      "longitude": 14.4,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 46.599698,
+      "longitude": 16.244997,
+      "country": "Slovenia",
+      "state": "\u0160tajerska"
+    },
+    {
+      "latitude": -11.66,
+      "longitude": -73.667,
+      "country": "Peru",
+      "state": null
+    },
+    {
+      "latitude": -11.66,
+      "longitude": -73.667,
+      "country": "Peru",
+      "state": null
+    },
+    {
+      "latitude": -11.66,
+      "longitude": -73.667,
+      "country": "Peru",
+      "state": null
+    },
+    {
+      "latitude": -11.66,
+      "longitude": -73.667,
+      "country": "Peru",
+      "state": null
+    },
+    {
+      "latitude": -11.66,
+      "longitude": -73.667,
+      "country": "Peru",
+      "state": null
+    },
+    {
+      "latitude": -11.66,
+      "longitude": -73.667,
+      "country": "Peru",
+      "state": null
+    },
+    {
+      "latitude": 47.8,
+      "longitude": 14.42,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.8,
+      "longitude": 14.41,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.8,
+      "longitude": 14.19,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.78,
+      "longitude": 14.22,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.78,
+      "longitude": 14.23,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.75,
+      "longitude": 14.47,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.75,
+      "longitude": 14.46,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.76,
+      "longitude": 14.46,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.81,
+      "longitude": 14.24,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.81,
+      "longitude": 14.21,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.77,
+      "longitude": 14.31,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.76,
+      "longitude": 14.3,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.77,
+      "longitude": 14.3,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.8,
+      "longitude": 14.47,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.75,
+      "longitude": 14.4,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.74,
+      "longitude": 14.49,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.75,
+      "longitude": 14.41,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 33.92,
+      "longitude": 73.38,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 47.79,
+      "longitude": 14.32,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.73,
+      "longitude": 14.49,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.76,
+      "longitude": 14.46,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 34.78,
+      "longitude": 74.95,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.78,
+      "longitude": 73.53,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 35.9,
+      "longitude": 74.3,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 35.3,
+      "longitude": 74.77,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 30.290996,
+      "longitude": 108.936374,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 27.7258,
+      "longitude": 98.3567,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.88,
+      "longitude": 98.3389,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 32.35,
+      "longitude": 77.23,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 29.39,
+      "longitude": 110.16,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 30.470951,
+      "longitude": 78.047337,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 27.07,
+      "longitude": 106.97,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.55,
+      "longitude": 106.47,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.53,
+      "longitude": 106.7,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.67,
+      "longitude": 108.32,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.470951,
+      "longitude": 78.047337,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 30.411189,
+      "longitude": 78.285098,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 29.85,
+      "longitude": 95.76,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 29.85,
+      "longitude": 95.76,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 29.85,
+      "longitude": 95.76,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 29.65,
+      "longitude": 91.14,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.73,
+      "longitude": 108.45,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.75,
+      "longitude": 108.9,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.93,
+      "longitude": 108.52,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 31.31,
+      "longitude": 120.63,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.91,
+      "longitude": 104.2,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 44.28,
+      "longitude": 123.98,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 24.98,
+      "longitude": 105.82,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 29.65,
+      "longitude": 91.14,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.93,
+      "longitude": 108.25,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.73,
+      "longitude": 108.45,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.73,
+      "longitude": 108.45,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.5,
+      "longitude": 107.58,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.93,
+      "longitude": 108.52,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.91,
+      "longitude": 104.2,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.93,
+      "longitude": 108.25,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 29.65,
+      "longitude": 91.14,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.15,
+      "longitude": 105.6,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 30.588892,
+      "longitude": 78.14145,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 29.65,
+      "longitude": 91.14,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 29.65,
+      "longitude": 91.14,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.22,
+      "longitude": 105.48,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.95,
+      "longitude": 105.62,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.22,
+      "longitude": 105.48,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.95,
+      "longitude": 105.62,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.7167,
+      "longitude": 100.033,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.72,
+      "longitude": 100.03,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.8333,
+      "longitude": 99.9833,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.83,
+      "longitude": 99.98,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.13,
+      "longitude": 104.72,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 102.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.13,
+      "longitude": 104.72,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 18.25,
+      "longitude": 109.51,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 18.25,
+      "longitude": 109.51,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.177166,
+      "longitude": 99.28717,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 26.901731,
+      "longitude": 98.869207,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.177166,
+      "longitude": 99.28717,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.345875,
+      "longitude": 105.313869,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 25.012526,
+      "longitude": 102.700013,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.012526,
+      "longitude": 102.700013,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 26.9,
+      "longitude": 98.87,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.98,
+      "longitude": 107.53,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 26.9,
+      "longitude": 98.87,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.98,
+      "longitude": 107.53,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 30.0,
+      "longitude": 108.12,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.9,
+      "longitude": 98.87,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.98,
+      "longitude": 107.53,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 25.012526,
+      "longitude": 102.700012,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 23.33,
+      "longitude": 106.62,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 24.83,
+      "longitude": 103.98,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.83,
+      "longitude": 103.98,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 23.42,
+      "longitude": 105.83,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 23.42,
+      "longitude": 105.83,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 24.83,
+      "longitude": 103.98,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.43,
+      "longitude": 104.52,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 26.63,
+      "longitude": 102.58,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 26.63,
+      "longitude": 102.58,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 32.53,
+      "longitude": 107.9,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 32.089392,
+      "longitude": 109.815677,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 32.089392,
+      "longitude": 109.815677,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.561162,
+      "longitude": 114.381419,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.290996,
+      "longitude": 108.936374,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 28.42,
+      "longitude": 92.47,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.42,
+      "longitude": 92.47,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.42,
+      "longitude": 92.47,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.42,
+      "longitude": 92.47,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.42,
+      "longitude": 92.47,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.42,
+      "longitude": 92.47,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.42,
+      "longitude": 92.47,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 30.222233,
+      "longitude": 110.871148,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.561162,
+      "longitude": 114.381419,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.222233,
+      "longitude": 110.871148,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.222233,
+      "longitude": 110.871148,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.290996,
+      "longitude": 108.936374,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.290996,
+      "longitude": 108.936374,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 103.95,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 103.95,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 106.93,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 106.93,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 106.93,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 103.95,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.6,
+      "longitude": 103.95,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 106.93,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 106.93,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 106.93,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 85.29,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 85.3,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 28.17,
+      "longitude": 85.98,
+      "country": "China",
+      "state": "\u897f\u85cf"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 32.4,
+      "longitude": 109.35,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 106.93,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 33.62,
+      "longitude": 106.92,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 32.4,
+      "longitude": 109.35,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 33.62,
+      "longitude": 106.92,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 32.53,
+      "longitude": 107.9,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 33.62,
+      "longitude": 106.92,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 26.55,
+      "longitude": 104.95,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.876096,
+      "longitude": 100.229945,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.83,
+      "longitude": 107.32,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.371037,
+      "longitude": 102.5797,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.371037,
+      "longitude": 102.5797,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.49,
+      "longitude": 103.39,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.49,
+      "longitude": 103.39,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.49,
+      "longitude": 103.39,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.49,
+      "longitude": 103.39,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 25.22,
+      "longitude": 102.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.22,
+      "longitude": 102.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.12,
+      "longitude": 105.47,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.91,
+      "longitude": 104.2,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 31.02,
+      "longitude": 109.47,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 25.22,
+      "longitude": 102.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 98.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.22,
+      "longitude": 102.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 32.32,
+      "longitude": 105.97,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.0,
+      "longitude": 103.62,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 98.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 31.02,
+      "longitude": 109.47,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 25.22,
+      "longitude": 102.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.22,
+      "longitude": 102.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 98.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 32.32,
+      "longitude": 105.97,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.0,
+      "longitude": 103.62,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.22,
+      "longitude": 102.5,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.670153,
+      "longitude": 99.958012,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.670153,
+      "longitude": 99.958012,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 33.33,
+      "longitude": 106.15,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 32.95,
+      "longitude": 104.68,
+      "country": "China",
+      "state": "\u7518\u8083"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.67,
+      "longitude": 99.95,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.13,
+      "longitude": 106.82,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 33.33,
+      "longitude": 106.15,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 33.33,
+      "longitude": 106.15,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 25.67,
+      "longitude": 99.95,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.67,
+      "longitude": 99.95,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.8,
+      "longitude": 110.0,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 31.82,
+      "longitude": 104.45,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.68,
+      "longitude": 103.85,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.82,
+      "longitude": 104.45,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.177166,
+      "longitude": 99.28717,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.392902,
+      "longitude": 106.633387,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 24.392902,
+      "longitude": 106.633387,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 24.392902,
+      "longitude": 106.633387,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 105.39,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 105.39,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.25,
+      "longitude": 106.17,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.18,
+      "longitude": 99.28,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.52,
+      "longitude": 108.23,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.18,
+      "longitude": 99.28,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.18,
+      "longitude": 99.28,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.12,
+      "longitude": 105.47,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.12,
+      "longitude": 105.47,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 26.63,
+      "longitude": 102.58,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 26.63,
+      "longitude": 102.58,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 25.12,
+      "longitude": 105.47,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.18,
+      "longitude": 99.28,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 26.63,
+      "longitude": 102.58,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.18,
+      "longitude": 99.28,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.12,
+      "longitude": 105.47,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.38,
+      "longitude": 102.53,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.740736,
+      "longitude": 98.66582,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.740736,
+      "longitude": 98.66582,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.887732,
+      "longitude": 110.032936,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.887732,
+      "longitude": 110.032936,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.042327,
+      "longitude": 110.340757,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.887732,
+      "longitude": 110.032936,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.157849,
+      "longitude": 107.099275,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 30.601932,
+      "longitude": 109.726617,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 30.663372,
+      "longitude": 113.166529,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.887732,
+      "longitude": 110.032936,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.000343,
+      "longitude": 101.507299,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.351226,
+      "longitude": 107.616845,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 32.228921,
+      "longitude": 106.289903,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 32.352911,
+      "longitude": 106.842041,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.351226,
+      "longitude": 107.616845,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 32.287722,
+      "longitude": 105.524765,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 30.317053,
+      "longitude": 107.890946,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 30.023401,
+      "longitude": 108.185012,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 28.27,
+      "longitude": 105.1,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 28.27,
+      "longitude": 105.1,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 28.67,
+      "longitude": 104.01,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 28.67,
+      "longitude": 104.01,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.35,
+      "longitude": 107.61,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 25.59,
+      "longitude": 107.54,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 31.92,
+      "longitude": 107.23,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.29,
+      "longitude": 106.26,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 108.77,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 28.83,
+      "longitude": 104.33,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.27,
+      "longitude": 103.57,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.73,
+      "longitude": 105.93,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.7,
+      "longitude": 108.85,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 32.58,
+      "longitude": 105.23,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 30.3,
+      "longitude": 108.02,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.78,
+      "longitude": 105.38,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 24.35,
+      "longitude": 106.57,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 24.35,
+      "longitude": 106.57,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 26.53,
+      "longitude": 106.7,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 108.4,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 32.28,
+      "longitude": 105.52,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.33,
+      "longitude": 107.75,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.05,
+      "longitude": 110.33,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 32.28,
+      "longitude": 105.52,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.33,
+      "longitude": 107.75,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 22.79,
+      "longitude": 103.09,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.27,
+      "longitude": 103.57,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 33.32,
+      "longitude": 108.32,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 108.77,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 29.9,
+      "longitude": 110.03,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 33.28,
+      "longitude": 111.48,
+      "country": "China",
+      "state": "\u6cb3\u5357"
+    },
+    {
+      "latitude": 28.27,
+      "longitude": 103.57,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.73,
+      "longitude": 105.93,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.9,
+      "longitude": 110.03,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.33,
+      "longitude": 107.75,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 32.23,
+      "longitude": 106.28,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 31.35,
+      "longitude": 106.07,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.82,
+      "longitude": 104.45,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.73,
+      "longitude": 105.93,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.9,
+      "longitude": 110.03,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 32.28,
+      "longitude": 105.52,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 30.3,
+      "longitude": 108.02,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 30.3,
+      "longitude": 108.02,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.63,
+      "longitude": 102.58,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 32.58,
+      "longitude": 105.23,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 30.3,
+      "longitude": 108.02,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 32.23,
+      "longitude": 106.28,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 31.68,
+      "longitude": 103.85,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 27.7,
+      "longitude": 108.85,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 32.35,
+      "longitude": 106.83,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 28.83,
+      "longitude": 104.33,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 24.45,
+      "longitude": 100.83,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 31.92,
+      "longitude": 107.23,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.33,
+      "longitude": 107.75,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 28.85,
+      "longitude": 108.77,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.78,
+      "longitude": 105.38,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 26.38,
+      "longitude": 108.07,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 33.32,
+      "longitude": 108.32,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 47.34,
+      "longitude": 130.32,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 30.6,
+      "longitude": 109.73,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 26.63,
+      "longitude": 102.58,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 23.37,
+      "longitude": 116.7,
+      "country": "China",
+      "state": "\u5e7f\u4e1c"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 29.9,
+      "longitude": 110.03,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 106.75,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 29.9,
+      "longitude": 110.03,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 22.79,
+      "longitude": 103.09,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.83,
+      "longitude": 104.33,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.73,
+      "longitude": 98.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.990847,
+      "longitude": 109.484961,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.990847,
+      "longitude": 109.484961,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.042327,
+      "longitude": 110.340757,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.990847,
+      "longitude": 109.484961,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.990847,
+      "longitude": 109.484961,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.82,
+      "longitude": 108.62,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.82,
+      "longitude": 108.62,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.25,
+      "longitude": 108.49,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.82,
+      "longitude": 108.63,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 24.72,
+      "longitude": 97.93,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 102.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.6,
+      "longitude": 99.92,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.47,
+      "longitude": 109.43,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 23.37,
+      "longitude": 104.25,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 23.37,
+      "longitude": 104.25,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 31.08,
+      "longitude": 109.88,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 26.88,
+      "longitude": 102.12,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.47,
+      "longitude": 109.43,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 108.67,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 24.6,
+      "longitude": 99.92,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 23.37,
+      "longitude": 104.25,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 26.88,
+      "longitude": 102.12,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 24.6,
+      "longitude": 99.92,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 102.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 102.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.72,
+      "longitude": 97.93,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 23.37,
+      "longitude": 116.7,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.9,
+      "longitude": 110.03,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.47,
+      "longitude": 109.43,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.47,
+      "longitude": 109.43,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 102.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.03,
+      "longitude": 102.67,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.428131,
+      "longitude": 103.578457,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.68123,
+      "longitude": 105.334672,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 24.68123,
+      "longitude": 105.334672,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 29.49,
+      "longitude": 103.39,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 25.35,
+      "longitude": 103.03,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 25.35,
+      "longitude": 103.03,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 103.58,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 25.43,
+      "longitude": 103.58,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 24.67,
+      "longitude": 102.17,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 25.35,
+      "longitude": 103.03,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    },
+    {
+      "latitude": 24.67,
+      "longitude": 102.17,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.6,
+      "longitude": 103.48,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.16,
+      "longitude": 107.1,
+      "country": "China",
+      "state": "\u91cd\u5e86"
+    }
+  ],
+  "scientific_name": "Valeriana jatamansi",
+  "common_name": null,
+  "description": null
+}

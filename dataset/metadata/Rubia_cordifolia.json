@@ -1,0 +1,3008 @@
+{
+  "herb": "Rubia cordifolia",
+  "locations": [
+    {
+      "latitude": 36.547871,
+      "longitude": 116.831966,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 40.037445,
+      "longitude": 116.074914,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 35.993373,
+      "longitude": 119.404332,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 39.969668,
+      "longitude": 116.578904,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 36.359922,
+      "longitude": 120.684344,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": -23.887787,
+      "longitude": 29.746127,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 40.21571,
+      "longitude": 115.893528,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": -23.59318,
+      "longitude": 29.935675,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -7.657802,
+      "longitude": 111.186889,
+      "country": "Indonesia",
+      "state": "Jawa Timur"
+    },
+    {
+      "latitude": 36.320923,
+      "longitude": 120.395123,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.807876,
+      "longitude": 117.974031,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.360544,
+      "longitude": 120.684711,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 43.175083,
+      "longitude": 131.927719,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 44.469133,
+      "longitude": 132.235253,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 51.4733,
+      "longitude": 115.933457,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 43.487231,
+      "longitude": 132.449925,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 37.843493,
+      "longitude": 127.818965,
+      "country": "Korea, Republic of",
+      "state": "Gangwon-do"
+    },
+    {
+      "latitude": 42.955945,
+      "longitude": 131.875882,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 36.857678,
+      "longitude": 118.023672,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 51.475521,
+      "longitude": 115.950517,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 40.022199,
+      "longitude": 116.334624,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 50.642312,
+      "longitude": 106.013467,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 43.177665,
+      "longitude": 131.76088,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.170322,
+      "longitude": 131.723497,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.029142,
+      "longitude": 131.881322,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 37.377343,
+      "longitude": 127.155747,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 37.377343,
+      "longitude": 127.155747,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 39.772769,
+      "longitude": 116.215253,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.878134,
+      "longitude": 116.503514,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 37.735604,
+      "longitude": 120.435766,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 51.473138,
+      "longitude": 115.937342,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.47285,
+      "longitude": 115.93808,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 37.352781,
+      "longitude": 122.554675,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 37.352397,
+      "longitude": 122.552836,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 51.492128,
+      "longitude": 115.95683,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 39.801628,
+      "longitude": 116.219811,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 51.473432,
+      "longitude": 115.933272,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.473058,
+      "longitude": 115.938032,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.469808,
+      "longitude": 115.93093,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 44.522776,
+      "longitude": 131.53276,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.222067,
+      "longitude": 132.069495,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 52.178725,
+      "longitude": 116.289978,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.49557,
+      "longitude": 115.957523,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 43.008236,
+      "longitude": 131.927262,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 51.501402,
+      "longitude": 115.962502,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 37.640342,
+      "longitude": 120.454836,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 39.931492,
+      "longitude": 116.383097,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 29.329712,
+      "longitude": 79.613898,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 43.083785,
+      "longitude": 131.846007,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 37.641089,
+      "longitude": 120.453047,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 37.596783,
+      "longitude": 120.493828,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 34.641256,
+      "longitude": 118.322419,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 51.495585,
+      "longitude": 115.957713,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.474163,
+      "longitude": 115.92391,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 36.130479,
+      "longitude": 120.572197,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 51.475145,
+      "longitude": 115.921763,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.473247,
+      "longitude": 115.937522,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 39.989092,
+      "longitude": 116.178705,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.616612,
+      "longitude": 116.301055,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 50.366637,
+      "longitude": 106.904762,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 37.594508,
+      "longitude": 120.495028,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 42.918268,
+      "longitude": 132.473406,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.888567,
+      "longitude": 132.305277,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.084188,
+      "longitude": 131.84677,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.325082,
+      "longitude": 132.402622,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.864426,
+      "longitude": 132.631742,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.923222,
+      "longitude": 132.403361,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 35.594373,
+      "longitude": 113.60261,
+      "country": "China",
+      "state": "Henan"
+    },
+    {
+      "latitude": 51.469745,
+      "longitude": 115.930425,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 36.162181,
+      "longitude": 120.490967,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 43.210888,
+      "longitude": 131.992101,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 39.771258,
+      "longitude": 116.469995,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 35.936655,
+      "longitude": 119.601953,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 35.986567,
+      "longitude": 119.395481,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 39.67192,
+      "longitude": 116.224853,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.67337,
+      "longitude": 116.311097,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 36.547501,
+      "longitude": 116.828071,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 39.67337,
+      "longitude": 116.311133,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.049413,
+      "longitude": 116.584518,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 35.962276,
+      "longitude": 119.448944,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 35.970337,
+      "longitude": 119.396706,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 44.424756,
+      "longitude": 131.350161,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.2094,
+      "longitude": 116.396794,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.089373,
+      "longitude": 117.121094,
+      "country": "China",
+      "state": "Tianjin"
+    },
+    {
+      "latitude": 42.953007,
+      "longitude": 131.742939,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.130325,
+      "longitude": 133.043608,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.467433,
+      "longitude": 117.900708,
+      "country": "China",
+      "state": "Hebei"
+    },
+    {
+      "latitude": 36.266315,
+      "longitude": 120.511295,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 39.911738,
+      "longitude": 116.062858,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": -28.3542,
+      "longitude": 32.4188,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 35.936657,
+      "longitude": 119.604317,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 37.425037,
+      "longitude": 112.575012,
+      "country": "China",
+      "state": "Shanxi"
+    },
+    {
+      "latitude": 36.363069,
+      "longitude": 120.689665,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 39.092647,
+      "longitude": 117.118918,
+      "country": "China",
+      "state": "Tianjin"
+    },
+    {
+      "latitude": 39.991178,
+      "longitude": 116.051576,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.924176,
+      "longitude": 116.383452,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 36.501388,
+      "longitude": 117.862342,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.286379,
+      "longitude": 120.487417,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.533598,
+      "longitude": 116.841439,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.541548,
+      "longitude": 116.82957,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.534447,
+      "longitude": 116.840482,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.226178,
+      "longitude": 120.452607,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": -30.271975,
+      "longitude": 30.592105,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 42.988206,
+      "longitude": 131.924981,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": -30.262768,
+      "longitude": 30.239721,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -7.7807,
+      "longitude": 36.37411,
+      "country": "Tanzania, United Republic of",
+      "state": "Iringa"
+    },
+    {
+      "latitude": -7.7807,
+      "longitude": 36.37411,
+      "country": "Tanzania, United Republic of",
+      "state": "Iringa"
+    },
+    {
+      "latitude": 40.033103,
+      "longitude": 116.766803,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": -30.266742,
+      "longitude": 30.613345,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 39.904211,
+      "longitude": 116.407395,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 41.57347,
+      "longitude": 120.4508,
+      "country": "China",
+      "state": "Liaoning"
+    },
+    {
+      "latitude": -28.3537,
+      "longitude": 32.4182,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 44.477122,
+      "longitude": 132.513747,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.963932,
+      "longitude": 131.88147,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.001385,
+      "longitude": 131.804871,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.770564,
+      "longitude": 132.845272,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.785647,
+      "longitude": 132.901444,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.792087,
+      "longitude": 132.842117,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.173383,
+      "longitude": 133.227219,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 37.393728,
+      "longitude": 127.087878,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 39.862059,
+      "longitude": 116.278152,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.110264,
+      "longitude": 131.528853,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 39.807605,
+      "longitude": 116.49997,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.989188,
+      "longitude": 116.501678,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.017353,
+      "longitude": 131.935731,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.963178,
+      "longitude": 131.90338,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.962967,
+      "longitude": 131.905792,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.18055,
+      "longitude": 132.884521,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.961467,
+      "longitude": 131.906922,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.826874,
+      "longitude": 131.618134,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.081239,
+      "longitude": 131.850495,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.63693,
+      "longitude": 131.200399,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.901323,
+      "longitude": 131.545813,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.168747,
+      "longitude": 131.901107,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.964309,
+      "longitude": 131.880877,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.211436,
+      "longitude": 132.0737,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.173288,
+      "longitude": 131.903379,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.88705,
+      "longitude": 132.725662,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.884834,
+      "longitude": 131.660555,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.844722,
+      "longitude": 131.619722,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.825704,
+      "longitude": 131.61219,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.053661,
+      "longitude": 116.098531,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 50.643496,
+      "longitude": 106.012568,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 50.646392,
+      "longitude": 106.009322,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 18.201333,
+      "longitude": 73.719034,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 40.155665,
+      "longitude": 116.264174,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 30.077331,
+      "longitude": 80.243806,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 40.129095,
+      "longitude": 116.520775,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.247238,
+      "longitude": 116.357445,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.077197,
+      "longitude": 116.33618,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.604705,
+      "longitude": 115.742232,
+      "country": "China",
+      "state": "Hebei"
+    },
+    {
+      "latitude": 40.523645,
+      "longitude": 115.76532,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 44.897274,
+      "longitude": 136.337587,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.050327,
+      "longitude": 131.880796,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.214333,
+      "longitude": 116.974105,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.996272,
+      "longitude": 116.301955,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.049067,
+      "longitude": 131.881549,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 39.929491,
+      "longitude": 116.392641,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.61919,
+      "longitude": 117.5121,
+      "country": "China",
+      "state": "Hebei"
+    },
+    {
+      "latitude": 40.026483,
+      "longitude": 116.372239,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.220958,
+      "longitude": 132.80928,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.014099,
+      "longitude": 116.386086,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.507776,
+      "longitude": 117.16614,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 42.962375,
+      "longitude": 131.888733,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.178611,
+      "longitude": 131.937867,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.349711,
+      "longitude": 132.735214,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.346736,
+      "longitude": 132.736358,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 44.822934,
+      "longitude": 132.04302,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 44.828668,
+      "longitude": 132.037266,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.39041,
+      "longitude": 115.956475,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.513017,
+      "longitude": 116.672493,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.107857,
+      "longitude": 115.613777,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.053365,
+      "longitude": 115.676653,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.919165,
+      "longitude": 116.314359,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.424186,
+      "longitude": 116.628006,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 36.360783,
+      "longitude": 120.685371,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.355537,
+      "longitude": 120.685415,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.131767,
+      "longitude": 120.685249,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.160025,
+      "longitude": 120.622938,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.34577,
+      "longitude": 120.680986,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 28.016908,
+      "longitude": 85.521266,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 40.030167,
+      "longitude": 116.372881,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.145174,
+      "longitude": 115.68249,
+      "country": "China",
+      "state": "Hebei"
+    },
+    {
+      "latitude": 40.069295,
+      "longitude": 115.72471,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": -28.96618,
+      "longitude": 31.753903,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 36.350117,
+      "longitude": 120.702408,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 40.049363,
+      "longitude": 116.068863,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": -26.891043,
+      "longitude": 27.482738,
+      "country": "South Africa",
+      "state": "Free State"
+    },
+    {
+      "latitude": 25.814122,
+      "longitude": 113.801093,
+      "country": "China",
+      "state": "Hunan"
+    },
+    {
+      "latitude": 11.554288,
+      "longitude": 76.084397,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 10.277144,
+      "longitude": 77.165027,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 40.512703,
+      "longitude": 116.649322,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.519325,
+      "longitude": 116.64978,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.232197,
+      "longitude": 116.92768,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": -29.814847,
+      "longitude": 30.814237,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -29.815928,
+      "longitude": 30.811872,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 37.38836,
+      "longitude": 127.156451,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 37.38836,
+      "longitude": 127.156451,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 51.147597,
+      "longitude": 107.106522,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 40.421847,
+      "longitude": 117.231408,
+      "country": "China",
+      "state": "Hebei"
+    },
+    {
+      "latitude": 42.416792,
+      "longitude": 130.757757,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 20.78875,
+      "longitude": 97.033714,
+      "country": "Myanmar",
+      "state": "Shan"
+    },
+    {
+      "latitude": 39.131049,
+      "longitude": 115.986012,
+      "country": "China",
+      "state": "Hebei"
+    },
+    {
+      "latitude": 51.148536,
+      "longitude": 107.106383,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": -10.58347,
+      "longitude": 33.73551,
+      "country": "Malawi",
+      "state": "Rumphi"
+    },
+    {
+      "latitude": 44.486006,
+      "longitude": 132.64495,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 51.660703,
+      "longitude": 107.429358,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 30.605707,
+      "longitude": 77.927232,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 43.056385,
+      "longitude": 131.899033,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.948132,
+      "longitude": 131.874741,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": -30.295928,
+      "longitude": 30.752865,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 11.99638,
+      "longitude": 77.140853,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 46.627743,
+      "longitude": 109.264063,
+      "country": "Mongolia",
+      "state": "Khentii province"
+    },
+    {
+      "latitude": 40.27667,
+      "longitude": 116.146647,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": -29.982885,
+      "longitude": 30.951265,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 51.149407,
+      "longitude": 107.138058,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 43.227374,
+      "longitude": 131.973421,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.703642,
+      "longitude": 132.127928,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 39.995093,
+      "longitude": 116.303666,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.180698,
+      "longitude": 132.869492,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.389662,
+      "longitude": 131.537161,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.3578,
+      "longitude": 131.560902,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.324318,
+      "longitude": 131.32853,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.232177,
+      "longitude": 131.355248,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.844724,
+      "longitude": 131.125567,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.328491,
+      "longitude": 131.339869,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.845915,
+      "longitude": 131.126708,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.025073,
+      "longitude": 131.149536,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.975784,
+      "longitude": 131.131025,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 37.401531,
+      "longitude": 127.063767,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 43.324167,
+      "longitude": 131.328611,
+      "country": "Russian Federation",
+      "state": "Primorsky Krai"
+    },
+    {
+      "latitude": 37.401531,
+      "longitude": 127.063767,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 39.9721,
+      "longitude": 116.426811,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 51.14979,
+      "longitude": 107.100432,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 40.051664,
+      "longitude": 116.08283,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 51.14752,
+      "longitude": 107.106758,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 30.07796,
+      "longitude": 80.231331,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 43.224701,
+      "longitude": 132.145239,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.074982,
+      "longitude": 131.84169,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.917573,
+      "longitude": 131.717975,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.899687,
+      "longitude": 131.723168,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.902183,
+      "longitude": 131.730025,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 37.352684,
+      "longitude": 122.202942,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 40.045595,
+      "longitude": 116.379619,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 49.755896,
+      "longitude": 112.337782,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.675223,
+      "longitude": 107.430608,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 52.365843,
+      "longitude": 116.869762,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.407447,
+      "longitude": 112.520873,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 43.321392,
+      "longitude": 131.893919,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 30.076805,
+      "longitude": 80.233231,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 30.07796,
+      "longitude": 80.231331,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 42.917581,
+      "longitude": 131.717943,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 39.999909,
+      "longitude": 116.315057,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 40.065502,
+      "longitude": 115.507377,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.19522,
+      "longitude": 132.132953,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 51.148494,
+      "longitude": 107.106256,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 40.582457,
+      "longitude": 115.749714,
+      "country": "China",
+      "state": "Hebei"
+    },
+    {
+      "latitude": 36.673317,
+      "longitude": 117.858514,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 42.604906,
+      "longitude": 131.174806,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.605114,
+      "longitude": 131.177933,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 39.991084,
+      "longitude": 116.306678,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 36.54411,
+      "longitude": 117.872882,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 27.169387,
+      "longitude": 88.041001,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 36.719594,
+      "longitude": 127.597277,
+      "country": "Korea, Republic of",
+      "state": "Chungcheongbuk-do"
+    },
+    {
+      "latitude": 40.148537,
+      "longitude": 116.264665,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 18.713215,
+      "longitude": 73.459918,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 30.082981,
+      "longitude": 80.237328,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": -30.663452,
+      "longitude": 30.382389,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 33.43446,
+      "longitude": 126.4328,
+      "country": "Korea, Republic of",
+      "state": "Jeju Special Self-Governing Province"
+    },
+    {
+      "latitude": -29.781246,
+      "longitude": 30.775021,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 42.620067,
+      "longitude": 131.139447,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": -7.181461,
+      "longitude": 109.890042,
+      "country": "Indonesia",
+      "state": "Jawa Tengah"
+    },
+    {
+      "latitude": 42.613604,
+      "longitude": 131.198878,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": -28.2291,
+      "longitude": 32.3993,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 42.620433,
+      "longitude": 131.139381,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 37.346141,
+      "longitude": 127.09571,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 37.396444,
+      "longitude": 127.041055,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 37.384896,
+      "longitude": 127.161159,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 37.90355,
+      "longitude": 127.719167,
+      "country": "Korea, Republic of",
+      "state": "Gangwon-do"
+    },
+    {
+      "latitude": 37.907817,
+      "longitude": 127.715433,
+      "country": "Korea, Republic of",
+      "state": "Gangwon-do"
+    },
+    {
+      "latitude": 37.4745,
+      "longitude": 127.1792,
+      "country": "Korea, Republic of",
+      "state": "gyeonggi-do"
+    },
+    {
+      "latitude": 35.56851,
+      "longitude": 129.4377,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 37.15501,
+      "longitude": 128.4986,
+      "country": "Korea, Republic of",
+      "state": "Gangwon"
+    },
+    {
+      "latitude": 33.43504,
+      "longitude": 126.4329,
+      "country": "Korea, Republic of",
+      "state": "Jeju Special Self-Governing Province"
+    },
+    {
+      "latitude": 39.979011,
+      "longitude": 116.459917,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 37.384896,
+      "longitude": 127.161159,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 37.396444,
+      "longitude": 127.041055,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 37.346141,
+      "longitude": 127.09571,
+      "country": "Korea, Republic of",
+      "state": "Gyeonggi-do"
+    },
+    {
+      "latitude": 51.724714,
+      "longitude": 113.04021,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 42.959603,
+      "longitude": 131.847105,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.011056,
+      "longitude": 131.926483,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.948095,
+      "longitude": 131.87468,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.084935,
+      "longitude": 116.071502,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.011117,
+      "longitude": 131.92665,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.959755,
+      "longitude": 131.846725,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.004631,
+      "longitude": 131.925475,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.324567,
+      "longitude": 132.403733,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 32.243599,
+      "longitude": 77.166434,
+      "country": "India",
+      "state": "Himachal Pradesh"
+    },
+    {
+      "latitude": 42.94733,
+      "longitude": 131.874083,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.945908,
+      "longitude": 131.870895,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 36.36124,
+      "longitude": 120.68485,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 35.52188,
+      "longitude": 126.891,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 39.923687,
+      "longitude": 116.391603,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.755228,
+      "longitude": 135.264036,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.908576,
+      "longitude": 132.754317,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.867011,
+      "longitude": 135.238144,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 36.122053,
+      "longitude": 125.984737,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 50.723241,
+      "longitude": 107.47423,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 37.08654,
+      "longitude": 118.06617,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 40.552937,
+      "longitude": 115.884943,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 15.922637,
+      "longitude": 74.012385,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 39.941288,
+      "longitude": 116.448722,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 37.901633,
+      "longitude": 127.711267,
+      "country": "Korea, Republic of",
+      "state": "Gangwon-do"
+    },
+    {
+      "latitude": 37.53124,
+      "longitude": 126.37,
+      "country": "Korea, Republic of",
+      "state": "Incheon"
+    },
+    {
+      "latitude": 42.883577,
+      "longitude": 131.469108,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.585756,
+      "longitude": 131.212343,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.597425,
+      "longitude": 131.200185,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 42.6016,
+      "longitude": 131.22601,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": -6.678147,
+      "longitude": 106.707283,
+      "country": "Indonesia",
+      "state": "Jawa Barat"
+    },
+    {
+      "latitude": -6.68063,
+      "longitude": 106.710129,
+      "country": "Indonesia",
+      "state": "Jawa Barat"
+    },
+    {
+      "latitude": 37.27747,
+      "longitude": 128.4049,
+      "country": "Korea, Republic of",
+      "state": "Gangwon"
+    },
+    {
+      "latitude": 37.28279,
+      "longitude": 128.4107,
+      "country": "Korea, Republic of",
+      "state": "Gangwon"
+    },
+    {
+      "latitude": 42.755339,
+      "longitude": 132.846975,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": -30.317211,
+      "longitude": 30.348503,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -30.298174,
+      "longitude": 30.738754,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 28.183491,
+      "longitude": 85.44262,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": -6.262823,
+      "longitude": 106.064625,
+      "country": "Indonesia",
+      "state": "Banten"
+    },
+    {
+      "latitude": 33.40746,
+      "longitude": 126.2245,
+      "country": "Korea, Republic of",
+      "state": "Jeju Special Self-Governing Province"
+    },
+    {
+      "latitude": 34.706305,
+      "longitude": 127.763991,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 35.244175,
+      "longitude": 128.307318,
+      "country": "Korea, Republic of",
+      "state": "Gyeongnam"
+    },
+    {
+      "latitude": 38.886753,
+      "longitude": 121.70035,
+      "country": "China",
+      "state": "Liaoning"
+    },
+    {
+      "latitude": -30.265036,
+      "longitude": 30.611843,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 28.173188,
+      "longitude": 112.821538,
+      "country": "China",
+      "state": "Hunan"
+    },
+    {
+      "latitude": -31.245742,
+      "longitude": 30.046928,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 40.055073,
+      "longitude": 116.396929,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 35.806296,
+      "longitude": 126.421893,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 37.721667,
+      "longitude": 126.996389,
+      "country": "Korea, Republic of",
+      "state": "gyeonggi-do"
+    },
+    {
+      "latitude": 35.817352,
+      "longitude": 126.453513,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 35.820599,
+      "longitude": 126.453962,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 37.030303,
+      "longitude": 128.204945,
+      "country": "Korea, Republic of",
+      "state": "Chungbuk"
+    },
+    {
+      "latitude": 37.029866,
+      "longitude": 128.203855,
+      "country": "Korea, Republic of",
+      "state": "Chungbuk"
+    },
+    {
+      "latitude": 35.808196,
+      "longitude": 126.42007,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 50.85516,
+      "longitude": 113.585325,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 51.148611,
+      "longitude": 107.106111,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 49.179506,
+      "longitude": 130.553084,
+      "country": "Russian Federation",
+      "state": "Amur"
+    },
+    {
+      "latitude": 43.913525,
+      "longitude": 131.657992,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 34.748944,
+      "longitude": 125.904833,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.748944,
+      "longitude": 125.904833,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 35.801447,
+      "longitude": 126.420604,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 35.800555,
+      "longitude": 126.417291,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 37.029444,
+      "longitude": 128.1975,
+      "country": "Korea, Republic of",
+      "state": "Chungbuk"
+    },
+    {
+      "latitude": -30.262275,
+      "longitude": 30.608796,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 43.060628,
+      "longitude": 131.844667,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 30.07692,
+      "longitude": 80.233144,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 42.597896,
+      "longitude": 131.181879,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 39.995937,
+      "longitude": 116.185395,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 43.653808,
+      "longitude": 132.430075,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 50.509444,
+      "longitude": 105.765278,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 43.690515,
+      "longitude": 132.153628,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.691552,
+      "longitude": 132.151811,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.620396,
+      "longitude": 132.227332,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.644449,
+      "longitude": 132.347064,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.159166,
+      "longitude": 116.660597,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 50.598418,
+      "longitude": 106.161984,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 42.976575,
+      "longitude": 131.739195,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.118194,
+      "longitude": 132.78655,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.132904,
+      "longitude": 132.777582,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.118047,
+      "longitude": 132.762627,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 34.672544,
+      "longitude": 125.948312,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.745442,
+      "longitude": 125.899281,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 35.078736,
+      "longitude": 126.061692,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.775661,
+      "longitude": 125.911811,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 50.93772,
+      "longitude": 117.928726,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 40.289811,
+      "longitude": 116.060244,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 50.564444,
+      "longitude": 105.967222,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 50.564167,
+      "longitude": 105.966944,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 36.799113,
+      "longitude": 117.876175,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 50.564167,
+      "longitude": 105.966389,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 36.799117,
+      "longitude": 117.8758,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 35.478139,
+      "longitude": 129.431279,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 35.478139,
+      "longitude": 129.431279,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 35.478139,
+      "longitude": 129.431279,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 35.478139,
+      "longitude": 129.431279,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 35.478139,
+      "longitude": 129.431279,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 35.478139,
+      "longitude": 129.431279,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 39.995322,
+      "longitude": 116.308213,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 39.769351,
+      "longitude": 116.473266,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 35.477873,
+      "longitude": 129.431,
+      "country": "Korea, Republic of",
+      "state": "Ulsan Metropolitan City"
+    },
+    {
+      "latitude": 35.478113,
+      "longitude": 129.431,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 35.478224,
+      "longitude": 129.430927,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 43.009722,
+      "longitude": 131.928611,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.009722,
+      "longitude": 131.928333,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.012222,
+      "longitude": 131.901111,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 35.386523,
+      "longitude": 129.227245,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 35.525341,
+      "longitude": 126.863541,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": -3.319816,
+      "longitude": 36.721982,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -30.391241,
+      "longitude": 30.694126,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 37.481111,
+      "longitude": 128.65,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.611111,
+      "longitude": 128.819444,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.1075,
+      "longitude": 128.428333,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 17.930729,
+      "longitude": 73.647734,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 51.597353,
+      "longitude": 107.031205,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": -30.678732,
+      "longitude": 30.498428,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 35.815692,
+      "longitude": 126.39535,
+      "country": "Korea, Republic of",
+      "state": "Jeollabuk-do"
+    },
+    {
+      "latitude": 35.815692,
+      "longitude": 126.39535,
+      "country": "Korea, Republic of",
+      "state": "Jeollabuk-do"
+    },
+    {
+      "latitude": 44.110247,
+      "longitude": 133.317252,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 50.917345,
+      "longitude": 128.512328,
+      "country": "Russian Federation",
+      "state": "Amur"
+    },
+    {
+      "latitude": 38.52453,
+      "longitude": 128.41576,
+      "country": "Korea, Republic of",
+      "state": "Gangwon-do"
+    },
+    {
+      "latitude": 38.52453,
+      "longitude": 128.41576,
+      "country": "Korea, Republic of",
+      "state": "Gangwon-do"
+    },
+    {
+      "latitude": 43.091111,
+      "longitude": 131.981389,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": -30.678586,
+      "longitude": 30.498508,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 50.832611,
+      "longitude": 114.839312,
+      "country": "Russian Federation",
+      "state": "Zabaykal'ye"
+    },
+    {
+      "latitude": 43.334473,
+      "longitude": 133.664882,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 50.646389,
+      "longitude": 106.008889,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 30.07796,
+      "longitude": 80.231331,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": -30.825035,
+      "longitude": 30.404377,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 49.873312,
+      "longitude": 127.702666,
+      "country": "Russian Federation",
+      "state": "Amur"
+    },
+    {
+      "latitude": 35.809914,
+      "longitude": 126.395144,
+      "country": "Korea, Republic of",
+      "state": "Jeollabuk-do"
+    },
+    {
+      "latitude": 35.809914,
+      "longitude": 126.395144,
+      "country": "Korea, Republic of",
+      "state": "Jeollabuk-do"
+    },
+    {
+      "latitude": 30.513865,
+      "longitude": 118.672112,
+      "country": "China",
+      "state": "Anhui"
+    },
+    {
+      "latitude": 18.276937,
+      "longitude": 73.621916,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -25.34898,
+      "longitude": 31.0373,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -29.116783,
+      "longitude": 31.590256,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -25.791493,
+      "longitude": 30.907618,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -5.92,
+      "longitude": 30.19,
+      "country": "Tanzania, United Republic of",
+      "state": "Kigoma"
+    },
+    {
+      "latitude": -5.92,
+      "longitude": 30.19,
+      "country": "Tanzania, United Republic of",
+      "state": "Kigoma"
+    },
+    {
+      "latitude": 43.697177,
+      "longitude": 132.156855,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": -0.57737,
+      "longitude": 37.70191,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -25.469155,
+      "longitude": 30.969933,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -6.323567,
+      "longitude": 30.403183,
+      "country": "Tanzania, United Republic of",
+      "state": "Rukwa"
+    },
+    {
+      "latitude": 43.697177,
+      "longitude": 132.156855,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 44.271323,
+      "longitude": 135.304363,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 44.246935,
+      "longitude": 135.052667,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 44.286433,
+      "longitude": 134.874465,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 37.734444,
+      "longitude": 126.536389,
+      "country": "Korea, Republic of",
+      "state": "game"
+    },
+    {
+      "latitude": 37.734123,
+      "longitude": 126.531456,
+      "country": "Korea, Republic of",
+      "state": "game"
+    },
+    {
+      "latitude": 37.734257,
+      "longitude": 126.536316,
+      "country": "Korea, Republic of",
+      "state": "game"
+    },
+    {
+      "latitude": 37.734444,
+      "longitude": 126.536389,
+      "country": "Korea, Republic of",
+      "state": "game"
+    },
+    {
+      "latitude": 43.697177,
+      "longitude": 132.156855,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 50.287745,
+      "longitude": 127.595741,
+      "country": "Russian Federation",
+      "state": "Amur"
+    },
+    {
+      "latitude": -0.67739,
+      "longitude": 36.96772,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.77864,
+      "longitude": 36.99075,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 50.288392,
+      "longitude": 127.595935,
+      "country": "Russian Federation",
+      "state": "Amur"
+    },
+    {
+      "latitude": 34.35,
+      "longitude": 73.47,
+      "country": "Pakistan",
+      "state": "Azad Jammu and Kashmir"
+    },
+    {
+      "latitude": 51.871103,
+      "longitude": 107.531166,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 43.697177,
+      "longitude": 132.156855,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 43.697177,
+      "longitude": 132.156855,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 34.35,
+      "longitude": 73.47,
+      "country": "Pakistan",
+      "state": "Azad Jammu and Kashmir"
+    },
+    {
+      "latitude": 37.776018,
+      "longitude": 126.292919,
+      "country": "Korea, Republic of",
+      "state": "\uc778\ucc9c\uad11\uc5ed\uc2dc"
+    },
+    {
+      "latitude": 37.720298,
+      "longitude": 126.440491,
+      "country": "Korea, Republic of",
+      "state": "\uc778\ucc9c\uad11\uc5ed\uc2dc"
+    },
+    {
+      "latitude": 22.624944,
+      "longitude": 103.625917,
+      "country": "Viet Nam",
+      "state": null
+    },
+    {
+      "latitude": 51.237974,
+      "longitude": 106.825997,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 37.542999,
+      "longitude": 112.632584,
+      "country": "China",
+      "state": "Shanxi"
+    },
+    {
+      "latitude": 37.638472,
+      "longitude": 115.677933,
+      "country": "China",
+      "state": "Hebei"
+    },
+    {
+      "latitude": 30.459789,
+      "longitude": 78.064372,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 43.697177,
+      "longitude": 132.156855,
+      "country": "Russian Federation",
+      "state": "Primor'ye"
+    },
+    {
+      "latitude": 40.527186,
+      "longitude": 115.995301,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": -31.42049,
+      "longitude": 29.856021,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 15.746164,
+      "longitude": 74.411126,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -25.371272,
+      "longitude": 31.09269,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 38.292639,
+      "longitude": 128.041333,
+      "country": "Korea, Republic of",
+      "state": "Gangwon-do"
+    },
+    {
+      "latitude": 38.126667,
+      "longitude": 128.282778,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": -28.964785,
+      "longitude": 31.758739,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 38.190722,
+      "longitude": 127.298056,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.430869,
+      "longitude": 127.0469,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.410889,
+      "longitude": 127.687361,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.416922,
+      "longitude": 129.058808,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.69905,
+      "longitude": 128.189269,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 33.949833,
+      "longitude": 126.318389,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.223028,
+      "longitude": 126.161333,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.89025,
+      "longitude": 126.0445,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.220722,
+      "longitude": 126.122972,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.050761,
+      "longitude": 125.134125,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.3007,
+      "longitude": 126.263342,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.392694,
+      "longitude": 125.299222,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.458639,
+      "longitude": 127.546833,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.229317,
+      "longitude": 126.077269,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.677277,
+      "longitude": 126.18969,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": -18.482808,
+      "longitude": 34.044619,
+      "country": "Mozambique",
+      "state": null
+    },
+    {
+      "latitude": -18.48281,
+      "longitude": 34.04462,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": -25.634722,
+      "longitude": 31.390556,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 33.965554,
+      "longitude": 126.291463,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 33.965554,
+      "longitude": 126.291463,
+      "country": "Korea, Republic of",
+      "state": "\uc81c\uc8fc\ub3c4"
+    },
+    {
+      "latitude": 34.361667,
+      "longitude": 126.589222,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 35.189167,
+      "longitude": 128.386806,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 35.25625,
+      "longitude": 128.301111,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.654858,
+      "longitude": 125.712192,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 35.765731,
+      "longitude": 128.790206,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.103083,
+      "longitude": 128.463886,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.070164,
+      "longitude": 128.581797,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.664492,
+      "longitude": 125.703797,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 35.802731,
+      "longitude": 128.715564,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 35.199778,
+      "longitude": 127.255056,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.654079,
+      "longitude": 128.089508,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.328569,
+      "longitude": 128.309658,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.699972,
+      "longitude": 128.161804,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.331489,
+      "longitude": 126.3597,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.149333,
+      "longitude": 128.902944,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.562431,
+      "longitude": 128.325623,
+      "country": "Korea, Republic of",
+      "state": "Gangwon-do"
+    },
+    {
+      "latitude": 39.95137,
+      "longitude": 116.469033,
+      "country": "China",
+      "state": "Beijing"
+    }
+  ],
+  "scientific_name": "Rubia cordifolia",
+  "common_name": "Indian Madder",
+  "description": null
+}

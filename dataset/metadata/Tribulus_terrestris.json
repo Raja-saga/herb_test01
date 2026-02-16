@@ -1,0 +1,3008 @@
+{
+  "herb": "Tribulus terrestris",
+  "locations": [
+    {
+      "latitude": -24.532653,
+      "longitude": 30.640457,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 18.911487,
+      "longitude": -155.681687,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -24.546906,
+      "longitude": 31.336838,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -34.879551,
+      "longitude": 138.524506,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -24.459485,
+      "longitude": 30.610169,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.459691,
+      "longitude": 30.609877,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -37.378759,
+      "longitude": -64.603616,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -34.879832,
+      "longitude": 138.524242,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -34.879993,
+      "longitude": 138.524168,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -36.751705,
+      "longitude": -62.501707,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -37.868637,
+      "longitude": 144.809083,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 36.770493,
+      "longitude": -2.607522,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": -28.027144,
+      "longitude": 148.599427,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -33.93937,
+      "longitude": 18.859795,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 36.770433,
+      "longitude": -2.607527,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": -20.194595,
+      "longitude": 28.616947,
+      "country": "Zimbabwe",
+      "state": "Bulawayo"
+    },
+    {
+      "latitude": -19.432073,
+      "longitude": 29.826149,
+      "country": "Zimbabwe",
+      "state": "Midlands"
+    },
+    {
+      "latitude": -28.027133,
+      "longitude": 148.599424,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.136338,
+      "longitude": 29.483056,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 36.770481,
+      "longitude": -2.607527,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 36.770428,
+      "longitude": -2.607503,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": -36.112714,
+      "longitude": 146.884729,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -22.414809,
+      "longitude": 26.755595,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -24.346229,
+      "longitude": 30.97079,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -20.167778,
+      "longitude": 28.579404,
+      "country": "Zimbabwe",
+      "state": "Bulawayo"
+    },
+    {
+      "latitude": -24.524025,
+      "longitude": 150.550186,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -20.195701,
+      "longitude": 28.615867,
+      "country": "Zimbabwe",
+      "state": "Bulawayo"
+    },
+    {
+      "latitude": -29.298792,
+      "longitude": 27.474408,
+      "country": "Lesotho",
+      "state": "Maseru"
+    },
+    {
+      "latitude": -26.137484,
+      "longitude": 27.942755,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 13.09568,
+      "longitude": 100.062682,
+      "country": "Thailand",
+      "state": "Phetchaburi"
+    },
+    {
+      "latitude": -24.569553,
+      "longitude": 27.84958,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -17.488393,
+      "longitude": 17.218302,
+      "country": "Namibia",
+      "state": "Ohangwena"
+    },
+    {
+      "latitude": -22.256487,
+      "longitude": 29.160114,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -35.322613,
+      "longitude": 149.167653,
+      "country": "Australia",
+      "state": "Australian Capital Territory"
+    },
+    {
+      "latitude": -20.097571,
+      "longitude": 28.720053,
+      "country": "Zimbabwe",
+      "state": "Matabeleland North"
+    },
+    {
+      "latitude": 31.693755,
+      "longitude": -106.202595,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -24.327451,
+      "longitude": 31.068482,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 32.255978,
+      "longitude": -110.967343,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 20.674622,
+      "longitude": 76.985603,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -21.554395,
+      "longitude": 23.192053,
+      "country": "Botswana",
+      "state": "Ghanzi"
+    },
+    {
+      "latitude": -20.196481,
+      "longitude": 28.616891,
+      "country": "Zimbabwe",
+      "state": "Bulawayo"
+    },
+    {
+      "latitude": -28.23016,
+      "longitude": 31.845289,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -35.686467,
+      "longitude": -63.743884,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 33.610147,
+      "longitude": -112.184668,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -34.788202,
+      "longitude": -58.443081,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -22.576881,
+      "longitude": 17.134473,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": -25.708547,
+      "longitude": 28.953759,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -38.730772,
+      "longitude": -62.265906,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": 24.161261,
+      "longitude": 55.677811,
+      "country": "United Arab Emirates",
+      "state": "Abu Dhabi"
+    },
+    {
+      "latitude": -37.700754,
+      "longitude": 145.10975,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -34.625939,
+      "longitude": -58.459766,
+      "country": "Argentina",
+      "state": "Ciudad de Buenos Aires"
+    },
+    {
+      "latitude": -19.612509,
+      "longitude": 14.830297,
+      "country": "Namibia",
+      "state": "Kunene"
+    },
+    {
+      "latitude": -37.078843,
+      "longitude": 144.361612,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 0.296806,
+      "longitude": -89.961701,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 20.666868,
+      "longitude": 77.116409,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -31.564723,
+      "longitude": 116.502327,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -24.398872,
+      "longitude": 30.81921,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -23.945433,
+      "longitude": 16.292332,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": -26.390898,
+      "longitude": 24.350548,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -23.899653,
+      "longitude": 31.048992,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -36.752201,
+      "longitude": -62.499971,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -23.933563,
+      "longitude": 31.048552,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -3.375302,
+      "longitude": 38.561362,
+      "country": "Kenya",
+      "state": "Taita Taveta"
+    },
+    {
+      "latitude": -35.679602,
+      "longitude": -63.697912,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -25.772109,
+      "longitude": 27.876427,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -23.924917,
+      "longitude": 31.028002,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 25.004041,
+      "longitude": 55.166536,
+      "country": "United Arab Emirates",
+      "state": "Dubay"
+    },
+    {
+      "latitude": -35.634415,
+      "longitude": -63.746851,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 22.561811,
+      "longitude": 59.536223,
+      "country": "Oman",
+      "state": "Ash Sharqiyah South"
+    },
+    {
+      "latitude": -22.992513,
+      "longitude": 16.8221,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": 29.850139,
+      "longitude": -6.038299,
+      "country": "Morocco",
+      "state": "Souss - Massa - Dra\u00e2"
+    },
+    {
+      "latitude": -35.349103,
+      "longitude": 149.088742,
+      "country": "Australia",
+      "state": "Australian Capital Territory"
+    },
+    {
+      "latitude": -35.294467,
+      "longitude": 149.126981,
+      "country": "Australia",
+      "state": "Australian Capital Territory"
+    },
+    {
+      "latitude": 22.958133,
+      "longitude": -14.778106,
+      "country": "Western Sahara",
+      "state": "Oued el Dahab"
+    },
+    {
+      "latitude": -22.916907,
+      "longitude": 28.630122,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -38.741602,
+      "longitude": -66.435559,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 0.301244,
+      "longitude": -89.947996,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -22.916907,
+      "longitude": 28.630122,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -28.027136,
+      "longitude": 148.599424,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -34.075194,
+      "longitude": 20.431458,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -18.585116,
+      "longitude": 26.317384,
+      "country": "Zimbabwe",
+      "state": "Matabeleland North"
+    },
+    {
+      "latitude": -0.944304,
+      "longitude": -91.011814,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -27.382852,
+      "longitude": 151.602661,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -36.396377,
+      "longitude": -67.140804,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -33.573755,
+      "longitude": 148.97495,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -26.999742,
+      "longitude": -66.223402,
+      "country": "Argentina",
+      "state": "Catamarca"
+    },
+    {
+      "latitude": -27.247307,
+      "longitude": -66.896696,
+      "country": "Argentina",
+      "state": "Catamarca"
+    },
+    {
+      "latitude": -9.841944,
+      "longitude": -39.466667,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -34.045649,
+      "longitude": 18.350632,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -26.362137,
+      "longitude": 28.512727,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -22.524175,
+      "longitude": 17.3945,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": -22.495018,
+      "longitude": 17.078829,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": -34.95747,
+      "longitude": 139.2089,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -23.698111,
+      "longitude": 133.888129,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -17.96,
+      "longitude": 122.23,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -28.227971,
+      "longitude": 31.821197,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -35.697051,
+      "longitude": -63.731689,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -34.886595,
+      "longitude": -56.08959,
+      "country": "Uruguay",
+      "state": "Montevideo"
+    },
+    {
+      "latitude": 12.570697,
+      "longitude": 99.804511,
+      "country": "Thailand",
+      "state": "Prachuap Khiri Khan"
+    },
+    {
+      "latitude": -33.202404,
+      "longitude": -62.600119,
+      "country": "Argentina",
+      "state": "C\u00f3rdoba"
+    },
+    {
+      "latitude": -25.349328,
+      "longitude": 131.023314,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -35.679796,
+      "longitude": -63.717355,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -38.144661,
+      "longitude": -65.915607,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 25.318709,
+      "longitude": 55.346723,
+      "country": "United Arab Emirates",
+      "state": "Sharjah"
+    },
+    {
+      "latitude": 12.36728,
+      "longitude": 77.069343,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -33.417594,
+      "longitude": 149.577264,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -22.381321,
+      "longitude": 31.213326,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -0.63498,
+      "longitude": -90.242683,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -22.582757,
+      "longitude": 17.329831,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": -32.912439,
+      "longitude": -60.855001,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": -26.920139,
+      "longitude": 26.336481,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 18.91432,
+      "longitude": -155.682587,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 12.85482,
+      "longitude": 79.13061,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 26.652281,
+      "longitude": 38.029316,
+      "country": "Saudi Arabia",
+      "state": "Al Madinah"
+    },
+    {
+      "latitude": -7.425261,
+      "longitude": -36.3611,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -33.789928,
+      "longitude": 20.110022,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.024856,
+      "longitude": 18.41372,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -28.701777,
+      "longitude": 26.454144,
+      "country": "South Africa",
+      "state": "Free State"
+    },
+    {
+      "latitude": -33.60851,
+      "longitude": -69.260007,
+      "country": "Argentina",
+      "state": "Mendoza"
+    },
+    {
+      "latitude": 25.416082,
+      "longitude": 55.660589,
+      "country": "United Arab Emirates",
+      "state": "Sharjah"
+    },
+    {
+      "latitude": -18.822317,
+      "longitude": 26.330199,
+      "country": "Zimbabwe",
+      "state": "Matabeleland North"
+    },
+    {
+      "latitude": -35.882392,
+      "longitude": 139.971022,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -37.207204,
+      "longitude": -64.639315,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -37.370823,
+      "longitude": -64.603223,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 8.045665,
+      "longitude": 79.717991,
+      "country": "Sri Lanka",
+      "state": "Puttalam"
+    },
+    {
+      "latitude": 33.302733,
+      "longitude": -116.349242,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.330456,
+      "longitude": 24.885551,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 19.58137,
+      "longitude": -155.96698,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -23.338622,
+      "longitude": 18.019365,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": -24.149961,
+      "longitude": 16.361895,
+      "country": "Namibia",
+      "state": "Hardap"
+    },
+    {
+      "latitude": -26.831346,
+      "longitude": 26.328847,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 0.300807,
+      "longitude": -89.951073,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -40.829556,
+      "longitude": -65.112696,
+      "country": "Argentina",
+      "state": null
+    },
+    {
+      "latitude": -32.434223,
+      "longitude": 24.749306,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -34.61002,
+      "longitude": 135.826427,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -34.530024,
+      "longitude": 146.414589,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -25.82824,
+      "longitude": 25.819768,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 25.75398,
+      "longitude": -108.968908,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -31.771038,
+      "longitude": 115.811487,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -25.479921,
+      "longitude": 31.061066,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -32.159337,
+      "longitude": 149.71847,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.63,
+      "longitude": 138.59,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -35.47,
+      "longitude": 144.39,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.18,
+      "longitude": 139.96,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -35.114582,
+      "longitude": 147.361609,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -35.232247,
+      "longitude": 149.028267,
+      "country": "Australia",
+      "state": "Australian Capital Territory"
+    },
+    {
+      "latitude": -35.387672,
+      "longitude": 149.122134,
+      "country": "Australia",
+      "state": "Australian Capital Territory"
+    },
+    {
+      "latitude": -24.901748,
+      "longitude": 28.42684,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 29.39709,
+      "longitude": 47.686408,
+      "country": "Kuwait",
+      "state": "Al Jahrah"
+    },
+    {
+      "latitude": -24.90148,
+      "longitude": 28.41772,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 29.397124,
+      "longitude": 47.686434,
+      "country": "Kuwait",
+      "state": "Al Jahrah"
+    },
+    {
+      "latitude": -31.832809,
+      "longitude": -60.529158,
+      "country": "Argentina",
+      "state": "Entre R\u00edos"
+    },
+    {
+      "latitude": -24.90782,
+      "longitude": 28.39369,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -35.013418,
+      "longitude": 138.73965,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -24.904112,
+      "longitude": 28.411017,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -31.833135,
+      "longitude": -60.529732,
+      "country": "Argentina",
+      "state": "Entre R\u00edos"
+    },
+    {
+      "latitude": -24.897555,
+      "longitude": 28.398748,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.90236,
+      "longitude": 28.399105,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 33.016422,
+      "longitude": -117.0494,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -24.903377,
+      "longitude": 28.412493,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -32.041437,
+      "longitude": -63.571973,
+      "country": "Argentina",
+      "state": "C\u00f3rdoba"
+    },
+    {
+      "latitude": 21.308938,
+      "longitude": -158.057708,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -24.902743,
+      "longitude": 28.41533,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.910792,
+      "longitude": 28.415898,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.905942,
+      "longitude": 28.404468,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -37.295479,
+      "longitude": 143.790264,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -24.905913,
+      "longitude": 28.408848,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -33.037563,
+      "longitude": -68.97377,
+      "country": "Argentina",
+      "state": "Mendoza"
+    },
+    {
+      "latitude": 17.283728,
+      "longitude": 78.593631,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -24.003796,
+      "longitude": 150.742905,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -22.44927,
+      "longitude": 31.310708,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -38.649953,
+      "longitude": -63.142827,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -34.605081,
+      "longitude": -58.601678,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": 40.943691,
+      "longitude": 29.24744,
+      "country": "T\u00fcrkiye",
+      "state": "Istanbul"
+    },
+    {
+      "latitude": -33.944133,
+      "longitude": 18.865517,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.699978,
+      "longitude": -58.77003,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -22.74326,
+      "longitude": 15.845413,
+      "country": "Namibia",
+      "state": "Erongo"
+    },
+    {
+      "latitude": -20.463354,
+      "longitude": 22.709788,
+      "country": "Botswana",
+      "state": "North-West"
+    },
+    {
+      "latitude": -37.472524,
+      "longitude": -66.021045,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -31.651267,
+      "longitude": 116.696663,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -25.90983,
+      "longitude": 28.179312,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -18.699883,
+      "longitude": 24.07335,
+      "country": "Botswana",
+      "state": "Chobe"
+    },
+    {
+      "latitude": 17.653214,
+      "longitude": 78.068372,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -25.697765,
+      "longitude": 28.230118,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -29.213601,
+      "longitude": 23.353413,
+      "country": "South Africa",
+      "state": "Northern Cape"
+    },
+    {
+      "latitude": -23.405317,
+      "longitude": -67.967147,
+      "country": "Chile",
+      "state": "Antofagasta"
+    },
+    {
+      "latitude": -36.914418,
+      "longitude": -64.265191,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 33.836444,
+      "longitude": -116.546642,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -31.997713,
+      "longitude": 115.886063,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 20.096553,
+      "longitude": 78.538626,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 31.791425,
+      "longitude": -106.422745,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -30.743347,
+      "longitude": 121.449862,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 19.938675,
+      "longitude": -155.7877,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -0.000354,
+      "longitude": -78.428627,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 28.26201,
+      "longitude": -105.473122,
+      "country": "Mexico",
+      "state": "Chihuahua"
+    },
+    {
+      "latitude": -24.011151,
+      "longitude": 17.495081,
+      "country": "Namibia",
+      "state": "Hardap"
+    },
+    {
+      "latitude": 33.016631,
+      "longitude": -117.0492,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 12.212293,
+      "longitude": 76.626282,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 33.904625,
+      "longitude": -117.599962,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 24.578896,
+      "longitude": 55.727908,
+      "country": "United Arab Emirates",
+      "state": "Abu Dhabi"
+    },
+    {
+      "latitude": 41.414949,
+      "longitude": 2.151466,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -34.024719,
+      "longitude": 18.413087,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.89918,
+      "longitude": -56.064739,
+      "country": "Uruguay",
+      "state": "Montevideo"
+    },
+    {
+      "latitude": -35.633312,
+      "longitude": -71.71087,
+      "country": "Chile",
+      "state": "Maule"
+    },
+    {
+      "latitude": -34.855636,
+      "longitude": -57.918714,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -32.424672,
+      "longitude": 24.771017,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 29.280169,
+      "longitude": 48.010473,
+      "country": "Kuwait",
+      "state": "Al Farwaniyah"
+    },
+    {
+      "latitude": -23.308274,
+      "longitude": 17.077383,
+      "country": "Namibia",
+      "state": null
+    },
+    {
+      "latitude": 24.959443,
+      "longitude": 46.701083,
+      "country": "Saudi Arabia",
+      "state": "Ar Riyad"
+    },
+    {
+      "latitude": -0.370497,
+      "longitude": -90.585706,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -25.776464,
+      "longitude": 27.827663,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 28.262744,
+      "longitude": -105.493271,
+      "country": "Mexico",
+      "state": "Chihuahua"
+    },
+    {
+      "latitude": -36.913326,
+      "longitude": -64.261929,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -26.476138,
+      "longitude": 20.613602,
+      "country": "Botswana",
+      "state": "Kgalagadi"
+    },
+    {
+      "latitude": -34.079243,
+      "longitude": 18.490723,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -33.936708,
+      "longitude": 18.862897,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -31.103939,
+      "longitude": 147.570535,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.166782,
+      "longitude": 149.728688,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.642585,
+      "longitude": 19.816698,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 33.912005,
+      "longitude": -117.13719,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.669302,
+      "longitude": -116.409959,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -34.798473,
+      "longitude": 147.044788,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -30.896994,
+      "longitude": 150.680442,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -25.197442,
+      "longitude": 133.200658,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -24.90489,
+      "longitude": 133.195996,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -25.342903,
+      "longitude": 131.020994,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 33.302672,
+      "longitude": -116.366928,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.302822,
+      "longitude": -116.366913,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 22.903694,
+      "longitude": -109.887658,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 33.407866,
+      "longitude": -111.898488,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 33.517301,
+      "longitude": -111.985484,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 33.719497,
+      "longitude": -117.727195,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.553469,
+      "longitude": -112.109524,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 33.030553,
+      "longitude": -116.3992,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -32.341696,
+      "longitude": 24.909015,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -33.430185,
+      "longitude": 24.85266,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -33.937351,
+      "longitude": 18.855757,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -32.404339,
+      "longitude": 22.478878,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 33.797742,
+      "longitude": -116.480637,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.723488,
+      "longitude": -116.21208,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 21.255472,
+      "longitude": -157.791731,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -32.709614,
+      "longitude": 19.224804,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 36.564424,
+      "longitude": -119.623596,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.715616,
+      "longitude": -116.200354,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -32.43437,
+      "longitude": 24.748451,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -35.882531,
+      "longitude": 139.970947,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -27.00255,
+      "longitude": 28.600317,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 25.287575,
+      "longitude": 55.470376,
+      "country": "United Arab Emirates",
+      "state": "Sharjah"
+    },
+    {
+      "latitude": 32.312853,
+      "longitude": 34.887824,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 33.836522,
+      "longitude": -116.546614,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.675706,
+      "longitude": -116.305422,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 26.231578,
+      "longitude": -98.215543,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.183336,
+      "longitude": -98.112638,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -33.812298,
+      "longitude": 18.520055,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 34.084152,
+      "longitude": -117.1744,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -34.159851,
+      "longitude": 18.432014,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -33.953896,
+      "longitude": 18.48217,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 26.193209,
+      "longitude": -98.097857,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 25.69369,
+      "longitude": -108.902756,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -31.565143,
+      "longitude": 116.502031,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 26.218343,
+      "longitude": -98.283955,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 25.577328,
+      "longitude": -103.375756,
+      "country": "Mexico",
+      "state": "Coahuila"
+    },
+    {
+      "latitude": -37.282262,
+      "longitude": -64.590789,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": -22.581167,
+      "longitude": 17.058595,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": 32.782442,
+      "longitude": -108.268559,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": -22.702067,
+      "longitude": 17.061569,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": 32.755114,
+      "longitude": -117.242574,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 29.460317,
+      "longitude": -98.479871,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -32.809797,
+      "longitude": 17.892433,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 26.240096,
+      "longitude": -97.833576,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -33.614462,
+      "longitude": 18.543847,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 36.722966,
+      "longitude": -4.394,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 33.676089,
+      "longitude": -116.303892,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.676717,
+      "longitude": -116.301353,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.675678,
+      "longitude": -116.303581,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.890592,
+      "longitude": 18.485237,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.071678,
+      "longitude": 18.831188,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 33.675681,
+      "longitude": -116.303575,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 29.251625,
+      "longitude": -98.547119,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -31.53701,
+      "longitude": 142.5779,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 34.054685,
+      "longitude": -117.452218,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 29.365108,
+      "longitude": -98.366837,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 37.69355,
+      "longitude": 67.4237,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": -33.607272,
+      "longitude": 18.537095,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 29.250286,
+      "longitude": -98.54689,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -32.903099,
+      "longitude": -60.733788,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": -33.954449,
+      "longitude": 18.465322,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 33.809087,
+      "longitude": -116.488663,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -34.0722,
+      "longitude": 18.832742,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 33.270558,
+      "longitude": -116.418809,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -0.025325,
+      "longitude": -78.452008,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": -33.662561,
+      "longitude": 18.558607,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 26.182661,
+      "longitude": -98.330459,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -22.811771,
+      "longitude": 16.306553,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": -0.025342,
+      "longitude": -78.451969,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 26.010673,
+      "longitude": -111.355761,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": -0.020994,
+      "longitude": -78.452156,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 33.743867,
+      "longitude": -116.292638,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -0.025339,
+      "longitude": -78.451978,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 32.481423,
+      "longitude": -100.011168,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.222119,
+      "longitude": -98.216658,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -33.945505,
+      "longitude": 18.834658,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -0.025325,
+      "longitude": -78.452003,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": -33.349483,
+      "longitude": 18.155008,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -33.944405,
+      "longitude": 18.837342,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 35.090156,
+      "longitude": -106.681918,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": 26.011531,
+      "longitude": -111.353158,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": -0.025342,
+      "longitude": -78.451969,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 26.231025,
+      "longitude": -98.214781,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -33.349483,
+      "longitude": 18.155008,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 36.803398,
+      "longitude": -2.602477,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 32.290137,
+      "longitude": 34.94709,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.116121,
+      "longitude": 35.644083,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.277715,
+      "longitude": 34.907787,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 36.129284,
+      "longitude": -115.183239,
+      "country": "United States of America",
+      "state": "Nevada"
+    },
+    {
+      "latitude": -34.383736,
+      "longitude": 21.221875,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 36.152542,
+      "longitude": -115.155427,
+      "country": "United States of America",
+      "state": "Nevada"
+    },
+    {
+      "latitude": 36.123503,
+      "longitude": -115.185713,
+      "country": "United States of America",
+      "state": "Nevada"
+    },
+    {
+      "latitude": -23.426889,
+      "longitude": 26.678954,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -33.953927,
+      "longitude": 18.482742,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 34.573075,
+      "longitude": -111.856062,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 34.225219,
+      "longitude": -112.085153,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -33.614558,
+      "longitude": 18.546488,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -33.955434,
+      "longitude": 18.481,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.14722,
+      "longitude": 18.320523,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 30.33288,
+      "longitude": -97.807932,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -33.421769,
+      "longitude": -70.712183,
+      "country": "Chile",
+      "state": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+      "latitude": -26.770317,
+      "longitude": 26.87925,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -33.886879,
+      "longitude": 18.531759,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -33.399172,
+      "longitude": -70.715906,
+      "country": "Chile",
+      "state": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+      "latitude": -33.399172,
+      "longitude": -70.715906,
+      "country": "Chile",
+      "state": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+      "latitude": -24.555974,
+      "longitude": 25.963311,
+      "country": "Botswana",
+      "state": "Gaborone"
+    },
+    {
+      "latitude": 29.249975,
+      "longitude": -98.547486,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.249762,
+      "longitude": -98.547547,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 34.571702,
+      "longitude": -111.855792,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -22.850345,
+      "longitude": 17.116638,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": 20.544479,
+      "longitude": -100.772222,
+      "country": "Mexico",
+      "state": "Guanajuato"
+    },
+    {
+      "latitude": 27.446048,
+      "longitude": -109.930893,
+      "country": "Mexico",
+      "state": "Sonora"
+    },
+    {
+      "latitude": 33.864311,
+      "longitude": -111.463959,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -31.084221,
+      "longitude": 147.554629,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -30.944356,
+      "longitude": 147.733805,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 33.575337,
+      "longitude": -112.011581,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 37.35928,
+      "longitude": -5.986812,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 28.27,
+      "longitude": -13.95,
+      "country": "Spain",
+      "state": "Las Palmas"
+    },
+    {
+      "latitude": 36.149086,
+      "longitude": -5.360825,
+      "country": "Gibraltar",
+      "state": null
+    },
+    {
+      "latitude": 45.860938,
+      "longitude": 25.78858,
+      "country": "Romania",
+      "state": "Covasna"
+    },
+    {
+      "latitude": -34.149372,
+      "longitude": 140.726811,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 26.011464,
+      "longitude": -111.35317,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 29.673617,
+      "longitude": -98.424063,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.448662,
+      "longitude": -98.499772,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 34.058733,
+      "longitude": -117.15766,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.763845,
+      "longitude": -118.170325,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.024098,
+      "longitude": -117.179236,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.062706,
+      "longitude": -117.163261,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.36903,
+      "longitude": -116.570962,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 29.567802,
+      "longitude": 34.949471,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 26.011652,
+      "longitude": -111.357416,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 27.446027,
+      "longitude": -109.924534,
+      "country": "Mexico",
+      "state": "Sonora"
+    },
+    {
+      "latitude": 32.57861,
+      "longitude": -115.443162,
+      "country": "Mexico",
+      "state": "Baja California"
+    },
+    {
+      "latitude": 38.834601,
+      "longitude": 65.789392,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 36.735669,
+      "longitude": -3.837571,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": -31.759889,
+      "longitude": -60.8295,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": 31.376548,
+      "longitude": -110.860898,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 17.420524,
+      "longitude": 78.544872,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 33.764162,
+      "longitude": -116.275887,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.368794,
+      "longitude": -64.599867,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 30.255307,
+      "longitude": -97.709369,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 33.694559,
+      "longitude": -117.725551,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.950108,
+      "longitude": 18.848017,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 38.044421,
+      "longitude": -4.06074,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 33.213967,
+      "longitude": -117.348663,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 45.351924,
+      "longitude": 36.4689,
+      "country": "Ukraine",
+      "state": "Crimea"
+    },
+    {
+      "latitude": -26.030125,
+      "longitude": 28.001811,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 35.067581,
+      "longitude": -118.176788,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.680258,
+      "longitude": -114.501398,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 36.149128,
+      "longitude": -5.361138,
+      "country": "Gibraltar",
+      "state": null
+    },
+    {
+      "latitude": 28.059099,
+      "longitude": -97.034195,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 33.68228,
+      "longitude": -116.20987,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -32.294187,
+      "longitude": 24.834997,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 25.271779,
+      "longitude": 55.370324,
+      "country": "United Arab Emirates",
+      "state": "Dubay"
+    },
+    {
+      "latitude": 32.40249,
+      "longitude": 35.505067,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 36.783117,
+      "longitude": -6.352504,
+      "country": "Spain",
+      "state": "C\u00e1diz"
+    },
+    {
+      "latitude": 31.328029,
+      "longitude": -110.961183,
+      "country": "Mexico",
+      "state": "Sonora"
+    },
+    {
+      "latitude": 32.614675,
+      "longitude": -115.386637,
+      "country": "Mexico",
+      "state": "Baja California"
+    },
+    {
+      "latitude": 9.913023,
+      "longitude": 77.575888,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 41.275099,
+      "longitude": 2.036784,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 17.34055,
+      "longitude": 78.177994,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 11.779434,
+      "longitude": 76.582921,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 34.790742,
+      "longitude": 32.41243,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 17.41997,
+      "longitude": 78.545678,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 36.014375,
+      "longitude": -106.038994,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": 36.729836,
+      "longitude": -3.574243,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 36.729818,
+      "longitude": -3.574322,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.760545,
+      "longitude": -108.052834,
+      "country": "United States of America",
+      "state": "Colorado"
+    },
+    {
+      "latitude": 17.420047,
+      "longitude": 78.553908,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 31.533614,
+      "longitude": -97.43545,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 46.346425,
+      "longitude": -120.180237,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 31.268834,
+      "longitude": -98.620121,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 35.363842,
+      "longitude": -119.114655,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 47.49528,
+      "longitude": 18.818017,
+      "country": "Hungary",
+      "state": "Pest"
+    },
+    {
+      "latitude": -0.58474,
+      "longitude": -90.161605,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 33.917067,
+      "longitude": -118.072513,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 24.212938,
+      "longitude": 55.800017,
+      "country": "United Arab Emirates",
+      "state": "Abu Dhabi"
+    },
+    {
+      "latitude": 38.362806,
+      "longitude": 20.726438,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 17.431713,
+      "longitude": 78.543943,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 41.737046,
+      "longitude": 1.804628,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -23.560653,
+      "longitude": 15.032105,
+      "country": "Namibia",
+      "state": "Erongo"
+    },
+    {
+      "latitude": 37.667268,
+      "longitude": -119.964909,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -34.958604,
+      "longitude": 138.508037,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 32.956686,
+      "longitude": -97.003523,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 11.130446,
+      "longitude": 78.317917,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 38.916553,
+      "longitude": -6.338053,
+      "country": "Spain",
+      "state": "Extremadura"
+    },
+    {
+      "latitude": 37.283844,
+      "longitude": -113.304211,
+      "country": "United States of America",
+      "state": "Utah"
+    },
+    {
+      "latitude": 31.858919,
+      "longitude": -106.168291,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 38.972242,
+      "longitude": -5.938263,
+      "country": "Spain",
+      "state": "Extremadura"
+    },
+    {
+      "latitude": 30.231512,
+      "longitude": -97.74192,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.346717,
+      "longitude": -97.744697,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 40.156579,
+      "longitude": -105.113547,
+      "country": "United States of America",
+      "state": "Colorado"
+    },
+    {
+      "latitude": 36.561179,
+      "longitude": -109.216734,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 33.53959,
+      "longitude": -112.065634,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -0.003575,
+      "longitude": -78.45005,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 13.738447,
+      "longitude": 100.597237,
+      "country": "Thailand",
+      "state": "Bangkok Metropolis"
+    },
+    {
+      "latitude": 37.66538,
+      "longitude": -0.727626,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": -26.553804,
+      "longitude": 146.293853,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 43.7203,
+      "longitude": 4.870549,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 29.195656,
+      "longitude": -98.654089,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 33.038759,
+      "longitude": -96.989579,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 40.294495,
+      "longitude": -122.178688,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 47.383814,
+      "longitude": 19.283403,
+      "country": "Hungary",
+      "state": "Pest"
+    },
+    {
+      "latitude": 31.655012,
+      "longitude": 34.547679,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 17.446625,
+      "longitude": 78.497342,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -0.003238,
+      "longitude": -78.449684,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 33.575378,
+      "longitude": -112.011422,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 30.188555,
+      "longitude": -97.607658,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 47.218582,
+      "longitude": 39.690994,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 35.119034,
+      "longitude": -106.701485,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": 33.247123,
+      "longitude": -100.61776,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 33.811607,
+      "longitude": -117.083162,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.834544,
+      "longitude": -117.1345,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 30.299192,
+      "longitude": -97.766599,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 39.716152,
+      "longitude": -121.521165,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.126992,
+      "longitude": -116.038058,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.358689,
+      "longitude": -115.731911,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.838665,
+      "longitude": -117.103638,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -30.17205,
+      "longitude": 144.55358,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 35.340462,
+      "longitude": -106.58912,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": 35.11935,
+      "longitude": -106.702271,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": 35.294486,
+      "longitude": -106.586936,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": -22.779792,
+      "longitude": 118.044978,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 38.536271,
+      "longitude": -121.731864,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.078681,
+      "longitude": 35.147268,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.101777,
+      "longitude": 35.595023,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.110417,
+      "longitude": 35.585697,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.091041,
+      "longitude": 35.632615,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": -4.572778,
+      "longitude": -37.986111,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -30.89826,
+      "longitude": 147.570348,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -31.044444,
+      "longitude": 147.650097,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 33.580187,
+      "longitude": -112.004653,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 33.57453,
+      "longitude": -112.009317,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 34.181617,
+      "longitude": -117.170714,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.371892,
+      "longitude": -5.98803,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.371909,
+      "longitude": -5.987943,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 36.733982,
+      "longitude": -3.973687,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 41.268812,
+      "longitude": 2.035729,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 35.890544,
+      "longitude": 14.501625,
+      "country": "Malta",
+      "state": null
+    },
+    {
+      "latitude": 38.358693,
+      "longitude": 20.722984,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 38.346628,
+      "longitude": -121.979472,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 41.534254,
+      "longitude": 8.857087,
+      "country": "France",
+      "state": "Corse"
+    },
+    {
+      "latitude": 38.472017,
+      "longitude": 14.95422,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 38.345859,
+      "longitude": -121.979039,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 35.186034,
+      "longitude": 25.713633,
+      "country": "Greece",
+      "state": "Crete"
+    },
+    {
+      "latitude": 43.638378,
+      "longitude": -116.224251,
+      "country": "United States of America",
+      "state": "Idaho"
+    },
+    {
+      "latitude": 37.730422,
+      "longitude": 22.757422,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 37.673272,
+      "longitude": -121.783431,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.854127,
+      "longitude": 65.790516,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 38.854103,
+      "longitude": 65.790503,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 39.688917,
+      "longitude": 67.009841,
+      "country": "Uzbekistan",
+      "state": "Samarkand"
+    },
+    {
+      "latitude": 34.049403,
+      "longitude": -116.570305,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.020772,
+      "longitude": -117.246537,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 28.862878,
+      "longitude": -98.791412,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 39.761905,
+      "longitude": -105.0241,
+      "country": "United States of America",
+      "state": "Colorado"
+    },
+    {
+      "latitude": 42.437973,
+      "longitude": 68.799531,
+      "country": "Kazakhstan",
+      "state": "South Kazakhstan"
+    },
+    {
+      "latitude": 34.175685,
+      "longitude": -117.148155,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.001176,
+      "longitude": -117.628219,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.829563,
+      "longitude": -117.171425,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.763338,
+      "longitude": -116.275283,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.991362,
+      "longitude": -117.544284,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.606708,
+      "longitude": -117.83288,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.147126,
+      "longitude": -119.389199,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 25.269446,
+      "longitude": 51.554541,
+      "country": "Qatar",
+      "state": "Ad Dawhah"
+    },
+    {
+      "latitude": 25.2698,
+      "longitude": 51.555225,
+      "country": "Qatar",
+      "state": "Ad Dawhah"
+    },
+    {
+      "latitude": 42.437973,
+      "longitude": 68.799531,
+      "country": "Kazakhstan",
+      "state": "South Kazakhstan"
+    },
+    {
+      "latitude": 33.74579,
+      "longitude": -116.281907,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 43.618321,
+      "longitude": -116.393779,
+      "country": "United States of America",
+      "state": "Idaho"
+    },
+    {
+      "latitude": 36.411612,
+      "longitude": 25.445075,
+      "country": "Greece",
+      "state": "South Aegean"
+    },
+    {
+      "latitude": -15.794203,
+      "longitude": 127.882647,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 29.556897,
+      "longitude": -98.501472,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 31.607001,
+      "longitude": -106.272175,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 33.034277,
+      "longitude": -107.309085,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": 43.611625,
+      "longitude": -116.205819,
+      "country": "United States of America",
+      "state": "Idaho"
+    }
+  ],
+  "scientific_name": "Tribulus terrestris",
+  "common_name": "puncture vine",
+  "description": null
+}

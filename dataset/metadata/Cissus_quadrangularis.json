@@ -1,0 +1,3008 @@
+{
+  "herb": "Cissus quadrangularis",
+  "locations": [
+    {
+      "latitude": -0.52768,
+      "longitude": 31.001422,
+      "country": "Uganda",
+      "state": "Mbarara"
+    },
+    {
+      "latitude": -0.526638,
+      "longitude": 31.003758,
+      "country": "Uganda",
+      "state": "Mbarara"
+    },
+    {
+      "latitude": -0.526213,
+      "longitude": 31.004583,
+      "country": "Uganda",
+      "state": "Mbarara"
+    },
+    {
+      "latitude": -0.505625,
+      "longitude": 31.011494,
+      "country": "Uganda",
+      "state": "Mbarara"
+    },
+    {
+      "latitude": 6.264942,
+      "longitude": 81.411645,
+      "country": "Sri Lanka",
+      "state": "Hambantota"
+    },
+    {
+      "latitude": -20.438882,
+      "longitude": 28.748202,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": -22.989282,
+      "longitude": 29.613824,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 17.105903,
+      "longitude": 54.453006,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -3.51958,
+      "longitude": 37.585963,
+      "country": "Tanzania, United Republic of",
+      "state": "Kilimanjaro"
+    },
+    {
+      "latitude": -0.4763,
+      "longitude": 31.027628,
+      "country": "Uganda",
+      "state": "Mbarara"
+    },
+    {
+      "latitude": 10.24571,
+      "longitude": 10.171482,
+      "country": "Nigeria",
+      "state": null
+    },
+    {
+      "latitude": -3.447,
+      "longitude": 35.953056,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": 8.298234,
+      "longitude": 80.143481,
+      "country": "Sri Lanka",
+      "state": "Anuradhapura"
+    },
+    {
+      "latitude": 23.726703,
+      "longitude": 90.403514,
+      "country": "Bangladesh",
+      "state": "Dhaka"
+    },
+    {
+      "latitude": -29.766027,
+      "longitude": 30.854663,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 14.46848,
+      "longitude": -61.069417,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": -25.006002,
+      "longitude": 46.309026,
+      "country": "Madagascar",
+      "state": "Toliary"
+    },
+    {
+      "latitude": -27.974996,
+      "longitude": 32.371214,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -22.989307,
+      "longitude": 29.613811,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -21.05996,
+      "longitude": 34.600713,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": -20.901258,
+      "longitude": 34.287781,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": -3.507376,
+      "longitude": 35.360381,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": 13.719611,
+      "longitude": 79.624067,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 7.965219,
+      "longitude": 80.76299,
+      "country": "Sri Lanka",
+      "state": "Matale"
+    },
+    {
+      "latitude": -27.774828,
+      "longitude": 32.309912,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -20.899968,
+      "longitude": 34.287287,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": -20.901598,
+      "longitude": 34.289541,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": 11.133543,
+      "longitude": 78.248205,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.992501,
+      "longitude": 80.189823,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -3.799688,
+      "longitude": 35.86653,
+      "country": "Tanzania, United Republic of",
+      "state": "Manyara"
+    },
+    {
+      "latitude": 10.508649,
+      "longitude": 103.565353,
+      "country": "Cambodia",
+      "state": "Krong Preah Sihanouk"
+    },
+    {
+      "latitude": -17.390972,
+      "longitude": 14.218114,
+      "country": "Namibia",
+      "state": "Omusati"
+    },
+    {
+      "latitude": 12.933338,
+      "longitude": 79.377822,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.888615,
+      "longitude": 79.350558,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -20.11112,
+      "longitude": 57.722006,
+      "country": "Mauritius",
+      "state": "Rivi\u00e8re du Rempart"
+    },
+    {
+      "latitude": -26.083414,
+      "longitude": 32.95255,
+      "country": "Mozambique",
+      "state": "Maputo"
+    },
+    {
+      "latitude": -0.506625,
+      "longitude": 31.01121,
+      "country": "Uganda",
+      "state": "Mbarara"
+    },
+    {
+      "latitude": 12.556389,
+      "longitude": 78.188469,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 9.79703,
+      "longitude": 76.304018,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 9.71422,
+      "longitude": 79.885647,
+      "country": "Sri Lanka",
+      "state": "Jaffna"
+    },
+    {
+      "latitude": -22.421771,
+      "longitude": 31.291533,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 6.360428,
+      "longitude": 81.511781,
+      "country": "Sri Lanka",
+      "state": "Hambantota"
+    },
+    {
+      "latitude": -4.59366,
+      "longitude": 55.460334,
+      "country": "Seychelles",
+      "state": "Anse \u00c9toile"
+    },
+    {
+      "latitude": 2.518752,
+      "longitude": 34.516808,
+      "country": "Uganda",
+      "state": "Moroto"
+    },
+    {
+      "latitude": -8.517576,
+      "longitude": 37.342659,
+      "country": "Tanzania, United Republic of",
+      "state": "Morogoro"
+    },
+    {
+      "latitude": -4.593445,
+      "longitude": 55.460427,
+      "country": "Seychelles",
+      "state": "Anse \u00c9toile"
+    },
+    {
+      "latitude": -21.046775,
+      "longitude": 55.256798,
+      "country": "R\u00e9union",
+      "state": "Saint-Paul"
+    },
+    {
+      "latitude": 11.532543,
+      "longitude": 77.60838,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 14.046102,
+      "longitude": 79.312467,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 9.607134,
+      "longitude": 80.168362,
+      "country": "Sri Lanka",
+      "state": "Jaffna"
+    },
+    {
+      "latitude": 24.57619,
+      "longitude": 73.683523,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -12.324122,
+      "longitude": 49.33727,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": -12.312563,
+      "longitude": 49.336755,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": 0.175028,
+      "longitude": 36.105042,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": -27.634697,
+      "longitude": 32.183719,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 17.053633,
+      "longitude": 54.608908,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.037968,
+      "longitude": 54.612393,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.053295,
+      "longitude": 54.608825,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 13.741631,
+      "longitude": 79.578658,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 17.110773,
+      "longitude": 54.453132,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.089792,
+      "longitude": 54.636795,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -1.399058,
+      "longitude": 36.855365,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": -22.87052,
+      "longitude": 31.936329,
+      "country": "Mozambique",
+      "state": "Gaza"
+    },
+    {
+      "latitude": -1.398698,
+      "longitude": 36.855192,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": 6.881078,
+      "longitude": 81.718002,
+      "country": "Sri Lanka",
+      "state": "Ampara"
+    },
+    {
+      "latitude": 16.768994,
+      "longitude": 53.602169,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 16.886692,
+      "longitude": 53.783564,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 6.881171,
+      "longitude": 81.717931,
+      "country": "Sri Lanka",
+      "state": "Ampara"
+    },
+    {
+      "latitude": 6.881265,
+      "longitude": 81.718068,
+      "country": "Sri Lanka",
+      "state": "Ampara"
+    },
+    {
+      "latitude": 12.040956,
+      "longitude": 75.209982,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -1.398782,
+      "longitude": 36.849467,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": -1.401594,
+      "longitude": 36.850662,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": 17.105178,
+      "longitude": 54.702008,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -1.400342,
+      "longitude": 36.850972,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": -12.312858,
+      "longitude": 49.337672,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": -1.400147,
+      "longitude": 36.858475,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": -1.400802,
+      "longitude": 36.860038,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": -1.401862,
+      "longitude": 36.85041,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": 17.0555,
+      "longitude": 54.607389,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.105892,
+      "longitude": 54.693706,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -21.567436,
+      "longitude": 33.752532,
+      "country": "Mozambique",
+      "state": "Inhambane"
+    },
+    {
+      "latitude": 6.353,
+      "longitude": 81.472,
+      "country": "Sri Lanka",
+      "state": "Hambantota"
+    },
+    {
+      "latitude": 6.54,
+      "longitude": 81.303,
+      "country": "Sri Lanka",
+      "state": "Moneragala"
+    },
+    {
+      "latitude": 6.32357,
+      "longitude": 81.426457,
+      "country": "Sri Lanka",
+      "state": "Hambantota"
+    },
+    {
+      "latitude": 17.053851,
+      "longitude": 54.609284,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.112375,
+      "longitude": 54.71018,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.113731,
+      "longitude": 54.717137,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.053255,
+      "longitude": 54.610331,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -1.397666,
+      "longitude": 36.852228,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": -3.87297,
+      "longitude": 37.640167,
+      "country": "Tanzania, United Republic of",
+      "state": "Kilimanjaro"
+    },
+    {
+      "latitude": 17.103102,
+      "longitude": 54.69856,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 4.573381,
+      "longitude": -52.471092,
+      "country": "French Guiana",
+      "state": "Cayenne"
+    },
+    {
+      "latitude": 17.099231,
+      "longitude": 54.28369,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 7.711067,
+      "longitude": 79.801717,
+      "country": "Sri Lanka",
+      "state": "Puttalam"
+    },
+    {
+      "latitude": 17.153896,
+      "longitude": 54.62269,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 11.249917,
+      "longitude": 76.760913,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 17.149646,
+      "longitude": 54.312756,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 25.031644,
+      "longitude": -80.502197,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 16.807393,
+      "longitude": 53.281901,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -24.4534,
+      "longitude": 31.9784,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -18.95677,
+      "longitude": 34.340165,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": 17.095097,
+      "longitude": 54.335456,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.053409,
+      "longitude": 54.42791,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.085861,
+      "longitude": 54.280522,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 13.616808,
+      "longitude": 79.397052,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 6.437547,
+      "longitude": 38.279034,
+      "country": "Ethiopia",
+      "state": "Oromia"
+    },
+    {
+      "latitude": 13.618678,
+      "longitude": 79.39515,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 9.477475,
+      "longitude": 77.517213,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 14.350129,
+      "longitude": 77.586189,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": -18.96001,
+      "longitude": 34.34221,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": -18.96157,
+      "longitude": 34.330845,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": -18.892141,
+      "longitude": 34.332999,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": 13.618408,
+      "longitude": 79.395998,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": -18.959373,
+      "longitude": 34.326314,
+      "country": "Mozambique",
+      "state": "Sofala"
+    },
+    {
+      "latitude": 4.758356,
+      "longitude": -52.426719,
+      "country": "French Guiana",
+      "state": "Cayenne"
+    },
+    {
+      "latitude": 16.898313,
+      "longitude": 53.818331,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 16.976278,
+      "longitude": 53.821964,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 10.81597,
+      "longitude": 78.6662,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -1.417261,
+      "longitude": 36.87604,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": 5.804313,
+      "longitude": 37.457267,
+      "country": "Ethiopia",
+      "state": "Southern Nations, Nationalities and Peoples"
+    },
+    {
+      "latitude": 10.035457,
+      "longitude": 77.272339,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 10.11211,
+      "longitude": 9.929379,
+      "country": "Nigeria",
+      "state": "Bauchi"
+    },
+    {
+      "latitude": 7.320148,
+      "longitude": 80.575772,
+      "country": "Sri Lanka",
+      "state": "Kandy"
+    },
+    {
+      "latitude": 17.121499,
+      "longitude": 54.950119,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 12.984502,
+      "longitude": 7.630024,
+      "country": "Nigeria",
+      "state": "Katsina"
+    },
+    {
+      "latitude": 27.243415,
+      "longitude": 76.388191,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 12.137558,
+      "longitude": 18.491281,
+      "country": "Chad",
+      "state": "Gu\u00e9ra"
+    },
+    {
+      "latitude": 17.117795,
+      "longitude": 54.602084,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 25.26728,
+      "longitude": 82.988735,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -3.785377,
+      "longitude": 36.047028,
+      "country": "Tanzania, United Republic of",
+      "state": "Manyara"
+    },
+    {
+      "latitude": 12.736029,
+      "longitude": 80.159899,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 10.632766,
+      "longitude": 1.269396,
+      "country": "Benin",
+      "state": "Atakora"
+    },
+    {
+      "latitude": -21.030856,
+      "longitude": 55.687926,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 17.089106,
+      "longitude": 54.434752,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 5.999509,
+      "longitude": 80.3158,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 10.292413,
+      "longitude": 1.387687,
+      "country": "Benin",
+      "state": "Atakora"
+    },
+    {
+      "latitude": 9.720739,
+      "longitude": 76.340925,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 16.67074,
+      "longitude": 74.573609,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 16.849921,
+      "longitude": 74.59147,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 12.993884,
+      "longitude": 80.236247,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -23.000373,
+      "longitude": 29.150722,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 9.43874,
+      "longitude": 77.567383,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 19.954166,
+      "longitude": 72.82415,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 22.4,
+      "longitude": 88.49,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 17.357908,
+      "longitude": 78.417947,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 12.916003,
+      "longitude": 79.270926,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 10.23322,
+      "longitude": 77.731407,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 11.092642,
+      "longitude": 76.799733,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.013394,
+      "longitude": 79.805733,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 18.977233,
+      "longitude": 72.837198,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 11.932442,
+      "longitude": 79.800888,
+      "country": "India",
+      "state": "Puducherry"
+    },
+    {
+      "latitude": 11.025237,
+      "longitude": 76.946438,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.330692,
+      "longitude": -1.565024,
+      "country": "Burkina Faso",
+      "state": null
+    },
+    {
+      "latitude": 9.184056,
+      "longitude": 76.775158,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 8.252447,
+      "longitude": 77.514083,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -29.039028,
+      "longitude": 31.153142,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -24.987523,
+      "longitude": 31.476488,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 10.31547,
+      "longitude": 1.378428,
+      "country": "Benin",
+      "state": "Atakora"
+    },
+    {
+      "latitude": -24.265285,
+      "longitude": 29.778979,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 7.711198,
+      "longitude": 79.801826,
+      "country": "Sri Lanka",
+      "state": "Puttalam"
+    },
+    {
+      "latitude": 10.369722,
+      "longitude": 9.87,
+      "country": "Nigeria",
+      "state": "Bauchi"
+    },
+    {
+      "latitude": -27.82647,
+      "longitude": 32.111739,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -27.832362,
+      "longitude": 32.018906,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -27.833489,
+      "longitude": 32.02044,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -27.833489,
+      "longitude": 32.02044,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 12.197188,
+      "longitude": 78.984098,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.198385,
+      "longitude": 78.975309,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 10.296352,
+      "longitude": 1.38069,
+      "country": "Benin",
+      "state": "Atakora"
+    },
+    {
+      "latitude": -0.4963,
+      "longitude": 31.0202,
+      "country": "Uganda",
+      "state": "Mbarara"
+    },
+    {
+      "latitude": -0.4963,
+      "longitude": 31.0202,
+      "country": "Uganda",
+      "state": "Mbarara"
+    },
+    {
+      "latitude": -28.861221,
+      "longitude": 31.011018,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -28.860737,
+      "longitude": 31.010791,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 10.369722,
+      "longitude": 9.87,
+      "country": "Nigeria",
+      "state": null
+    },
+    {
+      "latitude": 12.255744,
+      "longitude": 79.029767,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -16.545633,
+      "longitude": 33.382985,
+      "country": "Mozambique",
+      "state": "Tete"
+    },
+    {
+      "latitude": -27.635633,
+      "longitude": 32.183177,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -24.46445,
+      "longitude": 30.876169,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -0.678401,
+      "longitude": 37.910679,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.69669,
+      "longitude": 37.918411,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 17.525071,
+      "longitude": 82.979874,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 17.525071,
+      "longitude": 82.979874,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": -1.412352,
+      "longitude": 36.889215,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": 10.683634,
+      "longitude": 77.693956,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -1.437135,
+      "longitude": 36.932253,
+      "country": "Kenya",
+      "state": "Machakos"
+    },
+    {
+      "latitude": -1.437135,
+      "longitude": 36.932253,
+      "country": "Kenya",
+      "state": "Machakos"
+    },
+    {
+      "latitude": -1.412588,
+      "longitude": 36.888721,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": -28.251542,
+      "longitude": 31.832661,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -1.882822,
+      "longitude": 30.744703,
+      "country": "Rwanda",
+      "state": "Iburasirazuba"
+    },
+    {
+      "latitude": -1.882795,
+      "longitude": 30.744055,
+      "country": "Rwanda",
+      "state": "Iburasirazuba"
+    },
+    {
+      "latitude": 14.569279,
+      "longitude": 79.087559,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 17.148629,
+      "longitude": 54.795594,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 6.488207,
+      "longitude": 81.512004,
+      "country": "Sri Lanka",
+      "state": "Hambantota"
+    },
+    {
+      "latitude": -25.010623,
+      "longitude": 34.044639,
+      "country": "Mozambique",
+      "state": "Gaza"
+    },
+    {
+      "latitude": 12.196785,
+      "longitude": 78.985018,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 5.23657,
+      "longitude": 37.826744,
+      "country": "Ethiopia",
+      "state": "Oromia"
+    },
+    {
+      "latitude": 8.33215,
+      "longitude": 77.542428,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -24.363538,
+      "longitude": 30.94774,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -3.662623,
+      "longitude": 37.579316,
+      "country": "Tanzania, United Republic of",
+      "state": "Kilimanjaro"
+    },
+    {
+      "latitude": -20.881037,
+      "longitude": 55.40682,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -2.149152,
+      "longitude": 33.854151,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": -1.906514,
+      "longitude": 30.717081,
+      "country": "Rwanda",
+      "state": "Iburasirazuba"
+    },
+    {
+      "latitude": 12.916003,
+      "longitude": 79.270926,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.916003,
+      "longitude": 79.270926,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -25.010794,
+      "longitude": 46.308765,
+      "country": "Madagascar",
+      "state": "Toliary"
+    },
+    {
+      "latitude": -24.99523,
+      "longitude": 46.51753,
+      "country": "Madagascar",
+      "state": "Toliary"
+    },
+    {
+      "latitude": 17.108379,
+      "longitude": 54.556904,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 6.74436,
+      "longitude": 11.815642,
+      "country": "Cameroon",
+      "state": "Adamaoua"
+    },
+    {
+      "latitude": 9.909568,
+      "longitude": 14.452793,
+      "country": "Chad",
+      "state": "Mayo-Kebbi Ouest"
+    },
+    {
+      "latitude": -20.883989,
+      "longitude": 55.412728,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 0.272965,
+      "longitude": 37.49503,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 17.100126,
+      "longitude": 54.284501,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 17.100126,
+      "longitude": 54.284501,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": -24.797212,
+      "longitude": 31.499883,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -28.014567,
+      "longitude": 32.287022,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 17.115656,
+      "longitude": 54.65668,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.094319,
+      "longitude": 54.686029,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.054661,
+      "longitude": 54.610258,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.697203,
+      "longitude": 77.643344,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.119396,
+      "longitude": 54.576479,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.105877,
+      "longitude": 54.693869,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.115762,
+      "longitude": 54.223439,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.128918,
+      "longitude": 54.238532,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.115313,
+      "longitude": 54.22357,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.041276,
+      "longitude": 54.433154,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -3.99482,
+      "longitude": 39.691575,
+      "country": "Kenya",
+      "state": "Mombasa"
+    },
+    {
+      "latitude": -1.405866,
+      "longitude": 36.876406,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -12.113988,
+      "longitude": 49.31713,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": -22.405821,
+      "longitude": 26.66238,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -20.330391,
+      "longitude": 57.377491,
+      "country": "Mauritius",
+      "state": "Black River"
+    },
+    {
+      "latitude": 9.72147,
+      "longitude": 80.17537,
+      "country": "Sri Lanka",
+      "state": "Jaffna"
+    },
+    {
+      "latitude": -3.034605,
+      "longitude": 36.710953,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": 12.990308,
+      "longitude": 80.260256,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.059219,
+      "longitude": 75.190906,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 18.979211,
+      "longitude": 72.83561,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 14.467983,
+      "longitude": -61.069217,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 0.261702,
+      "longitude": 37.492346,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 9.970278,
+      "longitude": 43.432502,
+      "country": "Somalia",
+      "state": "Awdal"
+    },
+    {
+      "latitude": 12.03642,
+      "longitude": 0.370569,
+      "country": "Burkina Faso",
+      "state": "Est"
+    },
+    {
+      "latitude": 13.758055,
+      "longitude": 100.5513,
+      "country": "Thailand",
+      "state": "Bangkok Metropolis"
+    },
+    {
+      "latitude": 18.649178,
+      "longitude": 73.770682,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -3.527647,
+      "longitude": 35.413688,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": 10.476943,
+      "longitude": 1.465853,
+      "country": "Benin",
+      "state": "Atakora"
+    },
+    {
+      "latitude": -22.330301,
+      "longitude": 31.032228,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 12.969297,
+      "longitude": 2.440625,
+      "country": "Niger",
+      "state": "Tillab\u00e9ry"
+    },
+    {
+      "latitude": 14.834937,
+      "longitude": -16.95041,
+      "country": "Senegal",
+      "state": null
+    },
+    {
+      "latitude": 13.020588,
+      "longitude": 80.263357,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 0.439651,
+      "longitude": 35.989568,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": 2.928085,
+      "longitude": 101.703752,
+      "country": "Malaysia",
+      "state": "Putrajaya"
+    },
+    {
+      "latitude": 2.92808,
+      "longitude": 101.703637,
+      "country": "Malaysia",
+      "state": "Putrajaya"
+    },
+    {
+      "latitude": 8.933144,
+      "longitude": 40.046261,
+      "country": "Ethiopia",
+      "state": "Afar"
+    },
+    {
+      "latitude": -25.424295,
+      "longitude": 31.44858,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -6.374246,
+      "longitude": 39.286143,
+      "country": "Tanzania, United Republic of",
+      "state": "Zanzibar West"
+    },
+    {
+      "latitude": -6.582036,
+      "longitude": 37.988246,
+      "country": "Tanzania, United Republic of",
+      "state": "Morogoro"
+    },
+    {
+      "latitude": 10.795706,
+      "longitude": 77.411302,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 17.395983,
+      "longitude": 78.511256,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -6.65362,
+      "longitude": 38.02065,
+      "country": "Tanzania, United Republic of",
+      "state": "Morogoro"
+    },
+    {
+      "latitude": 26.8663,
+      "longitude": 75.8158,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 26.866268,
+      "longitude": 75.815807,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -24.205534,
+      "longitude": 30.814148,
+      "country": "South Africa",
+      "state": null
+    },
+    {
+      "latitude": -21.046476,
+      "longitude": 55.228193,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 9.364828,
+      "longitude": 2.639138,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 11.534994,
+      "longitude": 77.258368,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 11.097838,
+      "longitude": 77.304323,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -20.889704,
+      "longitude": 55.420686,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -13.351409,
+      "longitude": 50.010663,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": 5.383867,
+      "longitude": 37.370062,
+      "country": "Ethiopia",
+      "state": "Southern Nations, Nationalities and Peoples"
+    },
+    {
+      "latitude": 5.374001,
+      "longitude": 37.442485,
+      "country": "Ethiopia",
+      "state": "Southern Nations, Nationalities and Peoples"
+    },
+    {
+      "latitude": 10.297582,
+      "longitude": 79.809632,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -22.235308,
+      "longitude": 33.091393,
+      "country": "Mozambique",
+      "state": null
+    },
+    {
+      "latitude": -23.884058,
+      "longitude": 32.078186,
+      "country": "Mozambique",
+      "state": null
+    },
+    {
+      "latitude": -22.235308,
+      "longitude": 33.091393,
+      "country": "Mozambique",
+      "state": null
+    },
+    {
+      "latitude": -22.235308,
+      "longitude": 33.091393,
+      "country": "Mozambique",
+      "state": null
+    },
+    {
+      "latitude": 16.841213,
+      "longitude": 74.594708,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -22.235308,
+      "longitude": 33.091393,
+      "country": "Mozambique",
+      "state": null
+    },
+    {
+      "latitude": -1.399773,
+      "longitude": 36.850076,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": 17.096032,
+      "longitude": 54.280422,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 20.699838,
+      "longitude": 77.008032,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -22.404538,
+      "longitude": 26.676208,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": 21.198046,
+      "longitude": 79.051279,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -1.90277,
+      "longitude": 30.720658,
+      "country": "Rwanda",
+      "state": "Iburasirazuba"
+    },
+    {
+      "latitude": 25.034975,
+      "longitude": -80.499178,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -25.268981,
+      "longitude": 27.126635,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 7.266437,
+      "longitude": 80.594453,
+      "country": "Sri Lanka",
+      "state": "Kandy"
+    },
+    {
+      "latitude": 25.035,
+      "longitude": -80.4985,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 13.138478,
+      "longitude": 79.1517,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 24.774456,
+      "longitude": 86.375674,
+      "country": "India",
+      "state": "Bihar"
+    },
+    {
+      "latitude": 13.021537,
+      "longitude": 79.171369,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 17.003861,
+      "longitude": 53.836942,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 25.984587,
+      "longitude": 85.676071,
+      "country": "India",
+      "state": "Bihar"
+    },
+    {
+      "latitude": 6.31547,
+      "longitude": 81.42541,
+      "country": "Sri Lanka",
+      "state": "Hambantota"
+    },
+    {
+      "latitude": 12.940466,
+      "longitude": 80.217129,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 13.056947,
+      "longitude": 80.242469,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -20.879935,
+      "longitude": 55.407803,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -20.879935,
+      "longitude": 55.407803,
+      "country": "R\u00e9union",
+      "state": "Saint-Denis"
+    },
+    {
+      "latitude": -20.879935,
+      "longitude": 55.407803,
+      "country": "R\u00e9union",
+      "state": "Saint-Denis"
+    },
+    {
+      "latitude": 18.548509,
+      "longitude": 83.518477,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.309159,
+      "longitude": 79.799374,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -21.046815,
+      "longitude": 55.244688,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -3.531283,
+      "longitude": 36.070614,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": -21.079204,
+      "longitude": 55.226011,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -1.399372,
+      "longitude": 36.849739,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 13.712762,
+      "longitude": 78.987332,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 8.735453,
+      "longitude": 77.874863,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -21.046703,
+      "longitude": 55.244547,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 14.466247,
+      "longitude": -60.92846,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 4.444678,
+      "longitude": 18.544425,
+      "country": "Central African Republic",
+      "state": null
+    },
+    {
+      "latitude": -12.441753,
+      "longitude": 49.431413,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": 10.998147,
+      "longitude": 76.975478,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -12.335717,
+      "longitude": 49.354122,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": -12.441753,
+      "longitude": 49.431413,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": 22.11001,
+      "longitude": 88.75185,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": -20.998266,
+      "longitude": 55.304664,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -3.327489,
+      "longitude": 37.702175,
+      "country": "Kenya",
+      "state": "Taita Taveta"
+    },
+    {
+      "latitude": -21.084077,
+      "longitude": 55.23749,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -21.047949,
+      "longitude": 55.242856,
+      "country": "R\u00e9union",
+      "state": "Saint-Paul"
+    },
+    {
+      "latitude": 16.320252,
+      "longitude": -61.488869,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": 26.465211,
+      "longitude": 87.841564,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 14.830879,
+      "longitude": 102.863471,
+      "country": "Thailand",
+      "state": "Buri Ram"
+    },
+    {
+      "latitude": -22.398971,
+      "longitude": 26.661691,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -21.047641,
+      "longitude": 55.247049,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 17.316991,
+      "longitude": 82.565786,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.382865,
+      "longitude": 72.917123,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.07254,
+      "longitude": 42.263434,
+      "country": "Ethiopia",
+      "state": null
+    },
+    {
+      "latitude": 9.07254,
+      "longitude": 42.263434,
+      "country": "Ethiopia",
+      "state": null
+    },
+    {
+      "latitude": 0.527199,
+      "longitude": 35.909754,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": -26.398927,
+      "longitude": 32.9219,
+      "country": "Mozambique",
+      "state": "Maputo"
+    },
+    {
+      "latitude": 0.741492,
+      "longitude": 35.871435,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": 0.7413,
+      "longitude": 35.871518,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": 0.731621,
+      "longitude": 35.88871,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": 0.526687,
+      "longitude": 35.923795,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": 0.731248,
+      "longitude": 35.888936,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": 0.731423,
+      "longitude": 35.888753,
+      "country": "Kenya",
+      "state": "Baringo"
+    },
+    {
+      "latitude": -21.047747,
+      "longitude": 55.247191,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -20.900877,
+      "longitude": 55.37567,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -21.048199,
+      "longitude": 55.242958,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 1.335293,
+      "longitude": 103.727687,
+      "country": "Singapore",
+      "state": null
+    },
+    {
+      "latitude": -24.943808,
+      "longitude": 46.622063,
+      "country": "Madagascar",
+      "state": "Toliary"
+    },
+    {
+      "latitude": -21.014272,
+      "longitude": 55.290703,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 17.048328,
+      "longitude": 54.542982,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 15.482803,
+      "longitude": 74.975121,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.990456,
+      "longitude": 85.399681,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 1.295506,
+      "longitude": 103.870269,
+      "country": "Singapore",
+      "state": null
+    },
+    {
+      "latitude": 23.830032,
+      "longitude": 78.776276,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 7.182945,
+      "longitude": 2.002024,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 19.188475,
+      "longitude": 72.981109,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 16.840903,
+      "longitude": 74.594699,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -20.881477,
+      "longitude": 55.406815,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 12.987453,
+      "longitude": 77.596608,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 15.745275,
+      "longitude": 73.687353,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.820683,
+      "longitude": 77.761058,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.349074,
+      "longitude": 77.565524,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -6.374618,
+      "longitude": 39.286108,
+      "country": "Tanzania, United Republic of",
+      "state": "Zanzibar West"
+    },
+    {
+      "latitude": 16.840689,
+      "longitude": 74.59475,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 16.031608,
+      "longitude": 76.494179,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -20.899695,
+      "longitude": 55.580349,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 16.840689,
+      "longitude": 74.59475,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 19.881274,
+      "longitude": 36.690715,
+      "country": "Sudan",
+      "state": "Red Sea"
+    },
+    {
+      "latitude": 7.182553,
+      "longitude": 2.001639,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 17.744822,
+      "longitude": 83.327125,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 12.915028,
+      "longitude": 77.569433,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -13.324203,
+      "longitude": 48.183113,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": -20.996937,
+      "longitude": 55.306287,
+      "country": "R\u00e9union",
+      "state": "Saint-Paul"
+    },
+    {
+      "latitude": -26.824255,
+      "longitude": 32.883329,
+      "country": "Mozambique",
+      "state": "Maputo"
+    },
+    {
+      "latitude": -25.749272,
+      "longitude": 32.742414,
+      "country": "Mozambique",
+      "state": "Maputo"
+    },
+    {
+      "latitude": 17.15316,
+      "longitude": 54.623593,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": -21.046591,
+      "longitude": 55.256695,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -2.996343,
+      "longitude": 35.352058,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": 10.308335,
+      "longitude": 79.834863,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 17.117658,
+      "longitude": 54.629517,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 13.144775,
+      "longitude": 79.960011,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 2.928025,
+      "longitude": 101.703756,
+      "country": "Malaysia",
+      "state": null
+    },
+    {
+      "latitude": 12.638,
+      "longitude": 78.604486,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.699451,
+      "longitude": 77.007622,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 17.053697,
+      "longitude": 54.608925,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 17.053703,
+      "longitude": 54.608908,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 13.091039,
+      "longitude": 80.213952,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.881097,
+      "longitude": 55.40677,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": -3.291036,
+      "longitude": 36.629494,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": -22.352553,
+      "longitude": 30.056325,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 6.862999,
+      "longitude": 2.12232,
+      "country": "Benin",
+      "state": "Zogbodomey"
+    },
+    {
+      "latitude": 6.872001,
+      "longitude": 2.13533,
+      "country": "Benin",
+      "state": "Zogbodomey"
+    },
+    {
+      "latitude": 6.923005,
+      "longitude": 2.12143,
+      "country": "Benin",
+      "state": "Zogbodomey"
+    },
+    {
+      "latitude": 6.943685,
+      "longitude": 2.113374,
+      "country": "Benin",
+      "state": "Zogbodomey"
+    },
+    {
+      "latitude": 6.949881,
+      "longitude": 2.138556,
+      "country": "Benin",
+      "state": "Zogbodomey"
+    },
+    {
+      "latitude": 25.570789,
+      "longitude": 82.38661,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.886582,
+      "longitude": 80.021648,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 13.148658,
+      "longitude": 78.940617,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 13.151858,
+      "longitude": 78.945009,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 1.871197,
+      "longitude": 31.486943,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": 1.906479,
+      "longitude": 31.465228,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": 1.89894,
+      "longitude": 31.469309,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": 1.905108,
+      "longitude": 31.433096,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": 1.89822,
+      "longitude": 31.443042,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": 2.250943,
+      "longitude": 32.140564,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": 6.949464,
+      "longitude": 2.128333,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.94914,
+      "longitude": 2.128881,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.941917,
+      "longitude": 2.121658,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.950552,
+      "longitude": 2.129421,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.943005,
+      "longitude": 2.122746,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.954708,
+      "longitude": 2.133577,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.946073,
+      "longitude": 2.125814,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.947161,
+      "longitude": 2.126902,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.95362,
+      "longitude": 2.132489,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.956687,
+      "longitude": 2.135556,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 10.846895,
+      "longitude": 19.38825,
+      "country": "Chad",
+      "state": "Gu\u00e9ra"
+    },
+    {
+      "latitude": 13.018764,
+      "longitude": 77.76838,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -6.28095,
+      "longitude": 39.177617,
+      "country": "Tanzania, United Republic of",
+      "state": "Mjini Magharibi"
+    },
+    {
+      "latitude": -6.280617,
+      "longitude": 39.176267,
+      "country": "Tanzania, United Republic of",
+      "state": "Mjini Magharibi"
+    },
+    {
+      "latitude": -29.764788,
+      "longitude": 30.855417,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 12.06764,
+      "longitude": 1.811639,
+      "country": "Burkina Faso",
+      "state": "Est"
+    },
+    {
+      "latitude": 12.069836,
+      "longitude": 1.793297,
+      "country": "Burkina Faso",
+      "state": "Est"
+    },
+    {
+      "latitude": 12.065589,
+      "longitude": 1.787816,
+      "country": "Burkina Faso",
+      "state": "Est"
+    },
+    {
+      "latitude": 12.067997,
+      "longitude": 1.807055,
+      "country": "Burkina Faso",
+      "state": "Est"
+    },
+    {
+      "latitude": -21.013688,
+      "longitude": 55.289576,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 10.983157,
+      "longitude": 76.736095,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -21.011596,
+      "longitude": 55.28826,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 14.085406,
+      "longitude": 75.050059,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.836043,
+      "longitude": 11.38161,
+      "country": "Nigeria",
+      "state": null
+    },
+    {
+      "latitude": 18.238802,
+      "longitude": 42.688106,
+      "country": "Saudi Arabia",
+      "state": null
+    },
+    {
+      "latitude": 12.829266,
+      "longitude": 79.738617,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -20.879106,
+      "longitude": 55.408731,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -20.99788,
+      "longitude": 55.30562,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 18.734509,
+      "longitude": 42.074215,
+      "country": "Saudi Arabia",
+      "state": null
+    },
+    {
+      "latitude": 11.498107,
+      "longitude": 78.59681,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 6.171958,
+      "longitude": 1.178607,
+      "country": "Togo",
+      "state": null
+    },
+    {
+      "latitude": 21.493273,
+      "longitude": 81.17137,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -21.013636,
+      "longitude": 55.28953,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -3.496687,
+      "longitude": 35.41343,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": -21.013636,
+      "longitude": 55.28953,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -20.998293,
+      "longitude": 55.305168,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -21.047896,
+      "longitude": 55.24282,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 9.775,
+      "longitude": 43.964444,
+      "country": "Somalia",
+      "state": "Maroodi Jeex"
+    },
+    {
+      "latitude": -20.892785,
+      "longitude": 55.564568,
+      "country": "R\u00e9union",
+      "state": "Saint-Denis"
+    },
+    {
+      "latitude": -6.375615,
+      "longitude": 39.285306,
+      "country": "Tanzania, United Republic of",
+      "state": "Zanzibar West"
+    },
+    {
+      "latitude": -20.892703,
+      "longitude": 55.56277,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 17.034941,
+      "longitude": 54.613408,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": -20.881979,
+      "longitude": 55.407375,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 10.269444,
+      "longitude": 9.850555,
+      "country": "Nigeria",
+      "state": "Bauchi"
+    },
+    {
+      "latitude": 10.212536,
+      "longitude": 9.87349,
+      "country": "Nigeria",
+      "state": "Bauchi"
+    },
+    {
+      "latitude": -2.43635,
+      "longitude": 40.1776,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -1.85671,
+      "longitude": 40.11742,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 7.711658,
+      "longitude": 79.806305,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 7.711275,
+      "longitude": 79.8014,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 17.033847,
+      "longitude": 54.623358,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": 13.885907,
+      "longitude": 78.027294,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 3.943535,
+      "longitude": 101.261094,
+      "country": "Malaysia",
+      "state": "Perak"
+    },
+    {
+      "latitude": -13.364942,
+      "longitude": 48.19678,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": 24.118344,
+      "longitude": 120.672599,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 9.993153,
+      "longitude": 39.846652,
+      "country": "Ethiopia",
+      "state": null
+    },
+    {
+      "latitude": -21.047839,
+      "longitude": 55.247192,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 11.13155,
+      "longitude": 76.684583,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -21.252004,
+      "longitude": 55.353928,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -2.44628,
+      "longitude": 34.818715,
+      "country": "Tanzania, United Republic of",
+      "state": "Mara"
+    },
+    {
+      "latitude": -2.506226,
+      "longitude": 35.886545,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -3.785847,
+      "longitude": 36.047108,
+      "country": "Tanzania, United Republic of",
+      "state": "Manyara"
+    },
+    {
+      "latitude": -2.598197,
+      "longitude": 35.910887,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -2.446551,
+      "longitude": 34.818309,
+      "country": "Tanzania, United Republic of",
+      "state": "Mara"
+    },
+    {
+      "latitude": -2.505169,
+      "longitude": 35.874567,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -2.64063,
+      "longitude": 35.874807,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -2.504855,
+      "longitude": 35.875488,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -2.294453,
+      "longitude": 34.799615,
+      "country": "Tanzania, United Republic of",
+      "state": "Mara"
+    },
+    {
+      "latitude": -2.393149,
+      "longitude": 35.872394,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -3.450456,
+      "longitude": 37.206149,
+      "country": "Tanzania, United Republic of",
+      "state": "Kilimanjaro"
+    },
+    {
+      "latitude": -3.417823,
+      "longitude": 37.189008,
+      "country": "Tanzania, United Republic of",
+      "state": "Kilimanjaro"
+    },
+    {
+      "latitude": -2.99655,
+      "longitude": 35.351689,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -3.387197,
+      "longitude": 35.821627,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -3.216998,
+      "longitude": 35.955138,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -3.387123,
+      "longitude": 35.821666,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -22.835005,
+      "longitude": 29.679158,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 10.530298,
+      "longitude": 76.347318,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 13.101632,
+      "longitude": 80.282056,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 29.091326,
+      "longitude": -13.470129,
+      "country": "Spain",
+      "state": "Las Palmas"
+    },
+    {
+      "latitude": -20.880908,
+      "longitude": 55.40672,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 4.558103,
+      "longitude": 13.840842,
+      "country": "Cameroon",
+      "state": null
+    },
+    {
+      "latitude": -20.957116,
+      "longitude": 55.322959,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -20.882035,
+      "longitude": 55.408198,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 17.180129,
+      "longitude": 78.226368,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -4.6579,
+      "longitude": 39.37,
+      "country": "Kenya",
+      "state": "Kwale"
+    },
+    {
+      "latitude": 11.993945,
+      "longitude": 3.08085,
+      "country": "Benin",
+      "state": "Alibori"
+    },
+    {
+      "latitude": 1.096954,
+      "longitude": 37.227431,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 1.096954,
+      "longitude": 37.227431,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 19.075375,
+      "longitude": 82.002717,
+      "country": "India",
+      "state": "Chhattisgarh"
+    },
+    {
+      "latitude": -22.405419,
+      "longitude": 26.662198,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": 18.117634,
+      "longitude": 83.515121,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -20.901675,
+      "longitude": 55.375655,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": 0.238725,
+      "longitude": 37.506917,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 0.239487,
+      "longitude": 37.505895,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 0.238818,
+      "longitude": 37.506883,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 17.054593,
+      "longitude": 54.608016,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 9.663333,
+      "longitude": 79.921389,
+      "country": "Sri Lanka",
+      "state": "Jaffna"
+    },
+    {
+      "latitude": 17.106454,
+      "longitude": 54.075256,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.053543,
+      "longitude": 54.608719,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.105068,
+      "longitude": 54.075015,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 22.423229,
+      "longitude": 87.327829,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 17.037942,
+      "longitude": 54.432747,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 9.567548,
+      "longitude": 39.829394,
+      "country": "Ethiopia",
+      "state": "Amhara"
+    },
+    {
+      "latitude": 9.574177,
+      "longitude": 39.81289,
+      "country": "Ethiopia",
+      "state": "Amhara"
+    },
+    {
+      "latitude": 0.294941,
+      "longitude": 37.429424,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -12.39086,
+      "longitude": 43.703971,
+      "country": "Comoros",
+      "state": "Nzwani"
+    },
+    {
+      "latitude": -12.363154,
+      "longitude": 43.714434,
+      "country": "Comoros",
+      "state": "Nzwani"
+    }
+  ],
+  "scientific_name": "Cissus quadrangularis",
+  "common_name": "Single-stemmed Wild Grape",
+  "description": null
+}

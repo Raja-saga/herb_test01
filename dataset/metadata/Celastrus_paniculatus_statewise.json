@@ -1,0 +1,76 @@
+{
+  "herb": "Celastrus paniculatus",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Maharashtra": {
+      "count": 17,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Gujarat": {
+      "count": 6,
+      "normalizedScore": 0.35,
+      "presence": "Low"
+    },
+    "Karnataka": {
+      "count": 13,
+      "normalizedScore": 0.76,
+      "presence": "High"
+    },
+    "Uttarakhand": {
+      "count": 3,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    },
+    "Kerala": {
+      "count": 1,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "Rajasthan": {
+      "count": 4,
+      "normalizedScore": 0.24,
+      "presence": "Low"
+    },
+    "Telangana": {
+      "count": 2,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "TamilNadu": {
+      "count": 5,
+      "normalizedScore": 0.29,
+      "presence": "Low"
+    },
+    "Chhattisgarh": {
+      "count": 2,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 1,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 2,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "Assam": {
+      "count": 4,
+      "normalizedScore": 0.24,
+      "presence": "Low"
+    },
+    "SurgujaState": {
+      "count": 1,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "Bombay": {
+      "count": 3,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    }
+  }
+}

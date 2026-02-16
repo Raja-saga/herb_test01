@@ -1,0 +1,106 @@
+{
+  "herb": "Cassia fistula",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Puducherry": {
+      "count": 3,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "Karnataka": {
+      "count": 11,
+      "normalizedScore": 0.23,
+      "presence": "Low"
+    },
+    "Maharashtra": {
+      "count": 48,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "TamilNadu": {
+      "count": 26,
+      "normalizedScore": 0.54,
+      "presence": "Medium"
+    },
+    "Rajasthan": {
+      "count": 10,
+      "normalizedScore": 0.21,
+      "presence": "Low"
+    },
+    "Telangana": {
+      "count": 38,
+      "normalizedScore": 0.79,
+      "presence": "High"
+    },
+    "MadhyaPradesh": {
+      "count": 11,
+      "normalizedScore": 0.23,
+      "presence": "Low"
+    },
+    "Goa": {
+      "count": 7,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Kerala": {
+      "count": 20,
+      "normalizedScore": 0.42,
+      "presence": "Low"
+    },
+    "WestBengal": {
+      "count": 7,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Bihar": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "NCTofDelhi": {
+      "count": 9,
+      "normalizedScore": 0.19,
+      "presence": "Very Low"
+    },
+    "Odisha": {
+      "count": 6,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 10,
+      "normalizedScore": 0.21,
+      "presence": "Low"
+    },
+    "Assam": {
+      "count": 7,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "UttarPradesh": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Uttarakhand": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Haryana": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    }
+  }
+}

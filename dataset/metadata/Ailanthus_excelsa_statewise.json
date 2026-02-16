@@ -1,0 +1,101 @@
+{
+  "herb": "Ailanthus excelsa",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Haryana": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Maharashtra": {
+      "count": 46,
+      "normalizedScore": 0.94,
+      "presence": "High"
+    },
+    "Rajasthan": {
+      "count": 49,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "NCTofDelhi": {
+      "count": 3,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "WestBengal": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 37,
+      "normalizedScore": 0.76,
+      "presence": "High"
+    },
+    "Telangana": {
+      "count": 12,
+      "normalizedScore": 0.24,
+      "presence": "Low"
+    },
+    "MadhyaPradesh": {
+      "count": 9,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    },
+    "Odisha": {
+      "count": 10,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    },
+    "TamilNadu": {
+      "count": 19,
+      "normalizedScore": 0.39,
+      "presence": "Low"
+    },
+    "UttarPradesh": {
+      "count": 13,
+      "normalizedScore": 0.27,
+      "presence": "Low"
+    },
+    "AndhraPradesh": {
+      "count": 6,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 9,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    },
+    "Karnataka": {
+      "count": 9,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    },
+    "Jharkhand": {
+      "count": 5,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "Assam": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Bihar": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "Uttarakhand": {
+      "count": 5,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "Tripura": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    }
+  }
+}

@@ -1,0 +1,3008 @@
+{
+  "herb": "Foeniculum vulgare",
+  "locations": [
+    {
+      "latitude": 28.809883,
+      "longitude": -17.781607,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 33.095092,
+      "longitude": -117.195275,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.040742,
+      "longitude": -119.574197,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 43.200017,
+      "longitude": 3.008189,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 23.592919,
+      "longitude": 120.379517,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 36.841476,
+      "longitude": -121.745514,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.951277,
+      "longitude": 25.487352,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 47.623287,
+      "longitude": -122.303038,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 41.075999,
+      "longitude": -7.745938,
+      "country": "Portugal",
+      "state": "Viseu"
+    },
+    {
+      "latitude": 40.285057,
+      "longitude": -8.262746,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 41.42064,
+      "longitude": 2.13707,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -40.570667,
+      "longitude": -73.149269,
+      "country": "Chile",
+      "state": "Los Lagos"
+    },
+    {
+      "latitude": 36.823278,
+      "longitude": -121.761128,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -35.025953,
+      "longitude": 138.563633,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 21.633836,
+      "longitude": 70.469437,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 33.109061,
+      "longitude": -117.204475,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.862897,
+      "longitude": 18.629463,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 37.103356,
+      "longitude": -7.948953,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": -37.591553,
+      "longitude": 144.719526,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 32.732997,
+      "longitude": -117.143975,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 43.118315,
+      "longitude": 3.0799,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": -40.558412,
+      "longitude": -73.161765,
+      "country": "Chile",
+      "state": "Los Lagos"
+    },
+    {
+      "latitude": 32.776974,
+      "longitude": 35.118941,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 48.681175,
+      "longitude": -1.986787,
+      "country": "France",
+      "state": "Bretagne"
+    },
+    {
+      "latitude": 33.152639,
+      "longitude": -117.179772,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.843433,
+      "longitude": 140.773255,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 47.64369,
+      "longitude": -122.307864,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": -34.28734,
+      "longitude": 21.857186,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -40.94747,
+      "longitude": 174.985914,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": -40.951536,
+      "longitude": 174.9827,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": -40.941831,
+      "longitude": 174.984012,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 43.479255,
+      "longitude": 5.488103,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": -32.955505,
+      "longitude": 151.726883,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 53.956134,
+      "longitude": -1.100921,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 50.91147,
+      "longitude": 3.16475,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.78806,
+      "longitude": 4.35877,
+      "country": "Belgium",
+      "state": "Brussels Capital Region"
+    },
+    {
+      "latitude": 50.7801,
+      "longitude": 4.81588,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 28.613293,
+      "longitude": -17.794743,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 28.583265,
+      "longitude": -17.79285,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": -37.751752,
+      "longitude": 145.696739,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -41.260617,
+      "longitude": 174.756745,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 40.210668,
+      "longitude": -8.432893,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 38.554019,
+      "longitude": -121.69363,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.843811,
+      "longitude": 144.883062,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -36.848564,
+      "longitude": -73.077419,
+      "country": "Chile",
+      "state": "B\u00edo-B\u00edo"
+    },
+    {
+      "latitude": -34.214351,
+      "longitude": 151.006541,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 47.627208,
+      "longitude": -122.336305,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": -34.968485,
+      "longitude": 138.709982,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 37.543434,
+      "longitude": -122.250036,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.040478,
+      "longitude": -119.571638,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -39.518721,
+      "longitude": 176.837546,
+      "country": "New Zealand",
+      "state": "Hawke's Bay"
+    },
+    {
+      "latitude": 33.783372,
+      "longitude": -118.361488,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -41.260718,
+      "longitude": 174.751633,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": -33.37916,
+      "longitude": 18.831715,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 39.176941,
+      "longitude": -7.73395,
+      "country": "Portugal",
+      "state": "Portalegre"
+    },
+    {
+      "latitude": 33.006308,
+      "longitude": -117.258523,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -40.975345,
+      "longitude": -72.878037,
+      "country": "Chile",
+      "state": "Los Lagos"
+    },
+    {
+      "latitude": -41.499747,
+      "longitude": 174.061447,
+      "country": "New Zealand",
+      "state": "Marlborough"
+    },
+    {
+      "latitude": 37.779347,
+      "longitude": -122.442385,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.826872,
+      "longitude": -122.490826,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.78312,
+      "longitude": -118.37977,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -41.25776,
+      "longitude": 174.75783,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 22.229636,
+      "longitude": -102.327969,
+      "country": "Mexico",
+      "state": "Aguascalientes"
+    },
+    {
+      "latitude": -41.2198,
+      "longitude": 174.794653,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 32.943205,
+      "longitude": -117.11846,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.352988,
+      "longitude": 20.717236,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": -34.349756,
+      "longitude": 18.824129,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.8554,
+      "longitude": 138.680178,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -41.490021,
+      "longitude": -72.890472,
+      "country": "Chile",
+      "state": "Los Lagos"
+    },
+    {
+      "latitude": 47.695679,
+      "longitude": -122.344974,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": -37.557502,
+      "longitude": 143.857493,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 37.258403,
+      "longitude": -121.961389,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -39.062096,
+      "longitude": 174.041982,
+      "country": "New Zealand",
+      "state": "Taranaki"
+    },
+    {
+      "latitude": 41.283103,
+      "longitude": 2.027102,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 36.808323,
+      "longitude": -2.603005,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": -35.001584,
+      "longitude": 138.702789,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 28.668991,
+      "longitude": -17.777049,
+      "country": "Spain",
+      "state": "Santa Cruz de Tenerife"
+    },
+    {
+      "latitude": 53.0,
+      "longitude": 4.75,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.5,
+      "longitude": 3.85,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": -35.386936,
+      "longitude": 149.12135,
+      "country": "Australia",
+      "state": "Australian Capital Territory"
+    },
+    {
+      "latitude": 38.567433,
+      "longitude": -121.382538,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 41.647717,
+      "longitude": -8.45475,
+      "country": "Portugal",
+      "state": "Braga"
+    },
+    {
+      "latitude": 43.004044,
+      "longitude": 11.935393,
+      "country": "Italy",
+      "state": "Toscana"
+    },
+    {
+      "latitude": 38.019022,
+      "longitude": -122.552925,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.630803,
+      "longitude": -121.285042,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.5951,
+      "longitude": -117.87793,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.160236,
+      "longitude": -122.245187,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.155372,
+      "longitude": -117.282158,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -32.703186,
+      "longitude": 151.623123,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 48.429888,
+      "longitude": -123.345078,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": -36.370012,
+      "longitude": -72.485579,
+      "country": "Chile",
+      "state": "B\u00edo-B\u00edo"
+    },
+    {
+      "latitude": 44.624057,
+      "longitude": -124.050998,
+      "country": "United States of America",
+      "state": "Oregon"
+    },
+    {
+      "latitude": -34.3532,
+      "longitude": 18.859139,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 36.665712,
+      "longitude": -4.607595,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.126156,
+      "longitude": -122.472375,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.80263,
+      "longitude": 144.759253,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -34.703002,
+      "longitude": -55.76764,
+      "country": "Uruguay",
+      "state": "Canelones"
+    },
+    {
+      "latitude": 37.227338,
+      "longitude": -121.751179,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -41.148113,
+      "longitude": 173.003647,
+      "country": "New Zealand",
+      "state": "Nelson"
+    },
+    {
+      "latitude": -33.893759,
+      "longitude": 151.143229,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 38.013827,
+      "longitude": -122.546557,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.352218,
+      "longitude": -122.603074,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.419675,
+      "longitude": -71.698371,
+      "country": "Chile",
+      "state": "Valpara\u00edso"
+    },
+    {
+      "latitude": 37.510997,
+      "longitude": -122.503005,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.092136,
+      "longitude": -117.181213,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.102392,
+      "longitude": -117.201387,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.906296,
+      "longitude": 145.329851,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 37.353243,
+      "longitude": -121.911745,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 41.29924,
+      "longitude": 1.964203,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 33.401127,
+      "longitude": -117.592827,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 43.111219,
+      "longitude": -8.444166,
+      "country": "Spain",
+      "state": "Galicia"
+    },
+    {
+      "latitude": 37.873917,
+      "longitude": -122.509933,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -0.222619,
+      "longitude": -78.501267,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 33.76678,
+      "longitude": -118.39637,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 50.366607,
+      "longitude": -4.130975,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 38.364106,
+      "longitude": 20.723921,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 38.450959,
+      "longitude": 20.685351,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 40.639176,
+      "longitude": -8.727902,
+      "country": "Portugal",
+      "state": "Aveiro"
+    },
+    {
+      "latitude": 40.68663,
+      "longitude": 0.850687,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -33.928652,
+      "longitude": 18.86925,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -37.777066,
+      "longitude": 145.361695,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 47.655346,
+      "longitude": -122.296167,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 37.873611,
+      "longitude": -122.509736,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -35.325597,
+      "longitude": 149.098417,
+      "country": "Australia",
+      "state": "Australian Capital Territory"
+    },
+    {
+      "latitude": 51.487628,
+      "longitude": -0.291603,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 28.53327,
+      "longitude": -16.252377,
+      "country": "Spain",
+      "state": "Santa Cruz de Tenerife"
+    },
+    {
+      "latitude": 52.55,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.55,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.45,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Flevoland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.3,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": -29.105774,
+      "longitude": 27.960271,
+      "country": "Lesotho",
+      "state": "Berea"
+    },
+    {
+      "latitude": -41.296396,
+      "longitude": 173.995735,
+      "country": "New Zealand",
+      "state": "Marlborough"
+    },
+    {
+      "latitude": 35.450223,
+      "longitude": -120.907304,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.340033,
+      "longitude": -122.010125,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -34.567193,
+      "longitude": 150.774551,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 46.194813,
+      "longitude": -123.80043,
+      "country": "United States of America",
+      "state": "Oregon"
+    },
+    {
+      "latitude": 34.178127,
+      "longitude": -118.479306,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.926127,
+      "longitude": -117.177075,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.927414,
+      "longitude": -117.178514,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.625907,
+      "longitude": -4.3225,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 39.000287,
+      "longitude": -1.87825,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": -41.129346,
+      "longitude": 174.844046,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 48.428483,
+      "longitude": -123.389345,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": -43.508272,
+      "longitude": 171.986874,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 37.414839,
+      "longitude": -122.031651,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.928238,
+      "longitude": -122.51158,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.350328,
+      "longitude": -121.910295,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.095333,
+      "longitude": -117.202417,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.647018,
+      "longitude": -117.862096,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 36.802601,
+      "longitude": -2.587562,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.35027,
+      "longitude": -121.910268,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -36.79859,
+      "longitude": 175.100232,
+      "country": "New Zealand",
+      "state": "Auckland"
+    },
+    {
+      "latitude": 38.6009,
+      "longitude": -122.56762,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.002169,
+      "longitude": -118.361557,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -41.301499,
+      "longitude": 174.830944,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": -39.104252,
+      "longitude": 173.979294,
+      "country": "New Zealand",
+      "state": "Taranaki"
+    },
+    {
+      "latitude": -43.570045,
+      "longitude": 172.738097,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 32.462708,
+      "longitude": 35.013999,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": -42.793298,
+      "longitude": 147.533897,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": 38.576683,
+      "longitude": -121.3499,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 28.384748,
+      "longitude": -16.515543,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 37.771067,
+      "longitude": -122.396316,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 43.66908,
+      "longitude": 3.996769,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 33.502431,
+      "longitude": -117.746455,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -42.808095,
+      "longitude": 147.427828,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": 37.944109,
+      "longitude": -1.140842,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 37.944024,
+      "longitude": -1.140884,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 28.339087,
+      "longitude": -16.87418,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 28.776098,
+      "longitude": -17.812002,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": -42.884483,
+      "longitude": 147.321288,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": 43.490113,
+      "longitude": -8.315487,
+      "country": "Spain",
+      "state": "Galicia"
+    },
+    {
+      "latitude": 47.944386,
+      "longitude": 6.592999,
+      "country": "France",
+      "state": "Lorraine"
+    },
+    {
+      "latitude": 38.449235,
+      "longitude": 20.688548,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 38.566772,
+      "longitude": -9.055097,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": -36.241743,
+      "longitude": 149.090043,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 39.455884,
+      "longitude": -8.026234,
+      "country": "Portugal",
+      "state": "Santar\u00e9m"
+    },
+    {
+      "latitude": 43.325219,
+      "longitude": -8.431835,
+      "country": "Spain",
+      "state": "Galicia"
+    },
+    {
+      "latitude": -36.970991,
+      "longitude": 174.769081,
+      "country": "New Zealand",
+      "state": "Auckland"
+    },
+    {
+      "latitude": 39.005883,
+      "longitude": -7.942,
+      "country": "Portugal",
+      "state": "Portalegre"
+    },
+    {
+      "latitude": -39.036858,
+      "longitude": 174.111993,
+      "country": "New Zealand",
+      "state": "Taranaki"
+    },
+    {
+      "latitude": 37.297653,
+      "longitude": -121.799936,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -32.376615,
+      "longitude": 150.132075,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 48.408153,
+      "longitude": -123.361267,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": -35.451055,
+      "longitude": 149.073875,
+      "country": "Australia",
+      "state": "Australian Capital Territory"
+    },
+    {
+      "latitude": -34.187405,
+      "longitude": 22.123711,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.192321,
+      "longitude": 22.108826,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -43.280953,
+      "longitude": 172.594043,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": -40.295899,
+      "longitude": 176.667114,
+      "country": "New Zealand",
+      "state": "Hawke's Bay"
+    },
+    {
+      "latitude": -39.600133,
+      "longitude": 176.940866,
+      "country": "New Zealand",
+      "state": "Hawke's Bay"
+    },
+    {
+      "latitude": 36.85223,
+      "longitude": -121.45118,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.101739,
+      "longitude": -117.200875,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -38.695294,
+      "longitude": -62.263969,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": 32.81037,
+      "longitude": -117.099122,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -41.274975,
+      "longitude": 173.300693,
+      "country": "New Zealand",
+      "state": "Nelson"
+    },
+    {
+      "latitude": 51.131561,
+      "longitude": 1.318558,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 43.071297,
+      "longitude": -7.629186,
+      "country": "Spain",
+      "state": "Galicia"
+    },
+    {
+      "latitude": 38.677225,
+      "longitude": -9.172909,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 37.572197,
+      "longitude": -4.755538,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.422031,
+      "longitude": -124.219637,
+      "country": "United States of America",
+      "state": "Oregon"
+    },
+    {
+      "latitude": -32.347468,
+      "longitude": -71.441099,
+      "country": "Chile",
+      "state": "Valpara\u00edso"
+    },
+    {
+      "latitude": 38.537723,
+      "longitude": -122.897548,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.472305,
+      "longitude": -118.546495,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 28.496887,
+      "longitude": -16.344459,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 33.793122,
+      "longitude": -118.382605,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -43.55059,
+      "longitude": 172.70271,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": -45.109611,
+      "longitude": 170.9776,
+      "country": "New Zealand",
+      "state": "Otago"
+    },
+    {
+      "latitude": 42.449665,
+      "longitude": -8.827834,
+      "country": "Spain",
+      "state": "Galicia"
+    },
+    {
+      "latitude": 37.009605,
+      "longitude": -7.92548,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": -31.737228,
+      "longitude": -61.087023,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": 37.889355,
+      "longitude": -122.526453,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 36.584412,
+      "longitude": -4.611064,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 48.406082,
+      "longitude": -123.351021,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": -41.286021,
+      "longitude": 174.010886,
+      "country": "New Zealand",
+      "state": "Marlborough"
+    },
+    {
+      "latitude": 37.083768,
+      "longitude": -7.702132,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 40.278748,
+      "longitude": -8.339977,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 47.771798,
+      "longitude": -122.332874,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": -36.208417,
+      "longitude": -63.946604,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 37.08072,
+      "longitude": -7.709772,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 31.87676,
+      "longitude": -116.680198,
+      "country": "Mexico",
+      "state": "Baja California"
+    },
+    {
+      "latitude": 43.631373,
+      "longitude": 3.869825,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 38.008033,
+      "longitude": -122.490186,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.842767,
+      "longitude": 121.802917,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 37.431012,
+      "longitude": -121.98099,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -41.286021,
+      "longitude": 174.010886,
+      "country": "New Zealand",
+      "state": "Marlborough"
+    },
+    {
+      "latitude": -31.833988,
+      "longitude": -60.525615,
+      "country": "Argentina",
+      "state": "Entre R\u00edos"
+    },
+    {
+      "latitude": 38.275863,
+      "longitude": -122.056289,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -41.327358,
+      "longitude": 174.786575,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 28.711031,
+      "longitude": -17.802602,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 35.909609,
+      "longitude": -5.375371,
+      "country": "Spain",
+      "state": "Ceuta y Melilla"
+    },
+    {
+      "latitude": 38.769728,
+      "longitude": -122.971716,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -39.03558,
+      "longitude": 174.111878,
+      "country": "New Zealand",
+      "state": "Taranaki"
+    },
+    {
+      "latitude": 28.633993,
+      "longitude": -17.922999,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 34.160968,
+      "longitude": -119.046924,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.160995,
+      "longitude": -119.0486,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 19.024971,
+      "longitude": -99.283207,
+      "country": "Mexico",
+      "state": "Morelos"
+    },
+    {
+      "latitude": 33.666919,
+      "longitude": -117.567801,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.339721,
+      "longitude": -121.90234,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.161176,
+      "longitude": -119.047454,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.329994,
+      "longitude": -121.894786,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -34.036869,
+      "longitude": 22.210937,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 32.768404,
+      "longitude": 35.040265,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 34.160612,
+      "longitude": -119.047255,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.662833,
+      "longitude": -122.39907,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.161067,
+      "longitude": -119.048461,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.875826,
+      "longitude": -117.240788,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.161281,
+      "longitude": -119.047417,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 28.7869,
+      "longitude": -17.990711,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 38.246925,
+      "longitude": -121.50833,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.642668,
+      "longitude": 0.068482,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": -33.952947,
+      "longitude": 25.561223,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 33.487764,
+      "longitude": -117.600974,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 18.981273,
+      "longitude": -99.233523,
+      "country": "Mexico",
+      "state": "Morelos"
+    },
+    {
+      "latitude": 33.102428,
+      "longitude": -117.201387,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.042715,
+      "longitude": -71.630988,
+      "country": "Chile",
+      "state": "Valpara\u00edso"
+    },
+    {
+      "latitude": 33.472062,
+      "longitude": -118.544722,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 42.244717,
+      "longitude": -8.604359,
+      "country": "Spain",
+      "state": "Galicia"
+    },
+    {
+      "latitude": -36.146072,
+      "longitude": 174.559433,
+      "country": "New Zealand",
+      "state": "Northland"
+    },
+    {
+      "latitude": 28.797624,
+      "longitude": -17.849551,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 51.21336,
+      "longitude": 4.28222,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 38.642668,
+      "longitude": 0.068482,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 39.913844,
+      "longitude": 3.076489,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 37.312587,
+      "longitude": -8.665742,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 20.74525,
+      "longitude": -103.377638,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 36.275345,
+      "longitude": -121.819913,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -34.345379,
+      "longitude": 18.932161,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 36.275345,
+      "longitude": -121.819913,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.897781,
+      "longitude": 15.148739,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 50.49527,
+      "longitude": 5.06256,
+      "country": "Belgium",
+      "state": "Namur"
+    },
+    {
+      "latitude": 38.647245,
+      "longitude": 0.071468,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 37.435344,
+      "longitude": -121.991211,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 41.40623,
+      "longitude": -8.523425,
+      "country": "Portugal",
+      "state": "Braga"
+    },
+    {
+      "latitude": 37.329994,
+      "longitude": -121.894815,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -43.595416,
+      "longitude": 172.710543,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 50.974927,
+      "longitude": -0.745824,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 50.844765,
+      "longitude": -0.767782,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 38.64789,
+      "longitude": 0.071972,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 47.59124,
+      "longitude": -2.723512,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 39.076963,
+      "longitude": -1.028445,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 37.687992,
+      "longitude": -6.525475,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 37.393133,
+      "longitude": -6.059463,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 28.392849,
+      "longitude": -14.084902,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 42.540355,
+      "longitude": 3.021893,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 45.507248,
+      "longitude": -122.67508,
+      "country": "United States of America",
+      "state": "Oregon"
+    },
+    {
+      "latitude": 28.809883,
+      "longitude": -17.781607,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 28.6625,
+      "longitude": -17.841024,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 31.801683,
+      "longitude": 35.150476,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.799245,
+      "longitude": 35.166866,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.792965,
+      "longitude": 35.136691,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.824168,
+      "longitude": 35.194118,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 33.232168,
+      "longitude": 35.581483,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.099476,
+      "longitude": 34.986644,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.594789,
+      "longitude": 35.171938,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.529208,
+      "longitude": 34.934138,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.523109,
+      "longitude": 35.016239,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.756924,
+      "longitude": 35.10463,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.815211,
+      "longitude": 35.483427,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.239663,
+      "longitude": 35.568586,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.529714,
+      "longitude": 34.934382,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.631275,
+      "longitude": 34.601958,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.52214,
+      "longitude": 35.001734,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.797935,
+      "longitude": 35.161777,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.792126,
+      "longitude": 35.136649,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.63244,
+      "longitude": 34.60214,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.978821,
+      "longitude": 35.811162,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 31.758358,
+      "longitude": 35.179717,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.792964,
+      "longitude": 35.13648,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.755923,
+      "longitude": 35.104768,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.616694,
+      "longitude": 34.568675,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.75972,
+      "longitude": 35.178588,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 6.061298,
+      "longitude": 38.214001,
+      "country": "Ethiopia",
+      "state": "Southern Nations, Nationalities and Peoples"
+    },
+    {
+      "latitude": 39.88403,
+      "longitude": -8.935185,
+      "country": "Portugal",
+      "state": "Leiria"
+    },
+    {
+      "latitude": -33.76607,
+      "longitude": 150.845527,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.340162,
+      "longitude": 115.637795,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 37.90993,
+      "longitude": -122.355758,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.642572,
+      "longitude": 0.068207,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 37.627802,
+      "longitude": -122.469118,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 36.660018,
+      "longitude": -6.109517,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 37.556623,
+      "longitude": -122.09406,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -11.464444,
+      "longitude": -41.18,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 36.758,
+      "longitude": -2.733195,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": -31.029464,
+      "longitude": -71.61187,
+      "country": "Chile",
+      "state": "Coquimbo"
+    },
+    {
+      "latitude": 38.538076,
+      "longitude": -122.901122,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.124046,
+      "longitude": -118.315994,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.105239,
+      "longitude": -118.322372,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 31.475401,
+      "longitude": 34.523783,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 33.748195,
+      "longitude": -118.382225,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.748222,
+      "longitude": -118.382172,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.813793,
+      "longitude": 145.179175,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -37.979022,
+      "longitude": 145.173645,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 50.9427,
+      "longitude": 3.57931,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 50.9427,
+      "longitude": 3.57931,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 37.41391,
+      "longitude": -6.00508,
+      "country": "Spain",
+      "state": "Sevilla"
+    },
+    {
+      "latitude": 51.15,
+      "longitude": 5.95,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.584616,
+      "longitude": 5.448001,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 40.973028,
+      "longitude": 28.786294,
+      "country": "T\u00fcrkiye",
+      "state": "Istanbul"
+    },
+    {
+      "latitude": 33.793238,
+      "longitude": -118.356705,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.735688,
+      "longitude": 0.106224,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": -42.934794,
+      "longitude": 173.258336,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 33.79623,
+      "longitude": -118.363075,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -38.017539,
+      "longitude": 143.972655,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 32.820738,
+      "longitude": -117.062974,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.015267,
+      "longitude": -118.378463,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -0.856662,
+      "longitude": -78.575737,
+      "country": "Ecuador",
+      "state": "Cotopaxi"
+    },
+    {
+      "latitude": 34.173717,
+      "longitude": -118.473466,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 30.450256,
+      "longitude": -84.318947,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -0.224927,
+      "longitude": -78.500835,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 41.31377,
+      "longitude": 1.991382,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -34.263242,
+      "longitude": 150.966536,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -37.277172,
+      "longitude": -64.59333,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 42.203012,
+      "longitude": -7.885308,
+      "country": "Spain",
+      "state": "Galicia"
+    },
+    {
+      "latitude": 19.353658,
+      "longitude": -99.174214,
+      "country": "Mexico",
+      "state": "Distrito Federal"
+    },
+    {
+      "latitude": -28.602712,
+      "longitude": 151.823578,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -36.149149,
+      "longitude": -72.710832,
+      "country": "Chile",
+      "state": "B\u00edo-B\u00edo"
+    },
+    {
+      "latitude": 40.104389,
+      "longitude": -8.490935,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": -41.343586,
+      "longitude": 174.790293,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 37.432187,
+      "longitude": -7.535224,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": 41.338831,
+      "longitude": 1.75496,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -44.871842,
+      "longitude": 169.8116,
+      "country": "New Zealand",
+      "state": "Otago"
+    },
+    {
+      "latitude": 32.643333,
+      "longitude": -117.025528,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.555952,
+      "longitude": -122.093248,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 40.094948,
+      "longitude": -8.488387,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 31.871567,
+      "longitude": -116.660745,
+      "country": "Mexico",
+      "state": "Baja California"
+    },
+    {
+      "latitude": 34.045281,
+      "longitude": -118.774642,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.017383,
+      "longitude": -119.678695,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 50.334309,
+      "longitude": -4.200803,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 36.820156,
+      "longitude": -2.663673,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.816689,
+      "longitude": -123.012449,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.278993,
+      "longitude": -121.807337,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.368794,
+      "longitude": -64.599867,
+      "country": "Argentina",
+      "state": "La Pampa"
+    },
+    {
+      "latitude": 36.812386,
+      "longitude": -121.737701,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.57514,
+      "longitude": -7.931134,
+      "country": "Portugal",
+      "state": "\u00c9vora"
+    },
+    {
+      "latitude": 39.554576,
+      "longitude": -7.994961,
+      "country": "Portugal",
+      "state": "Santar\u00e9m"
+    },
+    {
+      "latitude": 38.006233,
+      "longitude": -1.209463,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": -38.083381,
+      "longitude": 145.34708,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -36.848936,
+      "longitude": 174.783339,
+      "country": "New Zealand",
+      "state": "Auckland"
+    },
+    {
+      "latitude": 38.448549,
+      "longitude": 20.689574,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": -41.30847,
+      "longitude": 174.768709,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 38.297598,
+      "longitude": -122.281819,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 52.3,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 4.45,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": -34.03306,
+      "longitude": 151.182513,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -41.300222,
+      "longitude": 174.764588,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 33.102433,
+      "longitude": -117.201387,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.648878,
+      "longitude": -16.901284,
+      "country": "Portugal",
+      "state": "Madeira"
+    },
+    {
+      "latitude": -36.369807,
+      "longitude": -72.484933,
+      "country": "Chile",
+      "state": "B\u00edo-B\u00edo"
+    },
+    {
+      "latitude": 33.750131,
+      "longitude": -118.106052,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -42.906021,
+      "longitude": 147.341282,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": 43.610713,
+      "longitude": 3.735816,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 41.073822,
+      "longitude": 1.00649,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 40.002232,
+      "longitude": -8.398178,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 40.008472,
+      "longitude": -8.391028,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 32.71522,
+      "longitude": 34.989917,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": -41.097764,
+      "longitude": 174.838075,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": -34.067756,
+      "longitude": 151.015075,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 32.715633,
+      "longitude": 34.987025,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": -34.031233,
+      "longitude": 18.41702,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -43.279098,
+      "longitude": 172.709463,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 32.816774,
+      "longitude": 34.966816,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": -33.782105,
+      "longitude": 20.116002,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -35.361319,
+      "longitude": 138.453658,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 34.420749,
+      "longitude": -119.895215,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.71843,
+      "longitude": 145.007235,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 41.296547,
+      "longitude": 1.96642,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -35.801728,
+      "longitude": 174.333667,
+      "country": "New Zealand",
+      "state": "Northland"
+    },
+    {
+      "latitude": 38.587653,
+      "longitude": -121.463783,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 49.02455,
+      "longitude": -123.05575,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 38.587983,
+      "longitude": -121.4619,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -36.821781,
+      "longitude": 174.71566,
+      "country": "New Zealand",
+      "state": "Auckland"
+    },
+    {
+      "latitude": 37.375152,
+      "longitude": -121.811364,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -41.23168,
+      "longitude": 174.83708,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 41.328839,
+      "longitude": 2.109894,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 50.74868,
+      "longitude": 4.25163,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 51.2047,
+      "longitude": 3.10234,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.12484,
+      "longitude": 2.80494,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 50.82997,
+      "longitude": 4.74873,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 37.197121,
+      "longitude": -6.183917,
+      "country": "Spain",
+      "state": "Sevilla"
+    },
+    {
+      "latitude": 39.043357,
+      "longitude": 1.382621,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 39.078204,
+      "longitude": 1.514175,
+      "country": "Spain",
+      "state": "Illes Balears"
+    },
+    {
+      "latitude": 36.878588,
+      "longitude": -2.005738,
+      "country": "Spain",
+      "state": "Almer\u00eda"
+    },
+    {
+      "latitude": 38.646902,
+      "longitude": 0.073078,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 52.2,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 38.388984,
+      "longitude": -121.950634,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 36.761157,
+      "longitude": -3.844362,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 43.64718,
+      "longitude": 3.349167,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 32.652516,
+      "longitude": -116.997576,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.388029,
+      "longitude": -121.949286,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.86252,
+      "longitude": -122.431094,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.306166,
+      "longitude": 34.876335,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 48.442692,
+      "longitude": -123.378342,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": -0.87027,
+      "longitude": -78.465673,
+      "country": "Ecuador",
+      "state": "Cotopaxi"
+    },
+    {
+      "latitude": -0.222317,
+      "longitude": -78.499099,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 40.069523,
+      "longitude": -8.862676,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 38.528612,
+      "longitude": -122.662913,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 51.534704,
+      "longitude": 0.614582,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 32.648606,
+      "longitude": -16.901329,
+      "country": "Portugal",
+      "state": "Madeira"
+    },
+    {
+      "latitude": 32.371574,
+      "longitude": -64.654896,
+      "country": "Bermuda",
+      "state": "Saint George's"
+    },
+    {
+      "latitude": 38.388678,
+      "longitude": -121.950716,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.575878,
+      "longitude": -4.753953,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.635513,
+      "longitude": -9.135275,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 38.385576,
+      "longitude": -121.944373,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -34.199713,
+      "longitude": 21.678496,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 42.289218,
+      "longitude": -1.98334,
+      "country": "Spain",
+      "state": "La Rioja"
+    },
+    {
+      "latitude": -36.791194,
+      "longitude": 174.722031,
+      "country": "New Zealand",
+      "state": "Auckland"
+    },
+    {
+      "latitude": 47.797268,
+      "longitude": -122.495204,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 37.35904,
+      "longitude": -5.938154,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.38916,
+      "longitude": -121.950606,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.739605,
+      "longitude": -9.182257,
+      "country": "Portugal",
+      "state": "Lisboa"
+    },
+    {
+      "latitude": 40.525829,
+      "longitude": -7.526912,
+      "country": "Portugal",
+      "state": "Guarda"
+    },
+    {
+      "latitude": 38.363879,
+      "longitude": -121.970854,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.531082,
+      "longitude": -122.879804,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 40.625814,
+      "longitude": -8.654336,
+      "country": "Portugal",
+      "state": "Aveiro"
+    },
+    {
+      "latitude": 28.359401,
+      "longitude": -16.844203,
+      "country": "Spain",
+      "state": "Islas Canarias"
+    },
+    {
+      "latitude": 38.329987,
+      "longitude": -122.705821,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.328615,
+      "longitude": -121.892644,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.008219,
+      "longitude": -118.366403,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -42.89963,
+      "longitude": 147.444071,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": 37.733713,
+      "longitude": -122.434262,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.668823,
+      "longitude": -9.236675,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 32.824712,
+      "longitude": 35.500507,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 33.358482,
+      "longitude": -118.389864,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.641793,
+      "longitude": 176.419561,
+      "country": "New Zealand",
+      "state": "Bay of Plenty"
+    },
+    {
+      "latitude": -32.511043,
+      "longitude": -71.417866,
+      "country": "Chile",
+      "state": "Valpara\u00edso"
+    },
+    {
+      "latitude": 38.642124,
+      "longitude": -9.087593,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 38.343312,
+      "longitude": -121.960733,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.849625,
+      "longitude": 140.782837,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 51.294986,
+      "longitude": -0.514375,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": -33.795503,
+      "longitude": 20.127761,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 32.823537,
+      "longitude": 35.502258,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 41.594592,
+      "longitude": 1.7516,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 38.074724,
+      "longitude": -122.122866,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 36.501568,
+      "longitude": -121.762404,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -42.805944,
+      "longitude": 147.630744,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": -37.751872,
+      "longitude": 145.696685,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -33.233905,
+      "longitude": 18.133185,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 37.448005,
+      "longitude": -122.102947,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -0.223642,
+      "longitude": -78.502368,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 37.957033,
+      "longitude": -122.318246,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.909721,
+      "longitude": 25.579278,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 37.665411,
+      "longitude": -122.16075,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.715527,
+      "longitude": -121.794416,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.326749,
+      "longitude": -8.820336,
+      "country": "Portugal",
+      "state": "Faro"
+    },
+    {
+      "latitude": -40.938996,
+      "longitude": 175.659258,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 43.771582,
+      "longitude": 4.028518,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 36.276919,
+      "longitude": -5.810448,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 38.044833,
+      "longitude": -122.158007,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.803067,
+      "longitude": 20.09817,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -33.316771,
+      "longitude": 26.563393,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 30.05741,
+      "longitude": -9.65526,
+      "country": "Morocco",
+      "state": "Souss - Massa - Dra\u00e2"
+    },
+    {
+      "latitude": 37.839008,
+      "longitude": -25.349297,
+      "country": "Portugal",
+      "state": "Azores"
+    },
+    {
+      "latitude": 38.483318,
+      "longitude": -122.716922,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.387947,
+      "longitude": -121.94841,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.671523,
+      "longitude": -117.10182,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 37.735618,
+      "longitude": 12.604254,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 38.360914,
+      "longitude": 20.721932,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": -35.028306,
+      "longitude": 117.882167,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 38.563621,
+      "longitude": -121.746026,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -33.31803,
+      "longitude": 26.56814,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 50.334501,
+      "longitude": -4.200993,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 35.896572,
+      "longitude": 14.399212,
+      "country": "Malta",
+      "state": null
+    },
+    {
+      "latitude": 19.495014,
+      "longitude": -98.885644,
+      "country": "Mexico",
+      "state": "M\u00e9xico"
+    }
+  ],
+  "scientific_name": "Foeniculum vulgare",
+  "common_name": "fennel",
+  "description": null
+}

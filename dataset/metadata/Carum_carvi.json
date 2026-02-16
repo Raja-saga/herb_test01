@@ -1,0 +1,3008 @@
+{
+  "herb": "Carum carvi",
+  "locations": [
+    {
+      "latitude": 46.11843,
+      "longitude": 7.08292,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 41.624987,
+      "longitude": 1.182621,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 52.41365,
+      "longitude": 102.975724,
+      "country": "Russian Federation",
+      "state": "Irkutsk"
+    },
+    {
+      "latitude": 44.005947,
+      "longitude": 1.329563,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 40.471042,
+      "longitude": -3.85883,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 46.421722,
+      "longitude": -1.613342,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 36.610118,
+      "longitude": -5.334597,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 47.686581,
+      "longitude": 13.077833,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": 47.599834,
+      "longitude": 13.193896,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.44542,
+      "longitude": 12.778773,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.443166,
+      "longitude": 12.697354,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 44.007788,
+      "longitude": 4.010032,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 48.841424,
+      "longitude": 2.433206,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 48.839415,
+      "longitude": 2.44194,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 51.449678,
+      "longitude": -0.108928,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": null
+    },
+    {
+      "latitude": 43.659578,
+      "longitude": 1.520072,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 46.222434,
+      "longitude": 6.113467,
+      "country": "Switzerland",
+      "state": null
+    },
+    {
+      "latitude": 43.631189,
+      "longitude": 3.890672,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 47.853208,
+      "longitude": 3.972708,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 47.3283,
+      "longitude": 5.023938,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 44.043653,
+      "longitude": 0.1409,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 52.123878,
+      "longitude": 9.942025,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.931429,
+      "longitude": 6.920735,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 52.955951,
+      "longitude": -1.452365,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": null
+    },
+    {
+      "latitude": 45.803016,
+      "longitude": 15.7111,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 47.33336,
+      "longitude": 7.40555,
+      "country": "Switzerland",
+      "state": "Ju"
+    },
+    {
+      "latitude": 46.73834,
+      "longitude": 8.97614,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 47.443166,
+      "longitude": 12.697354,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.599834,
+      "longitude": 13.193896,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.44542,
+      "longitude": 12.778773,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 44.151854,
+      "longitude": 15.255198,
+      "country": "Croatia",
+      "state": null
+    },
+    {
+      "latitude": 44.47548,
+      "longitude": 2.285164,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 45.842953,
+      "longitude": 5.851218,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 48.804185,
+      "longitude": 9.179976,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.374878,
+      "longitude": 4.233914,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 47.35803,
+      "longitude": 8.943462,
+      "country": "Switzerland",
+      "state": null
+    },
+    {
+      "latitude": 44.812151,
+      "longitude": 6.196308,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 52.298559,
+      "longitude": 5.61035,
+      "country": "Netherlands",
+      "state": null
+    },
+    {
+      "latitude": 60.04026,
+      "longitude": 17.67179,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.304963,
+      "longitude": 11.647026,
+      "country": "Norway",
+      "state": "\u00d8stfold"
+    },
+    {
+      "latitude": 48.382623,
+      "longitude": 15.566597,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 60.967845,
+      "longitude": 69.054348,
+      "country": "Russian Federation",
+      "state": "Khanty-Mansiy"
+    },
+    {
+      "latitude": 55.900588,
+      "longitude": 37.735226,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 58.564877,
+      "longitude": 31.720475,
+      "country": "Russian Federation",
+      "state": "Novgorod"
+    },
+    {
+      "latitude": 56.257497,
+      "longitude": 37.971197,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 56.971061,
+      "longitude": 60.568462,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.244939,
+      "longitude": 37.96925,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 59.988042,
+      "longitude": 10.479575,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 48.093052,
+      "longitude": 15.825017,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 47.617818,
+      "longitude": 13.140139,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 51.55,
+      "longitude": 5.4,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 47.720259,
+      "longitude": 13.431882,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.721261,
+      "longitude": 13.439049,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.872566,
+      "longitude": 13.201211,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.742864,
+      "longitude": 13.2523,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.924859,
+      "longitude": 12.963682,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.744103,
+      "longitude": 13.25351,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.924835,
+      "longitude": 12.963682,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.083479,
+      "longitude": 13.811826,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.721137,
+      "longitude": 13.216919,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.578008,
+      "longitude": 13.344554,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.872373,
+      "longitude": 13.202575,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.922699,
+      "longitude": 12.962187,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.06852,
+      "longitude": 13.77846,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.083801,
+      "longitude": 13.812,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 59.98113,
+      "longitude": 18.16969,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 58.89366,
+      "longitude": 17.51392,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 64.06259,
+      "longitude": 20.86115,
+      "country": "Sweden",
+      "state": "V\u00e4sterbotten"
+    },
+    {
+      "latitude": 59.976432,
+      "longitude": 29.153411,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 59.701555,
+      "longitude": 30.131977,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 56.912521,
+      "longitude": 60.64823,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 59.700508,
+      "longitude": 30.119048,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 54.720694,
+      "longitude": 55.998487,
+      "country": "Russian Federation",
+      "state": "Bashkortostan"
+    },
+    {
+      "latitude": 56.849258,
+      "longitude": 60.578405,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.804053,
+      "longitude": 60.772534,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.911541,
+      "longitude": 60.648571,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 59.82505,
+      "longitude": 30.141195,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 56.910913,
+      "longitude": 60.656881,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.854238,
+      "longitude": 60.65302,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 52.410633,
+      "longitude": 16.937763,
+      "country": "Poland",
+      "state": "Greater Poland"
+    },
+    {
+      "latitude": 55.864383,
+      "longitude": 37.449347,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 56.766485,
+      "longitude": 60.546112,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 48.398032,
+      "longitude": 11.723501,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": 57.56794,
+      "longitude": 30.925655,
+      "country": "Russian Federation",
+      "state": "Novgorod"
+    },
+    {
+      "latitude": 56.87406,
+      "longitude": 60.73456,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 47.155738,
+      "longitude": 11.356095,
+      "country": "Austria",
+      "state": "Tirol"
+    },
+    {
+      "latitude": 56.911041,
+      "longitude": 60.652374,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.826439,
+      "longitude": 60.618309,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.779802,
+      "longitude": 60.531277,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.845421,
+      "longitude": 60.614438,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 57.48619,
+      "longitude": 60.215009,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 47.16316,
+      "longitude": 15.353252,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 56.865768,
+      "longitude": 60.673835,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 55.165996,
+      "longitude": 61.354658,
+      "country": "Russian Federation",
+      "state": "Chelyabinsk"
+    },
+    {
+      "latitude": 56.865889,
+      "longitude": 60.630561,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 58.142118,
+      "longitude": 52.670463,
+      "country": "Russian Federation",
+      "state": "Udmurt"
+    },
+    {
+      "latitude": 55.780402,
+      "longitude": 37.784776,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 47.015145,
+      "longitude": 15.456505,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 47.175655,
+      "longitude": 15.36284,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 47.924749,
+      "longitude": 12.964159,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.743123,
+      "longitude": 13.253082,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.978056,
+      "longitude": 12.922358,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.726381,
+      "longitude": 12.908736,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.594145,
+      "longitude": 13.161726,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.470737,
+      "longitude": 12.828954,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.345813,
+      "longitude": 13.281108,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 44.411421,
+      "longitude": 3.575106,
+      "country": "France",
+      "state": "Loz\u00e8re (48)"
+    },
+    {
+      "latitude": 44.411421,
+      "longitude": 3.575106,
+      "country": "France",
+      "state": "Loz\u00e8re (48)"
+    },
+    {
+      "latitude": 56.243528,
+      "longitude": 37.903786,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 56.886574,
+      "longitude": 60.608471,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 47.125348,
+      "longitude": 15.370012,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 56.854031,
+      "longitude": 60.653603,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 47.481266,
+      "longitude": 7.326952,
+      "country": "France",
+      "state": "Alsace"
+    },
+    {
+      "latitude": 57.987472,
+      "longitude": 29.36346,
+      "country": "Russian Federation",
+      "state": "Pskov"
+    },
+    {
+      "latitude": 53.171065,
+      "longitude": 45.101319,
+      "country": "Russian Federation",
+      "state": "Penza"
+    },
+    {
+      "latitude": 56.890816,
+      "longitude": 60.570774,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 60.34427,
+      "longitude": 23.126668,
+      "country": "Finland",
+      "state": "Varsinais-Suomi"
+    },
+    {
+      "latitude": 45.712308,
+      "longitude": 9.935889,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 56.806295,
+      "longitude": 60.525538,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 55.701199,
+      "longitude": 58.952367,
+      "country": "Russian Federation",
+      "state": "Bashkortostan"
+    },
+    {
+      "latitude": 56.917876,
+      "longitude": 60.639522,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.106764,
+      "longitude": 47.442028,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 56.854737,
+      "longitude": 60.652525,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 55.858796,
+      "longitude": 37.494067,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 46.284099,
+      "longitude": 15.200058,
+      "country": "Slovenia",
+      "state": "Savinjska"
+    },
+    {
+      "latitude": 59.96132,
+      "longitude": 30.516071,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 47.06215,
+      "longitude": 6.87918,
+      "country": "Switzerland",
+      "state": "Ne"
+    },
+    {
+      "latitude": 47.41814,
+      "longitude": 8.5319,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.27078,
+      "longitude": 9.45411,
+      "country": "Switzerland",
+      "state": "Ai"
+    },
+    {
+      "latitude": 46.83289,
+      "longitude": 8.58556,
+      "country": "Switzerland",
+      "state": "Ur"
+    },
+    {
+      "latitude": 47.37726,
+      "longitude": 6.94208,
+      "country": "Switzerland",
+      "state": "Ju"
+    },
+    {
+      "latitude": 47.15335,
+      "longitude": 7.27381,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 47.41814,
+      "longitude": 8.5319,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.33313,
+      "longitude": 7.67016,
+      "country": "Switzerland",
+      "state": "So"
+    },
+    {
+      "latitude": 47.33324,
+      "longitude": 7.604,
+      "country": "Switzerland",
+      "state": "So"
+    },
+    {
+      "latitude": 47.37317,
+      "longitude": 8.53098,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.59861,
+      "longitude": 8.46913,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.41814,
+      "longitude": 8.5319,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.41814,
+      "longitude": 8.5319,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.60306,
+      "longitude": 7.60484,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.41814,
+      "longitude": 8.5319,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.28835,
+      "longitude": 7.53777,
+      "country": "Switzerland",
+      "state": "So"
+    },
+    {
+      "latitude": 46.97149,
+      "longitude": 6.74871,
+      "country": "Switzerland",
+      "state": "Ne"
+    },
+    {
+      "latitude": 46.74621,
+      "longitude": 8.1911,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.15177,
+      "longitude": 8.06494,
+      "country": "Switzerland",
+      "state": "Lu"
+    },
+    {
+      "latitude": 47.37317,
+      "longitude": 8.53098,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.92859,
+      "longitude": 7.40581,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.15335,
+      "longitude": 7.27381,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 46.97357,
+      "longitude": 7.47149,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 47.15335,
+      "longitude": 7.27381,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 47.46482,
+      "longitude": 8.3339,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 47.15335,
+      "longitude": 7.27381,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 47.24341,
+      "longitude": 7.40561,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 46.25314,
+      "longitude": 7.0172,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.37776,
+      "longitude": 7.80276,
+      "country": "Switzerland",
+      "state": "Bl"
+    },
+    {
+      "latitude": 47.31573,
+      "longitude": 9.45581,
+      "country": "Switzerland",
+      "state": "Ai"
+    },
+    {
+      "latitude": 46.68393,
+      "longitude": 9.56295,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.78049,
+      "longitude": 9.1738,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 47.33313,
+      "longitude": 7.67016,
+      "country": "Switzerland",
+      "state": "So"
+    },
+    {
+      "latitude": 46.63896,
+      "longitude": 9.56118,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 47.15139,
+      "longitude": 8.13087,
+      "country": "Switzerland",
+      "state": "Lu"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.37317,
+      "longitude": 8.53098,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.23763,
+      "longitude": 8.59425,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.615286,
+      "longitude": 12.980942,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": 47.922699,
+      "longitude": 12.962187,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.924749,
+      "longitude": 12.964159,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 48.093052,
+      "longitude": 15.825017,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.103737,
+      "longitude": 13.710643,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.354443,
+      "longitude": 13.260946,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.744103,
+      "longitude": 13.25351,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.578008,
+      "longitude": 13.344554,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.083801,
+      "longitude": 13.812,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.726381,
+      "longitude": 12.908736,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.617818,
+      "longitude": 13.140139,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.594145,
+      "longitude": 13.161726,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.872373,
+      "longitude": 13.202575,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.470737,
+      "longitude": 12.828954,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.064566,
+      "longitude": 13.771214,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.743123,
+      "longitude": 13.253082,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.720259,
+      "longitude": 13.431882,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.872566,
+      "longitude": 13.201211,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.721261,
+      "longitude": 13.439049,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.103806,
+      "longitude": 13.71078,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.345813,
+      "longitude": 13.281108,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.06852,
+      "longitude": 13.77846,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.721137,
+      "longitude": 13.216919,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.924835,
+      "longitude": 12.963682,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.742864,
+      "longitude": 13.2523,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.978056,
+      "longitude": 12.922358,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.924859,
+      "longitude": 12.963682,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.083479,
+      "longitude": 13.811826,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 46.919291,
+      "longitude": 15.482245,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 47.015145,
+      "longitude": 15.456505,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 48.27806,
+      "longitude": 15.7425,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.149036,
+      "longitude": 15.306973,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 47.150301,
+      "longitude": 15.307551,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 53.464132,
+      "longitude": 56.068727,
+      "country": "Russian Federation",
+      "state": "Bashkortostan"
+    },
+    {
+      "latitude": 59.345536,
+      "longitude": 5.705381,
+      "country": "Norway",
+      "state": "Rogaland"
+    },
+    {
+      "latitude": 59.701106,
+      "longitude": 10.557064,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 69.634382,
+      "longitude": 18.903814,
+      "country": "Norway",
+      "state": "Troms"
+    },
+    {
+      "latitude": 59.977931,
+      "longitude": 11.017603,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 58.995161,
+      "longitude": 9.605299,
+      "country": "Norway",
+      "state": "Telemark"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 47.606503,
+      "longitude": 13.097349,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.661288,
+      "longitude": 13.329364,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.658137,
+      "longitude": 13.325918,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 57.81195,
+      "longitude": 13.02038,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 57.03573,
+      "longitude": 12.30077,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 59.08477,
+      "longitude": 16.90485,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 55.7337,
+      "longitude": 13.15346,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 57.87994,
+      "longitude": 11.62685,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 59.204946,
+      "longitude": 10.887653,
+      "country": "Norway",
+      "state": "\u00d8stfold"
+    },
+    {
+      "latitude": 60.12264,
+      "longitude": 10.188557,
+      "country": "Norway",
+      "state": "Buskerud"
+    },
+    {
+      "latitude": 59.063517,
+      "longitude": 10.437031,
+      "country": "Norway",
+      "state": "Vestfold"
+    },
+    {
+      "latitude": 59.990971,
+      "longitude": 11.037106,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.114597,
+      "longitude": 11.400995,
+      "country": "Norway",
+      "state": "\u00d8stfold"
+    },
+    {
+      "latitude": 59.20375,
+      "longitude": 10.887815,
+      "country": "Norway",
+      "state": "\u00d8stfold"
+    },
+    {
+      "latitude": 51.056518,
+      "longitude": 24.4805,
+      "country": "Ukraine",
+      "state": "Volyn"
+    },
+    {
+      "latitude": 60.089404,
+      "longitude": 32.299462,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 60.967518,
+      "longitude": 69.053839,
+      "country": "Russian Federation",
+      "state": "Khanty-Mansiy"
+    },
+    {
+      "latitude": 55.801754,
+      "longitude": 37.734147,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 60.076158,
+      "longitude": 30.45959,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 60.968101,
+      "longitude": 69.054573,
+      "country": "Russian Federation",
+      "state": "Khanty-Mansiy"
+    },
+    {
+      "latitude": 53.225753,
+      "longitude": 9.782835,
+      "country": "Germany",
+      "state": "Niedersachsen"
+    },
+    {
+      "latitude": 50.335045,
+      "longitude": 9.596548,
+      "country": "Germany",
+      "state": "Hessen"
+    },
+    {
+      "latitude": 46.947117,
+      "longitude": 15.047947,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 59.581377,
+      "longitude": 30.096316,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 59.698738,
+      "longitude": 30.127908,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 48.361943,
+      "longitude": 11.689104,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": 56.643756,
+      "longitude": 47.929275,
+      "country": "Russian Federation",
+      "state": "Mariy-El"
+    },
+    {
+      "latitude": 58.828337,
+      "longitude": 44.263222,
+      "country": "Russian Federation",
+      "state": "Kostroma"
+    },
+    {
+      "latitude": 55.168886,
+      "longitude": 61.483233,
+      "country": "Russian Federation",
+      "state": "Chelyabinsk"
+    },
+    {
+      "latitude": 48.774541,
+      "longitude": 15.54372,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 51.562664,
+      "longitude": 105.135475,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 56.829978,
+      "longitude": 64.296314,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 55.95145,
+      "longitude": 37.580133,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 48.059397,
+      "longitude": 16.182226,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 58.268642,
+      "longitude": 68.241445,
+      "country": "Russian Federation",
+      "state": "Tyumen'"
+    },
+    {
+      "latitude": 59.554802,
+      "longitude": 30.127299,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 60.999262,
+      "longitude": 69.034175,
+      "country": "Russian Federation",
+      "state": "Khanty-Mansiy"
+    },
+    {
+      "latitude": 57.200675,
+      "longitude": 58.95276,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 60.17152,
+      "longitude": 30.52473,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 55.706988,
+      "longitude": 37.520839,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 58.059285,
+      "longitude": 38.920874,
+      "country": "Russian Federation",
+      "state": "Yaroslavl'"
+    },
+    {
+      "latitude": 47.5588,
+      "longitude": 12.413303,
+      "country": "Austria",
+      "state": "Tirol"
+    },
+    {
+      "latitude": 47.841339,
+      "longitude": 13.450203,
+      "country": "Austria",
+      "state": "Ober\u00f6sterreich"
+    },
+    {
+      "latitude": 47.576955,
+      "longitude": 13.325789,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 59.695518,
+      "longitude": 30.106632,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 49.760617,
+      "longitude": 6.019628,
+      "country": "Luxembourg",
+      "state": "Luxembourg"
+    },
+    {
+      "latitude": 60.026537,
+      "longitude": 29.674702,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 61.127963,
+      "longitude": 11.376569,
+      "country": "Norway",
+      "state": "Innlandet"
+    },
+    {
+      "latitude": 57.67825,
+      "longitude": 14.08279,
+      "country": "Sweden",
+      "state": "Sm\u00e5land"
+    },
+    {
+      "latitude": 58.38467,
+      "longitude": 14.84289,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 56.34023,
+      "longitude": 16.54761,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 59.75199,
+      "longitude": 17.63823,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 57.54751,
+      "longitude": 13.93971,
+      "country": "Sweden",
+      "state": "Sm\u00e5land"
+    },
+    {
+      "latitude": 58.3884,
+      "longitude": 15.4591,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.57252,
+      "longitude": 13.43051,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 50.296509,
+      "longitude": 6.715834,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 47.494079,
+      "longitude": 13.399486,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 52.3,
+      "longitude": 6.65,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 48.464183,
+      "longitude": 14.455929,
+      "country": "Austria",
+      "state": "Ober\u00f6sterreich"
+    },
+    {
+      "latitude": 47.705006,
+      "longitude": 13.497686,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.546898,
+      "longitude": 13.396811,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 52.3,
+      "longitude": 6.65,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 47.615803,
+      "longitude": 13.123921,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 47.637878,
+      "longitude": 13.127628,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 52.3,
+      "longitude": 6.65,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 52.3,
+      "longitude": 6.65,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 52.25,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 56.799,
+      "longitude": 16.57105,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 58.30784,
+      "longitude": 13.70016,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 57.73637,
+      "longitude": 11.74553,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.90997,
+      "longitude": 14.79011,
+      "country": "Sweden",
+      "state": "Sm\u00e5land"
+    },
+    {
+      "latitude": 57.85326,
+      "longitude": 11.68757,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 55.73062,
+      "longitude": 13.1517,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 56.79544,
+      "longitude": 16.56978,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 58.57251,
+      "longitude": 13.42848,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 59.89304,
+      "longitude": 15.67086,
+      "country": "Sweden",
+      "state": "V\u00e4stmanland"
+    },
+    {
+      "latitude": 59.48739,
+      "longitude": 16.08456,
+      "country": "Sweden",
+      "state": "V\u00e4stmanland"
+    },
+    {
+      "latitude": 58.56318,
+      "longitude": 13.4031,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 60.1368,
+      "longitude": 15.19663,
+      "country": "Sweden",
+      "state": "Dalarna"
+    },
+    {
+      "latitude": 59.8725,
+      "longitude": 17.67805,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.87198,
+      "longitude": 15.68529,
+      "country": "Sweden",
+      "state": "V\u00e4stmanland"
+    },
+    {
+      "latitude": 55.58641,
+      "longitude": 14.00863,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 57.73637,
+      "longitude": 11.74553,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 58.61988,
+      "longitude": 14.02595,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30899,
+      "longitude": 13.70285,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 55.58563,
+      "longitude": 14.00641,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 59.861253,
+      "longitude": 10.43077,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.735609,
+      "longitude": 10.011643,
+      "country": "Norway",
+      "state": "Buskerud"
+    },
+    {
+      "latitude": 59.94788,
+      "longitude": 10.556301,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.767038,
+      "longitude": 10.124651,
+      "country": "Norway",
+      "state": "Buskerud"
+    },
+    {
+      "latitude": 59.938179,
+      "longitude": 11.089424,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 63.752358,
+      "longitude": 11.300618,
+      "country": "Norway",
+      "state": "Tr\u00f8ndelag"
+    },
+    {
+      "latitude": 60.000831,
+      "longitude": 11.034474,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.757587,
+      "longitude": 10.503075,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 58.190933,
+      "longitude": 8.16565,
+      "country": "Norway",
+      "state": "Agder"
+    },
+    {
+      "latitude": 59.938539,
+      "longitude": 11.089729,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.933922,
+      "longitude": 10.793276,
+      "country": "Norway",
+      "state": "Oslo"
+    },
+    {
+      "latitude": 58.964121,
+      "longitude": 9.855633,
+      "country": "Norway",
+      "state": "Vestfold"
+    },
+    {
+      "latitude": 59.949409,
+      "longitude": 10.554154,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.768299,
+      "longitude": 10.490589,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.97349,
+      "longitude": 10.576971,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.148929,
+      "longitude": 10.901873,
+      "country": "Norway",
+      "state": "\u00d8stfold"
+    },
+    {
+      "latitude": 59.843369,
+      "longitude": 10.412822,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.936928,
+      "longitude": 11.083486,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.657148,
+      "longitude": 10.812356,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 69.736772,
+      "longitude": 19.700063,
+      "country": "Norway",
+      "state": "Troms"
+    },
+    {
+      "latitude": 59.928804,
+      "longitude": 10.573943,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.738339,
+      "longitude": 10.969786,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.910272,
+      "longitude": 11.123551,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.937122,
+      "longitude": 11.087052,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 47.774124,
+      "longitude": 12.373506,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 47.594662,
+      "longitude": 13.149121,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 46.702327,
+      "longitude": 13.344347,
+      "country": "Austria",
+      "state": "K\u00e4rnten"
+    },
+    {
+      "latitude": 47.584721,
+      "longitude": 13.333626,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 51.65,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 48.179194,
+      "longitude": 16.093656,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 47.367843,
+      "longitude": 14.126733,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 48.090385,
+      "longitude": 15.829483,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 47.53693,
+      "longitude": 12.388334,
+      "country": "Austria",
+      "state": "Tirol"
+    },
+    {
+      "latitude": 47.741295,
+      "longitude": 13.333149,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 57.890689,
+      "longitude": 37.807217,
+      "country": "Russian Federation",
+      "state": "Yaroslavl'"
+    },
+    {
+      "latitude": 56.679972,
+      "longitude": 65.653938,
+      "country": "Russian Federation",
+      "state": "Tyumen'"
+    },
+    {
+      "latitude": 57.166808,
+      "longitude": 65.452688,
+      "country": "Russian Federation",
+      "state": "Tyumen'"
+    },
+    {
+      "latitude": 55.8793,
+      "longitude": 37.626688,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 48.505384,
+      "longitude": 15.311088,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 56.083097,
+      "longitude": 47.265441,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 56.137173,
+      "longitude": 47.187658,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 53.25663,
+      "longitude": 45.158528,
+      "country": "Russian Federation",
+      "state": "Penza"
+    },
+    {
+      "latitude": 53.918927,
+      "longitude": 27.744518,
+      "country": "Belarus",
+      "state": "Minsk"
+    },
+    {
+      "latitude": 55.839128,
+      "longitude": 37.292628,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 59.636426,
+      "longitude": 30.756789,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 56.113215,
+      "longitude": 47.148118,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 56.863196,
+      "longitude": 60.65411,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 51.636763,
+      "longitude": 105.505042,
+      "country": "Russian Federation",
+      "state": "Buryat"
+    },
+    {
+      "latitude": 52.48162,
+      "longitude": 103.770388,
+      "country": "Russian Federation",
+      "state": "Irkutsk"
+    },
+    {
+      "latitude": 49.647625,
+      "longitude": 21.541425,
+      "country": "Poland",
+      "state": "Subcarpathian"
+    },
+    {
+      "latitude": 55.704992,
+      "longitude": 60.532111,
+      "country": "Russian Federation",
+      "state": "Chelyabinsk"
+    },
+    {
+      "latitude": 59.762412,
+      "longitude": 60.204352,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 54.935074,
+      "longitude": 83.014336,
+      "country": "Russian Federation",
+      "state": "Novosibirsk"
+    },
+    {
+      "latitude": 56.132564,
+      "longitude": 47.170545,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 50.367306,
+      "longitude": 6.651428,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 55.818265,
+      "longitude": 37.868416,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 57.140927,
+      "longitude": 65.560639,
+      "country": "Russian Federation",
+      "state": "Tyumen'"
+    },
+    {
+      "latitude": 55.573849,
+      "longitude": 37.577973,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 55.06213,
+      "longitude": 37.603252,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 50.802296,
+      "longitude": 8.916699,
+      "country": "Germany",
+      "state": "Hessen"
+    },
+    {
+      "latitude": 55.978297,
+      "longitude": 49.39852,
+      "country": "Russian Federation",
+      "state": "Tatarstan"
+    },
+    {
+      "latitude": 58.56491,
+      "longitude": 31.720505,
+      "country": "Russian Federation",
+      "state": "Novgorod"
+    },
+    {
+      "latitude": 58.38562,
+      "longitude": 45.495963,
+      "country": "Russian Federation",
+      "state": "Kostroma"
+    },
+    {
+      "latitude": 56.199415,
+      "longitude": 37.531292,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 56.875215,
+      "longitude": 60.761522,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 55.800939,
+      "longitude": 37.730772,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 56.231789,
+      "longitude": 34.338462,
+      "country": "Russian Federation",
+      "state": "Tver'"
+    },
+    {
+      "latitude": 53.121983,
+      "longitude": 46.542315,
+      "country": "Russian Federation",
+      "state": "Penza"
+    },
+    {
+      "latitude": 54.114931,
+      "longitude": 37.556581,
+      "country": "Russian Federation",
+      "state": "Tula"
+    },
+    {
+      "latitude": 61.685924,
+      "longitude": 50.815174,
+      "country": "Russian Federation",
+      "state": "Komi"
+    },
+    {
+      "latitude": 55.026275,
+      "longitude": 47.90496,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 53.687495,
+      "longitude": -112.804283,
+      "country": "Canada",
+      "state": "Alberta"
+    },
+    {
+      "latitude": 60.030992,
+      "longitude": 30.385806,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 53.678105,
+      "longitude": -112.818462,
+      "country": "Canada",
+      "state": "Alberta"
+    },
+    {
+      "latitude": 48.85407,
+      "longitude": 25.173469,
+      "country": "Ukraine",
+      "state": "Ivano-Frankivs'k"
+    },
+    {
+      "latitude": 55.64255,
+      "longitude": 37.516725,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 47.434713,
+      "longitude": 16.599962,
+      "country": "Austria",
+      "state": "Burgenland"
+    },
+    {
+      "latitude": 54.89657,
+      "longitude": 52.280082,
+      "country": "Russian Federation",
+      "state": "Tatarstan"
+    },
+    {
+      "latitude": 55.026804,
+      "longitude": 47.900839,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 52.354075,
+      "longitude": 34.536227,
+      "country": "Russian Federation",
+      "state": "Bryansk"
+    },
+    {
+      "latitude": 59.656817,
+      "longitude": 30.78682,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 59.119117,
+      "longitude": 11.396072,
+      "country": "Norway",
+      "state": "\u00c3stfold"
+    },
+    {
+      "latitude": 54.210425,
+      "longitude": 37.609833,
+      "country": "Russian Federation",
+      "state": "Tula"
+    },
+    {
+      "latitude": 56.7135,
+      "longitude": 37.127369,
+      "country": "Russian Federation",
+      "state": "Tver'"
+    },
+    {
+      "latitude": 48.503043,
+      "longitude": 18.912145,
+      "country": "Slovakia",
+      "state": "Banskobystrick\u00fd"
+    },
+    {
+      "latitude": 55.546722,
+      "longitude": 36.6974,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 57.213334,
+      "longitude": 41.922608,
+      "country": "Russian Federation",
+      "state": "Ivanovo"
+    },
+    {
+      "latitude": 51.160676,
+      "longitude": 23.523859,
+      "country": "Poland",
+      "state": "Lublin"
+    },
+    {
+      "latitude": 60.026694,
+      "longitude": 30.398894,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 53.530322,
+      "longitude": 41.266311,
+      "country": "Russian Federation",
+      "state": "Ryazan'"
+    },
+    {
+      "latitude": 47.876178,
+      "longitude": 13.445211,
+      "country": "Austria",
+      "state": "Ober\u00f6sterreich"
+    },
+    {
+      "latitude": 59.836561,
+      "longitude": 30.230512,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 55.775596,
+      "longitude": 47.166633,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 55.026455,
+      "longitude": 47.900691,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 56.078315,
+      "longitude": 47.362219,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 57.912944,
+      "longitude": 60.151157,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 56.102793,
+      "longitude": 47.451566,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 57.212625,
+      "longitude": 41.92235,
+      "country": "Russian Federation",
+      "state": "Ivanovo"
+    },
+    {
+      "latitude": 58.386604,
+      "longitude": 45.495193,
+      "country": "Russian Federation",
+      "state": "Kostroma"
+    },
+    {
+      "latitude": 54.218652,
+      "longitude": 37.618336,
+      "country": "Russian Federation",
+      "state": "Tula"
+    },
+    {
+      "latitude": 56.1038,
+      "longitude": 47.443468,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 53.968887,
+      "longitude": 27.580853,
+      "country": "Belarus",
+      "state": "Minsk"
+    },
+    {
+      "latitude": 48.884263,
+      "longitude": 17.615148,
+      "country": "Czechia",
+      "state": "Jihomoravsk\u00fd"
+    },
+    {
+      "latitude": 54.971863,
+      "longitude": 83.105927,
+      "country": "Russian Federation",
+      "state": "Novosibirsk"
+    },
+    {
+      "latitude": 53.478683,
+      "longitude": 84.107178,
+      "country": "Russian Federation",
+      "state": "Altay"
+    },
+    {
+      "latitude": 55.935227,
+      "longitude": 37.303058,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 57.511756,
+      "longitude": 38.221028,
+      "country": "Russian Federation",
+      "state": "Yaroslavl'"
+    },
+    {
+      "latitude": 55.026243,
+      "longitude": 47.907829,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 55.540535,
+      "longitude": 47.354218,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 45.054343,
+      "longitude": 7.015031,
+      "country": "Italy",
+      "state": "Piemonte"
+    },
+    {
+      "latitude": 55.506278,
+      "longitude": 49.249782,
+      "country": "Russian Federation",
+      "state": "Tatarstan"
+    },
+    {
+      "latitude": 55.649963,
+      "longitude": 37.46425,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 46.799589,
+      "longitude": 9.278383,
+      "country": "Switzerland",
+      "state": "Graub\u00fcnden"
+    },
+    {
+      "latitude": 56.131658,
+      "longitude": 47.168496,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 56.112538,
+      "longitude": 47.14806,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 60.208262,
+      "longitude": 24.612565,
+      "country": "Finland",
+      "state": "Uusimaa"
+    },
+    {
+      "latitude": 60.246902,
+      "longitude": 24.590839,
+      "country": "Finland",
+      "state": "Uusimaa"
+    },
+    {
+      "latitude": 59.00486,
+      "longitude": 16.80278,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 58.40232,
+      "longitude": 15.61669,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 59.43684,
+      "longitude": 16.74797,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 56.61044,
+      "longitude": 16.5165,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 58.12109,
+      "longitude": 15.62262,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 56.66856,
+      "longitude": 16.59932,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 57.9954,
+      "longitude": 15.69125,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.06295,
+      "longitude": 11.5499,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 58.06313,
+      "longitude": 11.54998,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 58.39976,
+      "longitude": 15.37128,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.5727,
+      "longitude": 13.43016,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 60.50297,
+      "longitude": 17.71269,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.47057,
+      "longitude": 17.73157,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.11182,
+      "longitude": 15.23295,
+      "country": "Sweden",
+      "state": "N\u00e4rke"
+    },
+    {
+      "latitude": 59.95994,
+      "longitude": 15.83868,
+      "country": "Sweden",
+      "state": "V\u00e4stmanland"
+    },
+    {
+      "latitude": 58.33343,
+      "longitude": 13.82781,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 56.98096,
+      "longitude": 18.34843,
+      "country": "Sweden",
+      "state": "Gotland"
+    },
+    {
+      "latitude": 59.16316,
+      "longitude": 16.67768,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 58.23191,
+      "longitude": 15.47466,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.62375,
+      "longitude": 16.36103,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 59.76678,
+      "longitude": 17.58414,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.04576,
+      "longitude": 16.80041,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 59.11,
+      "longitude": 15.22567,
+      "country": "Sweden",
+      "state": "N\u00e4rke"
+    },
+    {
+      "latitude": 59.5243,
+      "longitude": 15.0404,
+      "country": "Sweden",
+      "state": "V\u00e4stmanland"
+    },
+    {
+      "latitude": 59.76664,
+      "longitude": 17.58339,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 46.400497,
+      "longitude": 12.096331,
+      "country": "Italy",
+      "state": "Veneto"
+    },
+    {
+      "latitude": 48.07714,
+      "longitude": 13.521315,
+      "country": "Austria",
+      "state": "Ober\u00f6sterreich"
+    },
+    {
+      "latitude": 47.073858,
+      "longitude": 9.91101,
+      "country": "Austria",
+      "state": "Vorarlberg"
+    },
+    {
+      "latitude": 52.8,
+      "longitude": 6.4,
+      "country": "Netherlands",
+      "state": "Drenthe"
+    },
+    {
+      "latitude": 48.793208,
+      "longitude": 15.339984,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.15,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 59.538772,
+      "longitude": 30.112991,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 52.812946,
+      "longitude": 103.542758,
+      "country": "Russian Federation",
+      "state": "Irkutsk"
+    },
+    {
+      "latitude": 49.461102,
+      "longitude": 29.5022,
+      "country": "Ukraine",
+      "state": "Vinnytsya"
+    },
+    {
+      "latitude": 55.665569,
+      "longitude": 37.671497,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 48.059183,
+      "longitude": 8.980085,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 44.821027,
+      "longitude": 5.791235,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 53.095333,
+      "longitude": 46.629165,
+      "country": "Russian Federation",
+      "state": "Penza"
+    },
+    {
+      "latitude": 56.106875,
+      "longitude": 47.441833,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 46.937236,
+      "longitude": 6.46065,
+      "country": "Switzerland",
+      "state": "Neuch\u00e2tel"
+    },
+    {
+      "latitude": 57.820977,
+      "longitude": 41.456412,
+      "country": "Russian Federation",
+      "state": "Kostroma"
+    },
+    {
+      "latitude": 60.968101,
+      "longitude": 69.054573,
+      "country": "Russian Federation",
+      "state": "Khanty-Mansiy"
+    },
+    {
+      "latitude": 57.062575,
+      "longitude": 65.099212,
+      "country": "Russian Federation",
+      "state": "Tyumen'"
+    },
+    {
+      "latitude": 49.268472,
+      "longitude": -115.242303,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 55.674236,
+      "longitude": 37.285095,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 59.708764,
+      "longitude": 30.424331,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 59.841895,
+      "longitude": 30.24936,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 47.687446,
+      "longitude": 15.714926,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 44.078449,
+      "longitude": -72.312652,
+      "country": "United States of America",
+      "state": "Vermont"
+    },
+    {
+      "latitude": 55.376847,
+      "longitude": 26.000215,
+      "country": "Lithuania",
+      "state": "Utenos"
+    },
+    {
+      "latitude": 54.228744,
+      "longitude": 37.619844,
+      "country": "Russian Federation",
+      "state": "Tula"
+    },
+    {
+      "latitude": 56.106731,
+      "longitude": 47.441833,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 54.254353,
+      "longitude": 10.192262,
+      "country": "Germany",
+      "state": "Schleswig-Holstein"
+    },
+    {
+      "latitude": 59.710039,
+      "longitude": 30.422851,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 56.790456,
+      "longitude": 59.517747,
+      "country": "Russian Federation",
+      "state": "Sverdlovsk"
+    },
+    {
+      "latitude": 55.771201,
+      "longitude": 37.427643,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 53.135662,
+      "longitude": 46.598408,
+      "country": "Russian Federation",
+      "state": "Penza"
+    },
+    {
+      "latitude": 47.971617,
+      "longitude": 15.943974,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 59.896963,
+      "longitude": 30.204046,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    },
+    {
+      "latitude": 51.387737,
+      "longitude": 86.014825,
+      "country": "Russian Federation",
+      "state": "Gorno-Altay"
+    },
+    {
+      "latitude": 48.096723,
+      "longitude": 11.41094,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": 45.805517,
+      "longitude": 9.770081,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 55.801653,
+      "longitude": 46.978502,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 57.821162,
+      "longitude": 41.45641,
+      "country": "Russian Federation",
+      "state": "Kostroma"
+    },
+    {
+      "latitude": 55.545819,
+      "longitude": 47.33488,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 56.101169,
+      "longitude": 47.304569,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 59.621469,
+      "longitude": 30.023403,
+      "country": "Russian Federation",
+      "state": "Leningrad"
+    },
+    {
+      "latitude": 54.965018,
+      "longitude": 46.722529,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 55.820521,
+      "longitude": 47.038858,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 55.941684,
+      "longitude": 37.502657,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 51.657192,
+      "longitude": 103.720367,
+      "country": "Russian Federation",
+      "state": "Irkutsk"
+    },
+    {
+      "latitude": 58.14304,
+      "longitude": 52.708481,
+      "country": "Russian Federation",
+      "state": "Udmurt"
+    },
+    {
+      "latitude": 55.141436,
+      "longitude": 61.349522,
+      "country": "Russian Federation",
+      "state": "Chelyabinsk"
+    },
+    {
+      "latitude": 49.236383,
+      "longitude": 19.067115,
+      "country": "Slovakia",
+      "state": "\u017dilinsk\u00fd"
+    },
+    {
+      "latitude": 55.635063,
+      "longitude": 37.478109,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 55.671914,
+      "longitude": 37.655228,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 56.1068,
+      "longitude": 47.4418,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 51.754896,
+      "longitude": 20.270977,
+      "country": "Poland",
+      "state": "\u0141\u00f3d\u017a"
+    },
+    {
+      "latitude": 46.937362,
+      "longitude": 6.459382,
+      "country": "Switzerland",
+      "state": "Neuch\u00e2tel"
+    },
+    {
+      "latitude": 49.479,
+      "longitude": 11.594452,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": 48.242289,
+      "longitude": 15.704742,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 55.63855,
+      "longitude": 37.49498,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 51.528246,
+      "longitude": 85.937186,
+      "country": "Russian Federation",
+      "state": "Gorno-Altay"
+    },
+    {
+      "latitude": 52.016354,
+      "longitude": 85.915322,
+      "country": "Russian Federation",
+      "state": "Gorno-Altay"
+    },
+    {
+      "latitude": 56.746941,
+      "longitude": 36.795186,
+      "country": "Russian Federation",
+      "state": "Tver'"
+    },
+    {
+      "latitude": 59.911926,
+      "longitude": 30.343076,
+      "country": "Russian Federation",
+      "state": "City of St. Petersburg"
+    }
+  ],
+  "scientific_name": "Carum carvi",
+  "common_name": "Caraway",
+  "description": null
+}

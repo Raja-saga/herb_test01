@@ -1,0 +1,3008 @@
+{
+  "herb": "Uraria picta",
+  "locations": [
+    {
+      "latitude": 0.408167,
+      "longitude": 6.640347,
+      "country": "Sao Tome and Principe",
+      "state": "S\u00e3o Tom\u00e9"
+    },
+    {
+      "latitude": 28.471051,
+      "longitude": 80.896381,
+      "country": "India",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "latitude": 22.802033,
+      "longitude": 120.234581,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 13.10563,
+      "longitude": -16.632141,
+      "country": "Gambia",
+      "state": "Western"
+    },
+    {
+      "latitude": 5.085775,
+      "longitude": -1.435345,
+      "country": "Ghana",
+      "state": "Central"
+    },
+    {
+      "latitude": 7.86955,
+      "longitude": 98.434105,
+      "country": "Thailand",
+      "state": null
+    },
+    {
+      "latitude": -4.16161,
+      "longitude": 13.457743,
+      "country": "Congo",
+      "state": null
+    },
+    {
+      "latitude": 22.992319,
+      "longitude": 120.336058,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.992362,
+      "longitude": 120.335757,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -3.631676,
+      "longitude": 15.338319,
+      "country": "Congo",
+      "state": null
+    },
+    {
+      "latitude": 24.164054,
+      "longitude": 81.501289,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 23.653863,
+      "longitude": 121.537918,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.659426,
+      "longitude": 121.536763,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 10.70689,
+      "longitude": 1.227263,
+      "country": "Benin",
+      "state": "Atakora"
+    },
+    {
+      "latitude": 21.259027,
+      "longitude": 77.075935,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 23.646479,
+      "longitude": 121.5326,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.986295,
+      "longitude": 120.348043,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.992089,
+      "longitude": 120.335703,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.653863,
+      "longitude": 121.537918,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.847119,
+      "longitude": 120.377723,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -1.6739,
+      "longitude": 14.03772,
+      "country": "Gabon",
+      "state": "Haut-Ogoou\u00e9"
+    },
+    {
+      "latitude": -1.6739,
+      "longitude": 14.03772,
+      "country": "Gabon",
+      "state": "Haut-Ogoou\u00e9"
+    },
+    {
+      "latitude": -1.6739,
+      "longitude": 14.03772,
+      "country": "Gabon",
+      "state": "Haut-Ogoou\u00e9"
+    },
+    {
+      "latitude": -2.14266,
+      "longitude": 11.1669,
+      "country": "Gabon",
+      "state": "Ngouni\u00e9"
+    },
+    {
+      "latitude": -2.14266,
+      "longitude": 11.1669,
+      "country": "Gabon",
+      "state": "Ngouni\u00e9"
+    },
+    {
+      "latitude": 22.993245,
+      "longitude": 120.334813,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.992757,
+      "longitude": 120.333134,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.00096,
+      "longitude": 120.327875,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.773383,
+      "longitude": 121.450232,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.65894,
+      "longitude": 121.5381,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.20062,
+      "longitude": 82.686165,
+      "country": "India",
+      "state": "Chhattisgarh"
+    },
+    {
+      "latitude": 9.281616,
+      "longitude": 1.569875,
+      "country": "Benin",
+      "state": "Donga"
+    },
+    {
+      "latitude": 9.281616,
+      "longitude": 1.569875,
+      "country": "Benin",
+      "state": "Donga"
+    },
+    {
+      "latitude": 22.99215,
+      "longitude": 120.336353,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 10.830089,
+      "longitude": -8.991828,
+      "country": "Guinea",
+      "state": "Kankan"
+    },
+    {
+      "latitude": 22.971698,
+      "longitude": 120.331478,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.9668,
+      "longitude": 120.250923,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.721951,
+      "longitude": 121.547251,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 5.093459,
+      "longitude": -1.337124,
+      "country": "Ghana",
+      "state": "Central"
+    },
+    {
+      "latitude": 0.484916,
+      "longitude": 6.604326,
+      "country": "Sao Tome and Principe",
+      "state": "S\u00e3o Tom\u00e9"
+    },
+    {
+      "latitude": 22.992297,
+      "longitude": 120.333145,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.993322,
+      "longitude": 120.334342,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 10.763096,
+      "longitude": -8.931469,
+      "country": "Guinea",
+      "state": "Kankan"
+    },
+    {
+      "latitude": 6.162871,
+      "longitude": -4.941098,
+      "country": "C\u00f4te d\u2019Ivoire",
+      "state": "Lagunes"
+    },
+    {
+      "latitude": 23.58519,
+      "longitude": 121.50274,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.58519,
+      "longitude": 121.50274,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.58519,
+      "longitude": 121.50274,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 10.595112,
+      "longitude": -9.824953,
+      "country": "Guinea",
+      "state": "Kankan"
+    },
+    {
+      "latitude": 10.445484,
+      "longitude": -9.743808,
+      "country": "Guinea",
+      "state": "Kankan"
+    },
+    {
+      "latitude": 21.50303,
+      "longitude": 70.449391,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 21.50216,
+      "longitude": 70.449621,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": -0.100142,
+      "longitude": 11.60251,
+      "country": "Gabon",
+      "state": "Ogoou\u00e9-Ivindo"
+    },
+    {
+      "latitude": 22.991656,
+      "longitude": 120.333356,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.993387,
+      "longitude": 120.334258,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.995262,
+      "longitude": 120.334207,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 6.483273,
+      "longitude": -2.92807,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478844,
+      "longitude": -2.927631,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.543517,
+      "longitude": -2.915449,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.493162,
+      "longitude": -2.929051,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497738,
+      "longitude": -2.929505,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477663,
+      "longitude": -2.927514,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.470283,
+      "longitude": -2.926783,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.483273,
+      "longitude": -2.92807,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.486077,
+      "longitude": -2.928349,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.490653,
+      "longitude": -2.928802,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.548768,
+      "longitude": -2.90253,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.534499,
+      "longitude": -2.928698,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495967,
+      "longitude": -2.929329,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.542525,
+      "longitude": -2.916355,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.538701,
+      "longitude": -2.919848,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.539126,
+      "longitude": -2.91946,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.538276,
+      "longitude": -2.920236,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.532895,
+      "longitude": -2.925152,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.534453,
+      "longitude": -2.923729,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.555272,
+      "longitude": -2.904712,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.558104,
+      "longitude": -2.902124,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.547057,
+      "longitude": -2.912215,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545499,
+      "longitude": -2.913638,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.554847,
+      "longitude": -2.9051,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.55074,
+      "longitude": -2.908851,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.561503,
+      "longitude": -2.899019,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.513456,
+      "longitude": -2.939813,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.56646,
+      "longitude": -2.894491,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495572,
+      "longitude": -2.950489,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.50172,
+      "longitude": -2.946819,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.471464,
+      "longitude": -2.9269,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.948793,
+      "longitude": 2.137467,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.48342,
+      "longitude": -2.928085,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478992,
+      "longitude": -2.927646,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.543658,
+      "longitude": -2.91532,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.492867,
+      "longitude": -2.929022,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.493015,
+      "longitude": -2.929036,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.49272,
+      "longitude": -2.929007,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.49331,
+      "longitude": -2.929066,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.492572,
+      "longitude": -2.928992,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497886,
+      "longitude": -2.929519,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477811,
+      "longitude": -2.927529,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.470431,
+      "longitude": -2.926797,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.48342,
+      "longitude": -2.928085,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.485487,
+      "longitude": -2.92829,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.485634,
+      "longitude": -2.928305,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.485782,
+      "longitude": -2.928319,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.48593,
+      "longitude": -2.928334,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.486225,
+      "longitude": -2.928363,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.490801,
+      "longitude": -2.928817,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.533056,
+      "longitude": -2.936917,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.496115,
+      "longitude": -2.929344,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.542667,
+      "longitude": -2.916226,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.538843,
+      "longitude": -2.919719,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.538418,
+      "longitude": -2.920107,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.539268,
+      "longitude": -2.919331,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.533036,
+      "longitude": -2.925023,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.534594,
+      "longitude": -2.9236,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.558246,
+      "longitude": -2.901995,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.555413,
+      "longitude": -2.904582,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545641,
+      "longitude": -2.913509,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.554988,
+      "longitude": -2.90497,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.565752,
+      "longitude": -2.895138,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.566035,
+      "longitude": -2.894879,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.565894,
+      "longitude": -2.895009,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.561645,
+      "longitude": -2.89889,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.512897,
+      "longitude": -2.940147,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.566318,
+      "longitude": -2.89462,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.566177,
+      "longitude": -2.89475,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.566602,
+      "longitude": -2.894362,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.501161,
+      "longitude": -2.947153,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.471611,
+      "longitude": -2.926914,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 2.226546,
+      "longitude": 31.698788,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": 6.949464,
+      "longitude": 2.128333,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.950552,
+      "longitude": 2.129421,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.954037,
+      "longitude": 2.142712,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.949881,
+      "longitude": 2.138556,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.954708,
+      "longitude": 2.133577,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.952949,
+      "longitude": 2.141623,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.95362,
+      "longitude": 2.132489,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.956016,
+      "longitude": 2.144691,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.956687,
+      "longitude": 2.135556,
+      "country": "Benin",
+      "state": null
+    },
+    {
+      "latitude": 6.487701,
+      "longitude": -2.92851,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.483568,
+      "longitude": -2.9281,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.474564,
+      "longitude": -2.927207,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.47914,
+      "longitude": -2.927661,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478106,
+      "longitude": -2.927558,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478254,
+      "longitude": -2.927573,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478401,
+      "longitude": -2.927587,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478549,
+      "longitude": -2.927602,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477516,
+      "longitude": -2.9275,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477663,
+      "longitude": -2.927514,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477959,
+      "longitude": -2.927544,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477811,
+      "longitude": -2.927529,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478697,
+      "longitude": -2.927617,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476483,
+      "longitude": -2.927397,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.47663,
+      "longitude": -2.927412,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476925,
+      "longitude": -2.927441,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476778,
+      "longitude": -2.927427,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476187,
+      "longitude": -2.927368,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.47604,
+      "longitude": -2.927353,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477073,
+      "longitude": -2.927456,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477221,
+      "longitude": -2.92747,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476335,
+      "longitude": -2.927383,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477368,
+      "longitude": -2.927485,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.5438,
+      "longitude": -2.915191,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.558859,
+      "longitude": -2.887169,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.559532,
+      "longitude": -2.886145,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.543375,
+      "longitude": -2.915579,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.551459,
+      "longitude": -2.898434,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.552132,
+      "longitude": -2.897409,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.552804,
+      "longitude": -2.896385,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.553477,
+      "longitude": -2.895361,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.556841,
+      "longitude": -2.890241,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.556168,
+      "longitude": -2.891265,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.558187,
+      "longitude": -2.888193,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.55415,
+      "longitude": -2.894337,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.554823,
+      "longitude": -2.893313,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.548768,
+      "longitude": -2.90253,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.555495,
+      "longitude": -2.892289,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.550786,
+      "longitude": -2.899458,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.548095,
+      "longitude": -2.903554,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.557514,
+      "longitude": -2.889217,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.54944,
+      "longitude": -2.901506,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.550113,
+      "longitude": -2.900482,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.492129,
+      "longitude": -2.928949,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.492277,
+      "longitude": -2.928963,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.492424,
+      "longitude": -2.928978,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.493458,
+      "longitude": -2.92908,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.491243,
+      "longitude": -2.928861,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.491834,
+      "longitude": -2.928919,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.491982,
+      "longitude": -2.928934,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.491686,
+      "longitude": -2.928905,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.491391,
+      "longitude": -2.928875,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.491539,
+      "longitude": -2.92889,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.48962,
+      "longitude": -2.9287,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489472,
+      "longitude": -2.928685,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489767,
+      "longitude": -2.928714,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489177,
+      "longitude": -2.928656,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489325,
+      "longitude": -2.928671,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497591,
+      "longitude": -2.92949,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497,
+      "longitude": -2.929432,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497295,
+      "longitude": -2.929461,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497148,
+      "longitude": -2.929446,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497443,
+      "longitude": -2.929475,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495967,
+      "longitude": -2.929329,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.498034,
+      "longitude": -2.929534,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.496115,
+      "longitude": -2.929344,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.496262,
+      "longitude": -2.929358,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495377,
+      "longitude": -2.929271,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.49641,
+      "longitude": -2.929373,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495672,
+      "longitude": -2.9293,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495524,
+      "longitude": -2.929285,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495819,
+      "longitude": -2.929314,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.496705,
+      "longitude": -2.929402,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.496557,
+      "longitude": -2.929388,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.496853,
+      "longitude": -2.929417,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495229,
+      "longitude": -2.929256,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495081,
+      "longitude": -2.929241,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.494934,
+      "longitude": -2.929227,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.480911,
+      "longitude": -2.927836,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481058,
+      "longitude": -2.927851,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481206,
+      "longitude": -2.927866,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481354,
+      "longitude": -2.92788,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481501,
+      "longitude": -2.927895,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478992,
+      "longitude": -2.927646,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.480616,
+      "longitude": -2.927807,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.480763,
+      "longitude": -2.927822,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.47663,
+      "longitude": -2.927412,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476335,
+      "longitude": -2.927383,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.475154,
+      "longitude": -2.927266,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.475302,
+      "longitude": -2.92728,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.475449,
+      "longitude": -2.927295,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.475597,
+      "longitude": -2.927309,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.475892,
+      "longitude": -2.927339,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.475745,
+      "longitude": -2.927324,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.47604,
+      "longitude": -2.927353,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476187,
+      "longitude": -2.927368,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477959,
+      "longitude": -2.927544,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476778,
+      "longitude": -2.927427,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476925,
+      "longitude": -2.927441,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477073,
+      "longitude": -2.927456,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477221,
+      "longitude": -2.92747,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477368,
+      "longitude": -2.927485,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.477516,
+      "longitude": -2.9275,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.476483,
+      "longitude": -2.927397,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.480468,
+      "longitude": -2.927792,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481649,
+      "longitude": -2.927909,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482092,
+      "longitude": -2.927953,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481797,
+      "longitude": -2.927924,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482239,
+      "longitude": -2.927968,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481944,
+      "longitude": -2.927939,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.473383,
+      "longitude": -2.92709,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.474859,
+      "longitude": -2.927236,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.475006,
+      "longitude": -2.927251,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.470578,
+      "longitude": -2.926812,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.487848,
+      "longitude": -2.928524,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.487996,
+      "longitude": -2.928539,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.488734,
+      "longitude": -2.928612,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.488587,
+      "longitude": -2.928597,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489177,
+      "longitude": -2.928656,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489029,
+      "longitude": -2.928641,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489325,
+      "longitude": -2.928671,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.48962,
+      "longitude": -2.9287,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.488882,
+      "longitude": -2.928627,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.488291,
+      "longitude": -2.928568,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489472,
+      "longitude": -2.928685,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.488144,
+      "longitude": -2.928553,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.488439,
+      "longitude": -2.928583,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.484158,
+      "longitude": -2.928158,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.484306,
+      "longitude": -2.928173,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.484453,
+      "longitude": -2.928188,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.484601,
+      "longitude": -2.928202,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.484749,
+      "longitude": -2.928217,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.483568,
+      "longitude": -2.9281,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.485339,
+      "longitude": -2.928275,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.486372,
+      "longitude": -2.928378,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.484896,
+      "longitude": -2.928231,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.485044,
+      "longitude": -2.928246,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.493605,
+      "longitude": -2.929095,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.485192,
+      "longitude": -2.928261,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.4939,
+      "longitude": -2.929124,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.493753,
+      "longitude": -2.92911,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.494048,
+      "longitude": -2.929139,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495081,
+      "longitude": -2.929241,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495524,
+      "longitude": -2.929285,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.494196,
+      "longitude": -2.929153,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.494491,
+      "longitude": -2.929183,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.494343,
+      "longitude": -2.929168,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495229,
+      "longitude": -2.929256,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.494638,
+      "longitude": -2.929197,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.494786,
+      "longitude": -2.929212,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.494934,
+      "longitude": -2.929227,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495377,
+      "longitude": -2.929271,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.49021,
+      "longitude": -2.928758,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.490358,
+      "longitude": -2.928773,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.490505,
+      "longitude": -2.928788,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.490948,
+      "longitude": -2.928831,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489767,
+      "longitude": -2.928714,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489915,
+      "longitude": -2.928729,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.490063,
+      "longitude": -2.928744,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482387,
+      "longitude": -2.927983,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482535,
+      "longitude": -2.927997,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482682,
+      "longitude": -2.928012,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.48283,
+      "longitude": -2.928027,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482977,
+      "longitude": -2.928041,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.483125,
+      "longitude": -2.928056,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.530918,
+      "longitude": -2.929556,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.536658,
+      "longitude": -2.920963,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.537331,
+      "longitude": -2.919939,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.531088,
+      "longitude": -2.926981,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.540022,
+      "longitude": -2.915843,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.535864,
+      "longitude": -2.919256,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.537398,
+      "longitude": -2.915136,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.540694,
+      "longitude": -2.914819,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.54204,
+      "longitude": -2.91277,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.541367,
+      "longitude": -2.913795,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.538003,
+      "longitude": -2.918915,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.539349,
+      "longitude": -2.916867,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.538676,
+      "longitude": -2.917891,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.498919,
+      "longitude": -2.929622,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.498772,
+      "longitude": -2.929607,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499214,
+      "longitude": -2.929651,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499362,
+      "longitude": -2.929666,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499067,
+      "longitude": -2.929636,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.524607,
+      "longitude": -2.937452,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.526654,
+      "longitude": -2.937452,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.530236,
+      "longitude": -2.931917,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.526654,
+      "longitude": -2.938654,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.528871,
+      "longitude": -2.928698,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.525631,
+      "longitude": -2.937967,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.49951,
+      "longitude": -2.92968,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.524778,
+      "longitude": -2.944319,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499657,
+      "longitude": -2.929695,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499952,
+      "longitude": -2.929724,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499805,
+      "longitude": -2.92971,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497295,
+      "longitude": -2.929461,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495672,
+      "longitude": -2.9293,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.496262,
+      "longitude": -2.929358,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.495819,
+      "longitude": -2.929314,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.542809,
+      "longitude": -2.916096,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.53856,
+      "longitude": -2.919977,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.538985,
+      "longitude": -2.919589,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.539409,
+      "longitude": -2.919201,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.534736,
+      "longitude": -2.923471,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.555555,
+      "longitude": -2.904453,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.55513,
+      "longitude": -2.904841,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.561786,
+      "longitude": -2.89876,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.516809,
+      "longitude": -2.937812,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.517368,
+      "longitude": -2.937478,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.51625,
+      "longitude": -2.938145,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.515691,
+      "longitude": -2.938479,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.514015,
+      "longitude": -2.93948,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.514574,
+      "longitude": -2.939146,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.517927,
+      "longitude": -2.937144,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.518486,
+      "longitude": -2.936811,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.519604,
+      "longitude": -2.936144,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.519045,
+      "longitude": -2.936477,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.515133,
+      "longitude": -2.938813,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.512338,
+      "longitude": -2.940481,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.566743,
+      "longitude": -2.894232,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.523499,
+      "longitude": -2.932388,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.522957,
+      "longitude": -2.934142,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.52239,
+      "longitude": -2.928698,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.521839,
+      "longitude": -2.934809,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.520721,
+      "longitude": -2.935476,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.520162,
+      "longitude": -2.93581,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.52128,
+      "longitude": -2.935143,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.522398,
+      "longitude": -2.934476,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.471759,
+      "longitude": -2.926929,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.483125,
+      "longitude": -2.928056,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482682,
+      "longitude": -2.928012,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482535,
+      "longitude": -2.927997,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482387,
+      "longitude": -2.927983,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.48283,
+      "longitude": -2.928027,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482977,
+      "longitude": -2.928041,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.483715,
+      "longitude": -2.928114,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.487848,
+      "longitude": -2.928524,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.474711,
+      "longitude": -2.927222,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481354,
+      "longitude": -2.92788,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481501,
+      "longitude": -2.927895,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481649,
+      "longitude": -2.927909,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.480763,
+      "longitude": -2.927822,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.480911,
+      "longitude": -2.927836,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481058,
+      "longitude": -2.927851,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481206,
+      "longitude": -2.927866,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481797,
+      "longitude": -2.927924,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482092,
+      "longitude": -2.927953,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.482239,
+      "longitude": -2.927968,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.479287,
+      "longitude": -2.927675,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.480616,
+      "longitude": -2.927807,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.481944,
+      "longitude": -2.927939,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.543942,
+      "longitude": -2.915061,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.544791,
+      "longitude": -2.914285,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.54465,
+      "longitude": -2.914414,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546749,
+      "longitude": -2.905602,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545404,
+      "longitude": -2.90765,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.544731,
+      "longitude": -2.908674,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546077,
+      "longitude": -2.906626,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.544058,
+      "longitude": -2.909698,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.547422,
+      "longitude": -2.904578,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.493605,
+      "longitude": -2.929095,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.489915,
+      "longitude": -2.928729,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499214,
+      "longitude": -2.929651,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.498919,
+      "longitude": -2.929622,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499657,
+      "longitude": -2.929695,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499805,
+      "longitude": -2.92971,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.49951,
+      "longitude": -2.92968,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.543386,
+      "longitude": -2.910722,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499952,
+      "longitude": -2.929724,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499067,
+      "longitude": -2.929636,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.498181,
+      "longitude": -2.929549,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.499362,
+      "longitude": -2.929666,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546349,
+      "longitude": -2.912862,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546491,
+      "longitude": -2.912733,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546632,
+      "longitude": -2.912603,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545216,
+      "longitude": -2.913897,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545358,
+      "longitude": -2.913768,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545499,
+      "longitude": -2.913638,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545641,
+      "longitude": -2.913509,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545075,
+      "longitude": -2.914026,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545783,
+      "longitude": -2.913379,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.544933,
+      "longitude": -2.914156,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545924,
+      "longitude": -2.91325,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546066,
+      "longitude": -2.913121,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546208,
+      "longitude": -2.912991,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.47914,
+      "longitude": -2.927661,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.478106,
+      "longitude": -2.927558,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.47353,
+      "longitude": -2.927105,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.470135,
+      "longitude": -2.926768,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.46984,
+      "longitude": -2.926739,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.469102,
+      "longitude": -2.926665,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.46925,
+      "longitude": -2.92668,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.469397,
+      "longitude": -2.926695,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.469988,
+      "longitude": -2.926753,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.470726,
+      "longitude": -2.926826,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.469545,
+      "longitude": -2.926709,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.469693,
+      "longitude": -2.926724,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.48652,
+      "longitude": -2.928392,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.483715,
+      "longitude": -2.928114,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.491096,
+      "longitude": -2.928846,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.547422,
+      "longitude": -2.904578,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.548095,
+      "longitude": -2.903554,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.551459,
+      "longitude": -2.898434,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.552132,
+      "longitude": -2.897409,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.550113,
+      "longitude": -2.900482,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546077,
+      "longitude": -2.906626,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.546749,
+      "longitude": -2.905602,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.545404,
+      "longitude": -2.90765,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.555495,
+      "longitude": -2.892289,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.554823,
+      "longitude": -2.893313,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.556168,
+      "longitude": -2.891265,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.556841,
+      "longitude": -2.890241,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.553477,
+      "longitude": -2.895361,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.552804,
+      "longitude": -2.896385,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.558187,
+      "longitude": -2.888193,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.558859,
+      "longitude": -2.887169,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.557514,
+      "longitude": -2.889217,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.533476,
+      "longitude": -2.916681,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.542713,
+      "longitude": -2.911746,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.543386,
+      "longitude": -2.910722,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.544058,
+      "longitude": -2.909698,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.544731,
+      "longitude": -2.908674,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.529921,
+      "longitude": -2.927869,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.530062,
+      "longitude": -2.92774,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.530204,
+      "longitude": -2.92761,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.530345,
+      "longitude": -2.927481,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.55415,
+      "longitude": -2.894337,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.527655,
+      "longitude": -2.929939,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.527796,
+      "longitude": -2.92981,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.527938,
+      "longitude": -2.92968,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.528221,
+      "longitude": -2.929422,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.528079,
+      "longitude": -2.929551,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.528363,
+      "longitude": -2.929292,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.559532,
+      "longitude": -2.886145,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.529496,
+      "longitude": -2.928257,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.529354,
+      "longitude": -2.928387,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.528504,
+      "longitude": -2.929163,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.529637,
+      "longitude": -2.928128,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.529212,
+      "longitude": -2.928516,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.529779,
+      "longitude": -2.927999,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.528646,
+      "longitude": -2.929034,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.528929,
+      "longitude": -2.928775,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.528788,
+      "longitude": -2.928904,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.529071,
+      "longitude": -2.928645,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.497443,
+      "longitude": -2.929475,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.49641,
+      "longitude": -2.929373,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.541676,
+      "longitude": -2.917131,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.5421,
+      "longitude": -2.916743,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.541817,
+      "longitude": -2.917002,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.542384,
+      "longitude": -2.916484,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.542242,
+      "longitude": -2.916614,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.541534,
+      "longitude": -2.917261,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.541959,
+      "longitude": -2.916873,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.541392,
+      "longitude": -2.91739,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.541251,
+      "longitude": -2.917519,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.54295,
+      "longitude": -2.915967,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.538135,
+      "longitude": -2.920366,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.539551,
+      "longitude": -2.919072,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.540259,
+      "longitude": -2.918425,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.540401,
+      "longitude": -2.918296,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.540684,
+      "longitude": -2.918037,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.540826,
+      "longitude": -2.917907,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.540967,
+      "longitude": -2.917778,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 6.541109,
+      "longitude": -2.917649,
+      "country": "Ghana",
+      "state": null
+    }
+  ],
+  "scientific_name": "Uraria picta",
+  "common_name": "Prishniparni",
+  "description": null
+}

@@ -1,0 +1,16 @@
+{
+  "herb": "Vetiveria zizanioides",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "WestBengal": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "TamilNadu": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    }
+  }
+}

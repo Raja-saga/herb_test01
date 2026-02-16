@@ -1,0 +1,3008 @@
+{
+  "herb": "Withania somnifera",
+  "locations": [
+    {
+      "latitude": 32.788231,
+      "longitude": 35.637391,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 31.755522,
+      "longitude": 35.2083,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 31.756033,
+      "longitude": 35.205111,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": -22.186613,
+      "longitude": 29.203387,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -26.002278,
+      "longitude": 27.845422,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 30.515565,
+      "longitude": -9.674118,
+      "country": "Morocco",
+      "state": "Souss - Massa - Dra\u00e2"
+    },
+    {
+      "latitude": -26.131453,
+      "longitude": 27.877262,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 6.431195,
+      "longitude": 38.244225,
+      "country": "Ethiopia",
+      "state": "Oromia"
+    },
+    {
+      "latitude": 32.830845,
+      "longitude": 34.964631,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 32.828172,
+      "longitude": 34.961188,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 31.757319,
+      "longitude": 35.206928,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 36.825167,
+      "longitude": -2.434812,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 36.825184,
+      "longitude": -2.434792,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 24.642508,
+      "longitude": 46.67093,
+      "country": "Saudi Arabia",
+      "state": "Ar Riyad"
+    },
+    {
+      "latitude": 25.576463,
+      "longitude": 51.308872,
+      "country": "Qatar",
+      "state": "Al Khor"
+    },
+    {
+      "latitude": 23.138856,
+      "longitude": 57.311788,
+      "country": "Oman",
+      "state": "Ad Dakhliyah"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 25.491183,
+      "longitude": 49.626389,
+      "country": "Saudi Arabia",
+      "state": null
+    },
+    {
+      "latitude": 38.382442,
+      "longitude": -0.518962,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 37.209991,
+      "longitude": -1.818994,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 0.261106,
+      "longitude": 37.497377,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 0.982762,
+      "longitude": 37.327803,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 0.261137,
+      "longitude": 37.497393,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 31.79717,
+      "longitude": 35.164216,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.074632,
+      "longitude": 35.008306,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.913636,
+      "longitude": 35.484665,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.53084,
+      "longitude": 34.934112,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 38.550742,
+      "longitude": -0.142332,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 31.021586,
+      "longitude": 34.971003,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 32.048162,
+      "longitude": 35.463276,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 34.772546,
+      "longitude": 32.422616,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 31.816364,
+      "longitude": 35.197214,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.820978,
+      "longitude": 35.189035,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 26.628355,
+      "longitude": 75.033531,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 31.816997,
+      "longitude": 35.196533,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": -21.295963,
+      "longitude": 30.318563,
+      "country": "Zimbabwe",
+      "state": "Masvingo"
+    },
+    {
+      "latitude": 32.706097,
+      "longitude": 34.940903,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": -21.296003,
+      "longitude": 30.31865,
+      "country": "Zimbabwe",
+      "state": "Masvingo"
+    },
+    {
+      "latitude": 11.953787,
+      "longitude": 79.760772,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 32.924397,
+      "longitude": 35.072847,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 32.816474,
+      "longitude": 34.967681,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 32.7145,
+      "longitude": 34.9748,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 32.76874,
+      "longitude": 35.031698,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 32.92369,
+      "longitude": 35.073543,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 32.924803,
+      "longitude": 35.067925,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": -25.092397,
+      "longitude": 30.583468,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -35.036086,
+      "longitude": 138.520462,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 31.756611,
+      "longitude": 35.207733,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 26.622828,
+      "longitude": 75.034789,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -34.151028,
+      "longitude": 22.064122,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 34.758232,
+      "longitude": 32.404031,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 29.728,
+      "longitude": -8.456153,
+      "country": "Morocco",
+      "state": "Guelmim - Es-Semara"
+    },
+    {
+      "latitude": -26.086084,
+      "longitude": 27.841208,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 30.494672,
+      "longitude": -8.881937,
+      "country": "Morocco",
+      "state": "Souss - Massa - Dra\u00e2"
+    },
+    {
+      "latitude": 32.70377,
+      "longitude": 35.646575,
+      "country": "Israel",
+      "state": "Golan"
+    },
+    {
+      "latitude": 24.06968,
+      "longitude": 55.775972,
+      "country": "United Arab Emirates",
+      "state": "Abu Dhabi"
+    },
+    {
+      "latitude": -30.037529,
+      "longitude": 25.772963,
+      "country": "South Africa",
+      "state": "Free State"
+    },
+    {
+      "latitude": 31.749188,
+      "longitude": 35.220842,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 19.760317,
+      "longitude": 74.523289,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 31.749316,
+      "longitude": 35.221059,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.88137,
+      "longitude": 72.781127,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 32.159393,
+      "longitude": 34.811628,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.489026,
+      "longitude": 34.53642,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.480514,
+      "longitude": 34.536691,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.436729,
+      "longitude": 34.49315,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.447698,
+      "longitude": 34.698687,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.057263,
+      "longitude": 34.961542,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 30.958441,
+      "longitude": 35.046567,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.062007,
+      "longitude": 34.835852,
+      "country": "Israel",
+      "state": "Tel Aviv"
+    },
+    {
+      "latitude": -33.674562,
+      "longitude": 26.655297,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -33.609377,
+      "longitude": 26.593387,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 26.960698,
+      "longitude": 75.640242,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 27.405205,
+      "longitude": 76.413797,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 32.360289,
+      "longitude": 34.994208,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 32.714508,
+      "longitude": 34.974955,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": -17.54627,
+      "longitude": 30.83827,
+      "country": "Zimbabwe",
+      "state": "Mashonaland Central"
+    },
+    {
+      "latitude": -22.573049,
+      "longitude": 17.132833,
+      "country": "Namibia",
+      "state": "Khomas"
+    },
+    {
+      "latitude": 24.15251,
+      "longitude": 55.722455,
+      "country": "United Arab Emirates",
+      "state": "Abu Dhabi"
+    },
+    {
+      "latitude": 26.628662,
+      "longitude": 75.036353,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 34.68802,
+      "longitude": 32.544919,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 30.268999,
+      "longitude": 71.500627,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 30.268688,
+      "longitude": 71.502309,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 29.732797,
+      "longitude": 74.736282,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 0.261277,
+      "longitude": 37.497382,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 0.261927,
+      "longitude": 37.496396,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 0.261886,
+      "longitude": 37.496604,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 32.055418,
+      "longitude": 34.766313,
+      "country": "Israel",
+      "state": "Tel Aviv"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -30.957996,
+      "longitude": 24.663639,
+      "country": "South Africa",
+      "state": "Northern Cape"
+    },
+    {
+      "latitude": -17.879369,
+      "longitude": 19.898778,
+      "country": "Namibia",
+      "state": "Kavango"
+    },
+    {
+      "latitude": 34.764433,
+      "longitude": 32.516181,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": -33.607472,
+      "longitude": 26.834239,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 34.629243,
+      "longitude": 32.550392,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 32.064362,
+      "longitude": 34.953528,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.840851,
+      "longitude": 35.408437,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 31.834825,
+      "longitude": 35.342622,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 31.926904,
+      "longitude": 34.876171,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.844299,
+      "longitude": 35.411983,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.06429,
+      "longitude": 34.953634,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.84428,
+      "longitude": 35.412237,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": -33.631215,
+      "longitude": 26.742236,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 40.729229,
+      "longitude": 0.579486,
+      "country": "Spain",
+      "state": "Tarragona"
+    },
+    {
+      "latitude": 31.753978,
+      "longitude": 35.207111,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 32.882205,
+      "longitude": 35.578433,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 0.252662,
+      "longitude": 37.444254,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 31.781653,
+      "longitude": 35.320269,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.783653,
+      "longitude": 35.331719,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": -33.782906,
+      "longitude": 25.651998,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 31.790733,
+      "longitude": 35.3356,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": -25.740339,
+      "longitude": 28.25564,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 26.310116,
+      "longitude": 75.458642,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -33.948355,
+      "longitude": 18.460537,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 31.783236,
+      "longitude": 35.324578,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 29.653685,
+      "longitude": 76.106361,
+      "country": "India",
+      "state": "Haryana"
+    },
+    {
+      "latitude": 31.781656,
+      "longitude": 35.320619,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.781325,
+      "longitude": 35.320494,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.781711,
+      "longitude": 35.3203,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.781656,
+      "longitude": 35.309983,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.778553,
+      "longitude": 35.307806,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": -25.94248,
+      "longitude": 28.210462,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 16.887666,
+      "longitude": 74.645184,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 16.775018,
+      "longitude": 74.56086,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 18.483711,
+      "longitude": 73.820068,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 18.482578,
+      "longitude": 73.811806,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 18.488379,
+      "longitude": 73.799461,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 31.757203,
+      "longitude": 35.206992,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 26.914606,
+      "longitude": 75.731901,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 16.843584,
+      "longitude": 74.548302,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -25.856742,
+      "longitude": 28.034148,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -25.775614,
+      "longitude": 28.295789,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 30.35727,
+      "longitude": 78.094884,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 25.184622,
+      "longitude": 75.852705,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -33.574383,
+      "longitude": 22.535295,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -29.725412,
+      "longitude": 31.056544,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 29.129547,
+      "longitude": 77.057983,
+      "country": "India",
+      "state": "Haryana"
+    },
+    {
+      "latitude": 28.302628,
+      "longitude": 55.895911,
+      "country": "Iran (Islamic Republic of)",
+      "state": "Hormozgan"
+    },
+    {
+      "latitude": 31.841137,
+      "longitude": 35.35103,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 28.525107,
+      "longitude": 77.209037,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 33.023255,
+      "longitude": 35.0946,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 39.681625,
+      "longitude": -0.267992,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 31.906825,
+      "longitude": 34.819322,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 29.916129,
+      "longitude": 35.000168,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 31.820226,
+      "longitude": 35.189137,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 29.916414,
+      "longitude": 35.000726,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": -32.288708,
+      "longitude": 24.836338,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 31.8942,
+      "longitude": 34.821831,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 38.906303,
+      "longitude": 1.436942,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": -25.788408,
+      "longitude": 28.202272,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 23.239937,
+      "longitude": 72.657875,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 26.04927,
+      "longitude": 76.157842,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -25.61402,
+      "longitude": 31.913986,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 26.057106,
+      "longitude": 76.159489,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 31.253401,
+      "longitude": 34.80558,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 31.252086,
+      "longitude": 34.786769,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 26.049347,
+      "longitude": 76.158153,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 28.553016,
+      "longitude": 77.254165,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": 18.47461,
+      "longitude": 73.81548,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 26.049324,
+      "longitude": 76.15814,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 32.530533,
+      "longitude": 71.766881,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 26.055481,
+      "longitude": 76.16691,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 30.374553,
+      "longitude": 78.07405,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 26.04927,
+      "longitude": 76.157406,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -33.558197,
+      "longitude": 23.790707,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 31.906829,
+      "longitude": 34.819369,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 31.902611,
+      "longitude": 35.0215,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": -32.575312,
+      "longitude": 26.919858,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 33.079176,
+      "longitude": 35.146797,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.079717,
+      "longitude": 35.147128,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 26.043193,
+      "longitude": 76.170383,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 21.025793,
+      "longitude": 75.563337,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 21.036672,
+      "longitude": 75.538369,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 31.252086,
+      "longitude": 34.786769,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 39.355251,
+      "longitude": 3.093611,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 31.757622,
+      "longitude": 35.204147,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": -33.768448,
+      "longitude": 25.620377,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -34.208047,
+      "longitude": 19.97804,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 34.756185,
+      "longitude": 32.422753,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 39.540217,
+      "longitude": 2.707347,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 21.013773,
+      "longitude": 75.53131,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -33.684375,
+      "longitude": 21.897119,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -33.770369,
+      "longitude": 25.620103,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 32.440414,
+      "longitude": 35.52142,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.620109,
+      "longitude": 34.921101,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": -25.77117,
+      "longitude": 28.296962,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 30.702937,
+      "longitude": 76.821045,
+      "country": "India",
+      "state": "Chandigarh"
+    },
+    {
+      "latitude": 21.013773,
+      "longitude": 75.53131,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 30.374447,
+      "longitude": 78.074068,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 28.567615,
+      "longitude": 33.957027,
+      "country": "Egypt",
+      "state": "Janub Sina'"
+    },
+    {
+      "latitude": -22.905171,
+      "longitude": 31.251889,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -32.237604,
+      "longitude": 24.533024,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -33.674562,
+      "longitude": 26.655297,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 34.775389,
+      "longitude": 32.421778,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 32.499761,
+      "longitude": 35.455921,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.570134,
+      "longitude": 34.932354,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.503152,
+      "longitude": 35.45111,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.4987,
+      "longitude": 35.458653,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 34.759785,
+      "longitude": 32.4184,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 31.798357,
+      "longitude": 35.220532,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 21.032607,
+      "longitude": 75.563471,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -2.454695,
+      "longitude": 34.881592,
+      "country": "Tanzania, United Republic of",
+      "state": "Mara"
+    },
+    {
+      "latitude": 31.757026,
+      "longitude": 35.20587,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 21.3475,
+      "longitude": 40.325556,
+      "country": "Saudi Arabia",
+      "state": "Makkah"
+    },
+    {
+      "latitude": 21.073451,
+      "longitude": 75.95087,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 11.631719,
+      "longitude": 78.031136,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 21.539678,
+      "longitude": 70.439872,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": -22.353808,
+      "longitude": 31.104405,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 32.439494,
+      "longitude": 34.885583,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 31.830239,
+      "longitude": 35.246633,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": -33.341479,
+      "longitude": 22.426403,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 39.588268,
+      "longitude": 2.62044,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 30.813386,
+      "longitude": 34.750938,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 31.828342,
+      "longitude": 35.245686,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 32.091021,
+      "longitude": 34.835177,
+      "country": "Israel",
+      "state": "Tel Aviv"
+    },
+    {
+      "latitude": 32.440325,
+      "longitude": 34.887231,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 41.3624,
+      "longitude": 2.16102,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": -32.713282,
+      "longitude": 25.645085,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 32.906788,
+      "longitude": 35.103969,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 39.854319,
+      "longitude": 3.124006,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": -34.150627,
+      "longitude": 18.360981,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 18.504335,
+      "longitude": 74.151703,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 32.377748,
+      "longitude": 34.981363,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 32.859129,
+      "longitude": 35.644488,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.555557,
+      "longitude": 34.813116,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 38.903583,
+      "longitude": 1.431845,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": -32.905385,
+      "longitude": 28.061707,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -33.408363,
+      "longitude": 22.557997,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 31.814133,
+      "longitude": 35.202497,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 39.566553,
+      "longitude": 2.623696,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 39.540181,
+      "longitude": 2.707381,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 34.97317,
+      "longitude": 34.058493,
+      "country": "Cyprus",
+      "state": "Famagusta"
+    },
+    {
+      "latitude": 32.7099,
+      "longitude": 35.577533,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": -34.011842,
+      "longitude": 23.413216,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -27.003395,
+      "longitude": 32.786688,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 31.836554,
+      "longitude": 35.399638,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.571346,
+      "longitude": 34.917804,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.874493,
+      "longitude": 34.804514,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.010994,
+      "longitude": 34.786079,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.828164,
+      "longitude": 35.249805,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 33.015374,
+      "longitude": 35.570711,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.859078,
+      "longitude": 35.644603,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": -34.131911,
+      "longitude": 18.339775,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -28.946705,
+      "longitude": 31.772475,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -20.483451,
+      "longitude": 17.299396,
+      "country": "Namibia",
+      "state": "Otjozondjupa"
+    },
+    {
+      "latitude": 17.338853,
+      "longitude": 54.076358,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -34.114011,
+      "longitude": 22.101703,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -1.400198,
+      "longitude": 36.852992,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": 17.102908,
+      "longitude": 54.697981,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -33.742701,
+      "longitude": 18.941921,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 23.141047,
+      "longitude": 57.313042,
+      "country": "Oman",
+      "state": "Ad Dakhliyah"
+    },
+    {
+      "latitude": 31.908073,
+      "longitude": 34.842386,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 17.112704,
+      "longitude": 54.713644,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 32.106033,
+      "longitude": 34.929459,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 23.073208,
+      "longitude": 57.66343,
+      "country": "Oman",
+      "state": "Ad Dakhliyah"
+    },
+    {
+      "latitude": 17.11168,
+      "longitude": 54.711157,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 39.85067,
+      "longitude": 3.125607,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 38.049918,
+      "longitude": -0.896015,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 31.162667,
+      "longitude": 34.531757,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.605006,
+      "longitude": 34.925495,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.176964,
+      "longitude": 34.565873,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.527532,
+      "longitude": 34.576756,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.567467,
+      "longitude": 34.580565,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.550471,
+      "longitude": 34.598265,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": -25.773255,
+      "longitude": 28.301633,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -22.344294,
+      "longitude": 29.327628,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 39.6701,
+      "longitude": -0.295395,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 32.482052,
+      "longitude": 35.524916,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 31.501004,
+      "longitude": 34.602153,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.467106,
+      "longitude": 34.671941,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.498795,
+      "longitude": 34.721327,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.503401,
+      "longitude": 34.617137,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.694444,
+      "longitude": 35.307631,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.633042,
+      "longitude": 34.625104,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.560323,
+      "longitude": 34.928359,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.503763,
+      "longitude": 35.513246,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.605869,
+      "longitude": 34.627095,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.607395,
+      "longitude": 34.633525,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 29.913115,
+      "longitude": -9.413848,
+      "country": "Morocco",
+      "state": "Souss - Massa - Dra\u00e2"
+    },
+    {
+      "latitude": 30.87795,
+      "longitude": 34.785133,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 31.498598,
+      "longitude": 34.721738,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.594676,
+      "longitude": 34.632875,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.598399,
+      "longitude": 34.642494,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.031695,
+      "longitude": 34.983329,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 26.626775,
+      "longitude": 75.031867,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 34.454825,
+      "longitude": 35.809005,
+      "country": "Lebanon",
+      "state": "North"
+    },
+    {
+      "latitude": -31.189772,
+      "longitude": 23.435055,
+      "country": "South Africa",
+      "state": "Northern Cape"
+    },
+    {
+      "latitude": 31.750012,
+      "longitude": 34.651393,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 33.453204,
+      "longitude": -7.725343,
+      "country": "Morocco",
+      "state": "Grand Casablanca"
+    },
+    {
+      "latitude": 31.570633,
+      "longitude": 34.724981,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.567887,
+      "longitude": 34.719128,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.563904,
+      "longitude": 34.734411,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.014761,
+      "longitude": 34.78512,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.890865,
+      "longitude": 35.660462,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 31.552311,
+      "longitude": 34.738186,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.576925,
+      "longitude": 34.731564,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.888247,
+      "longitude": 35.651375,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 31.536529,
+      "longitude": 34.766253,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.576727,
+      "longitude": 34.743985,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.04516,
+      "longitude": 35.050886,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.116728,
+      "longitude": -5.162078,
+      "country": "Morocco",
+      "state": "Mekn\u00e8s - Tafilalet"
+    },
+    {
+      "latitude": 24.087837,
+      "longitude": 32.885118,
+      "country": "Egypt",
+      "state": "Aswan"
+    },
+    {
+      "latitude": 23.071129,
+      "longitude": 57.604202,
+      "country": "Oman",
+      "state": "Ad Dakhliyah"
+    },
+    {
+      "latitude": 32.670792,
+      "longitude": 35.236427,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 38.095743,
+      "longitude": -0.950463,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 34.76022,
+      "longitude": 32.403503,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 13.28096,
+      "longitude": 77.485675,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -25.83211,
+      "longitude": 28.291394,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 32.831883,
+      "longitude": 34.968247,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 31.78905,
+      "longitude": 35.213989,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 31.789279,
+      "longitude": 35.21239,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 32.292801,
+      "longitude": 34.8461,
+      "country": "Israel",
+      "state": "HaMerkaz"
+    },
+    {
+      "latitude": 30.999745,
+      "longitude": 34.769598,
+      "country": "Israel",
+      "state": "HaDarom"
+    },
+    {
+      "latitude": 9.925005,
+      "longitude": 77.004936,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 39.563119,
+      "longitude": 2.606322,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 39.642859,
+      "longitude": 2.64201,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.546651,
+      "longitude": 3.043812,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 31.832362,
+      "longitude": 35.30441,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 31.871947,
+      "longitude": 34.955361,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.827259,
+      "longitude": 34.978466,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 31.928003,
+      "longitude": 34.92079,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.747666,
+      "longitude": 34.974976,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.075295,
+      "longitude": 34.96428,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 28.111099,
+      "longitude": 30.752097,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": -1.093236,
+      "longitude": 35.870203,
+      "country": "Kenya",
+      "state": "Narok"
+    },
+    {
+      "latitude": 31.794889,
+      "longitude": 35.218853,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 32.827328,
+      "longitude": 35.64361,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 26.959742,
+      "longitude": 75.798247,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -28.48683,
+      "longitude": 29.011459,
+      "country": "South Africa",
+      "state": "Free State"
+    },
+    {
+      "latitude": -25.77461,
+      "longitude": 28.293906,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -33.602137,
+      "longitude": 25.809834,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 31.772047,
+      "longitude": 35.181047,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": -0.785374,
+      "longitude": 36.415588,
+      "country": "Kenya",
+      "state": "Nakuru"
+    },
+    {
+      "latitude": -24.732552,
+      "longitude": 30.051516,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -26.297794,
+      "longitude": 28.011003,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 39.676502,
+      "longitude": -0.279269,
+      "country": "Spain",
+      "state": "Valencia"
+    },
+    {
+      "latitude": 24.059348,
+      "longitude": 55.77778,
+      "country": "United Arab Emirates",
+      "state": "Abu Dhabi"
+    },
+    {
+      "latitude": 32.717376,
+      "longitude": 35.572332,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 31.839844,
+      "longitude": 35.246878,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.348494,
+      "longitude": 34.715665,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.013765,
+      "longitude": 34.964387,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.251155,
+      "longitude": 35.246157,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.878412,
+      "longitude": 35.018227,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.919824,
+      "longitude": 34.893674,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": -0.786522,
+      "longitude": 36.413803,
+      "country": "Kenya",
+      "state": "Nakuru"
+    },
+    {
+      "latitude": 31.795703,
+      "longitude": 35.216247,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": 38.894718,
+      "longitude": 1.381899,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 31.531706,
+      "longitude": 34.590832,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 0.261102,
+      "longitude": 37.497386,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 26.502511,
+      "longitude": 77.014884,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 38.920239,
+      "longitude": 1.45981,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 20.531427,
+      "longitude": 76.174438,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -2.959052,
+      "longitude": 35.241281,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": 31.837075,
+      "longitude": 35.234081,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.771769,
+      "longitude": 35.300236,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 39.580122,
+      "longitude": 2.622667,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 38.906033,
+      "longitude": 1.43593,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 24.174701,
+      "longitude": 55.73639,
+      "country": "United Arab Emirates",
+      "state": "Abu Dhabi"
+    },
+    {
+      "latitude": 31.842125,
+      "longitude": 35.250136,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 34.756803,
+      "longitude": 32.417645,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": 34.760352,
+      "longitude": 32.406704,
+      "country": "Cyprus",
+      "state": "Paphos"
+    },
+    {
+      "latitude": -15.844444,
+      "longitude": -48.101111,
+      "country": "Brazil",
+      "state": "Distrito Federal"
+    },
+    {
+      "latitude": 31.789901,
+      "longitude": 35.242955,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 31.904025,
+      "longitude": 35.018799,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.868402,
+      "longitude": 34.809348,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.74959,
+      "longitude": 34.719006,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.889744,
+      "longitude": 34.918931,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.889789,
+      "longitude": 34.918889,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.788125,
+      "longitude": 35.241149,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 0.261103,
+      "longitude": 37.497356,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 0.261105,
+      "longitude": 37.497383,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 0.261107,
+      "longitude": 37.497366,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 39.602299,
+      "longitude": 2.641597,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 0.184352,
+      "longitude": 37.694336,
+      "country": "Kenya",
+      "state": "Meru"
+    },
+    {
+      "latitude": 26.622782,
+      "longitude": 75.034816,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 31.732676,
+      "longitude": 34.978825,
+      "country": "Israel",
+      "state": "Jerusalem"
+    },
+    {
+      "latitude": -26.091768,
+      "longitude": 27.839419,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 25.232083,
+      "longitude": 75.838393,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 26.24834,
+      "longitude": 72.989738,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -34.201488,
+      "longitude": 22.11481,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -34.200209,
+      "longitude": 22.110812,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.201554,
+      "longitude": 22.113877,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 31.789582,
+      "longitude": 35.244321,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.832122,
+      "longitude": 35.247119,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 31.839964,
+      "longitude": 35.247967,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 26.890577,
+      "longitude": 38.234547,
+      "country": "Saudi Arabia",
+      "state": "Al Madinah"
+    },
+    {
+      "latitude": 31.832083,
+      "longitude": 35.247033,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": 21.02363,
+      "longitude": 75.557762,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 22.925354,
+      "longitude": 57.676275,
+      "country": "Oman",
+      "state": "Ad Dakhliyah"
+    },
+    {
+      "latitude": 14.088247,
+      "longitude": 38.275831,
+      "country": "Ethiopia",
+      "state": "Tigray"
+    },
+    {
+      "latitude": 14.084525,
+      "longitude": 38.253392,
+      "country": "Ethiopia",
+      "state": "Tigray"
+    },
+    {
+      "latitude": 28.679757,
+      "longitude": 77.209394,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": 15.43445,
+      "longitude": 75.023692,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 15.430572,
+      "longitude": 75.03055,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 15.436764,
+      "longitude": 75.025283,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 31.78991,
+      "longitude": 35.242829,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.691303,
+      "longitude": 34.939313,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.326831,
+      "longitude": 35.119365,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.706058,
+      "longitude": 34.940848,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.598549,
+      "longitude": 34.924961,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.69345,
+      "longitude": 34.935521,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.883034,
+      "longitude": 35.015216,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.911589,
+      "longitude": 34.920069,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.855202,
+      "longitude": 35.020514,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 31.827115,
+      "longitude": 34.978593,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 33.030204,
+      "longitude": 35.100469,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.604086,
+      "longitude": 34.92537,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.637807,
+      "longitude": 35.336916,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 30.270615,
+      "longitude": 71.502185,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 37.868692,
+      "longitude": -4.786228,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.886313,
+      "longitude": 4.286905,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 15.955963,
+      "longitude": 48.775169,
+      "country": "Yemen",
+      "state": null
+    },
+    {
+      "latitude": 31.590446,
+      "longitude": -5.593403,
+      "country": "Morocco",
+      "state": null
+    },
+    {
+      "latitude": 24.92338,
+      "longitude": 73.109255,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 26.622236,
+      "longitude": 75.033299,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 36.8245,
+      "longitude": -2.42976,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 36.8245,
+      "longitude": -2.42976,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 31.528072,
+      "longitude": -5.53341,
+      "country": "Morocco",
+      "state": "Souss - Massa - Dra\u00e2"
+    },
+    {
+      "latitude": -34.154692,
+      "longitude": 22.066775,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 31.817689,
+      "longitude": 35.199697,
+      "country": "Palestine, State of",
+      "state": "West Bank"
+    },
+    {
+      "latitude": -2.382605,
+      "longitude": 37.33905,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": -27.484225,
+      "longitude": 32.575067,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -1.319528,
+      "longitude": 36.673801,
+      "country": "Kenya",
+      "state": "Nairobi"
+    },
+    {
+      "latitude": 21.030419,
+      "longitude": 75.56504,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 21.030419,
+      "longitude": 75.56504,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -27.518211,
+      "longitude": 32.648588,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -26.422178,
+      "longitude": 27.308555,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 24.165231,
+      "longitude": 72.440756,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 19.258516,
+      "longitude": 76.804863,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 21.025155,
+      "longitude": 75.572359,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 20.979018,
+      "longitude": 75.565612,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 31.548108,
+      "longitude": -5.587724,
+      "country": "Morocco",
+      "state": "Souss - Massa - Dra\u00e2"
+    },
+    {
+      "latitude": 36.8245,
+      "longitude": -2.42976,
+      "country": "Spain",
+      "state": "Almer\u00eda"
+    },
+    {
+      "latitude": 21.030419,
+      "longitude": 75.56504,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 24.16205,
+      "longitude": 72.440239,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 31.528072,
+      "longitude": -5.53341,
+      "country": "Morocco",
+      "state": "Souss - Massa - Dra\u00e2"
+    },
+    {
+      "latitude": 39.48,
+      "longitude": -0.44,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.55809,
+      "longitude": 2.61712,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 31.78991,
+      "longitude": 35.242955,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.826318,
+      "longitude": 34.959044,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.883252,
+      "longitude": 34.958321,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.613447,
+      "longitude": 35.333194,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.01372,
+      "longitude": 34.964335,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": -0.162038,
+      "longitude": 36.008095,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 26.930602,
+      "longitude": 75.785146,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 39.761876,
+      "longitude": 2.978898,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 29.594733,
+      "longitude": 72.854367,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.601277,
+      "longitude": 72.845568,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.600268,
+      "longitude": 72.84484,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.588896,
+      "longitude": 72.876512,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.589737,
+      "longitude": 72.87632,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.600085,
+      "longitude": 72.84415,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.589849,
+      "longitude": 72.854348,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.594976,
+      "longitude": 72.854382,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.601497,
+      "longitude": 72.845676,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.589673,
+      "longitude": 72.854343,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.88001,
+      "longitude": 72.857222,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.587355,
+      "longitude": 72.877011,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.587429,
+      "longitude": 72.877051,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.599845,
+      "longitude": 72.844678,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.607876,
+      "longitude": 72.849901,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.589451,
+      "longitude": 72.876418,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.605332,
+      "longitude": 72.84783,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.58798,
+      "longitude": 72.859068,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.592016,
+      "longitude": 72.854348,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.587304,
+      "longitude": 72.877108,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.608056,
+      "longitude": 72.844997,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.607725,
+      "longitude": 72.849638,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.587922,
+      "longitude": 72.866367,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.589553,
+      "longitude": 72.877785,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.588017,
+      "longitude": 72.856738,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.589244,
+      "longitude": 72.854337,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.601503,
+      "longitude": 72.845408,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.589479,
+      "longitude": 72.875969,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.589437,
+      "longitude": 72.854319,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.59996,
+      "longitude": 72.844972,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.59974,
+      "longitude": 72.844874,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.587898,
+      "longitude": 72.87714,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.587572,
+      "longitude": 72.87713,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.588002,
+      "longitude": 72.856975,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.588032,
+      "longitude": 72.860843,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.606005,
+      "longitude": 72.848074,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.588571,
+      "longitude": 72.876652,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.607041,
+      "longitude": 72.849418,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.58794,
+      "longitude": 72.865157,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.602802,
+      "longitude": 72.84626,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.585112,
+      "longitude": 72.871294,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.60855,
+      "longitude": 72.850487,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.606784,
+      "longitude": 72.84978,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.588453,
+      "longitude": 72.876029,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.588078,
+      "longitude": 72.877007,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.587962,
+      "longitude": 72.86225,
+      "country": "Pakistan",
+      "state": "Punjab"
+    }
+  ],
+  "scientific_name": "Withania somnifera",
+  "common_name": "Ashwagandha",
+  "description": null
+}

@@ -1,0 +1,3008 @@
+{
+  "herb": "Glycyrrhiza glabra",
+  "locations": [
+    {
+      "latitude": 45.082958,
+      "longitude": 36.97543,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 50.668804,
+      "longitude": 14.039543,
+      "country": "Czechia",
+      "state": null
+    },
+    {
+      "latitude": 32.840763,
+      "longitude": 35.518424,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.839018,
+      "longitude": 35.520479,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 38.201298,
+      "longitude": 15.231268,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 32.779791,
+      "longitude": 35.264682,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.163802,
+      "longitude": 35.573911,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.163766,
+      "longitude": 35.573868,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 33.094466,
+      "longitude": 35.670797,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 32.834291,
+      "longitude": 35.643767,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 40.381908,
+      "longitude": 70.605714,
+      "country": "Uzbekistan",
+      "state": "Tashkent"
+    },
+    {
+      "latitude": 40.381908,
+      "longitude": 70.605714,
+      "country": "Uzbekistan",
+      "state": "Tashkent"
+    },
+    {
+      "latitude": 40.381908,
+      "longitude": 70.605714,
+      "country": "Uzbekistan",
+      "state": "Tashkent"
+    },
+    {
+      "latitude": 40.381908,
+      "longitude": 70.605714,
+      "country": "Uzbekistan",
+      "state": "Tashkent"
+    },
+    {
+      "latitude": 40.381908,
+      "longitude": 70.605714,
+      "country": "Uzbekistan",
+      "state": "Tashkent"
+    },
+    {
+      "latitude": 40.381908,
+      "longitude": 70.605714,
+      "country": "Uzbekistan",
+      "state": "Tashkent"
+    },
+    {
+      "latitude": 40.381908,
+      "longitude": 70.605714,
+      "country": "Uzbekistan",
+      "state": "Tashkent"
+    },
+    {
+      "latitude": 40.381908,
+      "longitude": 70.605714,
+      "country": "Uzbekistan",
+      "state": "Tashkent"
+    },
+    {
+      "latitude": 32.932856,
+      "longitude": 35.131574,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 32.759292,
+      "longitude": 35.369025,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 41.320139,
+      "longitude": -0.426692,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 35.336955,
+      "longitude": 25.086061,
+      "country": "Greece",
+      "state": "Crete"
+    },
+    {
+      "latitude": 38.837088,
+      "longitude": 65.807294,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 40.689178,
+      "longitude": 72.919836,
+      "country": "Kyrgyzstan",
+      "state": "Osh"
+    },
+    {
+      "latitude": 39.487871,
+      "longitude": 16.272916,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 37.021809,
+      "longitude": 43.290352,
+      "country": "Iraq",
+      "state": "Dihok"
+    },
+    {
+      "latitude": 43.422799,
+      "longitude": 77.392966,
+      "country": "Kazakhstan",
+      "state": "Almaty"
+    },
+    {
+      "latitude": 32.842173,
+      "longitude": 35.520939,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 38.204916,
+      "longitude": 67.172893,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 43.519317,
+      "longitude": 47.381284,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 45.331747,
+      "longitude": 37.237402,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.330953,
+      "longitude": 37.248026,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.235865,
+      "longitude": 37.275391,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 38.887617,
+      "longitude": 65.808644,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 45.235754,
+      "longitude": 37.27482,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 40.493739,
+      "longitude": 69.128071,
+      "country": "Uzbekistan",
+      "state": "Sirdaryo"
+    },
+    {
+      "latitude": 42.999891,
+      "longitude": 47.229282,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 38.608913,
+      "longitude": -0.804003,
+      "country": "Spain",
+      "state": "Alicante"
+    },
+    {
+      "latitude": 39.951191,
+      "longitude": 65.983945,
+      "country": "Uzbekistan",
+      "state": "Navoi"
+    },
+    {
+      "latitude": 49.631182,
+      "longitude": 72.85471,
+      "country": "Kazakhstan",
+      "state": "Qaraghandy"
+    },
+    {
+      "latitude": 47.234512,
+      "longitude": 39.674783,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 42.070671,
+      "longitude": -1.596426,
+      "country": "Spain",
+      "state": "Comunidad Foral de Navarra"
+    },
+    {
+      "latitude": 37.75633,
+      "longitude": 20.887163,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 55.79246,
+      "longitude": 37.442601,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 49.095921,
+      "longitude": 43.9378,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 48.885262,
+      "longitude": 16.659595,
+      "country": "Czechia",
+      "state": "Jihomoravsk\u00fd"
+    },
+    {
+      "latitude": 44.353465,
+      "longitude": 43.866826,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 49.128168,
+      "longitude": 43.969487,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 45.043983,
+      "longitude": 37.112995,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 41.515885,
+      "longitude": 45.396316,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 38.566286,
+      "longitude": 37.457144,
+      "country": "T\u00fcrkiye",
+      "state": "Malatya"
+    },
+    {
+      "latitude": 32.708978,
+      "longitude": 35.657774,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 32.710187,
+      "longitude": 35.657588,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 47.91282,
+      "longitude": 42.448855,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 40.312471,
+      "longitude": -3.527683,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 45.330693,
+      "longitude": 37.339025,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.354869,
+      "longitude": 37.10334,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.291288,
+      "longitude": 37.372141,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.330517,
+      "longitude": 37.338554,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.270483,
+      "longitude": 37.367438,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.268039,
+      "longitude": 37.370405,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.443858,
+      "longitude": 39.02205,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.159607,
+      "longitude": 41.88512,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 49.109756,
+      "longitude": 44.12027,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 42.022448,
+      "longitude": 43.76602,
+      "country": "Georgia",
+      "state": "Shida Kartli"
+    },
+    {
+      "latitude": 41.281774,
+      "longitude": 45.85025,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 41.602153,
+      "longitude": 44.78172,
+      "country": "Georgia",
+      "state": "Kvemo Kartli"
+    },
+    {
+      "latitude": 41.573967,
+      "longitude": 45.319866,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 41.430188,
+      "longitude": 46.101784,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 44.033375,
+      "longitude": 44.486136,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 37.611308,
+      "longitude": 71.517745,
+      "country": "Tajikistan",
+      "state": "Gorno-Badakhshan"
+    },
+    {
+      "latitude": 37.921857,
+      "longitude": 66.775258,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 39.594856,
+      "longitude": 42.917942,
+      "country": "T\u00fcrkiye",
+      "state": "Agri"
+    },
+    {
+      "latitude": 39.594889,
+      "longitude": 42.917883,
+      "country": "T\u00fcrkiye",
+      "state": "Agri"
+    },
+    {
+      "latitude": 38.851992,
+      "longitude": 65.79629,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 47.120492,
+      "longitude": 38.583144,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 38.268713,
+      "longitude": 21.758105,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 39.654723,
+      "longitude": 67.076433,
+      "country": "Uzbekistan",
+      "state": "Samarkand"
+    },
+    {
+      "latitude": 47.814774,
+      "longitude": 35.102308,
+      "country": "Ukraine",
+      "state": "Zaporizhzhya"
+    },
+    {
+      "latitude": 44.101223,
+      "longitude": 43.125831,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 38.836064,
+      "longitude": 65.818899,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 38.836083,
+      "longitude": 65.81929,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 39.618268,
+      "longitude": 3.008967,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 38.836131,
+      "longitude": 65.819092,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 38.852423,
+      "longitude": 65.795732,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 33.040402,
+      "longitude": 35.638771,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 44.263945,
+      "longitude": 38.812154,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 40.497007,
+      "longitude": 70.96923,
+      "country": "Uzbekistan",
+      "state": "Ferghana"
+    },
+    {
+      "latitude": 40.498616,
+      "longitude": 70.985976,
+      "country": "Uzbekistan",
+      "state": "Ferghana"
+    },
+    {
+      "latitude": 40.497854,
+      "longitude": 70.967987,
+      "country": "Uzbekistan",
+      "state": "Ferghana"
+    },
+    {
+      "latitude": 45.331068,
+      "longitude": 37.247923,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.329363,
+      "longitude": 37.251225,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.331487,
+      "longitude": 37.241765,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.035963,
+      "longitude": 37.14384,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.040019,
+      "longitude": 37.133004,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.432964,
+      "longitude": 36.920154,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.323807,
+      "longitude": 37.316932,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 33.172691,
+      "longitude": 35.614742,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 41.223512,
+      "longitude": 46.433063,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 45.042366,
+      "longitude": 37.120133,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.04139,
+      "longitude": 37.120676,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 36.875338,
+      "longitude": 43.051828,
+      "country": "Iraq",
+      "state": "Dihok"
+    },
+    {
+      "latitude": 47.981433,
+      "longitude": 44.18668,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 32.459644,
+      "longitude": 35.507345,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 32.531412,
+      "longitude": 35.444649,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 48.950481,
+      "longitude": 43.609921,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 48.992558,
+      "longitude": 43.906186,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 38.840999,
+      "longitude": 65.795455,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 55.792536,
+      "longitude": 37.443345,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 40.409888,
+      "longitude": -3.500113,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 39.621586,
+      "longitude": 66.97392,
+      "country": "Uzbekistan",
+      "state": "Samarkand"
+    },
+    {
+      "latitude": 44.178382,
+      "longitude": 43.093233,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 48.330481,
+      "longitude": 92.742128,
+      "country": "Mongolia",
+      "state": "Hovd"
+    },
+    {
+      "latitude": 45.33313,
+      "longitude": 37.214313,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 33.240232,
+      "longitude": 35.64628,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.459261,
+      "longitude": 35.551756,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.856625,
+      "longitude": 35.64627,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 48.5024,
+      "longitude": 44.493787,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 48.947563,
+      "longitude": 16.641623,
+      "country": "Czechia",
+      "state": "Jihomoravsk\u00fd"
+    },
+    {
+      "latitude": 35.302333,
+      "longitude": 45.991389,
+      "country": "Iraq",
+      "state": "As-Sulaymaniyah"
+    },
+    {
+      "latitude": 46.180408,
+      "longitude": 44.284788,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 48.335114,
+      "longitude": 55.789654,
+      "country": "Kazakhstan",
+      "state": "Aqt\u00f6be"
+    },
+    {
+      "latitude": 48.33567,
+      "longitude": 55.790081,
+      "country": "Kazakhstan",
+      "state": "Aqt\u00f6be"
+    },
+    {
+      "latitude": 32.952967,
+      "longitude": 35.691535,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 46.316238,
+      "longitude": 43.737462,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 48.507933,
+      "longitude": 44.940678,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 48.491508,
+      "longitude": 44.52745,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 47.077062,
+      "longitude": 32.193399,
+      "country": "Ukraine",
+      "state": "Mykolayiv"
+    },
+    {
+      "latitude": 43.0442,
+      "longitude": 74.455019,
+      "country": "Kyrgyzstan",
+      "state": "Ch\u00fcy"
+    },
+    {
+      "latitude": 43.037572,
+      "longitude": 74.460794,
+      "country": "Kyrgyzstan",
+      "state": "Ch\u00fcy"
+    },
+    {
+      "latitude": 43.037633,
+      "longitude": 74.460897,
+      "country": "Kyrgyzstan",
+      "state": "Ch\u00fcy"
+    },
+    {
+      "latitude": 32.669593,
+      "longitude": 35.743478,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 45.32938,
+      "longitude": 37.251208,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.331659,
+      "longitude": 37.237804,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.331495,
+      "longitude": 37.241837,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 46.215295,
+      "longitude": 44.290492,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 39.793439,
+      "longitude": 16.486182,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 39.416423,
+      "longitude": 16.190781,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 51.616657,
+      "longitude": 7.950153,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 39.321179,
+      "longitude": 16.204406,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 39.326523,
+      "longitude": 16.246848,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 38.885786,
+      "longitude": 65.812013,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 45.057047,
+      "longitude": 37.183212,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 39.316472,
+      "longitude": 16.212771,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 33.154404,
+      "longitude": 35.584033,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 39.913656,
+      "longitude": -3.911932,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 40.313115,
+      "longitude": -3.527622,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 32.880725,
+      "longitude": 35.0891,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 46.323732,
+      "longitude": 38.219555,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 46.316452,
+      "longitude": 38.230507,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 46.366093,
+      "longitude": 37.993565,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 39.33791,
+      "longitude": 16.239722,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 45.844775,
+      "longitude": 44.209103,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 32.374105,
+      "longitude": 34.936524,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.807341,
+      "longitude": 35.067427,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 40.302078,
+      "longitude": -3.525876,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 45.9035,
+      "longitude": 44.28015,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.031814,
+      "longitude": 44.275387,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 49.384972,
+      "longitude": 44.869488,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 46.491937,
+      "longitude": 44.51998,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 39.234619,
+      "longitude": 16.065575,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 39.913921,
+      "longitude": -3.893273,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 46.251205,
+      "longitude": 44.2639,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 31.975372,
+      "longitude": 34.919005,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 46.020736,
+      "longitude": 29.6585,
+      "country": "Ukraine",
+      "state": "Odes'ka Oblast'"
+    },
+    {
+      "latitude": 38.256485,
+      "longitude": 15.238411,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 38.200949,
+      "longitude": 15.231809,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 36.418441,
+      "longitude": 28.117924,
+      "country": "Greece",
+      "state": "Aegean"
+    },
+    {
+      "latitude": 32.642207,
+      "longitude": 35.566294,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.734629,
+      "longitude": 34.967083,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 42.573708,
+      "longitude": 13.96225,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 41.132836,
+      "longitude": -0.484546,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 37.414411,
+      "longitude": -5.994164,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 39.863027,
+      "longitude": -4.020267,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 39.863584,
+      "longitude": -4.002049,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 36.517394,
+      "longitude": 49.519486,
+      "country": "Iran (Islamic Republic of)",
+      "state": "Qazvin"
+    },
+    {
+      "latitude": 37.985661,
+      "longitude": -1.059016,
+      "country": "Spain",
+      "state": "Regi\u00f3n de Murcia"
+    },
+    {
+      "latitude": 45.203656,
+      "longitude": 39.673729,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 40.313899,
+      "longitude": -3.529529,
+      "country": "Spain",
+      "state": "Comunidad de Madrid"
+    },
+    {
+      "latitude": 45.319936,
+      "longitude": 36.998922,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 48.644132,
+      "longitude": 44.392835,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 43.000308,
+      "longitude": 47.23131,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 45.583236,
+      "longitude": 37.751986,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.716372,
+      "longitude": 37.757178,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 43.595823,
+      "longitude": 44.268156,
+      "country": "Russian Federation",
+      "state": "Kabardin-Balkar"
+    },
+    {
+      "latitude": 46.042653,
+      "longitude": 44.230013,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 48.600632,
+      "longitude": 44.371689,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 47.280712,
+      "longitude": 41.537347,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 38.322583,
+      "longitude": 33.985224,
+      "country": "T\u00fcrkiye",
+      "state": "Aksaray"
+    },
+    {
+      "latitude": 47.28373,
+      "longitude": 41.538783,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 41.628744,
+      "longitude": -0.867508,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 48.053524,
+      "longitude": 46.894371,
+      "country": "Russian Federation",
+      "state": "Astrakhan'"
+    },
+    {
+      "latitude": 43.58482,
+      "longitude": 44.280732,
+      "country": "Russian Federation",
+      "state": "Kabardin-Balkar"
+    },
+    {
+      "latitude": 37.945884,
+      "longitude": 27.28061,
+      "country": "T\u00fcrkiye",
+      "state": "Izmir"
+    },
+    {
+      "latitude": 46.958561,
+      "longitude": 44.459369,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 42.042053,
+      "longitude": 14.838875,
+      "country": "Italy",
+      "state": "Molise"
+    },
+    {
+      "latitude": 39.44,
+      "longitude": -0.43,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.43,
+      "longitude": -0.38,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.43,
+      "longitude": -0.36,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.39,
+      "longitude": -0.35,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.5,
+      "longitude": -0.41,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.45,
+      "longitude": -0.41,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.55,
+      "longitude": -0.29,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.45,
+      "longitude": -0.37,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 32.59792,
+      "longitude": 35.573626,
+      "country": "Jordan",
+      "state": null
+    },
+    {
+      "latitude": 32.430816,
+      "longitude": 35.556495,
+      "country": "Jordan",
+      "state": null
+    },
+    {
+      "latitude": 32.396732,
+      "longitude": 35.54921,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.135687,
+      "longitude": 34.812228,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.720774,
+      "longitude": 35.652287,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 32.53936,
+      "longitude": 35.568255,
+      "country": "Jordan",
+      "state": null
+    },
+    {
+      "latitude": 32.63277,
+      "longitude": 35.56794,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.627996,
+      "longitude": 34.593083,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.439554,
+      "longitude": 35.556625,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.623481,
+      "longitude": 35.565388,
+      "country": "Jordan",
+      "state": null
+    },
+    {
+      "latitude": 32.563175,
+      "longitude": 35.571386,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 40.408563,
+      "longitude": 16.863321,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 39.855856,
+      "longitude": -4.013606,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 29.691765,
+      "longitude": 52.476119,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 29.691779,
+      "longitude": 52.476167,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 41.292441,
+      "longitude": 61.156122,
+      "country": "Uzbekistan",
+      "state": null
+    },
+    {
+      "latitude": 40.33298,
+      "longitude": 33.679088,
+      "country": "T\u00fcrkiye",
+      "state": "\u00c7ankiri"
+    },
+    {
+      "latitude": 32.727944,
+      "longitude": 35.666916,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 35.34986,
+      "longitude": 33.1787,
+      "country": "Cyprus",
+      "state": "Girne"
+    },
+    {
+      "latitude": 41.855547,
+      "longitude": 14.871389,
+      "country": "Italy",
+      "state": "Molise"
+    },
+    {
+      "latitude": 35.422464,
+      "longitude": 51.20201,
+      "country": "Iran (Islamic Republic of)",
+      "state": "Tehran"
+    },
+    {
+      "latitude": 47.511872,
+      "longitude": 44.45438,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 47.150258,
+      "longitude": 44.051692,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 47.724245,
+      "longitude": 43.976433,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 47.465983,
+      "longitude": 44.322022,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 48.078206,
+      "longitude": 44.433087,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 39.856567,
+      "longitude": -3.964802,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 39.857358,
+      "longitude": -3.965911,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 47.14887,
+      "longitude": 44.053167,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 44.72863,
+      "longitude": 42.966105,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 39.857068,
+      "longitude": -3.961138,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 48.709089,
+      "longitude": 44.686983,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 48.787255,
+      "longitude": 47.48265,
+      "country": "Kazakhstan",
+      "state": "West Kazakhstan"
+    },
+    {
+      "latitude": 44.99432,
+      "longitude": 46.171662,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 45.35988,
+      "longitude": 36.51085,
+      "country": "Ukraine",
+      "state": "Crimea"
+    },
+    {
+      "latitude": 39.861793,
+      "longitude": -4.039961,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 41.70153,
+      "longitude": -0.930383,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 41.704516,
+      "longitude": -0.927258,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 49.240945,
+      "longitude": 48.460828,
+      "country": "Kazakhstan",
+      "state": "West Kazakhstan"
+    },
+    {
+      "latitude": 41.715064,
+      "longitude": -0.961271,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 46.255238,
+      "longitude": 44.20538,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 39.820081,
+      "longitude": -3.959448,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 49.108406,
+      "longitude": 44.121414,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 49.142872,
+      "longitude": 44.057044,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 49.087235,
+      "longitude": 44.140201,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 45.057852,
+      "longitude": 37.068423,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 49.203728,
+      "longitude": 43.802537,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 49.144159,
+      "longitude": 44.054933,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 37.290668,
+      "longitude": -5.94792,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 45.4757,
+      "longitude": 45.30112,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 37.490833,
+      "longitude": 13.450833,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 41.88988,
+      "longitude": 48.519688,
+      "country": "Azerbaijan",
+      "state": "Quba-Khachmaz"
+    },
+    {
+      "latitude": 42.903895,
+      "longitude": 13.909576,
+      "country": "Italy",
+      "state": "Marche"
+    },
+    {
+      "latitude": 40.550161,
+      "longitude": 47.871736,
+      "country": "Azerbaijan",
+      "state": "Aran"
+    },
+    {
+      "latitude": 47.984025,
+      "longitude": 44.551692,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.522684,
+      "longitude": 41.583047,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 47.666762,
+      "longitude": 40.902064,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 45.51868,
+      "longitude": 45.319375,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 49.456403,
+      "longitude": 44.160499,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 49.278899,
+      "longitude": 43.948733,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 49.278107,
+      "longitude": 43.953761,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 50.073189,
+      "longitude": 50.452618,
+      "country": "Kazakhstan",
+      "state": "West Kazakhstan"
+    },
+    {
+      "latitude": 47.770267,
+      "longitude": 44.357988,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 47.520563,
+      "longitude": 44.47712,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 47.41452,
+      "longitude": 44.414825,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.82102,
+      "longitude": 44.42402,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 45.291323,
+      "longitude": 37.372337,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.356074,
+      "longitude": 37.105724,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.068916,
+      "longitude": 37.026,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 40.775992,
+      "longitude": 71.845089,
+      "country": "Uzbekistan",
+      "state": "Andijon"
+    },
+    {
+      "latitude": 40.616806,
+      "longitude": 71.591714,
+      "country": "Uzbekistan",
+      "state": "Ferghana"
+    },
+    {
+      "latitude": 38.895225,
+      "longitude": 65.816248,
+      "country": "Uzbekistan",
+      "state": "Kashkadarya"
+    },
+    {
+      "latitude": 45.052392,
+      "longitude": 38.844242,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 43.289765,
+      "longitude": 47.125565,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 40.474152,
+      "longitude": -3.35188,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 47.687865,
+      "longitude": 0.307077,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 44.963253,
+      "longitude": 41.250193,
+      "country": "Russian Federation",
+      "state": null
+    },
+    {
+      "latitude": 37.327413,
+      "longitude": -6.036739,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 44.992398,
+      "longitude": 41.207273,
+      "country": "Russian Federation",
+      "state": null
+    },
+    {
+      "latitude": 44.963438,
+      "longitude": 41.249695,
+      "country": "Russian Federation",
+      "state": null
+    },
+    {
+      "latitude": 41.807164,
+      "longitude": 44.834137,
+      "country": "Georgia",
+      "state": null
+    },
+    {
+      "latitude": 41.807633,
+      "longitude": 44.833817,
+      "country": "Georgia",
+      "state": null
+    },
+    {
+      "latitude": 42.573732,
+      "longitude": 13.962614,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 39.820081,
+      "longitude": -3.959448,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.965883,
+      "longitude": -3.872737,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 45.838696,
+      "longitude": 30.07151,
+      "country": "Ukraine",
+      "state": "Odes'ka Oblast'"
+    },
+    {
+      "latitude": 41.435239,
+      "longitude": 46.057739,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 38.164792,
+      "longitude": 20.439466,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 42.035842,
+      "longitude": -1.632794,
+      "country": "Spain",
+      "state": "Comunidad Foral de Navarra"
+    },
+    {
+      "latitude": 45.053945,
+      "longitude": 37.079546,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.054559,
+      "longitude": 37.07959,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 46.075231,
+      "longitude": 44.465928,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 47.541058,
+      "longitude": 46.771988,
+      "country": "Russian Federation",
+      "state": "Astrakhan'"
+    },
+    {
+      "latitude": 46.001572,
+      "longitude": 44.228328,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.053947,
+      "longitude": 44.114617,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.07632,
+      "longitude": 44.469047,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.007519,
+      "longitude": 44.5398,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 45.864487,
+      "longitude": 44.7426,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 48.941488,
+      "longitude": 16.638013,
+      "country": "Czechia",
+      "state": "Jihomoravsk\u00fd"
+    },
+    {
+      "latitude": 37.802911,
+      "longitude": 20.903976,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 45.235689,
+      "longitude": 37.27461,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 46.030708,
+      "longitude": 44.135242,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 44.757804,
+      "longitude": 43.423402,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 46.27333,
+      "longitude": 20.194753,
+      "country": "Hungary",
+      "state": "Csongr\u00e1d"
+    },
+    {
+      "latitude": 49.166061,
+      "longitude": 16.550325,
+      "country": "Czechia",
+      "state": "Jihomoravsk\u00fd"
+    },
+    {
+      "latitude": 45.236439,
+      "longitude": 37.275703,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.274502,
+      "longitude": 37.386397,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.331643,
+      "longitude": 37.240018,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 48.576379,
+      "longitude": 44.216209,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 44.621285,
+      "longitude": 42.071013,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 47.957375,
+      "longitude": 42.499047,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 40.44005,
+      "longitude": 72.576646,
+      "country": "Kyrgyzstan",
+      "state": null
+    },
+    {
+      "latitude": 50.8965,
+      "longitude": 34.7754,
+      "country": "Ukraine",
+      "state": "Sums'ka Oblast'"
+    },
+    {
+      "latitude": 39.652989,
+      "longitude": 16.447517,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 38.076727,
+      "longitude": 26.96656,
+      "country": "T\u00fcrkiye",
+      "state": null
+    },
+    {
+      "latitude": 42.070624,
+      "longitude": -6.015909,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.963131,
+      "longitude": 16.629091,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 53.91404,
+      "longitude": 27.608627,
+      "country": "Belarus",
+      "state": "Minsk"
+    },
+    {
+      "latitude": 44.962225,
+      "longitude": 37.278556,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 41.684795,
+      "longitude": -0.879892,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 44.687441,
+      "longitude": 37.797606,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 47.238467,
+      "longitude": 40.03108,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 47.235565,
+      "longitude": 40.044436,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 44.963929,
+      "longitude": 37.281443,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 44.993763,
+      "longitude": 37.243763,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 44.986083,
+      "longitude": 37.245422,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 44.986808,
+      "longitude": 37.244197,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 47.821409,
+      "longitude": 46.648737,
+      "country": "Russian Federation",
+      "state": "Astrakhan'"
+    },
+    {
+      "latitude": 45.356906,
+      "longitude": 37.103365,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 41.277479,
+      "longitude": 46.450023,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 42.61713,
+      "longitude": 47.753373,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 48.99377,
+      "longitude": 44.67103,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 46.533224,
+      "longitude": 48.091933,
+      "country": "Russian Federation",
+      "state": "Astrakhan'"
+    },
+    {
+      "latitude": 42.6179,
+      "longitude": 47.75279,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 31.911762,
+      "longitude": 34.744978,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.911116,
+      "longitude": 34.745986,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 31.908648,
+      "longitude": 34.744317,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 40.359415,
+      "longitude": 49.831912,
+      "country": "Azerbaijan",
+      "state": "Absheron"
+    },
+    {
+      "latitude": 55.792295,
+      "longitude": 37.442978,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 55.792172,
+      "longitude": 37.442532,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 45.323981,
+      "longitude": 37.317396,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 38.932473,
+      "longitude": 41.452518,
+      "country": "T\u00fcrkiye",
+      "state": null
+    },
+    {
+      "latitude": 42.909106,
+      "longitude": 13.906603,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 40.484744,
+      "longitude": -3.338193,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 41.455863,
+      "longitude": 0.35692,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 40.634851,
+      "longitude": -3.18604,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 42.869979,
+      "longitude": 74.271945,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.882312,
+      "longitude": 74.320506,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.86397,
+      "longitude": 74.212811,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.888347,
+      "longitude": 74.360631,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.852157,
+      "longitude": 73.51379,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.863549,
+      "longitude": 73.650047,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.858038,
+      "longitude": 73.593338,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.869711,
+      "longitude": 74.285054,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.890469,
+      "longitude": 74.399157,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.854857,
+      "longitude": 74.115404,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.875589,
+      "longitude": 73.948521,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 42.89209,
+      "longitude": 74.440327,
+      "country": "Kyrgyzstan",
+      "state": "Chui region"
+    },
+    {
+      "latitude": 46.027327,
+      "longitude": 29.649,
+      "country": "Ukraine",
+      "state": "Odes'ka Oblast'"
+    },
+    {
+      "latitude": 46.271093,
+      "longitude": 29.415458,
+      "country": "Ukraine",
+      "state": "Odes'ka Oblast'"
+    },
+    {
+      "latitude": 46.273133,
+      "longitude": 29.413786,
+      "country": "Ukraine",
+      "state": "Odes'ka Oblast'"
+    },
+    {
+      "latitude": 46.027393,
+      "longitude": 29.648412,
+      "country": "Ukraine",
+      "state": "Odes'ka Oblast'"
+    },
+    {
+      "latitude": 46.245371,
+      "longitude": 29.506513,
+      "country": "Ukraine",
+      "state": "Odes'ka Oblast'"
+    },
+    {
+      "latitude": 46.270132,
+      "longitude": 29.414972,
+      "country": "Ukraine",
+      "state": "Odes'ka Oblast'"
+    },
+    {
+      "latitude": 55.79229,
+      "longitude": 37.44297,
+      "country": "Russian Federation",
+      "state": "Moscow"
+    },
+    {
+      "latitude": 45.324582,
+      "longitude": 37.29991,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 50.146625,
+      "longitude": 41.855358,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 46.917213,
+      "longitude": -2.156693,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 42.729577,
+      "longitude": 11.123648,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 45.803214,
+      "longitude": 8.430681,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 43.113287,
+      "longitude": 2.657288,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 46.97112,
+      "longitude": -2.126725,
+      "country": "France",
+      "state": "Pays de la Loire"
+    },
+    {
+      "latitude": 35.763978,
+      "longitude": 45.447772,
+      "country": "Iraq",
+      "state": "As-Sulaymaniyah"
+    },
+    {
+      "latitude": 48.719832,
+      "longitude": 44.826064,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 41.527425,
+      "longitude": 0.343039,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 44.97588,
+      "longitude": 37.26057,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 47.492156,
+      "longitude": 40.089497,
+      "country": "Russian Federation",
+      "state": "Rostov"
+    },
+    {
+      "latitude": 44.757353,
+      "longitude": 43.423647,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 45.427823,
+      "longitude": 40.825193,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 41.574543,
+      "longitude": 45.320042,
+      "country": "Georgia",
+      "state": "Kakheti"
+    },
+    {
+      "latitude": 41.527839,
+      "longitude": 0.342387,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 45.838409,
+      "longitude": 9.076388,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 42.032311,
+      "longitude": -1.528881,
+      "country": "Spain",
+      "state": "Comunidad Foral de Navarra"
+    },
+    {
+      "latitude": 45.04303,
+      "longitude": 37.122338,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 38.374493,
+      "longitude": -0.417632,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 32.840037,
+      "longitude": 35.650728,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 32.899014,
+      "longitude": 35.616928,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 32.784467,
+      "longitude": 35.181544,
+      "country": "Israel",
+      "state": "Haifa"
+    },
+    {
+      "latitude": 37.263709,
+      "longitude": 67.246949,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 37.261472,
+      "longitude": 67.257639,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 32.467454,
+      "longitude": 35.522546,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.465141,
+      "longitude": 35.53828,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 47.710894,
+      "longitude": 45.208513,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 47.705496,
+      "longitude": 45.200885,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 38.201857,
+      "longitude": 15.233569,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 37.301996,
+      "longitude": 67.327507,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 37.500052,
+      "longitude": 67.425774,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 37.500052,
+      "longitude": 67.425774,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 37.299353,
+      "longitude": 67.177765,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 37.575689,
+      "longitude": 67.506245,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 32.877748,
+      "longitude": 35.634461,
+      "country": "Syrian Arab Republic",
+      "state": null
+    },
+    {
+      "latitude": 37.367019,
+      "longitude": -6.05192,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 29.218375,
+      "longitude": 51.24303,
+      "country": "Iran (Islamic Republic of)",
+      "state": null
+    },
+    {
+      "latitude": 38.376481,
+      "longitude": -0.429083,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 38.107968,
+      "longitude": -0.722341,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 41.704179,
+      "longitude": -0.95481,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 41.660961,
+      "longitude": -0.836693,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 41.913636,
+      "longitude": 0.184425,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 36.414892,
+      "longitude": 28.118997,
+      "country": "Greece",
+      "state": "Aegean"
+    },
+    {
+      "latitude": 39.862342,
+      "longitude": -4.015094,
+      "country": "Spain",
+      "state": "Castilla-La Mancha"
+    },
+    {
+      "latitude": 41.712779,
+      "longitude": -0.959903,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 41.35391,
+      "longitude": 2.044775,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 39.333322,
+      "longitude": 16.200742,
+      "country": "Italy",
+      "state": "Calabria"
+    },
+    {
+      "latitude": 41.40055,
+      "longitude": 1.569305,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 48.062756,
+      "longitude": 46.901638,
+      "country": "Russian Federation",
+      "state": "Astrakhan'"
+    },
+    {
+      "latitude": 48.20431,
+      "longitude": 44.402558,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 44.758565,
+      "longitude": 43.423538,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 38.30596,
+      "longitude": -0.568459,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 41.925806,
+      "longitude": 2.260699,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 42.999904,
+      "longitude": 47.229012,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 42.999293,
+      "longitude": 47.226286,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 32.578811,
+      "longitude": 35.507551,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 43.37538,
+      "longitude": 53.5707,
+      "country": "Kazakhstan",
+      "state": "\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 48.7067,
+      "longitude": 54.70515,
+      "country": "Kazakhstan",
+      "state": "\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 48.7067,
+      "longitude": 54.70515,
+      "country": "Kazakhstan",
+      "state": "\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 43.37538,
+      "longitude": 53.5707,
+      "country": "Kazakhstan",
+      "state": "\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 46.228944,
+      "longitude": 44.386116,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.242864,
+      "longitude": 44.012863,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 39.55,
+      "longitude": -0.57,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.56,
+      "longitude": -0.58,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 39.55,
+      "longitude": -0.56,
+      "country": "Spain",
+      "state": "Valencia/Val\u00e8ncia"
+    },
+    {
+      "latitude": 40.722181,
+      "longitude": 71.372901,
+      "country": "Uzbekistan",
+      "state": "Namangan"
+    },
+    {
+      "latitude": 40.722181,
+      "longitude": 71.372901,
+      "country": "Uzbekistan",
+      "state": "Namangan"
+    },
+    {
+      "latitude": 40.722181,
+      "longitude": 71.372901,
+      "country": "Uzbekistan",
+      "state": "Namangan"
+    },
+    {
+      "latitude": 40.527063,
+      "longitude": 71.973035,
+      "country": "Uzbekistan",
+      "state": "Fergana"
+    },
+    {
+      "latitude": 40.515425,
+      "longitude": 71.937602,
+      "country": "Uzbekistan",
+      "state": "Fergana"
+    },
+    {
+      "latitude": 37.505437,
+      "longitude": 67.016384,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 37.217953,
+      "longitude": 67.788145,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 37.200164,
+      "longitude": 67.2737,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 37.245579,
+      "longitude": 67.243146,
+      "country": "Uzbekistan",
+      "state": "Surkhandarya"
+    },
+    {
+      "latitude": 48.47972,
+      "longitude": 53.12833,
+      "country": "Kazakhstan",
+      "state": "\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 48.47972,
+      "longitude": 53.12833,
+      "country": "Kazakhstan",
+      "state": "\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 48.47972,
+      "longitude": 53.12833,
+      "country": "Kazakhstan",
+      "state": "\u0410\u0442\u044b\u0440\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 40.8077,
+      "longitude": 68.787063,
+      "country": "Uzbekistan",
+      "state": "Sirdaryo"
+    },
+    {
+      "latitude": 32.895874,
+      "longitude": 35.16392,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.891419,
+      "longitude": 35.161154,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.028176,
+      "longitude": 34.827147,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.026774,
+      "longitude": 34.831747,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.466032,
+      "longitude": 35.538932,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.026148,
+      "longitude": 34.833814,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.02625,
+      "longitude": 34.831421,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.104131,
+      "longitude": 35.534057,
+      "country": "Palestine, State of",
+      "state": null
+    },
+    {
+      "latitude": 32.026424,
+      "longitude": 34.829292,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 38.078532,
+      "longitude": -0.858141,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 41.580494,
+      "longitude": -0.762132,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 40.624878,
+      "longitude": -3.189734,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 41.649092,
+      "longitude": 0.597723,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 41.707656,
+      "longitude": -0.947983,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 38.091672,
+      "longitude": -0.772693,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 41.707642,
+      "longitude": -0.948014,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 42.337053,
+      "longitude": -1.798461,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 39.982319,
+      "longitude": -3.569379,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 43.486173,
+      "longitude": 3.563339,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 40.12228,
+      "longitude": -3.807362,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 41.599253,
+      "longitude": 2.348211,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 37.313475,
+      "longitude": -6.019494,
+      "country": "Spain",
+      "state": "Sevilla"
+    },
+    {
+      "latitude": 33.503208,
+      "longitude": 36.487277,
+      "country": "Syrian Arab Republic",
+      "state": "Rif Dimashq"
+    },
+    {
+      "latitude": 51.507735,
+      "longitude": 45.990667,
+      "country": "Russian Federation",
+      "state": "Saratov"
+    },
+    {
+      "latitude": 49.297859,
+      "longitude": 43.975342,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 41.916345,
+      "longitude": 0.172042,
+      "country": "Spain",
+      "state": "Arag\u00f3n"
+    },
+    {
+      "latitude": 43.001815,
+      "longitude": 47.239267,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 43.004788,
+      "longitude": 47.244444,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 50.4445,
+      "longitude": 46.645558,
+      "country": "Russian Federation",
+      "state": "Volgograd"
+    },
+    {
+      "latitude": 45.010062,
+      "longitude": 41.766295,
+      "country": "Russian Federation",
+      "state": "Stavropol'"
+    },
+    {
+      "latitude": 44.104268,
+      "longitude": 76.99138,
+      "country": "Kazakhstan",
+      "state": "Almaty"
+    },
+    {
+      "latitude": 51.616125,
+      "longitude": 53.286072,
+      "country": "Russian Federation",
+      "state": "Orenburg"
+    },
+    {
+      "latitude": 45.763952,
+      "longitude": 44.548281,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 47.061186,
+      "longitude": 45.577904,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 45.725391,
+      "longitude": 44.552485,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.280146,
+      "longitude": 44.011846,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 47.665383,
+      "longitude": 44.51471,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 51.119837,
+      "longitude": 71.33153,
+      "country": "Kazakhstan",
+      "state": "Aqmola"
+    },
+    {
+      "latitude": 46.955669,
+      "longitude": 44.471865,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.956145,
+      "longitude": 44.469139,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 48.134383,
+      "longitude": 44.42849,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.955877,
+      "longitude": 44.47092,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 46.969765,
+      "longitude": 44.483579,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 42.069022,
+      "longitude": 48.052179,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 39.364359,
+      "longitude": 3.019799,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 45.290673,
+      "longitude": 37.090913,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 45.063184,
+      "longitude": 37.048211,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 39.907608,
+      "longitude": 32.750278,
+      "country": "T\u00fcrkiye",
+      "state": "Ankara"
+    },
+    {
+      "latitude": 44.99155,
+      "longitude": 37.242747,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 42.331039,
+      "longitude": 47.162433,
+      "country": "Russian Federation",
+      "state": "Dagestan"
+    },
+    {
+      "latitude": 45.73516,
+      "longitude": 44.549996,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    },
+    {
+      "latitude": 45.686618,
+      "longitude": 44.535522,
+      "country": "Russian Federation",
+      "state": "Kalmyk"
+    }
+  ],
+  "scientific_name": "Glycyrrhiza glabra",
+  "common_name": "cultivated licorice",
+  "description": null
+}

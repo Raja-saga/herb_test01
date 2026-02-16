@@ -1,0 +1,3008 @@
+{
+  "herb": "Plumbago zeylanica",
+  "locations": [
+    {
+      "latitude": -24.43983,
+      "longitude": 30.6221,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 26.176408,
+      "longitude": -98.36546,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.126589,
+      "longitude": -97.95755,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 16.09798,
+      "longitude": -61.747663,
+      "country": "Guadeloupe",
+      "state": "Basse-Terre"
+    },
+    {
+      "latitude": 18.364865,
+      "longitude": 73.760148,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 24.8886,
+      "longitude": 121.514571,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 22.648092,
+      "longitude": 120.262825,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.755745,
+      "longitude": 120.61608,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.64083,
+      "longitude": 120.273622,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 21.575289,
+      "longitude": -158.228441,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 24.219198,
+      "longitude": 120.74235,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 26.179199,
+      "longitude": -98.365398,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.440242,
+      "longitude": -82.073997,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 24.842364,
+      "longitude": 121.289131,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 24.889097,
+      "longitude": 121.514881,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 21.148452,
+      "longitude": -89.595975,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": 24.158735,
+      "longitude": 120.446149,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.653278,
+      "longitude": 120.265083,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 25.122647,
+      "longitude": 121.504762,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -0.736328,
+      "longitude": -90.317387,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.745568,
+      "longitude": -90.317766,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 11.096604,
+      "longitude": 76.782981,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 10.0285,
+      "longitude": 76.312295,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 25.676293,
+      "longitude": -80.157056,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.954357,
+      "longitude": -80.0821,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -15.046338,
+      "longitude": 13.383391,
+      "country": "Angola",
+      "state": "Hu\u00edla"
+    },
+    {
+      "latitude": 22.713938,
+      "longitude": 120.647705,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -25.739155,
+      "longitude": 28.983474,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 22.692647,
+      "longitude": 120.303425,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 20.616995,
+      "longitude": -105.223917,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 22.691023,
+      "longitude": 120.303066,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.789826,
+      "longitude": 120.988473,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.78949,
+      "longitude": 120.988247,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 26.229003,
+      "longitude": -97.347231,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.177552,
+      "longitude": -98.365288,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.177762,
+      "longitude": -98.365239,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 22.616839,
+      "longitude": 120.241751,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 26.075457,
+      "longitude": -97.746396,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 13.381341,
+      "longitude": 77.683183,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 13.433215,
+      "longitude": -16.727673,
+      "country": "Gambia",
+      "state": "Western"
+    },
+    {
+      "latitude": 24.78988,
+      "longitude": 120.98803,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 20.599464,
+      "longitude": -105.233299,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 22.884046,
+      "longitude": 121.244246,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 28.596665,
+      "longitude": 77.247929,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": 24.965806,
+      "longitude": 121.583008,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 21.922688,
+      "longitude": 120.738098,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 20.615796,
+      "longitude": -105.223916,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 13.45515,
+      "longitude": -16.711528,
+      "country": "Gambia",
+      "state": "Banjul"
+    },
+    {
+      "latitude": 22.643488,
+      "longitude": 120.265709,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 20.211582,
+      "longitude": -87.431027,
+      "country": "Mexico",
+      "state": "Quintana Roo"
+    },
+    {
+      "latitude": 22.640907,
+      "longitude": 120.267352,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 21.003251,
+      "longitude": -87.67828,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": 22.651538,
+      "longitude": 120.26255,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 19.268303,
+      "longitude": -103.723521,
+      "country": "Mexico",
+      "state": "Colima"
+    },
+    {
+      "latitude": 23.097567,
+      "longitude": -109.708747,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 20.582852,
+      "longitude": 75.725405,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 22.65279,
+      "longitude": 120.266369,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 21.142834,
+      "longitude": -156.737643,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 19.270743,
+      "longitude": -104.786377,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 24.960222,
+      "longitude": 121.503608,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 22.698117,
+      "longitude": 120.309474,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.690642,
+      "longitude": 120.302956,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.692027,
+      "longitude": 120.304629,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.455937,
+      "longitude": 69.351977,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 12.581848,
+      "longitude": 78.890099,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -0.756293,
+      "longitude": -90.328559,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.738411,
+      "longitude": -90.317556,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.736644,
+      "longitude": -90.320077,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 9.937146,
+      "longitude": -84.376547,
+      "country": "Costa Rica",
+      "state": "Alajuela"
+    },
+    {
+      "latitude": 23.326394,
+      "longitude": 121.315778,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.685848,
+      "longitude": -80.320181,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 19.22037,
+      "longitude": -104.685267,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 19.241456,
+      "longitude": -104.731038,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 18.039386,
+      "longitude": -67.198211,
+      "country": "Puerto Rico",
+      "state": "Cabo Rojo"
+    },
+    {
+      "latitude": 14.590147,
+      "longitude": 79.169668,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -0.962528,
+      "longitude": -91.000079,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 22.647994,
+      "longitude": 120.262794,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.651847,
+      "longitude": 120.25055,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.925215,
+      "longitude": -105.929916,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 15.978215,
+      "longitude": -97.674654,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 15.975788,
+      "longitude": -97.6724,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 25.720052,
+      "longitude": -80.38707,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 22.658226,
+      "longitude": 120.260552,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.691058,
+      "longitude": 120.303075,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.694823,
+      "longitude": 120.301976,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 21.40572,
+      "longitude": -157.75583,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 12.377564,
+      "longitude": 76.662029,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 22.648187,
+      "longitude": 120.262873,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.678335,
+      "longitude": 120.292058,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.642603,
+      "longitude": 120.269812,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.723016,
+      "longitude": 120.258304,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.655477,
+      "longitude": 120.272891,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.659122,
+      "longitude": 120.262437,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 21.304337,
+      "longitude": -157.811907,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 12.882092,
+      "longitude": 79.129299,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 22.659136,
+      "longitude": 120.262408,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.542815,
+      "longitude": 120.394995,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.641007,
+      "longitude": 120.266811,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.615525,
+      "longitude": 120.265192,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 20.056812,
+      "longitude": 75.299283,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 18.913508,
+      "longitude": 108.929324,
+      "country": "China",
+      "state": "Hainan"
+    },
+    {
+      "latitude": 22.6408,
+      "longitude": 120.2696,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 19.887613,
+      "longitude": 102.136175,
+      "country": "Lao People\u2019s Democratic Republic",
+      "state": "Louangphrabang"
+    },
+    {
+      "latitude": 26.184411,
+      "longitude": -97.664231,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 22.639042,
+      "longitude": 120.273758,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.65917,
+      "longitude": 120.262413,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.678347,
+      "longitude": 120.290817,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.652762,
+      "longitude": 120.26644,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 11.264862,
+      "longitude": 76.813244,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 26.12674,
+      "longitude": -97.956103,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 12.904713,
+      "longitude": 79.323811,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 21.301208,
+      "longitude": -157.815842,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 26.175994,
+      "longitude": -98.229958,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 21.397147,
+      "longitude": -157.748628,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.847208,
+      "longitude": 120.447747,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.096858,
+      "longitude": -159.745133,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.4334,
+      "longitude": 114.117378,
+      "country": "Hong Kong",
+      "state": "Tai Po"
+    },
+    {
+      "latitude": 26.126371,
+      "longitude": -97.957537,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.186005,
+      "longitude": -97.663096,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.250744,
+      "longitude": -98.224255,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 11.253571,
+      "longitude": 76.75839,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 19.136225,
+      "longitude": -155.502481,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 26.229273,
+      "longitude": -97.347315,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.184169,
+      "longitude": -97.66093,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -28.090335,
+      "longitude": 153.285568,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 19.911175,
+      "longitude": -155.799314,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 28.034217,
+      "longitude": 95.811017,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.296336,
+      "longitude": -102.71736,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 22.637682,
+      "longitude": 120.27674,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.698186,
+      "longitude": 120.307487,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.655838,
+      "longitude": 120.272353,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.795885,
+      "longitude": -105.700012,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 22.646652,
+      "longitude": 120.270401,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.503803,
+      "longitude": 118.439895,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 24.503607,
+      "longitude": 118.439966,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 21.309345,
+      "longitude": -158.0569,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 24.755998,
+      "longitude": 76.495165,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 15.059325,
+      "longitude": 145.625887,
+      "country": "Northern Mariana Islands",
+      "state": "Tinian"
+    },
+    {
+      "latitude": 22.659148,
+      "longitude": 120.262482,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 11.06462,
+      "longitude": 76.537558,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 26.082247,
+      "longitude": -98.135253,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.355277,
+      "longitude": 72.230433,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 26.12635,
+      "longitude": -97.957603,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 22.003697,
+      "longitude": 120.742103,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.126356,
+      "longitude": -97.957596,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 21.015569,
+      "longitude": -156.57245,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.659103,
+      "longitude": 120.262445,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.692451,
+      "longitude": 120.303624,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.755772,
+      "longitude": 120.616067,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -24.865943,
+      "longitude": 28.438617,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 22.61275,
+      "longitude": 120.264643,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.695797,
+      "longitude": 120.306051,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.477162,
+      "longitude": 114.075001,
+      "country": "Hong Kong",
+      "state": "Yuen Long"
+    },
+    {
+      "latitude": 22.67857,
+      "longitude": 120.290906,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.480129,
+      "longitude": 120.481214,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.12635,
+      "longitude": -97.957245,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 17.472233,
+      "longitude": 78.318183,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.651933,
+      "longitude": 78.072011,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 26.126039,
+      "longitude": -97.958145,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 23.433761,
+      "longitude": 120.527497,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 14.34801,
+      "longitude": -89.55731,
+      "country": "El Salvador",
+      "state": null
+    },
+    {
+      "latitude": 17.980147,
+      "longitude": 79.259935,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 21.263401,
+      "longitude": -157.806208,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 32.156299,
+      "longitude": -110.670431,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 28.558753,
+      "longitude": 77.149795,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": 28.558895,
+      "longitude": 77.150833,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": -19.417553,
+      "longitude": 22.572588,
+      "country": "Botswana",
+      "state": "North-West"
+    },
+    {
+      "latitude": 22.698336,
+      "longitude": 120.309951,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.95243,
+      "longitude": 120.623688,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.672526,
+      "longitude": -80.154958,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.126563,
+      "longitude": -97.957447,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.126517,
+      "longitude": -97.957632,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 5.285843,
+      "longitude": -52.591041,
+      "country": "French Guiana",
+      "state": "Cayenne"
+    },
+    {
+      "latitude": 28.461722,
+      "longitude": 76.896056,
+      "country": "India",
+      "state": "Haryana"
+    },
+    {
+      "latitude": 18.563217,
+      "longitude": 73.793191,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 25.226426,
+      "longitude": -100.0685,
+      "country": "Mexico",
+      "state": "Nuevo Le\u00f3n"
+    },
+    {
+      "latitude": 25.675608,
+      "longitude": -80.159942,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.016093,
+      "longitude": 121.918427,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -25.203178,
+      "longitude": 29.84893,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.120152,
+      "longitude": 29.83015,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.772637,
+      "longitude": 27.876402,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 20.687058,
+      "longitude": -103.843292,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 12.209545,
+      "longitude": 79.026711,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -25.772312,
+      "longitude": 27.87642,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 26.12667,
+      "longitude": -97.956878,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.799652,
+      "longitude": -109.68647,
+      "country": "Mexico",
+      "state": "Sonora"
+    },
+    {
+      "latitude": 17.941397,
+      "longitude": -71.301257,
+      "country": "Dominican Republic",
+      "state": "Pedernales"
+    },
+    {
+      "latitude": 23.945715,
+      "longitude": -110.171767,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 32.360825,
+      "longitude": -110.928353,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 22.023806,
+      "longitude": 120.7447,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -0.741761,
+      "longitude": -90.303924,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 21.247658,
+      "longitude": -99.258729,
+      "country": "Mexico",
+      "state": "Quer\u00e9taro"
+    },
+    {
+      "latitude": -25.771585,
+      "longitude": 27.876488,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 26.12623,
+      "longitude": -97.958116,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 22.69351,
+      "longitude": 120.309757,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.698011,
+      "longitude": 120.309887,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -24.829988,
+      "longitude": 29.359253,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 21.990412,
+      "longitude": 100.833207,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": -22.910414,
+      "longitude": 29.927825,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 4.161046,
+      "longitude": 9.278011,
+      "country": "Cameroon",
+      "state": "Sud-Ouest"
+    },
+    {
+      "latitude": 26.126378,
+      "longitude": -97.957153,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -24.023006,
+      "longitude": 29.825637,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 19.490288,
+      "longitude": -155.911087,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 18.340125,
+      "longitude": -64.720746,
+      "country": "Virgin Islands (U.S.)",
+      "state": "St. John"
+    },
+    {
+      "latitude": 26.365755,
+      "longitude": -80.070443,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 12.960172,
+      "longitude": 77.308113,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 28.485011,
+      "longitude": 77.116688,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": 27.534845,
+      "longitude": -82.62683,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 23.097688,
+      "longitude": 120.51656,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -24.097594,
+      "longitude": 30.829472,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 23.097421,
+      "longitude": 120.516552,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.640913,
+      "longitude": 120.267097,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.097644,
+      "longitude": 120.516622,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 16.257302,
+      "longitude": -61.221684,
+      "country": "Guadeloupe",
+      "state": "Pointe-\u00e0-Pitre"
+    },
+    {
+      "latitude": -24.985017,
+      "longitude": 31.581987,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 12.845667,
+      "longitude": 77.759872,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -23.80677,
+      "longitude": 28.065584,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 21.329541,
+      "longitude": -157.794537,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 26.949603,
+      "longitude": -80.608878,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 22.648394,
+      "longitude": 120.262833,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 26.176987,
+      "longitude": -98.365417,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -27.549931,
+      "longitude": 152.508972,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -26.145994,
+      "longitude": 31.942732,
+      "country": "Eswatini",
+      "state": "Lubombo"
+    },
+    {
+      "latitude": 32.162542,
+      "longitude": -110.661829,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 30.29542,
+      "longitude": 78.12764,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 26.22895,
+      "longitude": -97.347239,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 10.997133,
+      "longitude": 77.021456,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -0.896853,
+      "longitude": -89.608581,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 21.03672,
+      "longitude": -87.851197,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": 26.147167,
+      "longitude": -97.9897,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 17.54797,
+      "longitude": 78.457586,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 16.866588,
+      "longitude": 74.588363,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 26.887683,
+      "longitude": -80.114525,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.30188,
+      "longitude": -157.815033,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.542233,
+      "longitude": 88.369076,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": -0.895205,
+      "longitude": -89.608605,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 26.206357,
+      "longitude": -98.266498,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 22.698147,
+      "longitude": 120.309478,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 19.273991,
+      "longitude": -103.721146,
+      "country": "Mexico",
+      "state": "Colima"
+    },
+    {
+      "latitude": 26.184019,
+      "longitude": -98.183793,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 22.640599,
+      "longitude": 120.273764,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.644805,
+      "longitude": 120.265913,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.201617,
+      "longitude": 114.0265,
+      "country": "Hong Kong",
+      "state": "Islands"
+    },
+    {
+      "latitude": 16.860058,
+      "longitude": 74.597059,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 32.360866,
+      "longitude": -110.928238,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 23.742382,
+      "longitude": 119.613113,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.026647,
+      "longitude": 121.334654,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -1.227487,
+      "longitude": -90.424912,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.891934,
+      "longitude": -89.612263,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -25.647973,
+      "longitude": 27.161727,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 26.175299,
+      "longitude": -98.229896,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -22.478418,
+      "longitude": 118.561035,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -0.891931,
+      "longitude": -89.612228,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 22.652987,
+      "longitude": 120.259833,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.698688,
+      "longitude": 120.310137,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -1.226787,
+      "longitude": -90.426178,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 28.592278,
+      "longitude": 77.219767,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": -8.592374,
+      "longitude": -37.247539,
+      "country": "Brazil",
+      "state": "Pernambuco"
+    },
+    {
+      "latitude": -0.896954,
+      "longitude": -89.60859,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.901581,
+      "longitude": -89.611904,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -22.992923,
+      "longitude": 29.612414,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 30.409817,
+      "longitude": 78.093947,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": -20.559319,
+      "longitude": 28.379279,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": -20.562192,
+      "longitude": 28.403903,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": -20.499313,
+      "longitude": 28.419072,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": 22.691038,
+      "longitude": 120.303095,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -24.09768,
+      "longitude": 30.82982,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.772369,
+      "longitude": 28.469578,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.932222,
+      "longitude": -42.602222,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -9.518569,
+      "longitude": -43.933566,
+      "country": "Brazil",
+      "state": "Piau\u00ed"
+    },
+    {
+      "latitude": -22.390013,
+      "longitude": 117.938487,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -0.906645,
+      "longitude": -89.611203,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 30.374185,
+      "longitude": 78.073822,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": -24.450478,
+      "longitude": 31.984872,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -25.681208,
+      "longitude": 27.895205,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -20.439737,
+      "longitude": 28.854783,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": 11.918895,
+      "longitude": 75.647917,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 26.655838,
+      "longitude": -82.224097,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 32.156506,
+      "longitude": -110.670511,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -19.80403,
+      "longitude": -40.675633,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -0.888481,
+      "longitude": -89.608237,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 22.210196,
+      "longitude": -159.46904,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 26.655872,
+      "longitude": -82.224067,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 31.492011,
+      "longitude": -110.859628,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -1.22756,
+      "longitude": -90.425071,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 32.248547,
+      "longitude": -110.907734,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 26.177481,
+      "longitude": -98.230236,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -22.947908,
+      "longitude": 31.222667,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.567411,
+      "longitude": 27.850366,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 21.370277,
+      "longitude": -157.93436,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -27.171912,
+      "longitude": 32.759753,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 32.347907,
+      "longitude": -111.155413,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 26.147503,
+      "longitude": -97.988975,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.56535,
+      "longitude": -82.593094,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.558999,
+      "longitude": -158.28267,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.061981,
+      "longitude": -159.644975,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -1.227513,
+      "longitude": -90.424903,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -18.108309,
+      "longitude": 144.824631,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.481578,
+      "longitude": 32.575322,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -18.695858,
+      "longitude": 26.057183,
+      "country": "Zimbabwe",
+      "state": "Matabeleland North"
+    },
+    {
+      "latitude": -21.371537,
+      "longitude": 27.414156,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -27.302091,
+      "longitude": 152.729633,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.86179,
+      "longitude": 28.291416,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.421658,
+      "longitude": 31.182505,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -19.972886,
+      "longitude": 29.577531,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": -19.161167,
+      "longitude": 27.985645,
+      "country": "Zimbabwe",
+      "state": "Matabeleland North"
+    },
+    {
+      "latitude": -2.732652,
+      "longitude": -80.223019,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": -0.964858,
+      "longitude": -91.012152,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 26.009659,
+      "longitude": -80.145912,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 24.122548,
+      "longitude": 120.752775,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 18.598708,
+      "longitude": 73.718961,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -22.733078,
+      "longitude": 30.887225,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -0.958337,
+      "longitude": -90.994483,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 26.176474,
+      "longitude": -98.230007,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -0.95803,
+      "longitude": -90.996445,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -6.540127,
+      "longitude": -79.474884,
+      "country": "Peru",
+      "state": "Lambayeque"
+    },
+    {
+      "latitude": -22.594723,
+      "longitude": 27.439255,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -0.888638,
+      "longitude": -89.608475,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -22.609319,
+      "longitude": 27.439164,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -22.149568,
+      "longitude": 113.887587,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -0.889275,
+      "longitude": -89.60813,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.739433,
+      "longitude": -90.316162,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.753508,
+      "longitude": -90.325928,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.739445,
+      "longitude": -90.316095,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -23.004069,
+      "longitude": 29.622937,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -0.750742,
+      "longitude": -90.32315,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.947787,
+      "longitude": -90.974312,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -17.165969,
+      "longitude": 144.517717,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -26.660688,
+      "longitude": 26.500597,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 21.634461,
+      "longitude": -158.053621,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 24.127028,
+      "longitude": 120.624763,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.881899,
+      "longitude": -110.187699,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 18.513246,
+      "longitude": 73.899354,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 24.127052,
+      "longitude": 120.624687,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -15.149607,
+      "longitude": 13.260298,
+      "country": "Angola",
+      "state": "Namibe"
+    },
+    {
+      "latitude": -25.684952,
+      "longitude": 27.098101,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -19.805242,
+      "longitude": -40.674392,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -0.74119,
+      "longitude": -90.30744,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -22.702453,
+      "longitude": 30.963928,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -20.633696,
+      "longitude": 26.405514,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -22.703294,
+      "longitude": 117.986808,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 22.65781,
+      "longitude": 120.28376,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -22.586397,
+      "longitude": 27.434425,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": -0.740297,
+      "longitude": -90.302497,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -24.792578,
+      "longitude": 31.442645,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -3.822778,
+      "longitude": -41.104167,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -23.124575,
+      "longitude": 31.453458,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -0.871705,
+      "longitude": -89.475186,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 24.99285,
+      "longitude": 121.504245,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 22.694337,
+      "longitude": 120.306271,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.490017,
+      "longitude": 120.488083,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -22.36963,
+      "longitude": 31.194117,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.332383,
+      "longitude": 31.152667,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.370633,
+      "longitude": 31.194825,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.426862,
+      "longitude": 31.173953,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -22.331505,
+      "longitude": 31.159175,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -17.1,
+      "longitude": 144.5,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.483466,
+      "longitude": 31.004034,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -2.152879,
+      "longitude": -79.961682,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": -3.947378,
+      "longitude": -38.341036,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": 12.212474,
+      "longitude": 76.633425,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -0.820435,
+      "longitude": -89.428304,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -19.212834,
+      "longitude": -41.313852,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": 18.213351,
+      "longitude": -98.270766,
+      "country": "Mexico",
+      "state": "Puebla"
+    },
+    {
+      "latitude": -1.554796,
+      "longitude": -80.811371,
+      "country": "Ecuador",
+      "state": "Manabi"
+    },
+    {
+      "latitude": -22.19485,
+      "longitude": 113.871545,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -25.103617,
+      "longitude": 31.596255,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -17.923677,
+      "longitude": 25.847359,
+      "country": "Zimbabwe",
+      "state": "Matabeleland North"
+    },
+    {
+      "latitude": 24.453861,
+      "longitude": 120.873436,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 21.902518,
+      "longitude": -159.506416,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -26.926747,
+      "longitude": 151.884111,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.105744,
+      "longitude": 30.121883,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -17.191072,
+      "longitude": 144.548112,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.149722,
+      "longitude": -89.595278,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": -21.044806,
+      "longitude": 55.243342,
+      "country": "R\u00e9union",
+      "state": "Saint-Paul"
+    },
+    {
+      "latitude": -0.946159,
+      "longitude": -90.97489,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.741302,
+      "longitude": -90.307216,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.751597,
+      "longitude": -90.324272,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -6.808857,
+      "longitude": -79.18621,
+      "country": "Peru",
+      "state": "Lambayeque"
+    },
+    {
+      "latitude": 24.126914,
+      "longitude": 120.624822,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -20.189738,
+      "longitude": -40.302577,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -20.830872,
+      "longitude": 115.38665,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -0.742414,
+      "longitude": -90.302847,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -20.843187,
+      "longitude": 115.381722,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 11.260965,
+      "longitude": 76.756644,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -0.756508,
+      "longitude": -90.328653,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.951289,
+      "longitude": -90.970808,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.741227,
+      "longitude": -90.307446,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 21.440747,
+      "longitude": -158.191253,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.319434,
+      "longitude": -157.829927,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -1.226822,
+      "longitude": -90.426247,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -24.247855,
+      "longitude": 31.704571,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -20.326053,
+      "longitude": -40.279837,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -1.22756,
+      "longitude": -90.425048,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 21.080999,
+      "longitude": -156.998596,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 12.30193,
+      "longitude": 76.638233,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -25.839605,
+      "longitude": 27.942177,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 11.113262,
+      "longitude": 76.653997,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -2.182351,
+      "longitude": -80.016921,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": -2.18169,
+      "longitude": -80.016632,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": -7.290299,
+      "longitude": -35.486227,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 30.286156,
+      "longitude": -97.733559,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 12.312637,
+      "longitude": 76.632553,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -25.878291,
+      "longitude": 27.895149,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -7.302644,
+      "longitude": -35.479097,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 12.899428,
+      "longitude": 77.59135,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -0.756322,
+      "longitude": -90.328562,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -21.044552,
+      "longitude": 55.248295,
+      "country": "R\u00e9union",
+      "state": "Saint-Paul"
+    },
+    {
+      "latitude": -24.450837,
+      "longitude": 31.984208,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -6.778793,
+      "longitude": -34.918991,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -22.342783,
+      "longitude": 31.175478,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -0.743281,
+      "longitude": -90.317763,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.957976,
+      "longitude": -90.995725,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -22.257347,
+      "longitude": 113.84493,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 23.256295,
+      "longitude": 119.668866,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -22.939013,
+      "longitude": 29.747892,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -20.378958,
+      "longitude": -40.307067,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -0.889405,
+      "longitude": -89.607925,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -24.711147,
+      "longitude": 31.79968,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 32.364103,
+      "longitude": -110.918044,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -21.764617,
+      "longitude": 30.545017,
+      "country": "Zimbabwe",
+      "state": "Matabeleland South"
+    },
+    {
+      "latitude": -24.333587,
+      "longitude": 31.969985,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -0.958553,
+      "longitude": -90.98925,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.74104,
+      "longitude": -90.303552,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -22.444389,
+      "longitude": 31.397067,
+      "country": "Mozambique",
+      "state": "Gaza"
+    },
+    {
+      "latitude": -2.181187,
+      "longitude": -80.021078,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": -24.96503,
+      "longitude": -61.36902,
+      "country": "Argentina",
+      "state": "Chaco"
+    },
+    {
+      "latitude": 21.54325,
+      "longitude": -158.054282,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.573517,
+      "longitude": -158.207158,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -0.741733,
+      "longitude": -90.30468,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 22.527245,
+      "longitude": 120.625245,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -0.747475,
+      "longitude": -90.312061,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.74214,
+      "longitude": -90.303848,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 26.49948,
+      "longitude": -80.212845,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.346313,
+      "longitude": 74.030183,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 1.436826,
+      "longitude": 103.780764,
+      "country": "Singapore",
+      "state": "North"
+    },
+    {
+      "latitude": 22.640041,
+      "longitude": 120.272232,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -20.278558,
+      "longitude": -40.307775,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -0.7411,
+      "longitude": -90.303452,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.905015,
+      "longitude": -89.60492,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.742172,
+      "longitude": -90.30383,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.904331,
+      "longitude": -89.604978,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.904331,
+      "longitude": -89.604978,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.919315,
+      "longitude": -89.61507,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.905015,
+      "longitude": -89.60492,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -0.96628,
+      "longitude": -91.002572,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": -22.443828,
+      "longitude": 31.396455,
+      "country": "Mozambique",
+      "state": "Gaza"
+    },
+    {
+      "latitude": 21.573756,
+      "longitude": -158.208036,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -22.466845,
+      "longitude": 31.518695,
+      "country": "Mozambique",
+      "state": "Gaza"
+    },
+    {
+      "latitude": -25.761036,
+      "longitude": 27.755453,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -27.800363,
+      "longitude": 152.802672,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -13.374104,
+      "longitude": 48.222767,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": 23.942305,
+      "longitude": -104.312721,
+      "country": "Mexico",
+      "state": "Durango"
+    },
+    {
+      "latitude": -22.321292,
+      "longitude": 146.735009,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -13.390819,
+      "longitude": 48.260931,
+      "country": "Madagascar",
+      "state": "Antsiranana"
+    },
+    {
+      "latitude": -6.550147,
+      "longitude": -79.215625,
+      "country": "Peru",
+      "state": "Cajamarca"
+    },
+    {
+      "latitude": -24.957266,
+      "longitude": -60.964871,
+      "country": "Argentina",
+      "state": "Chaco"
+    },
+    {
+      "latitude": 23.940729,
+      "longitude": -104.312553,
+      "country": "Mexico",
+      "state": "Durango"
+    },
+    {
+      "latitude": 18.460294,
+      "longitude": 73.851661,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -25.103653,
+      "longitude": 31.596218,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": -4.337115,
+      "longitude": -79.972646,
+      "country": "Ecuador",
+      "state": "Loja"
+    },
+    {
+      "latitude": -0.95967,
+      "longitude": -90.959275,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 22.028681,
+      "longitude": 120.808592,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 19.994669,
+      "longitude": 75.387005,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 12.693363,
+      "longitude": 77.570146,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 21.401292,
+      "longitude": -158.091566,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -3.830346,
+      "longitude": -38.469784,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": 24.219209,
+      "longitude": 120.742243,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 21.566384,
+      "longitude": 110.570139,
+      "country": "China",
+      "state": "Guangdong"
+    },
+    {
+      "latitude": 19.494344,
+      "longitude": -104.310378,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 23.37201,
+      "longitude": 119.608906,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -2.22457,
+      "longitude": -80.099739,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": -24.972595,
+      "longitude": -61.4693,
+      "country": "Argentina",
+      "state": "Chaco"
+    },
+    {
+      "latitude": -25.157227,
+      "longitude": 27.690126,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 13.007253,
+      "longitude": 77.581902,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 24.404158,
+      "longitude": 118.405863,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 32.359261,
+      "longitude": -110.931244,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 24.35975,
+      "longitude": 120.959458,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.037964,
+      "longitude": 119.300395,
+      "country": "China",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 17.05385,
+      "longitude": 54.608253,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.110558,
+      "longitude": 54.453185,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": 17.053847,
+      "longitude": 54.608225,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -21.2,
+      "longitude": 149.2,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -9.774505,
+      "longitude": -35.849028,
+      "country": "Brazil",
+      "state": "Alagoas"
+    },
+    {
+      "latitude": 13.017715,
+      "longitude": 77.571145,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 14.397777,
+      "longitude": 75.904457,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -1.398017,
+      "longitude": 36.852995,
+      "country": "Kenya",
+      "state": "Kajiado"
+    },
+    {
+      "latitude": 31.769511,
+      "longitude": -106.506265,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.558548,
+      "longitude": 77.152189,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": -21.158244,
+      "longitude": 149.159697,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.983665,
+      "longitude": -100.438594,
+      "country": "Mexico",
+      "state": "San Luis Potos\u00ed"
+    },
+    {
+      "latitude": 17.321091,
+      "longitude": 78.393821,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 19.768898,
+      "longitude": -104.416923,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 24.732525,
+      "longitude": 121.697655,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -20.890345,
+      "longitude": 55.49879,
+      "country": "R\u00e9union",
+      "state": "Saint-Denis"
+    },
+    {
+      "latitude": -22.854124,
+      "longitude": 31.944275,
+      "country": "Mozambique",
+      "state": "Gaza"
+    },
+    {
+      "latitude": 20.552522,
+      "longitude": -101.652486,
+      "country": "Mexico",
+      "state": "Guanajuato"
+    },
+    {
+      "latitude": -7.320709,
+      "longitude": -35.535402,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 12.801741,
+      "longitude": 78.301149,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 21.211291,
+      "longitude": -99.272001,
+      "country": "Mexico",
+      "state": "Quer\u00e9taro"
+    }
+  ],
+  "scientific_name": "Plumbago zeylanica",
+  "common_name": "wild leadwort",
+  "description": null
+}

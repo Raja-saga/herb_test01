@@ -1,0 +1,374 @@
+{
+  "herb": "Vetiveria zizanioides",
+  "locations": [
+    {
+      "latitude": 22.5846,
+      "longitude": 88.4162,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 4.544641,
+      "longitude": 7.932931,
+      "country": "Nigeria",
+      "state": "Akwa-Ibom"
+    },
+    {
+      "latitude": 4.550153,
+      "longitude": 8.281221,
+      "country": "Nigeria",
+      "state": "Akwa-Ibom"
+    },
+    {
+      "latitude": 4.549616,
+      "longitude": 7.834878,
+      "country": "Nigeria",
+      "state": "Akwa-Ibom"
+    },
+    {
+      "latitude": 31.178634,
+      "longitude": -89.187538,
+      "country": "United States of America",
+      "state": "Mississippi"
+    },
+    {
+      "latitude": 31.178634,
+      "longitude": -89.187538,
+      "country": "United States of America",
+      "state": "Mississippi"
+    },
+    {
+      "latitude": 8.83861,
+      "longitude": -83.085,
+      "country": "Costa Rica",
+      "state": "Puntarenas"
+    },
+    {
+      "latitude": 8.83194,
+      "longitude": -83.0714,
+      "country": "Costa Rica",
+      "state": "Puntarenas"
+    },
+    {
+      "latitude": 26.956076,
+      "longitude": -81.759766,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 13.0,
+      "longitude": 80.229,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 0.233333,
+      "longitude": 73.216667,
+      "country": "Maldives",
+      "state": "Gaafu Dhaalu Atoll"
+    },
+    {
+      "latitude": 0.2,
+      "longitude": 73.15,
+      "country": "Maldives",
+      "state": "Gaafu Dhaalu Atoll"
+    },
+    {
+      "latitude": 0.583333,
+      "longitude": 73.233333,
+      "country": "Maldives",
+      "state": "Seenu Atoll"
+    },
+    {
+      "latitude": 0.3,
+      "longitude": 73.433333,
+      "country": "Maldives",
+      "state": "Gnyaviyani Atoll"
+    },
+    {
+      "latitude": 8.833333,
+      "longitude": -82.416667,
+      "country": "Panama",
+      "state": "Chiriqui"
+    },
+    {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "country": "Costa Rica",
+      "state": "Cartago"
+    },
+    {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "country": "Costa Rica",
+      "state": "Cartago"
+    },
+    {
+      "latitude": 29.65,
+      "longitude": 91.14,
+      "country": "China",
+      "state": "\u6d59\u6c5f"
+    },
+    {
+      "latitude": 29.65,
+      "longitude": 91.14,
+      "country": "China",
+      "state": "\u6d59\u6c5f"
+    },
+    {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "country": "Costa Rica",
+      "state": "Guanacaste"
+    },
+    {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "country": "Costa Rica",
+      "state": "Alajuela"
+    },
+    {
+      "latitude": 24.630556,
+      "longitude": 120.855556,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 24.630556,
+      "longitude": 120.855556,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 24.630556,
+      "longitude": 120.855556,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 5.51,
+      "longitude": 0.11,
+      "country": "Ghana",
+      "state": "Eastern Region"
+    },
+    {
+      "latitude": 5.85,
+      "longitude": -0.183333,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 5.51,
+      "longitude": 0.11,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 24.716944,
+      "longitude": 120.866667,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 24.716944,
+      "longitude": 120.866667,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 16.333415,
+      "longitude": -86.499914,
+      "country": "Honduras",
+      "state": null
+    },
+    {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "country": "Costa Rica",
+      "state": "Alajuela"
+    },
+    {
+      "latitude": 23.116944,
+      "longitude": 121.413056,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 26.890689,
+      "longitude": 102.110335,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 21.48,
+      "longitude": 101.57,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 21.48,
+      "longitude": 101.57,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 40.43,
+      "longitude": 117.52,
+      "country": "China",
+      "state": "\u6cb3\u5317"
+    },
+    {
+      "latitude": 22.653799,
+      "longitude": 108.310905,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 22.653799,
+      "longitude": 108.310905,
+      "country": "China",
+      "state": "\u5e7f\u897f"
+    },
+    {
+      "latitude": 21.84,
+      "longitude": 110.54,
+      "country": "China",
+      "state": "\u5e7f\u4e1c"
+    },
+    {
+      "latitude": 21.67,
+      "longitude": 110.63,
+      "country": "China",
+      "state": "\u5e7f\u4e1c"
+    },
+    {
+      "latitude": 21.43,
+      "longitude": 110.77,
+      "country": "China",
+      "state": "\u5e7f\u4e1c"
+    },
+    {
+      "latitude": 40.43,
+      "longitude": 117.52,
+      "country": "China",
+      "state": "\u6cb3\u5317"
+    },
+    {
+      "latitude": 33.570948,
+      "longitude": 73.08298,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 33.569999,
+      "longitude": 73.081345,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 5.37,
+      "longitude": 0.14,
+      "country": "Ghana",
+      "state": "Greater Accra Region"
+    },
+    {
+      "latitude": 5.616667,
+      "longitude": -0.233333,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 5.37,
+      "longitude": 0.14,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 11.318545,
+      "longitude": 116.562386,
+      "country": "China",
+      "state": "\u6d77\u5357"
+    },
+    {
+      "latitude": 18.252013,
+      "longitude": 109.504134,
+      "country": "China",
+      "state": "\u6d77\u5357"
+    },
+    {
+      "latitude": 5.37,
+      "longitude": 0.14,
+      "country": "Ghana",
+      "state": "Greater Accra Region"
+    },
+    {
+      "latitude": 5.37,
+      "longitude": 0.14,
+      "country": "Ghana",
+      "state": null
+    },
+    {
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "country": "Costa Rica",
+      "state": null
+    },
+    {
+      "latitude": 3.0,
+      "longitude": -76.0,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 3.0,
+      "longitude": -76.0,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 3.0,
+      "longitude": -76.0,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 3.0,
+      "longitude": -76.0,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 3.0,
+      "longitude": -76.0,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 3.0,
+      "longitude": -76.0,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 3.0,
+      "longitude": -76.0,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 3.0,
+      "longitude": -76.0,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 25.027222,
+      "longitude": 121.505556,
+      "country": "Chinese Taipei",
+      "state": null
+    }
+  ],
+  "scientific_name": "Chrysopogon zizanioides",
+  "common_name": "Vetiver",
+  "description": null
+}

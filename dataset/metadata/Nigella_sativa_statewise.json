@@ -1,0 +1,21 @@
+{
+  "herb": "Nigella sativa",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Rajasthan": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Assam": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Sikkim": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    }
+  }
+}

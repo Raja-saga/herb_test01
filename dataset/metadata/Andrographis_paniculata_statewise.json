@@ -1,0 +1,106 @@
+{
+  "herb": "Andrographis paniculata",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Odisha": {
+      "count": 6,
+      "normalizedScore": 0.11,
+      "presence": "Very Low"
+    },
+    "Telangana": {
+      "count": 53,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "TamilNadu": {
+      "count": 42,
+      "normalizedScore": 0.79,
+      "presence": "High"
+    },
+    "WestBengal": {
+      "count": 21,
+      "normalizedScore": 0.4,
+      "presence": "Low"
+    },
+    "Goa": {
+      "count": 5,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "Bihar": {
+      "count": 3,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "Rajasthan": {
+      "count": 5,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "Tripura": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 23,
+      "normalizedScore": 0.43,
+      "presence": "Low"
+    },
+    "Maharashtra": {
+      "count": 8,
+      "normalizedScore": 0.15,
+      "presence": "Very Low"
+    },
+    "Puducherry": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "Kerala": {
+      "count": 19,
+      "normalizedScore": 0.36,
+      "presence": "Low"
+    },
+    "UttarPradesh": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 10,
+      "normalizedScore": 0.19,
+      "presence": "Very Low"
+    },
+    "Jharkhand": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "AndamanandNicobar": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Karnataka": {
+      "count": 4,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Assam": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    }
+  }
+}

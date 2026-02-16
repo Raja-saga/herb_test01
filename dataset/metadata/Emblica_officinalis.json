@@ -1,0 +1,3008 @@
+{
+  "herb": "Emblica officinalis",
+  "locations": [
+    {
+      "latitude": 22.396691,
+      "longitude": 114.055002,
+      "country": "Hong Kong",
+      "state": "Tsuen Wan"
+    },
+    {
+      "latitude": 17.418646,
+      "longitude": 78.553204,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 15.7274,
+      "longitude": 73.971242,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 22.493652,
+      "longitude": 114.107111,
+      "country": "Hong Kong",
+      "state": "North"
+    },
+    {
+      "latitude": 19.155291,
+      "longitude": 72.861742,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 17.4249,
+      "longitude": 78.52957,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 12.947033,
+      "longitude": 80.139708,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 21.040982,
+      "longitude": 75.570757,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 20.979018,
+      "longitude": 75.565612,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 21.020089,
+      "longitude": 70.77375,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 11.468106,
+      "longitude": 76.96754,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 22.495012,
+      "longitude": 114.069613,
+      "country": "Hong Kong",
+      "state": "Yuen Long"
+    },
+    {
+      "latitude": 21.020388,
+      "longitude": 75.568692,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 26.251242,
+      "longitude": 72.988663,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 12.844844,
+      "longitude": 77.775127,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 21.020388,
+      "longitude": 75.568692,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 10.383757,
+      "longitude": 76.878656,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 11.00291,
+      "longitude": 76.37675,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.50653,
+      "longitude": 76.16686,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.50653,
+      "longitude": 76.16686,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.35145,
+      "longitude": 76.83464,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.93216,
+      "longitude": 76.60473,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34331,
+      "longitude": 77.05286,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.02288,
+      "longitude": 85.37455,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.17132,
+      "longitude": 76.60099,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.00488,
+      "longitude": 80.51328,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.47786,
+      "longitude": 80.42802,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.36,
+      "longitude": 77.05357,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.59368,
+      "longitude": 78.96288,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.59368,
+      "longitude": 78.96288,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.31452,
+      "longitude": 76.58293,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.47786,
+      "longitude": 80.42802,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00592,
+      "longitude": 76.0181,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34075,
+      "longitude": 77.06599,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.43587,
+      "longitude": 76.20988,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34387,
+      "longitude": 77.05188,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.74444,
+      "longitude": 80.44934,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13036,
+      "longitude": 76.29268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13036,
+      "longitude": 76.29268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.12208,
+      "longitude": 76.66384,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.83114,
+      "longitude": 76.65291,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.50653,
+      "longitude": 76.16686,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.97412,
+      "longitude": 75.49739,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.76894,
+      "longitude": 76.48078,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.49636,
+      "longitude": 76.21487,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.39771,
+      "longitude": 76.57853,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.50653,
+      "longitude": 76.16686,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.81812,
+      "longitude": 75.4344,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.60156,
+      "longitude": 75.59198,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.36,
+      "longitude": 77.05357,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.01876,
+      "longitude": 85.37953,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.00488,
+      "longitude": 80.51328,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.21176,
+      "longitude": 76.85334,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.28079,
+      "longitude": 76.77285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.43587,
+      "longitude": 76.20988,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.02774,
+      "longitude": 80.43553,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13036,
+      "longitude": 76.29268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.35145,
+      "longitude": 76.83464,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.062,
+      "longitude": 76.63797,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.00657,
+      "longitude": 75.42389,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.49636,
+      "longitude": 76.21487,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.21176,
+      "longitude": 76.85334,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34331,
+      "longitude": 77.05286,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.02288,
+      "longitude": 85.37455,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.59368,
+      "longitude": 78.96288,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.80745,
+      "longitude": 75.49707,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.40684,
+      "longitude": 77.16442,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.70067,
+      "longitude": 76.68458,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.12208,
+      "longitude": 76.66384,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.257,
+      "longitude": 76.82315,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.17132,
+      "longitude": 76.60099,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.17132,
+      "longitude": 76.60099,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.00488,
+      "longitude": 80.51328,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.24553,
+      "longitude": 76.78579,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.35145,
+      "longitude": 76.83464,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.17679,
+      "longitude": 76.44567,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.39771,
+      "longitude": 76.57853,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.17132,
+      "longitude": 76.60099,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34387,
+      "longitude": 77.05188,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.23126,
+      "longitude": 75.93042,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.39771,
+      "longitude": 76.57853,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.60156,
+      "longitude": 75.59198,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.23126,
+      "longitude": 75.93042,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.062,
+      "longitude": 76.63797,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.257,
+      "longitude": 76.82315,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.93216,
+      "longitude": 76.60473,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.01876,
+      "longitude": 85.37953,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.02774,
+      "longitude": 80.43553,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.00657,
+      "longitude": 75.42389,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.49399,
+      "longitude": 74.9892,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.28079,
+      "longitude": 76.77285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00592,
+      "longitude": 76.0181,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.80745,
+      "longitude": 75.49707,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.062,
+      "longitude": 76.63797,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.36,
+      "longitude": 77.05357,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.99693,
+      "longitude": 76.06359,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.1783,
+      "longitude": 76.79008,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.39771,
+      "longitude": 76.57853,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.26737,
+      "longitude": 76.78735,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.28079,
+      "longitude": 76.77285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34075,
+      "longitude": 77.06599,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00592,
+      "longitude": 76.0181,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.257,
+      "longitude": 76.82315,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.17132,
+      "longitude": 76.60099,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.28079,
+      "longitude": 76.77285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.062,
+      "longitude": 76.63797,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.12169,
+      "longitude": 76.66154,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.12169,
+      "longitude": 76.66154,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34075,
+      "longitude": 77.06599,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.01876,
+      "longitude": 85.37953,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34387,
+      "longitude": 77.05188,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.59368,
+      "longitude": 78.96288,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.35145,
+      "longitude": 76.83464,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.01876,
+      "longitude": 85.37953,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.60395,
+      "longitude": 80.50301,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00291,
+      "longitude": 76.37675,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00291,
+      "longitude": 76.37675,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.49636,
+      "longitude": 76.21487,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.26308,
+      "longitude": 85.81589,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.43587,
+      "longitude": 76.20988,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34331,
+      "longitude": 77.05286,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34331,
+      "longitude": 77.05286,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.36,
+      "longitude": 77.05357,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.70067,
+      "longitude": 76.68458,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.23126,
+      "longitude": 75.93042,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00291,
+      "longitude": 76.37675,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.40684,
+      "longitude": 77.16442,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.26737,
+      "longitude": 76.78735,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.49636,
+      "longitude": 76.21487,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.12208,
+      "longitude": 76.66384,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.257,
+      "longitude": 76.82315,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.31452,
+      "longitude": 76.58293,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.85681,
+      "longitude": 75.41051,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.12169,
+      "longitude": 76.66154,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34075,
+      "longitude": 77.06599,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.99029,
+      "longitude": 76.33999,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.93216,
+      "longitude": 76.60473,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.43587,
+      "longitude": 76.20988,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34387,
+      "longitude": 77.05188,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.60156,
+      "longitude": 75.59198,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.40684,
+      "longitude": 77.16442,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13036,
+      "longitude": 76.29268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.50653,
+      "longitude": 76.16686,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.39771,
+      "longitude": 76.57853,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.49412,
+      "longitude": 74.98602,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.80745,
+      "longitude": 75.49707,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.02288,
+      "longitude": 85.37455,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.21176,
+      "longitude": 76.85334,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.60156,
+      "longitude": 75.59198,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.40684,
+      "longitude": 77.16442,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.104989,
+      "longitude": 100.98441,
+      "country": "Thailand",
+      "state": "Nakhon Nayok"
+    },
+    {
+      "latitude": 7.908904,
+      "longitude": 98.304461,
+      "country": "Thailand",
+      "state": "Phuket"
+    },
+    {
+      "latitude": 22.461492,
+      "longitude": 114.240814,
+      "country": "Hong Kong",
+      "state": "Tai Po"
+    },
+    {
+      "latitude": 17.162228,
+      "longitude": 102.693959,
+      "country": "Thailand",
+      "state": "Udon Thani"
+    },
+    {
+      "latitude": 29.585468,
+      "longitude": 78.863167,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 27.727521,
+      "longitude": 84.408746,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 12.413592,
+      "longitude": 75.365425,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 24.829083,
+      "longitude": 75.488292,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 22.499542,
+      "longitude": 114.318313,
+      "country": "Hong Kong",
+      "state": "North"
+    },
+    {
+      "latitude": 18.581598,
+      "longitude": 73.247573,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.80745,
+      "longitude": 75.49707,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.93216,
+      "longitude": 76.60473,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.35145,
+      "longitude": 76.83464,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.41308,
+      "longitude": 76.57403,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.80745,
+      "longitude": 75.49707,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.41308,
+      "longitude": 76.57403,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.76085,
+      "longitude": 75.48029,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.49636,
+      "longitude": 76.21487,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.00657,
+      "longitude": 75.42389,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.93216,
+      "longitude": 76.60473,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.39771,
+      "longitude": 76.57853,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58329,
+      "longitude": 73.06268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.40684,
+      "longitude": 77.16442,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.60395,
+      "longitude": 80.50301,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.39771,
+      "longitude": 76.57853,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.40684,
+      "longitude": 77.16442,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.93216,
+      "longitude": 76.60473,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.40684,
+      "longitude": 77.16442,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58329,
+      "longitude": 73.06268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.36,
+      "longitude": 77.05357,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.23126,
+      "longitude": 75.93042,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34075,
+      "longitude": 77.06599,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.257,
+      "longitude": 76.82315,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00592,
+      "longitude": 76.0181,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.00097,
+      "longitude": 80.50551,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.41308,
+      "longitude": 76.57403,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58329,
+      "longitude": 73.06268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 19.01688,
+      "longitude": 73.01769,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.00488,
+      "longitude": 80.51328,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.062,
+      "longitude": 76.63797,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13036,
+      "longitude": 76.29268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.43587,
+      "longitude": 76.20988,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.40697,
+      "longitude": 80.65882,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34331,
+      "longitude": 77.05286,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.47786,
+      "longitude": 80.42802,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.257,
+      "longitude": 76.82315,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.40684,
+      "longitude": 77.16442,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.50887,
+      "longitude": 77.41345,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.17132,
+      "longitude": 76.60099,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.41308,
+      "longitude": 76.57403,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34075,
+      "longitude": 77.06599,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34387,
+      "longitude": 77.05188,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.02774,
+      "longitude": 80.43553,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.97204,
+      "longitude": 80.45768,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.26737,
+      "longitude": 76.78735,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13036,
+      "longitude": 76.29268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.93216,
+      "longitude": 76.60473,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.31452,
+      "longitude": 76.58293,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.98881,
+      "longitude": 75.42472,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.97204,
+      "longitude": 80.45768,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34075,
+      "longitude": 77.06599,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46984,
+      "longitude": 80.57734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34387,
+      "longitude": 77.05188,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.062,
+      "longitude": 76.63797,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.23126,
+      "longitude": 75.93042,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.43587,
+      "longitude": 76.20988,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58087,
+      "longitude": 73.06076,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.93216,
+      "longitude": 76.60473,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00291,
+      "longitude": 76.37675,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.00291,
+      "longitude": 76.37675,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34387,
+      "longitude": 77.05188,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.58329,
+      "longitude": 73.06268,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.02288,
+      "longitude": 85.37455,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.00488,
+      "longitude": 80.51328,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.43587,
+      "longitude": 76.20988,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.46603,
+      "longitude": 80.5891,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.54101,
+      "longitude": 77.2563,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.43587,
+      "longitude": 76.20988,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.36,
+      "longitude": 77.05357,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.23126,
+      "longitude": 75.93042,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.257,
+      "longitude": 76.82315,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.50653,
+      "longitude": 76.16686,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.00657,
+      "longitude": 75.42389,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.39771,
+      "longitude": 76.57853,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.13033,
+      "longitude": 76.29267,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.47786,
+      "longitude": 80.42802,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 8.34321,
+      "longitude": 77.05285,
+      "country": "India",
+      "state": null
+    }
+  ],
+  "scientific_name": "Phyllanthus emblica",
+  "common_name": "Myrobalan",
+  "description": null
+}

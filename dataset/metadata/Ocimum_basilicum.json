@@ -1,0 +1,3008 @@
+{
+  "herb": "Ocimum basilicum",
+  "locations": [
+    {
+      "latitude": -37.000405,
+      "longitude": 174.899842,
+      "country": "New Zealand",
+      "state": "Auckland"
+    },
+    {
+      "latitude": 19.042618,
+      "longitude": -98.301599,
+      "country": "Mexico",
+      "state": "Puebla"
+    },
+    {
+      "latitude": 25.960783,
+      "longitude": -100.291078,
+      "country": "Mexico",
+      "state": "Nuevo Le\u00f3n"
+    },
+    {
+      "latitude": 24.809249,
+      "longitude": -107.376568,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 25.624058,
+      "longitude": -100.049325,
+      "country": "Mexico",
+      "state": "Nuevo Le\u00f3n"
+    },
+    {
+      "latitude": 21.141935,
+      "longitude": -88.162071,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": 21.145466,
+      "longitude": -88.149609,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": 22.078271,
+      "longitude": -98.811537,
+      "country": "Mexico",
+      "state": "San Luis Potos\u00ed"
+    },
+    {
+      "latitude": -3.751667,
+      "longitude": -38.577222,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -11.464444,
+      "longitude": -41.18,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 24.815926,
+      "longitude": -107.358052,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 12.031527,
+      "longitude": 77.59203,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 19.755172,
+      "longitude": -88.719155,
+      "country": "Mexico",
+      "state": "Quintana Roo"
+    },
+    {
+      "latitude": 18.661248,
+      "longitude": -96.762365,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 29.747887,
+      "longitude": -7.973212,
+      "country": "Morocco",
+      "state": "Guelmim - Es-Semara"
+    },
+    {
+      "latitude": 8.065198,
+      "longitude": 98.916806,
+      "country": "Thailand",
+      "state": "Krabi"
+    },
+    {
+      "latitude": 23.451846,
+      "longitude": 120.460425,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 18.780713,
+      "longitude": -96.427653,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 20.24429,
+      "longitude": -97.894207,
+      "country": "Mexico",
+      "state": "Puebla"
+    },
+    {
+      "latitude": 18.998555,
+      "longitude": -98.186097,
+      "country": "Mexico",
+      "state": "Puebla"
+    },
+    {
+      "latitude": 18.834714,
+      "longitude": -97.052729,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 22.041787,
+      "longitude": -98.86795,
+      "country": "Mexico",
+      "state": "San Luis Potos\u00ed"
+    },
+    {
+      "latitude": 27.482759,
+      "longitude": -109.930367,
+      "country": "Mexico",
+      "state": "Sonora"
+    },
+    {
+      "latitude": 24.816257,
+      "longitude": -107.358276,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 13.620285,
+      "longitude": 79.395583,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 18.849517,
+      "longitude": -97.078622,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 19.403325,
+      "longitude": -99.018014,
+      "country": "Mexico",
+      "state": "M\u00e9xico"
+    },
+    {
+      "latitude": 21.427928,
+      "longitude": -104.891603,
+      "country": "Mexico",
+      "state": "Nayarit"
+    },
+    {
+      "latitude": 18.897503,
+      "longitude": -97.036906,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 22.139831,
+      "longitude": 113.555908,
+      "country": "Macao",
+      "state": "Ilhas"
+    },
+    {
+      "latitude": 20.536989,
+      "longitude": -97.465294,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 18.850788,
+      "longitude": -97.078994,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 20.377581,
+      "longitude": -99.643219,
+      "country": "Mexico",
+      "state": "Hidalgo"
+    },
+    {
+      "latitude": -7.212222,
+      "longitude": -35.910556,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 19.554382,
+      "longitude": -96.931254,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 15.81947,
+      "longitude": -97.027428,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 25.685335,
+      "longitude": -108.452407,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -37.67682,
+      "longitude": 176.127383,
+      "country": "New Zealand",
+      "state": "Bay of Plenty"
+    },
+    {
+      "latitude": 25.518778,
+      "longitude": -108.462722,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -6.638931,
+      "longitude": 108.52495,
+      "country": "Indonesia",
+      "state": "Jawa Barat"
+    },
+    {
+      "latitude": 7.834923,
+      "longitude": 5.101848,
+      "country": "Nigeria",
+      "state": "Ekiti"
+    },
+    {
+      "latitude": 22.125506,
+      "longitude": 113.556373,
+      "country": "Macao",
+      "state": "Ilhas"
+    },
+    {
+      "latitude": 22.204944,
+      "longitude": 113.549257,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 26.013378,
+      "longitude": -111.360592,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 23.465647,
+      "longitude": 120.457747,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 7.388958,
+      "longitude": 125.795387,
+      "country": "Philippines",
+      "state": "Davao del Norte"
+    },
+    {
+      "latitude": 23.126792,
+      "longitude": -106.279062,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 24.814324,
+      "longitude": -107.358393,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 24.814042,
+      "longitude": -107.358231,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 22.159573,
+      "longitude": 113.553431,
+      "country": "Macao",
+      "state": "Ilhas"
+    },
+    {
+      "latitude": 24.809768,
+      "longitude": -107.35295,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 24.809531,
+      "longitude": -107.349785,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 7.106208,
+      "longitude": -73.107697,
+      "country": "Colombia",
+      "state": "Santander"
+    },
+    {
+      "latitude": 26.022577,
+      "longitude": -111.365942,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 22.21003,
+      "longitude": 113.543364,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 10.354741,
+      "longitude": -75.42875,
+      "country": "Colombia",
+      "state": "Bol\u00edvar"
+    },
+    {
+      "latitude": -25.57583,
+      "longitude": -48.53611,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": 29.328701,
+      "longitude": 47.985961,
+      "country": "Kuwait",
+      "state": "Al Farwaniyah"
+    },
+    {
+      "latitude": 29.320493,
+      "longitude": 48.026851,
+      "country": "Kuwait",
+      "state": "Hawalli"
+    },
+    {
+      "latitude": 29.348004,
+      "longitude": 48.095774,
+      "country": "Kuwait",
+      "state": "Hawalli"
+    },
+    {
+      "latitude": -8.844115,
+      "longitude": 115.13013,
+      "country": "Indonesia",
+      "state": "Bali"
+    },
+    {
+      "latitude": 9.591263,
+      "longitude": 100.067413,
+      "country": "Thailand",
+      "state": "Surat Thani"
+    },
+    {
+      "latitude": 24.024522,
+      "longitude": 32.884574,
+      "country": "Egypt",
+      "state": "Aswan"
+    },
+    {
+      "latitude": 49.078262,
+      "longitude": 9.192704,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 8.118745,
+      "longitude": 98.623528,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118775,
+      "longitude": 98.62355,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 24.809862,
+      "longitude": -107.377682,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 8.118272,
+      "longitude": 98.624612,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.117919,
+      "longitude": 98.621422,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118822,
+      "longitude": 98.623505,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 11.02152,
+      "longitude": -63.945678,
+      "country": "Venezuela (Bolivarian Republic of)",
+      "state": "Nueva Esparta"
+    },
+    {
+      "latitude": 8.118875,
+      "longitude": 98.623529,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118809,
+      "longitude": 98.623504,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 11.021895,
+      "longitude": -63.947297,
+      "country": "Venezuela (Bolivarian Republic of)",
+      "state": "Nueva Esparta"
+    },
+    {
+      "latitude": 20.601856,
+      "longitude": -103.280918,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 12.356835,
+      "longitude": 109.277076,
+      "country": "Viet Nam",
+      "state": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+      "latitude": 22.96588,
+      "longitude": 120.234947,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -2.610643,
+      "longitude": -80.301753,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": -10.927319,
+      "longitude": -37.672511,
+      "country": "Brazil",
+      "state": "Sergipe"
+    },
+    {
+      "latitude": 8.118705,
+      "longitude": 98.621892,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.117651,
+      "longitude": 98.621576,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 23.796225,
+      "longitude": 90.358599,
+      "country": "Bangladesh",
+      "state": "Dhaka"
+    },
+    {
+      "latitude": 48.137233,
+      "longitude": 11.575555,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": -6.733202,
+      "longitude": 108.53257,
+      "country": "Indonesia",
+      "state": "Jawa Barat"
+    },
+    {
+      "latitude": 24.626841,
+      "longitude": 46.712688,
+      "country": "Saudi Arabia",
+      "state": "Ar Riyad"
+    },
+    {
+      "latitude": 44.25109,
+      "longitude": -76.521686,
+      "country": "Canada",
+      "state": "Ontario"
+    },
+    {
+      "latitude": 53.2,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 30.010439,
+      "longitude": -96.934792,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 15.23546,
+      "longitude": -61.364033,
+      "country": "Dominica",
+      "state": "Saint Mark"
+    },
+    {
+      "latitude": 22.74165,
+      "longitude": 121.138363,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 44.299404,
+      "longitude": 9.217559,
+      "country": "Italy",
+      "state": "Liguria"
+    },
+    {
+      "latitude": 35.139222,
+      "longitude": -97.394753,
+      "country": "United States of America",
+      "state": "Oklahoma"
+    },
+    {
+      "latitude": 29.321217,
+      "longitude": 48.019336,
+      "country": "Kuwait",
+      "state": "Hawalli"
+    },
+    {
+      "latitude": 26.013171,
+      "longitude": -111.341731,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": -22.403114,
+      "longitude": 26.675073,
+      "country": "Botswana",
+      "state": "Central"
+    },
+    {
+      "latitude": 34.98,
+      "longitude": 33.99,
+      "country": "Cyprus",
+      "state": "Famagusta"
+    },
+    {
+      "latitude": -2.706907,
+      "longitude": -44.843097,
+      "country": "Brazil",
+      "state": "Maranh\u00e3o"
+    },
+    {
+      "latitude": 32.421118,
+      "longitude": -97.405295,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -2.189129,
+      "longitude": -79.889903,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": 29.758679,
+      "longitude": -98.730794,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.6378,
+      "longitude": -98.110014,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 21.026593,
+      "longitude": 75.588749,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 48.615284,
+      "longitude": 5.08365,
+      "country": "France",
+      "state": "Meuse (55)"
+    },
+    {
+      "latitude": -20.376111,
+      "longitude": -43.707778,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": 21.118017,
+      "longitude": -104.260727,
+      "country": "Mexico",
+      "state": "Nayarit"
+    },
+    {
+      "latitude": 12.775323,
+      "longitude": 100.939099,
+      "country": "Thailand",
+      "state": "Chon Buri"
+    },
+    {
+      "latitude": 18.993205,
+      "longitude": -99.090278,
+      "country": "Mexico",
+      "state": "Morelos"
+    },
+    {
+      "latitude": 44.691072,
+      "longitude": 8.036421,
+      "country": "Italy",
+      "state": "Piemonte"
+    },
+    {
+      "latitude": 24.024517,
+      "longitude": 32.884625,
+      "country": "Egypt",
+      "state": "Aswan"
+    },
+    {
+      "latitude": 20.627503,
+      "longitude": -103.372545,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 8.118864,
+      "longitude": 98.625137,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118789,
+      "longitude": 98.623558,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 53.209946,
+      "longitude": 34.441702,
+      "country": "Russian Federation",
+      "state": "Bryansk"
+    },
+    {
+      "latitude": 8.118846,
+      "longitude": 98.623518,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118767,
+      "longitude": 98.625105,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.120406,
+      "longitude": 98.623987,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.117993,
+      "longitude": 98.621384,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118797,
+      "longitude": 98.62352,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 43.547675,
+      "longitude": 10.314667,
+      "country": "Italy",
+      "state": "Toscana"
+    },
+    {
+      "latitude": 8.118827,
+      "longitude": 98.625188,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.120395,
+      "longitude": 98.623932,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 18.207348,
+      "longitude": -93.014143,
+      "country": "Mexico",
+      "state": "Tabasco"
+    },
+    {
+      "latitude": 8.11784,
+      "longitude": 98.621257,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118847,
+      "longitude": 98.625017,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118794,
+      "longitude": 98.623556,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 11.945265,
+      "longitude": 79.794026,
+      "country": "India",
+      "state": "Puducherry"
+    },
+    {
+      "latitude": 8.118757,
+      "longitude": 98.623505,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118389,
+      "longitude": 98.621147,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 8.118933,
+      "longitude": 98.621963,
+      "country": "Thailand",
+      "state": "Phangnga"
+    },
+    {
+      "latitude": 18.207158,
+      "longitude": -93.01383,
+      "country": "Mexico",
+      "state": "Tabasco"
+    },
+    {
+      "latitude": -12.155,
+      "longitude": -38.9275,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 42.705689,
+      "longitude": -84.53566,
+      "country": "United States of America",
+      "state": "Michigan"
+    },
+    {
+      "latitude": 24.816288,
+      "longitude": -107.358263,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 25.204972,
+      "longitude": 75.791883,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 20.511617,
+      "longitude": -97.436904,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 20.215427,
+      "longitude": -101.13208,
+      "country": "Mexico",
+      "state": "Guanajuato"
+    },
+    {
+      "latitude": -7.324708,
+      "longitude": -35.551599,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": -7.274145,
+      "longitude": -35.546715,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.8,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 17.64654,
+      "longitude": 83.162343,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 31.29893,
+      "longitude": -7.724102,
+      "country": "Morocco",
+      "state": "Marrakech - Tensift - Al Haouz"
+    },
+    {
+      "latitude": -22.448844,
+      "longitude": -42.979841,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": 23.24308,
+      "longitude": -106.370278,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 1.309477,
+      "longitude": 103.888361,
+      "country": "Singapore",
+      "state": "Central"
+    },
+    {
+      "latitude": -9.610169,
+      "longitude": -35.726803,
+      "country": "Brazil",
+      "state": "Alagoas"
+    },
+    {
+      "latitude": 50.621368,
+      "longitude": 7.970652,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.9387,
+      "longitude": 4.31069,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 38.655157,
+      "longitude": -94.34715,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 35.404387,
+      "longitude": 33.782583,
+      "country": "Cyprus",
+      "state": "Gazima\u011fusa"
+    },
+    {
+      "latitude": 39.926513,
+      "longitude": 116.399471,
+      "country": "China",
+      "state": "Beijing"
+    },
+    {
+      "latitude": 22.896071,
+      "longitude": -109.919696,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 37.601387,
+      "longitude": -77.904673,
+      "country": "United States of America",
+      "state": "Virginia"
+    },
+    {
+      "latitude": 23.228287,
+      "longitude": -106.367737,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 34.710328,
+      "longitude": -86.633223,
+      "country": "United States of America",
+      "state": "Alabama"
+    },
+    {
+      "latitude": 30.9233,
+      "longitude": 121.639013,
+      "country": "China",
+      "state": "Shanghai"
+    },
+    {
+      "latitude": 43.001654,
+      "longitude": -81.320963,
+      "country": "Canada",
+      "state": "Ontario"
+    },
+    {
+      "latitude": 17.252723,
+      "longitude": 78.581732,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 40.524748,
+      "longitude": 0.362867,
+      "country": "Spain",
+      "state": "Comunidad Valenciana"
+    },
+    {
+      "latitude": 7.707825,
+      "longitude": 79.81147,
+      "country": "Sri Lanka",
+      "state": "Puttalam"
+    },
+    {
+      "latitude": 36.921317,
+      "longitude": 30.683692,
+      "country": "T\u00fcrkiye",
+      "state": "Antalya"
+    },
+    {
+      "latitude": 20.982466,
+      "longitude": -97.391888,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 22.994908,
+      "longitude": 120.219261,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.073563,
+      "longitude": -98.810195,
+      "country": "Mexico",
+      "state": "San Luis Potos\u00ed"
+    },
+    {
+      "latitude": 25.717365,
+      "longitude": 32.658932,
+      "country": "Egypt",
+      "state": "Al Uqsur"
+    },
+    {
+      "latitude": 25.719178,
+      "longitude": 32.655197,
+      "country": "Egypt",
+      "state": "Al Uqsur"
+    },
+    {
+      "latitude": 22.836493,
+      "longitude": 69.365206,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 20.710254,
+      "longitude": -105.278758,
+      "country": "Mexico",
+      "state": "Nayarit"
+    },
+    {
+      "latitude": 24.577836,
+      "longitude": -107.802028,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 24.761136,
+      "longitude": -107.45788,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 24.087226,
+      "longitude": 32.885268,
+      "country": "Egypt",
+      "state": "Aswan"
+    },
+    {
+      "latitude": 26.056305,
+      "longitude": -98.289555,
+      "country": "Mexico",
+      "state": "Tamaulipas"
+    },
+    {
+      "latitude": 25.452874,
+      "longitude": 81.78149,
+      "country": "India",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "latitude": 43.825353,
+      "longitude": 11.486805,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 19.311094,
+      "longitude": -99.180683,
+      "country": "Mexico",
+      "state": "Distrito Federal"
+    },
+    {
+      "latitude": 20.2776,
+      "longitude": 85.8429,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -12.236389,
+      "longitude": -38.929722,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -23.915833,
+      "longitude": -45.345278,
+      "country": "Brazil",
+      "state": "S\u00e3o Paulo"
+    },
+    {
+      "latitude": -21.761389,
+      "longitude": -41.286111,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": 14.722098,
+      "longitude": -91.259117,
+      "country": "Guatemala",
+      "state": "Solol\u00e1"
+    },
+    {
+      "latitude": 1.427675,
+      "longitude": 103.793198,
+      "country": "Singapore",
+      "state": "North"
+    },
+    {
+      "latitude": 23.503581,
+      "longitude": -106.214042,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 26.007194,
+      "longitude": -111.343933,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": -3.394683,
+      "longitude": -57.708622,
+      "country": "Brazil",
+      "state": "Amazonas"
+    },
+    {
+      "latitude": 22.073563,
+      "longitude": -98.810195,
+      "country": "Mexico",
+      "state": "San Luis Potos\u00ed"
+    },
+    {
+      "latitude": 21.538128,
+      "longitude": -104.808479,
+      "country": "Mexico",
+      "state": "Nayarit"
+    },
+    {
+      "latitude": 24.244384,
+      "longitude": -107.329873,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 24.242721,
+      "longitude": -107.331163,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -3.394685,
+      "longitude": -57.708473,
+      "country": "Brazil",
+      "state": "Amazonas"
+    },
+    {
+      "latitude": 13.690358,
+      "longitude": 100.661775,
+      "country": "Thailand",
+      "state": "Bangkok Metropolis"
+    },
+    {
+      "latitude": 13.779078,
+      "longitude": 100.571347,
+      "country": "Thailand",
+      "state": "Bangkok Metropolis"
+    },
+    {
+      "latitude": 27.309992,
+      "longitude": 33.720394,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 24.089096,
+      "longitude": 32.90062,
+      "country": "Egypt",
+      "state": null
+    },
+    {
+      "latitude": 20.023317,
+      "longitude": -96.6523,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 18.784678,
+      "longitude": -96.918327,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 26.149298,
+      "longitude": 50.52293,
+      "country": "Bahrain",
+      "state": "Central"
+    },
+    {
+      "latitude": 23.036467,
+      "longitude": 72.553302,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 24.804284,
+      "longitude": -107.457017,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 4.9099,
+      "longitude": -52.291619,
+      "country": "French Guiana",
+      "state": "Cayenne"
+    },
+    {
+      "latitude": 12.994032,
+      "longitude": 101.436592,
+      "country": "Thailand",
+      "state": "Rayong"
+    },
+    {
+      "latitude": -39.189407,
+      "longitude": 173.878753,
+      "country": "New Zealand",
+      "state": "Taranaki"
+    },
+    {
+      "latitude": -15.470556,
+      "longitude": -47.555833,
+      "country": "Brazil",
+      "state": "Distrito Federal"
+    },
+    {
+      "latitude": -5.470556,
+      "longitude": -47.271667,
+      "country": "Brazil",
+      "state": "Maranh\u00e3o"
+    },
+    {
+      "latitude": -12.252222,
+      "longitude": -38.945556,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -11.834722,
+      "longitude": -55.486389,
+      "country": "Brazil",
+      "state": "Mato Grosso"
+    },
+    {
+      "latitude": 7.570953,
+      "longitude": 99.620374,
+      "country": "Thailand",
+      "state": "Trang"
+    },
+    {
+      "latitude": -23.243577,
+      "longitude": 150.603808,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.486242,
+      "longitude": -46.739511,
+      "country": "Brazil",
+      "state": "S\u00e3o Paulo"
+    },
+    {
+      "latitude": 18.835467,
+      "longitude": -96.917645,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 4.668333,
+      "longitude": -74.1,
+      "country": "Colombia",
+      "state": "Bogot\u00e1, D.C"
+    },
+    {
+      "latitude": 2.846154,
+      "longitude": -60.711628,
+      "country": "Brazil",
+      "state": "Roraima"
+    },
+    {
+      "latitude": -21.171667,
+      "longitude": -40.970278,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -21.171667,
+      "longitude": -40.970278,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -22.881111,
+      "longitude": -43.251944,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -22.965278,
+      "longitude": -43.342778,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -22.803611,
+      "longitude": -43.383333,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -21.171667,
+      "longitude": -40.970278,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -21.171667,
+      "longitude": -40.970278,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": 38.91701,
+      "longitude": -90.051014,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": -22.461111,
+      "longitude": -43.095833,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -22.258611,
+      "longitude": -43.045555,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -1.863959,
+      "longitude": -79.979303,
+      "country": "Ecuador",
+      "state": "Guayas"
+    },
+    {
+      "latitude": 4.082671,
+      "longitude": 101.7957,
+      "country": "Malaysia",
+      "state": "Pahang"
+    },
+    {
+      "latitude": 24.878885,
+      "longitude": -107.296827,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 18.844337,
+      "longitude": -96.872162,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": -0.384013,
+      "longitude": -78.415213,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": -12.239444,
+      "longitude": -38.973611,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -12.253889,
+      "longitude": -38.918611,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -12.231667,
+      "longitude": -38.928333,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 13.143913,
+      "longitude": -61.211525,
+      "country": "Saint Vincent and the Grenadines",
+      "state": "Saint George"
+    },
+    {
+      "latitude": 13.143066,
+      "longitude": -61.211418,
+      "country": "Saint Vincent and the Grenadines",
+      "state": "Saint George"
+    },
+    {
+      "latitude": 32.943089,
+      "longitude": -83.419315,
+      "country": "United States of America",
+      "state": "Georgia"
+    },
+    {
+      "latitude": 14.894345,
+      "longitude": 100.404225,
+      "country": "Thailand",
+      "state": "Sing Buri"
+    },
+    {
+      "latitude": 24.762932,
+      "longitude": -107.457487,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 16.720296,
+      "longitude": -92.659274,
+      "country": "Mexico",
+      "state": "Chiapas"
+    },
+    {
+      "latitude": -23.424361,
+      "longitude": -51.941139,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -12.236667,
+      "longitude": -38.929722,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 39.00644,
+      "longitude": -87.746834,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": -12.075278,
+      "longitude": -38.149167,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -11.142222,
+      "longitude": -41.093333,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 27.491315,
+      "longitude": -109.970031,
+      "country": "Mexico",
+      "state": "Sonora"
+    },
+    {
+      "latitude": 30.033601,
+      "longitude": 122.11138,
+      "country": "China",
+      "state": "Zhejiang"
+    },
+    {
+      "latitude": 51.093819,
+      "longitude": 7.063415,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 51.05496,
+      "longitude": 12.790911,
+      "country": "Germany",
+      "state": "Sachsen"
+    },
+    {
+      "latitude": 39.235067,
+      "longitude": -94.053484,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 38.546781,
+      "longitude": -76.532305,
+      "country": "United States of America",
+      "state": "Maryland"
+    },
+    {
+      "latitude": 59.503,
+      "longitude": 18.14892,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 18.203401,
+      "longitude": -93.009302,
+      "country": "Mexico",
+      "state": "Tabasco"
+    },
+    {
+      "latitude": 25.96005,
+      "longitude": 119.971651,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 18.169393,
+      "longitude": -93.015014,
+      "country": "Mexico",
+      "state": "Tabasco"
+    },
+    {
+      "latitude": 39.28447,
+      "longitude": -76.554772,
+      "country": "United States of America",
+      "state": "Maryland"
+    },
+    {
+      "latitude": 24.807154,
+      "longitude": -107.457363,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 42.605765,
+      "longitude": -1.645672,
+      "country": "Spain",
+      "state": "Navarra"
+    },
+    {
+      "latitude": 40.861617,
+      "longitude": -73.873558,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 40.861617,
+      "longitude": -73.873558,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 40.861617,
+      "longitude": -73.873558,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 40.861617,
+      "longitude": -73.873558,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": -3.751528,
+      "longitude": -38.577611,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": 50.443213,
+      "longitude": 30.504117,
+      "country": "Ukraine",
+      "state": null
+    },
+    {
+      "latitude": 43.621466,
+      "longitude": 77.017432,
+      "country": "Kazakhstan",
+      "state": "Almaty"
+    },
+    {
+      "latitude": 20.633862,
+      "longitude": -103.345203,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 20.75984,
+      "longitude": -88.139776,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": 24.773296,
+      "longitude": -107.449594,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 13.13454,
+      "longitude": -59.629259,
+      "country": "Barbados",
+      "state": "Saint Michael"
+    },
+    {
+      "latitude": 19.338871,
+      "longitude": -96.491974,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": -22.83439,
+      "longitude": -43.092251,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -2.698185,
+      "longitude": -44.846806,
+      "country": "Brazil",
+      "state": "Maranh\u00e3o"
+    },
+    {
+      "latitude": -27.978197,
+      "longitude": 153.372369,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.579948,
+      "longitude": 120.371514,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.809249,
+      "longitude": -107.376543,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 22.073647,
+      "longitude": -98.810162,
+      "country": "Mexico",
+      "state": "San Luis Potos\u00ed"
+    },
+    {
+      "latitude": 35.883158,
+      "longitude": -5.331503,
+      "country": "Spain",
+      "state": "Ceuta y Melilla"
+    },
+    {
+      "latitude": -13.402222,
+      "longitude": -40.702778,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -3.718333,
+      "longitude": -38.543333,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -12.272222,
+      "longitude": -38.990833,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -12.272222,
+      "longitude": -38.990833,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 36.887302,
+      "longitude": 30.683757,
+      "country": "T\u00fcrkiye",
+      "state": "Antalya"
+    },
+    {
+      "latitude": 27.619529,
+      "longitude": 75.110576,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 17.230279,
+      "longitude": -92.198825,
+      "country": "Mexico",
+      "state": "Chiapas"
+    },
+    {
+      "latitude": -2.700583,
+      "longitude": -44.840472,
+      "country": "Brazil",
+      "state": "Maranh\u00e3o"
+    },
+    {
+      "latitude": -3.751667,
+      "longitude": -38.577222,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -3.751667,
+      "longitude": -38.577222,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -3.751667,
+      "longitude": -38.577222,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -3.751667,
+      "longitude": -38.577222,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -12.236389,
+      "longitude": -38.929722,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -7.531389,
+      "longitude": -62.994444,
+      "country": "Brazil",
+      "state": "Amazonas"
+    },
+    {
+      "latitude": -7.546944,
+      "longitude": -62.968333,
+      "country": "Brazil",
+      "state": "Amazonas"
+    },
+    {
+      "latitude": -7.531389,
+      "longitude": -62.994444,
+      "country": "Brazil",
+      "state": "Amazonas"
+    },
+    {
+      "latitude": -7.546944,
+      "longitude": -62.968333,
+      "country": "Brazil",
+      "state": "Amazonas"
+    },
+    {
+      "latitude": 32.505913,
+      "longitude": -114.780975,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": 18.913117,
+      "longitude": -104.062742,
+      "country": "Mexico",
+      "state": "Colima"
+    },
+    {
+      "latitude": 32.505947,
+      "longitude": -114.780992,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -21.784794,
+      "longitude": -43.378047,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": -21.784722,
+      "longitude": -43.378056,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": 17.201661,
+      "longitude": -25.094511,
+      "country": "Cabo Verde",
+      "state": "Ribeira Grande"
+    },
+    {
+      "latitude": 18.872988,
+      "longitude": -97.063117,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 18.21062,
+      "longitude": -67.14325,
+      "country": "Puerto Rico",
+      "state": "Mayag\u00fcez"
+    },
+    {
+      "latitude": -23.524892,
+      "longitude": -46.694096,
+      "country": "Brazil",
+      "state": "S\u00e3o Paulo"
+    },
+    {
+      "latitude": -27.597778,
+      "longitude": -48.5175,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": -37.059455,
+      "longitude": 174.960555,
+      "country": "New Zealand",
+      "state": "Auckland"
+    },
+    {
+      "latitude": 18.896525,
+      "longitude": -96.968506,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 1.334592,
+      "longitude": 103.766693,
+      "country": "Singapore",
+      "state": "Central"
+    },
+    {
+      "latitude": 20.956104,
+      "longitude": -97.406335,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 18.85164,
+      "longitude": -98.955355,
+      "country": "Mexico",
+      "state": "Morelos"
+    },
+    {
+      "latitude": 20.959186,
+      "longitude": -97.455369,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 20.708889,
+      "longitude": -103.364722,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": -13.010833,
+      "longitude": 13.0,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 13.791092,
+      "longitude": 100.320122,
+      "country": "Thailand",
+      "state": "Nakhon Pathom"
+    },
+    {
+      "latitude": 18.789295,
+      "longitude": 98.975363,
+      "country": "Thailand",
+      "state": "Chiang Mai"
+    },
+    {
+      "latitude": -15.447222,
+      "longitude": -39.688056,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 20.957403,
+      "longitude": -97.454061,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 13.552293,
+      "longitude": 100.286022,
+      "country": "Thailand",
+      "state": "Samut Sakhon"
+    },
+    {
+      "latitude": 18.883891,
+      "longitude": -96.923775,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 21.92732,
+      "longitude": -102.31703,
+      "country": "Mexico",
+      "state": "Aguascalientes"
+    },
+    {
+      "latitude": 17.991106,
+      "longitude": -93.369515,
+      "country": "Mexico",
+      "state": "Tabasco"
+    },
+    {
+      "latitude": -25.37615,
+      "longitude": -49.251545,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": 25.658781,
+      "longitude": -100.44304,
+      "country": "Mexico",
+      "state": "Nuevo Le\u00f3n"
+    },
+    {
+      "latitude": 13.846937,
+      "longitude": 100.676376,
+      "country": "Thailand",
+      "state": "Bangkok Metropolis"
+    },
+    {
+      "latitude": -15.636972,
+      "longitude": -55.837861,
+      "country": "Brazil",
+      "state": "Mato Grosso"
+    },
+    {
+      "latitude": 17.458603,
+      "longitude": 78.563181,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 24.413637,
+      "longitude": -106.691537,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 23.189859,
+      "longitude": -106.217714,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 23.86945,
+      "longitude": -106.849698,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -12.133333,
+      "longitude": -38.416667,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -12.146389,
+      "longitude": -38.931944,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 15.731928,
+      "longitude": 79.228256,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 14.894349,
+      "longitude": 100.404222,
+      "country": "Thailand",
+      "state": "Sing Buri"
+    },
+    {
+      "latitude": 30.265345,
+      "longitude": 71.506967,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.20113,
+      "longitude": 6.11068,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.20113,
+      "longitude": 6.11068,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.37317,
+      "longitude": 8.53098,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.20113,
+      "longitude": 6.11068,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.20035,
+      "longitude": 6.04591,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 36.928899,
+      "longitude": -3.212707,
+      "country": "Spain",
+      "state": "Granada"
+    },
+    {
+      "latitude": 36.931383,
+      "longitude": -3.253759,
+      "country": "Spain",
+      "state": "Granada"
+    },
+    {
+      "latitude": 36.931383,
+      "longitude": -3.253759,
+      "country": "Spain",
+      "state": "Granada"
+    },
+    {
+      "latitude": -1.896667,
+      "longitude": -50.207778,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": 47.41875,
+      "longitude": 8.46565,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.01883,
+      "longitude": 8.95589,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 47.37378,
+      "longitude": 8.46478,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 20.707051,
+      "longitude": -103.360173,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": 21.818411,
+      "longitude": 83.307281,
+      "country": "India",
+      "state": "Chhattisgarh"
+    },
+    {
+      "latitude": 58.358301,
+      "longitude": 26.70947,
+      "country": "Estonia",
+      "state": null
+    },
+    {
+      "latitude": 58.363305,
+      "longitude": 26.711088,
+      "country": "Estonia",
+      "state": null
+    },
+    {
+      "latitude": -28.705278,
+      "longitude": -49.412778,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": -8.666667,
+      "longitude": -37.883333,
+      "country": "Brazil",
+      "state": "Pernambuco"
+    },
+    {
+      "latitude": 49.790554,
+      "longitude": 22.813017,
+      "country": "Poland",
+      "state": null
+    },
+    {
+      "latitude": 52.138467,
+      "longitude": -106.554345,
+      "country": "Canada",
+      "state": "Saskatchewan"
+    },
+    {
+      "latitude": 57.32176,
+      "longitude": 12.17421,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 55.86337,
+      "longitude": 14.23989,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 21.897423,
+      "longitude": 101.262207,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": -3.242237,
+      "longitude": -79.94255,
+      "country": "Ecuador",
+      "state": "El Oro"
+    },
+    {
+      "latitude": 36.753925,
+      "longitude": -2.797612,
+      "country": "Spain",
+      "state": "Andaluc\u00eda"
+    },
+    {
+      "latitude": 19.59245,
+      "longitude": -99.054383,
+      "country": "Mexico",
+      "state": "M\u00e9xico"
+    },
+    {
+      "latitude": -21.481664,
+      "longitude": -43.501623,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": 18.758346,
+      "longitude": -96.932926,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": -13.016667,
+      "longitude": -39.666667,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -13.016667,
+      "longitude": -39.666667,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 48.939999,
+      "longitude": 12.058,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": -23.573099,
+      "longitude": -46.717114,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 38.538307,
+      "longitude": -9.020438,
+      "country": "Portugal",
+      "state": "Set\u00fabal"
+    },
+    {
+      "latitude": 48.894062,
+      "longitude": 9.195464,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 18.371018,
+      "longitude": -100.679417,
+      "country": "Mexico",
+      "state": "Guerrero"
+    },
+    {
+      "latitude": 19.80921,
+      "longitude": -99.045779,
+      "country": "Mexico",
+      "state": "M\u00e9xico"
+    },
+    {
+      "latitude": 23.1568,
+      "longitude": 72.65306,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.15392,
+      "longitude": 72.66355,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.17168,
+      "longitude": 72.64655,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.19639,
+      "longitude": 72.64115,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.09706,
+      "longitude": 72.60107,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.15392,
+      "longitude": 72.66355,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.15571,
+      "longitude": 72.66821,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.1625,
+      "longitude": 72.64845,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.19183,
+      "longitude": 72.63944,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.11651,
+      "longitude": 72.61184,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.15767,
+      "longitude": 72.65143,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.15784,
+      "longitude": 72.64881,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.15422,
+      "longitude": 72.64501,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.20993,
+      "longitude": 72.64861,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 21.12999,
+      "longitude": 72.79985,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 21.23031,
+      "longitude": 72.89954,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": -22.870833,
+      "longitude": -43.335833,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": 44.28184,
+      "longitude": 51.00417,
+      "country": "Kazakhstan",
+      "state": "\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 44.28184,
+      "longitude": 51.00417,
+      "country": "Kazakhstan",
+      "state": "\u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+      "latitude": 50.856419,
+      "longitude": 6.156889,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 36.746037,
+      "longitude": 26.966396,
+      "country": "Greece",
+      "state": null
+    },
+    {
+      "latitude": 48.605882,
+      "longitude": 35.272502,
+      "country": "Ukraine",
+      "state": null
+    },
+    {
+      "latitude": 24.419008,
+      "longitude": -106.689392,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 19.058642,
+      "longitude": -98.227263,
+      "country": "Mexico",
+      "state": "Puebla"
+    },
+    {
+      "latitude": 19.114325,
+      "longitude": -104.331047,
+      "country": "Mexico",
+      "state": "Colima"
+    },
+    {
+      "latitude": 35.404512,
+      "longitude": 45.260181,
+      "country": "Iraq",
+      "state": "As-Sulaymaniyah"
+    },
+    {
+      "latitude": 12.694018,
+      "longitude": 80.220713,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 32.35245,
+      "longitude": -97.353242,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 42.83229,
+      "longitude": -1.663849,
+      "country": "Spain",
+      "state": "Navarra"
+    },
+    {
+      "latitude": -7.919722,
+      "longitude": -34.843333,
+      "country": "Brazil",
+      "state": "Pernambuco"
+    },
+    {
+      "latitude": 23.819159,
+      "longitude": -106.880153,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -25.437907,
+      "longitude": -49.349154,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": 17.368805,
+      "longitude": 78.412211,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 20.848101,
+      "longitude": -102.783978,
+      "country": "Mexico",
+      "state": "Jalisco"
+    },
+    {
+      "latitude": -21.240833,
+      "longitude": -48.304722,
+      "country": "Brazil",
+      "state": "S\u00e3o Paulo"
+    },
+    {
+      "latitude": -26.0,
+      "longitude": -48.0,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": 22.783303,
+      "longitude": 5.549086,
+      "country": "Algeria",
+      "state": "Tamanghasset"
+    },
+    {
+      "latitude": 19.95904,
+      "longitude": 2.970195,
+      "country": "Algeria",
+      "state": "Tamanghasset"
+    },
+    {
+      "latitude": 25.960758,
+      "longitude": -100.291,
+      "country": "Mexico",
+      "state": "Nuevo Le\u00f3n"
+    },
+    {
+      "latitude": 30.462887,
+      "longitude": 47.804092,
+      "country": "Iraq",
+      "state": "Al-Basrah"
+    },
+    {
+      "latitude": 23.079453,
+      "longitude": -109.677238,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 36.990346,
+      "longitude": 30.719462,
+      "country": "T\u00fcrkiye",
+      "state": "Antalya"
+    },
+    {
+      "latitude": 16.363633,
+      "longitude": 102.1324,
+      "country": "Thailand",
+      "state": "Chaiyaphum"
+    },
+    {
+      "latitude": 28.052968,
+      "longitude": 34.43406,
+      "country": "Egypt",
+      "state": "Janub Sina'"
+    },
+    {
+      "latitude": -39.916379,
+      "longitude": 174.790933,
+      "country": "New Zealand",
+      "state": "Wellington Land District"
+    },
+    {
+      "latitude": -0.03707,
+      "longitude": 98.259178,
+      "country": "Indonesia",
+      "state": null
+    },
+    {
+      "latitude": 6.667051,
+      "longitude": 79.927403,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": -23.196066,
+      "longitude": -47.298705,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -17.832227,
+      "longitude": 30.952435,
+      "country": "Zimbabwe",
+      "state": null
+    },
+    {
+      "latitude": -0.853056,
+      "longitude": -48.523611,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": -12.970278,
+      "longitude": -38.5,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -1.774444,
+      "longitude": -47.441389,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": -1.774444,
+      "longitude": -47.441389,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": -12.970278,
+      "longitude": -38.5,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -23.497068,
+      "longitude": -46.595985,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -4.379275,
+      "longitude": -43.447953,
+      "country": "Brazil",
+      "state": "Maranh\u00e3o"
+    },
+    {
+      "latitude": -17.035198,
+      "longitude": -39.532271,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 17.443495,
+      "longitude": 121.522191,
+      "country": "Philippines",
+      "state": null
+    },
+    {
+      "latitude": -16.353803,
+      "longitude": 145.413892,
+      "country": "Australia",
+      "state": null
+    },
+    {
+      "latitude": 1.876212,
+      "longitude": 102.978073,
+      "country": "Malaysia",
+      "state": "Johor"
+    },
+    {
+      "latitude": -18.504167,
+      "longitude": -52.241944,
+      "country": "Brazil",
+      "state": "Goi\u00e1s"
+    },
+    {
+      "latitude": -22.427728,
+      "longitude": -43.239913,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -0.713056,
+      "longitude": -48.525,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": -18.504167,
+      "longitude": -52.241944,
+      "country": "Brazil",
+      "state": "Goi\u00e1s"
+    },
+    {
+      "latitude": 15.89713,
+      "longitude": -96.938439,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 17.7,
+      "longitude": -96.43,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 17.76,
+      "longitude": -96.55,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 17.75,
+      "longitude": -96.55,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 23.458438,
+      "longitude": -110.242547,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": -41.32062,
+      "longitude": 174.802561,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 10.9783,
+      "longitude": -74.77584,
+      "country": "Colombia",
+      "state": "Atl\u00e1ntico"
+    },
+    {
+      "latitude": 28.056024,
+      "longitude": -16.621989,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 36.961249,
+      "longitude": -3.360224,
+      "country": "Spain",
+      "state": "Granada"
+    },
+    {
+      "latitude": -7.229444,
+      "longitude": -39.408889,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": 23.256097,
+      "longitude": -106.406853,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": -19.565811,
+      "longitude": -40.045157,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -8.80778,
+      "longitude": 13.218103,
+      "country": "Angola",
+      "state": null
+    },
+    {
+      "latitude": 14.61152,
+      "longitude": -61.056012,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 20.341154,
+      "longitude": -102.03614,
+      "country": "Mexico",
+      "state": null
+    },
+    {
+      "latitude": -8.036944,
+      "longitude": -34.986111,
+      "country": "Brazil",
+      "state": "Pernambuco"
+    },
+    {
+      "latitude": 27.8965,
+      "longitude": 74.625862,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 17.84,
+      "longitude": -96.56,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 4.916776,
+      "longitude": -74.018997,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": -18.770975,
+      "longitude": -42.925695,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 24.411353,
+      "longitude": -106.697983,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 18.803319,
+      "longitude": -97.184549,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 3.120577,
+      "longitude": 101.628532,
+      "country": "Malaysia",
+      "state": "Kuala Lumpur"
+    },
+    {
+      "latitude": 41.526097,
+      "longitude": -87.920829,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 41.980832,
+      "longitude": -87.767624,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 18.284962,
+      "longitude": -66.761688,
+      "country": "Puerto Rico",
+      "state": null
+    },
+    {
+      "latitude": 38.767442,
+      "longitude": -88.509504,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 14.31,
+      "longitude": -16.845833,
+      "country": "Senegal",
+      "state": null
+    },
+    {
+      "latitude": -0.720556,
+      "longitude": -48.524167,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": 55.58203,
+      "longitude": 13.01731,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 28.545763,
+      "longitude": 77.460645,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 4.62542,
+      "longitude": -75.636352,
+      "country": "Colombia",
+      "state": null
+    },
+    {
+      "latitude": 16.27097,
+      "longitude": -61.497875,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": 22.527352,
+      "longitude": 88.361882,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 22.527088,
+      "longitude": 88.363215,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 22.526677,
+      "longitude": 88.362673,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": -14.035278,
+      "longitude": -47.275833,
+      "country": "Brazil",
+      "state": "Goi\u00e1s"
+    },
+    {
+      "latitude": -14.035278,
+      "longitude": -47.275833,
+      "country": "Brazil",
+      "state": "Goi\u00e1s"
+    },
+    {
+      "latitude": 23.280255,
+      "longitude": 121.270597,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 23.156334,
+      "longitude": 121.195324,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 51.281731,
+      "longitude": 6.377478,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": -23.34435,
+      "longitude": -46.824952,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 16.747483,
+      "longitude": -62.226056,
+      "country": "Montserrat",
+      "state": "Saint Peter"
+    },
+    {
+      "latitude": 36.894333,
+      "longitude": 27.288103,
+      "country": "Greece",
+      "state": null
+    },
+    {
+      "latitude": 41.640257,
+      "longitude": -88.459093,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 47.927583,
+      "longitude": 25.666348,
+      "country": "Romania",
+      "state": null
+    },
+    {
+      "latitude": 38.026864,
+      "longitude": -88.984282,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": -1.513299,
+      "longitude": 36.947958,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 55.7408,
+      "longitude": 37.651779,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 52.95,
+      "longitude": 6.7,
+      "country": "Netherlands",
+      "state": "Drenthe"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 36.256697,
+      "longitude": 28.16509,
+      "country": "Greece",
+      "state": null
+    },
+    {
+      "latitude": 39.218887,
+      "longitude": 25.860548,
+      "country": "Greece",
+      "state": null
+    }
+  ],
+  "scientific_name": "Ocimum basilicum",
+  "common_name": "Sweet basil",
+  "description": null
+}

@@ -1,0 +1,26 @@
+{
+  "herb": "Nardostachys jatamansi",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "ArunachalPradesh": {
+      "count": 3,
+      "normalizedScore": 0.6,
+      "presence": "Medium"
+    },
+    "Uttarakhand": {
+      "count": 5,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Sikkim": {
+      "count": 1,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    },
+    "UttarPradesh": {
+      "count": 2,
+      "normalizedScore": 0.4,
+      "presence": "Low"
+    }
+  }
+}

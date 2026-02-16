@@ -1,0 +1,3008 @@
+{
+  "herb": "Bacopa monnieri",
+  "locations": [
+    {
+      "latitude": 22.203141,
+      "longitude": -159.497281,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 26.697589,
+      "longitude": -82.038967,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.065717,
+      "longitude": -80.393228,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.934973,
+      "longitude": 153.351448,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.673035,
+      "longitude": -97.351543,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.124323,
+      "longitude": -97.866655,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.380237,
+      "longitude": -98.490997,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.787405,
+      "longitude": -82.401847,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.067808,
+      "longitude": -80.393355,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 14.449842,
+      "longitude": -60.883686,
+      "country": "Martinique",
+      "state": "Le Marin"
+    },
+    {
+      "latitude": 27.205528,
+      "longitude": -80.72162,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.253538,
+      "longitude": -80.371545,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.986008,
+      "longitude": -82.470512,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -31.928345,
+      "longitude": 115.806843,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 29.88618,
+      "longitude": -97.937695,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -25.291159,
+      "longitude": 152.889365,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.26694,
+      "longitude": -157.818754,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 26.096325,
+      "longitude": -80.258245,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 9.81086,
+      "longitude": 76.297327,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 28.124519,
+      "longitude": -97.866297,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.637314,
+      "longitude": -96.614514,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.691562,
+      "longitude": -80.714662,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.673049,
+      "longitude": -97.351531,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -34.404853,
+      "longitude": -53.777501,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": 26.515485,
+      "longitude": -82.090145,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -31.928305,
+      "longitude": 115.806838,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 21.403517,
+      "longitude": -157.755488,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -32.059694,
+      "longitude": 115.812622,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -17.09608,
+      "longitude": -71.9115,
+      "country": "Peru",
+      "state": "Arequipa"
+    },
+    {
+      "latitude": 26.448333,
+      "longitude": -81.837212,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -31.892172,
+      "longitude": 115.810528,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 21.256092,
+      "longitude": -157.80507,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -31.926912,
+      "longitude": 115.809997,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -31.926033,
+      "longitude": 115.813171,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -35.08023,
+      "longitude": -59.889738,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -26.828013,
+      "longitude": -48.620258,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": 27.41466,
+      "longitude": -82.658067,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -31.816867,
+      "longitude": 115.815117,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 27.320767,
+      "longitude": -82.585041,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.304757,
+      "longitude": -96.805384,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -31.927483,
+      "longitude": 115.812203,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 33.725094,
+      "longitude": -117.939277,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -35.031548,
+      "longitude": -57.816607,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -34.295605,
+      "longitude": -58.588852,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": -26.903033,
+      "longitude": -48.657337,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": 27.83513,
+      "longitude": -97.072865,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.023684,
+      "longitude": -84.416824,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.094464,
+      "longitude": -80.972231,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.3661,
+      "longitude": -80.2479,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.249697,
+      "longitude": -80.372262,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 20.911598,
+      "longitude": -156.490307,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 32.374853,
+      "longitude": -97.668245,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.923187,
+      "longitude": -82.337242,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 32.386362,
+      "longitude": -97.65082,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.360042,
+      "longitude": -80.338312,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -34.55677,
+      "longitude": -58.434172,
+      "country": "Argentina",
+      "state": "Ciudad de Buenos Aires"
+    },
+    {
+      "latitude": 29.883237,
+      "longitude": -97.934862,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.139151,
+      "longitude": -97.173567,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -27.302374,
+      "longitude": 153.023892,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.908258,
+      "longitude": -82.070087,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.481763,
+      "longitude": 152.0899,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.495419,
+      "longitude": -82.685161,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 19.621145,
+      "longitude": -154.945325,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.267452,
+      "longitude": -157.819087,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 26.554451,
+      "longitude": -81.557507,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -34.558106,
+      "longitude": -58.433473,
+      "country": "Argentina",
+      "state": "Ciudad de Buenos Aires"
+    },
+    {
+      "latitude": 27.415995,
+      "longitude": -80.27485,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.548124,
+      "longitude": -81.599656,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.361153,
+      "longitude": -158.035923,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 25.17513,
+      "longitude": 121.464926,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 23.661523,
+      "longitude": 120.502956,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 18.708827,
+      "longitude": -68.455115,
+      "country": "Dominican Republic",
+      "state": "La Altagracia"
+    },
+    {
+      "latitude": -32.277572,
+      "longitude": -58.323758,
+      "country": "Argentina",
+      "state": "Entre R\u00edos"
+    },
+    {
+      "latitude": -32.747533,
+      "longitude": 152.167855,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -22.098676,
+      "longitude": -63.73163,
+      "country": "Argentina",
+      "state": "Salta"
+    },
+    {
+      "latitude": 27.500833,
+      "longitude": -82.676565,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -31.927142,
+      "longitude": 115.811722,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 32.840548,
+      "longitude": 35.52151,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.872384,
+      "longitude": 35.55309,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 18.542329,
+      "longitude": -66.309371,
+      "country": "Puerto Rico",
+      "state": "Dorado"
+    },
+    {
+      "latitude": 18.467494,
+      "longitude": -66.110993,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 18.471228,
+      "longitude": -66.124456,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": -34.170059,
+      "longitude": -53.696081,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": -32.955311,
+      "longitude": -60.796231,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": -27.32233,
+      "longitude": -70.849689,
+      "country": "Chile",
+      "state": "Atacama"
+    },
+    {
+      "latitude": 21.403039,
+      "longitude": -157.756006,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 27.346972,
+      "longitude": -80.410705,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.759138,
+      "longitude": -81.399157,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.369066,
+      "longitude": 153.036204,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.861961,
+      "longitude": -110.174864,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 26.057326,
+      "longitude": -80.139642,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.716492,
+      "longitude": -82.687942,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -35.577654,
+      "longitude": -58.013646,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": 27.265203,
+      "longitude": -80.306275,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.212322,
+      "longitude": 153.065594,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 13.730398,
+      "longitude": 100.54464,
+      "country": "Thailand",
+      "state": "Bangkok Metropolis"
+    },
+    {
+      "latitude": 27.155717,
+      "longitude": -80.216628,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.30925,
+      "longitude": -80.274222,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.501122,
+      "longitude": -82.487013,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.304725,
+      "longitude": -96.805116,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.304733,
+      "longitude": -96.805111,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.352822,
+      "longitude": -81.829895,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.298212,
+      "longitude": -80.2192,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -31.92813,
+      "longitude": 115.80645,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 27.426334,
+      "longitude": -80.407746,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.493337,
+      "longitude": -81.972024,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.322157,
+      "longitude": -70.848988,
+      "country": "Chile",
+      "state": "Atacama"
+    },
+    {
+      "latitude": -38.056153,
+      "longitude": -57.537492,
+      "country": "Argentina",
+      "state": "Buenos Aires"
+    },
+    {
+      "latitude": 18.283043,
+      "longitude": -78.315935,
+      "country": "Jamaica",
+      "state": "Westmoreland"
+    },
+    {
+      "latitude": 27.239483,
+      "longitude": -80.51487,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -32.952102,
+      "longitude": -60.791056,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": -32.953035,
+      "longitude": -60.7936,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": 26.462162,
+      "longitude": -81.771838,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -33.83903,
+      "longitude": -53.446174,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": 27.257903,
+      "longitude": -80.37085,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.33933,
+      "longitude": -81.86766,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -33.959787,
+      "longitude": -53.504064,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": 28.773759,
+      "longitude": -82.628531,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -34.559248,
+      "longitude": -58.43292,
+      "country": "Argentina",
+      "state": "Ciudad de Buenos Aires"
+    },
+    {
+      "latitude": -31.926905,
+      "longitude": 115.81002,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -27.558902,
+      "longitude": 152.676336,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 28.922933,
+      "longitude": -82.650731,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.173499,
+      "longitude": -97.685527,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.029277,
+      "longitude": -81.397162,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.373596,
+      "longitude": -80.666351,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -28.535661,
+      "longitude": -57.176524,
+      "country": "Argentina",
+      "state": "Corrientes"
+    },
+    {
+      "latitude": -31.665911,
+      "longitude": -60.712554,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": -31.871741,
+      "longitude": 115.965038,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -31.929025,
+      "longitude": 115.805642,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 19.792569,
+      "longitude": -156.025372,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -31.926662,
+      "longitude": 115.920988,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 12.385022,
+      "longitude": 54.01563,
+      "country": "Yemen",
+      "state": "Hadramawt"
+    },
+    {
+      "latitude": 26.024593,
+      "longitude": -81.710667,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.256358,
+      "longitude": -80.258675,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.987642,
+      "longitude": 153.34221,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -31.861352,
+      "longitude": 115.931801,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 29.097195,
+      "longitude": -80.973412,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.935183,
+      "longitude": -80.163125,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.552595,
+      "longitude": -80.853478,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 12.590607,
+      "longitude": 54.051552,
+      "country": "Yemen",
+      "state": "Hadramawt"
+    },
+    {
+      "latitude": 18.394508,
+      "longitude": -66.063058,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": -30.097786,
+      "longitude": -50.187487,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": 21.510487,
+      "longitude": -157.837953,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -28.175223,
+      "longitude": -65.526745,
+      "country": "Argentina",
+      "state": "Catamarca"
+    },
+    {
+      "latitude": 20.203789,
+      "longitude": -155.731842,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -34.405564,
+      "longitude": -53.779294,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": 28.596633,
+      "longitude": -95.976313,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 12.539162,
+      "longitude": 53.99667,
+      "country": "Yemen",
+      "state": "Hadramawt"
+    },
+    {
+      "latitude": 29.120295,
+      "longitude": -81.383848,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.140319,
+      "longitude": -97.176431,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.443494,
+      "longitude": -81.83711,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.714397,
+      "longitude": -68.461371,
+      "country": "Dominican Republic",
+      "state": null
+    },
+    {
+      "latitude": 18.606404,
+      "longitude": 73.873699,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -33.703655,
+      "longitude": -65.466676,
+      "country": "Argentina",
+      "state": "San Luis"
+    },
+    {
+      "latitude": -25.021367,
+      "longitude": 46.991197,
+      "country": "Madagascar",
+      "state": "Toliary"
+    },
+    {
+      "latitude": -29.343925,
+      "longitude": -67.735447,
+      "country": "Argentina",
+      "state": "La Rioja"
+    },
+    {
+      "latitude": -34.742011,
+      "longitude": -55.70345,
+      "country": "Uruguay",
+      "state": "Canelones"
+    },
+    {
+      "latitude": -27.07,
+      "longitude": 153.132778,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.421258,
+      "longitude": 153.096283,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.127742,
+      "longitude": -80.17612,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -32.542219,
+      "longitude": 152.309497,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 26.127742,
+      "longitude": -80.17612,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.139824,
+      "longitude": -80.925626,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.925755,
+      "longitude": -82.321525,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.327645,
+      "longitude": -80.230592,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.702308,
+      "longitude": -80.038947,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.004214,
+      "longitude": -80.885178,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -32.186086,
+      "longitude": -64.298486,
+      "country": "Argentina",
+      "state": "C\u00f3rdoba"
+    },
+    {
+      "latitude": 33.667917,
+      "longitude": -117.941421,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 26.162161,
+      "longitude": -81.784219,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.695093,
+      "longitude": -48.562924,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": 22.610198,
+      "longitude": 120.607296,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.182708,
+      "longitude": -81.247347,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.941813,
+      "longitude": -81.469763,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.172554,
+      "longitude": -97.696539,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.060121,
+      "longitude": -82.260008,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.654211,
+      "longitude": -80.943204,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.054668,
+      "longitude": -82.817772,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -29.111947,
+      "longitude": -59.728919,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": 27.654556,
+      "longitude": -80.942816,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -34.347922,
+      "longitude": -53.779472,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": -32.020611,
+      "longitude": 115.930503,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 27.325672,
+      "longitude": -82.588394,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.117395,
+      "longitude": -81.521788,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -32.395183,
+      "longitude": 152.439209,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 27.269088,
+      "longitude": -80.421333,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.889733,
+      "longitude": -159.503964,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 23.605034,
+      "longitude": -109.594479,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 18.471312,
+      "longitude": -66.124017,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 25.282528,
+      "longitude": -80.79987,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.466622,
+      "longitude": -66.114311,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 28.910753,
+      "longitude": -80.818,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -32.471525,
+      "longitude": 152.327075,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 21.281764,
+      "longitude": -157.833153,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.274447,
+      "longitude": -157.824355,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 18.726278,
+      "longitude": -68.472015,
+      "country": "Dominican Republic",
+      "state": "La Altagracia"
+    },
+    {
+      "latitude": 26.171072,
+      "longitude": -97.706273,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 18.471436,
+      "longitude": -66.124351,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 20.61345,
+      "longitude": 79.865656,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 27.378462,
+      "longitude": -80.331292,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.253558,
+      "longitude": -80.797775,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.486492,
+      "longitude": -80.159247,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -27.741475,
+      "longitude": 152.992662,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.158242,
+      "longitude": -97.715601,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.224192,
+      "longitude": -81.102608,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.29407,
+      "longitude": -80.296587,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 23.053521,
+      "longitude": -109.690039,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 26.777867,
+      "longitude": -80.123542,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.351024,
+      "longitude": -81.205174,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.279936,
+      "longitude": -157.830203,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 28.351013,
+      "longitude": -80.687988,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -25.556968,
+      "longitude": 152.687731,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -32.007531,
+      "longitude": 115.862672,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 28.331725,
+      "longitude": -80.611572,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.849694,
+      "longitude": -82.603142,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.294266,
+      "longitude": -157.827426,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 27.711242,
+      "longitude": -82.690047,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.848332,
+      "longitude": -82.6058,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.711205,
+      "longitude": -82.690025,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.850398,
+      "longitude": -82.603772,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.737158,
+      "longitude": -82.066422,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.207788,
+      "longitude": -82.50335,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 19.693148,
+      "longitude": -156.042448,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -25.514631,
+      "longitude": 152.717811,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.87061,
+      "longitude": -82.030645,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -32.477478,
+      "longitude": 152.286036,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 26.737177,
+      "longitude": -82.260475,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.870017,
+      "longitude": -81.938728,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.29953,
+      "longitude": -80.272597,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 19.730312,
+      "longitude": -156.02677,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 29.205647,
+      "longitude": -83.063889,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.692958,
+      "longitude": -80.715642,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.2771,
+      "longitude": -80.208192,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.275787,
+      "longitude": -80.206908,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.161628,
+      "longitude": -80.35827,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 23.102518,
+      "longitude": 120.27205,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 18.6605,
+      "longitude": -68.393906,
+      "country": "Dominican Republic",
+      "state": "La Altagracia"
+    },
+    {
+      "latitude": 27.42132,
+      "longitude": -80.318383,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.72555,
+      "longitude": -68.462713,
+      "country": "Dominican Republic",
+      "state": "La Altagracia"
+    },
+    {
+      "latitude": 27.138148,
+      "longitude": -82.391122,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -6.721958,
+      "longitude": -79.96057,
+      "country": "Peru",
+      "state": "Lambayeque"
+    },
+    {
+      "latitude": 18.428762,
+      "longitude": -66.136786,
+      "country": "Puerto Rico",
+      "state": "Cata\u00f1o"
+    },
+    {
+      "latitude": 30.339588,
+      "longitude": -98.253566,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -27.695,
+      "longitude": -48.564444,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": 26.291824,
+      "longitude": -98.135082,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.286324,
+      "longitude": -98.156524,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.138533,
+      "longitude": -97.175354,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 24.895459,
+      "longitude": 121.135987,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.946034,
+      "longitude": -110.169901,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 22.764103,
+      "longitude": 121.166253,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 18.471558,
+      "longitude": -66.124017,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": -22.930556,
+      "longitude": -42.585,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": 28.039138,
+      "longitude": -97.063977,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -34.293381,
+      "longitude": -53.787686,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": -34.29338,
+      "longitude": -53.78767,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": 26.1735,
+      "longitude": -97.701002,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -34.293382,
+      "longitude": -53.787678,
+      "country": "Uruguay",
+      "state": "Rocha"
+    },
+    {
+      "latitude": 26.173605,
+      "longitude": -97.700949,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 16.277356,
+      "longitude": -61.690689,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": 27.793908,
+      "longitude": -80.543633,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.258449,
+      "longitude": -89.953215,
+      "country": "United States of America",
+      "state": "Louisiana"
+    },
+    {
+      "latitude": 26.486573,
+      "longitude": -80.159237,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.261353,
+      "longitude": -80.336472,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.983848,
+      "longitude": -82.131868,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.946008,
+      "longitude": -81.662367,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 19.726239,
+      "longitude": -155.068591,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 25.975012,
+      "longitude": -80.247763,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.945322,
+      "longitude": -80.091522,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 24.663578,
+      "longitude": -81.53344,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.709877,
+      "longitude": -82.687648,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.737075,
+      "longitude": -82.260489,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 12.589123,
+      "longitude": 54.052304,
+      "country": "Yemen",
+      "state": "Hadramawt"
+    },
+    {
+      "latitude": 28.637032,
+      "longitude": -82.357452,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.695315,
+      "longitude": -80.715841,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.311903,
+      "longitude": -80.282722,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -34.913407,
+      "longitude": -54.882129,
+      "country": "Uruguay",
+      "state": "Maldonado"
+    },
+    {
+      "latitude": 26.474214,
+      "longitude": -81.899547,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.471291,
+      "longitude": -66.123875,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 26.16018,
+      "longitude": -81.350478,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.446001,
+      "longitude": -81.836899,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 19.693064,
+      "longitude": -156.042502,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 28.393973,
+      "longitude": -80.618681,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.26992,
+      "longitude": -81.07138,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.268414,
+      "longitude": -82.561056,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.252389,
+      "longitude": -105.494276,
+      "country": "Mexico",
+      "state": "Chihuahua"
+    },
+    {
+      "latitude": 29.71702,
+      "longitude": -98.112267,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.740206,
+      "longitude": -82.442541,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.471575,
+      "longitude": -66.124489,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 29.664137,
+      "longitude": -83.479167,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.88875,
+      "longitude": -80.111686,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.337165,
+      "longitude": -81.441148,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.186747,
+      "longitude": -83.038424,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.350325,
+      "longitude": -81.996782,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 16.077962,
+      "longitude": -61.620101,
+      "country": "Guadeloupe",
+      "state": "Basse-Terre"
+    },
+    {
+      "latitude": 27.268414,
+      "longitude": -82.561056,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.408872,
+      "longitude": -71.60975,
+      "country": "Dominican Republic",
+      "state": "Independencia"
+    },
+    {
+      "latitude": 27.210878,
+      "longitude": -80.325522,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.869176,
+      "longitude": -82.628756,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 16.076563,
+      "longitude": -61.619266,
+      "country": "Guadeloupe",
+      "state": "Basse-Terre"
+    },
+    {
+      "latitude": 28.878198,
+      "longitude": -82.614965,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.253422,
+      "longitude": -87.6603,
+      "country": "United States of America",
+      "state": "Alabama"
+    },
+    {
+      "latitude": 26.106873,
+      "longitude": -80.233102,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -31.826925,
+      "longitude": 115.985166,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 28.531272,
+      "longitude": -81.365355,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 32.443763,
+      "longitude": -97.77135,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.46547,
+      "longitude": -97.616664,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.0244,
+      "longitude": -81.710508,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.446537,
+      "longitude": -82.042617,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.755892,
+      "longitude": -80.766503,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.868436,
+      "longitude": -82.629487,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.022347,
+      "longitude": -80.954537,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.941031,
+      "longitude": -109.163292,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 25.941031,
+      "longitude": -109.163292,
+      "country": "Mexico",
+      "state": "Sinaloa"
+    },
+    {
+      "latitude": 25.755828,
+      "longitude": -80.766533,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 23.588939,
+      "longitude": -109.59614,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 23.588948,
+      "longitude": -109.596097,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 30.311163,
+      "longitude": -81.456283,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.93399,
+      "longitude": -95.309076,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.280305,
+      "longitude": -80.182097,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.600844,
+      "longitude": -80.403545,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.555888,
+      "longitude": -95.586588,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.934695,
+      "longitude": -95.307945,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 25.94135,
+      "longitude": -81.46751,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.798559,
+      "longitude": -95.53701,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.640682,
+      "longitude": -96.296385,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.001316,
+      "longitude": -90.093611,
+      "country": "United States of America",
+      "state": "Louisiana"
+    },
+    {
+      "latitude": 30.604638,
+      "longitude": -96.360595,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.389725,
+      "longitude": -80.113394,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.106883,
+      "longitude": -80.418113,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.812246,
+      "longitude": -95.405906,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 24.792613,
+      "longitude": 120.99469,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 26.809192,
+      "longitude": -80.169983,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.867036,
+      "longitude": -111.545364,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 22.112747,
+      "longitude": 113.572053,
+      "country": "Macao",
+      "state": "Ilhas"
+    },
+    {
+      "latitude": 25.979733,
+      "longitude": -81.416161,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.055655,
+      "longitude": -97.69013,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.618146,
+      "longitude": -96.303838,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.409859,
+      "longitude": -81.930463,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.247494,
+      "longitude": -97.699931,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.211745,
+      "longitude": -95.265412,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.148547,
+      "longitude": -95.564575,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.162214,
+      "longitude": -80.660597,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.866684,
+      "longitude": -111.545487,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 29.745923,
+      "longitude": -85.394242,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.202948,
+      "longitude": -95.689225,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 25.831633,
+      "longitude": -111.517595,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 25.033668,
+      "longitude": 121.580797,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 26.871727,
+      "longitude": -82.300221,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.108283,
+      "longitude": -82.770613,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 23.053083,
+      "longitude": -109.690335,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 35.89352,
+      "longitude": -75.63958,
+      "country": "United States of America",
+      "state": "North Carolina"
+    },
+    {
+      "latitude": 27.203971,
+      "longitude": -82.497161,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.594873,
+      "longitude": -97.589672,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.912511,
+      "longitude": -91.909141,
+      "country": "United States of America",
+      "state": "Louisiana"
+    },
+    {
+      "latitude": 31.581315,
+      "longitude": -97.148812,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.486109,
+      "longitude": -80.16114,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.432045,
+      "longitude": -88.654992,
+      "country": "United States of America",
+      "state": "Mississippi"
+    },
+    {
+      "latitude": 32.797205,
+      "longitude": -97.082577,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 33.774795,
+      "longitude": -117.85907,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 26.057286,
+      "longitude": -80.139572,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -34.912818,
+      "longitude": 138.579853,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 30.23308,
+      "longitude": -81.462098,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.591578,
+      "longitude": -97.578355,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.71657,
+      "longitude": -81.512142,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 22.200203,
+      "longitude": 113.551406,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 29.181218,
+      "longitude": -98.157376,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.304506,
+      "longitude": -81.627297,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 22.430649,
+      "longitude": 114.238053,
+      "country": "Hong Kong",
+      "state": "Sha Tin"
+    },
+    {
+      "latitude": 9.790589,
+      "longitude": 76.304532,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 29.554956,
+      "longitude": -95.586272,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.770305,
+      "longitude": -80.131042,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.254166,
+      "longitude": -89.95697,
+      "country": "United States of America",
+      "state": "Louisiana"
+    },
+    {
+      "latitude": 29.712535,
+      "longitude": -98.136767,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.212485,
+      "longitude": -94.9534,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.0129,
+      "longitude": -81.695695,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.48658,
+      "longitude": -80.15908,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 9.790742,
+      "longitude": 76.304557,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 25.975567,
+      "longitude": -80.212718,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.764942,
+      "longitude": -95.44506,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 20.974468,
+      "longitude": -89.656346,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": 24.473248,
+      "longitude": -111.026226,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 29.316733,
+      "longitude": -94.814558,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 23.809199,
+      "longitude": 120.271682,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.950225,
+      "longitude": -81.261038,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.855702,
+      "longitude": -111.550916,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 19.701694,
+      "longitude": -156.042702,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 30.225468,
+      "longitude": -85.877464,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.717308,
+      "longitude": -95.393662,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.0608,
+      "longitude": -95.255945,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 31.866783,
+      "longitude": -97.367892,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.606947,
+      "longitude": -94.55511,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 25.83148,
+      "longitude": -111.516806,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 20.94655,
+      "longitude": -89.578285,
+      "country": "Mexico",
+      "state": "Yucat\u00e1n"
+    },
+    {
+      "latitude": 28.570266,
+      "longitude": -80.989847,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.88578,
+      "longitude": -80.067287,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 22.15167,
+      "longitude": 113.5588,
+      "country": "Macao",
+      "state": "Ilhas"
+    },
+    {
+      "latitude": 9.790576,
+      "longitude": 76.304487,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 28.400505,
+      "longitude": -80.706884,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.867142,
+      "longitude": -111.545717,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 32.846844,
+      "longitude": -117.014125,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 24.473241,
+      "longitude": -111.026776,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 32.895294,
+      "longitude": 35.604705,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 32.895357,
+      "longitude": 35.604706,
+      "country": "Israel",
+      "state": null
+    },
+    {
+      "latitude": 30.304007,
+      "longitude": -97.623496,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.862431,
+      "longitude": -95.342231,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 30.287828,
+      "longitude": -81.418403,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.20123,
+      "longitude": -94.96,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.201228,
+      "longitude": -94.96,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.20115,
+      "longitude": -94.96,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.20115,
+      "longitude": -94.96,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.20123,
+      "longitude": -94.96,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 24.473375,
+      "longitude": -111.026549,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 25.032445,
+      "longitude": 121.580163,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.614507,
+      "longitude": 121.415454,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.895694,
+      "longitude": 121.13592,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 24.792611,
+      "longitude": 120.994807,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.972083,
+      "longitude": 120.223642,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 29.344797,
+      "longitude": -98.451708,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.341659,
+      "longitude": -98.882725,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 23.049545,
+      "longitude": -109.688063,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 25.87212,
+      "longitude": -111.546151,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 30.631028,
+      "longitude": -95.008571,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 23.5508,
+      "longitude": -109.81935,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 23.618208,
+      "longitude": -109.606824,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 25.94225,
+      "longitude": -111.534355,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 23.120042,
+      "longitude": -109.700272,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 23.90939,
+      "longitude": -110.206954,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 23.053776,
+      "longitude": -109.691427,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 22.980655,
+      "longitude": 120.210847,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.003026,
+      "longitude": 120.211281,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.972102,
+      "longitude": 120.223596,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 25.831881,
+      "longitude": -111.517867,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 27.753613,
+      "longitude": -80.400921,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.246783,
+      "longitude": -98.388645,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.834339,
+      "longitude": -97.072481,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.428128,
+      "longitude": -98.636052,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.305823,
+      "longitude": -96.80454,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.908374,
+      "longitude": -82.627202,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.815147,
+      "longitude": -81.484712,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -38.016125,
+      "longitude": 145.127031,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 24.68441,
+      "longitude": 121.752119,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 35.427324,
+      "longitude": -75.489816,
+      "country": "United States of America",
+      "state": "North Carolina"
+    },
+    {
+      "latitude": 28.602687,
+      "longitude": -81.200522,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.130956,
+      "longitude": -80.222705,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.525622,
+      "longitude": -69.85582,
+      "country": "Dominican Republic",
+      "state": "Santo Domingo"
+    },
+    {
+      "latitude": 18.826137,
+      "longitude": -68.602132,
+      "country": "Dominican Republic",
+      "state": "La Altagracia"
+    },
+    {
+      "latitude": -30.105475,
+      "longitude": 153.194587,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 27.273343,
+      "longitude": -82.404895,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.5264,
+      "longitude": -69.85824,
+      "country": "Dominican Republic",
+      "state": "Santo Domingo"
+    },
+    {
+      "latitude": 27.834831,
+      "longitude": -97.072552,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.414726,
+      "longitude": -82.657277,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -26.587381,
+      "longitude": 153.080247,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.714437,
+      "longitude": -82.688872,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.034957,
+      "longitude": -82.423454,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.792048,
+      "longitude": -97.399122,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.270539,
+      "longitude": -82.562555,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 36.028375,
+      "longitude": -75.68393,
+      "country": "United States of America",
+      "state": "North Carolina"
+    },
+    {
+      "latitude": 27.727554,
+      "longitude": -82.460085,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.772903,
+      "longitude": -80.11715,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 33.131471,
+      "longitude": 35.602113,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 21.405602,
+      "longitude": -157.81058,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 27.727728,
+      "longitude": -82.459684,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.853678,
+      "longitude": -82.607788,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.250603,
+      "longitude": -80.372428,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 26.766263,
+      "longitude": -80.117819,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.964717,
+      "longitude": -80.33535,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.21302,
+      "longitude": -80.294067,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.341368,
+      "longitude": -81.459158,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.036512,
+      "longitude": -82.423613,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 32.42875,
+      "longitude": -97.797037,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -27.380041,
+      "longitude": 153.021353,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.7283,
+      "longitude": -82.458778,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 27.727175,
+      "longitude": -82.46195,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 21.267177,
+      "longitude": -157.818498,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 29.459407,
+      "longitude": -98.225145,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 26.211917,
+      "longitude": -97.429826,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.852047,
+      "longitude": -82.606087,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.258002,
+      "longitude": -95.738212,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 29.587362,
+      "longitude": -95.691697,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.265158,
+      "longitude": -105.467256,
+      "country": "Mexico",
+      "state": "Chihuahua"
+    },
+    {
+      "latitude": 28.907592,
+      "longitude": -82.610978,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.46544,
+      "longitude": -97.616639,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 28.555573,
+      "longitude": -82.609236,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 28.684726,
+      "longitude": -81.328091,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.345314,
+      "longitude": -87.637553,
+      "country": "United States of America",
+      "state": "Alabama"
+    },
+    {
+      "latitude": 28.418158,
+      "longitude": -81.467445,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.368214,
+      "longitude": -97.785485,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 27.859754,
+      "longitude": -82.521733,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": -31.930738,
+      "longitude": 115.823525,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 18.441052,
+      "longitude": -66.08054,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 35.816506,
+      "longitude": -75.564575,
+      "country": "United States of America",
+      "state": "North Carolina"
+    },
+    {
+      "latitude": 30.390385,
+      "longitude": -88.443469,
+      "country": "United States of America",
+      "state": "Mississippi"
+    },
+    {
+      "latitude": 26.088463,
+      "longitude": -80.185997,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 30.370243,
+      "longitude": -87.405657,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 29.657356,
+      "longitude": -90.011185,
+      "country": "United States of America",
+      "state": "Louisiana"
+    },
+    {
+      "latitude": 32.443556,
+      "longitude": -80.526087,
+      "country": "United States of America",
+      "state": "South Carolina"
+    },
+    {
+      "latitude": 30.431478,
+      "longitude": -88.427247,
+      "country": "United States of America",
+      "state": "Mississippi"
+    },
+    {
+      "latitude": 23.619285,
+      "longitude": -109.611051,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    },
+    {
+      "latitude": 30.313091,
+      "longitude": -81.797456,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 23.054639,
+      "longitude": -109.690445,
+      "country": "Mexico",
+      "state": "Baja California Sur"
+    }
+  ],
+  "scientific_name": "Bacopa monnieri",
+  "common_name": "Herb-of-Grace",
+  "description": null
+}

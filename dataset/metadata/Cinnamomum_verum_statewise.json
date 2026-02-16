@@ -1,0 +1,21 @@
+{
+  "herb": "Cinnamomum verum",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Kerala": {
+      "count": 5,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Goa": {
+      "count": 1,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    },
+    "Maharashtra": {
+      "count": 1,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    }
+  }
+}

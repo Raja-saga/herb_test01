@@ -1,0 +1,21 @@
+{
+  "herb": "Picrorhiza kurroa",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "JammuandKashmir": {
+      "count": 2,
+      "normalizedScore": 0.4,
+      "presence": "Low"
+    },
+    "Uttarakhand": {
+      "count": 5,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "HimachalPradesh": {
+      "count": 2,
+      "normalizedScore": 0.4,
+      "presence": "Low"
+    }
+  }
+}

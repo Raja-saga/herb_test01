@@ -1,0 +1,76 @@
+{
+  "herb": "Operculina turpethum",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Maharashtra": {
+      "count": 39,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "WestBengal": {
+      "count": 14,
+      "normalizedScore": 0.36,
+      "presence": "Low"
+    },
+    "TamilNadu": {
+      "count": 5,
+      "normalizedScore": 0.13,
+      "presence": "Very Low"
+    },
+    "Odisha": {
+      "count": 4,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "Telangana": {
+      "count": 3,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    },
+    "Rajasthan": {
+      "count": 4,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "Kerala": {
+      "count": 4,
+      "normalizedScore": 0.1,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 5,
+      "normalizedScore": 0.13,
+      "presence": "Very Low"
+    },
+    "NCTofDelhi": {
+      "count": 1,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    },
+    "Uttarakhand": {
+      "count": 1,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 2,
+      "normalizedScore": 0.05,
+      "presence": "Very Low"
+    },
+    "AndamanandNicobar": {
+      "count": 1,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    },
+    "Assam": {
+      "count": 1,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    },
+    "Maharastra": {
+      "count": 1,
+      "normalizedScore": 0.03,
+      "presence": "Very Low"
+    }
+  }
+}

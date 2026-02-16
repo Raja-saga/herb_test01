@@ -1,0 +1,3008 @@
+{
+  "herb": "Centella asiatica",
+  "locations": [
+    {
+      "latitude": -27.590906,
+      "longitude": 153.362637,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -21.098856,
+      "longitude": 55.546981,
+      "country": "R\u00e9union",
+      "state": "Saint-Beno\u00eet"
+    },
+    {
+      "latitude": 13.408517,
+      "longitude": 144.70764,
+      "country": "Guam",
+      "state": "Guam"
+    },
+    {
+      "latitude": -27.133686,
+      "longitude": 152.866182,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.161843,
+      "longitude": 30.25394,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -27.590906,
+      "longitude": 153.362637,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 25.130864,
+      "longitude": 121.507431,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -34.439041,
+      "longitude": 149.411939,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 21.323962,
+      "longitude": -157.78889,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.384108,
+      "longitude": 114.271896,
+      "country": "Hong Kong",
+      "state": "Sai Kung"
+    },
+    {
+      "latitude": -35.35656,
+      "longitude": 150.474686,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 21.546389,
+      "longitude": -157.884064,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -28.581776,
+      "longitude": 153.262655,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 21.317149,
+      "longitude": -157.790127,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.63859,
+      "longitude": 120.345897,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -33.381185,
+      "longitude": 151.33284,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -30.359682,
+      "longitude": 153.079788,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -31.816825,
+      "longitude": 115.815003,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -25.367856,
+      "longitude": 152.787821,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.679465,
+      "longitude": 153.279929,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -8.310893,
+      "longitude": 115.199864,
+      "country": "Indonesia",
+      "state": "Bali"
+    },
+    {
+      "latitude": -33.762514,
+      "longitude": 151.106806,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 19.731572,
+      "longitude": 83.116703,
+      "country": "India",
+      "state": "Odisha"
+    },
+    {
+      "latitude": -16.820708,
+      "longitude": 145.634986,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -33.876213,
+      "longitude": 151.20308,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 25.015222,
+      "longitude": 121.319711,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -28.795772,
+      "longitude": 153.286959,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 23.730616,
+      "longitude": 120.639964,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 16.290046,
+      "longitude": 120.630966,
+      "country": "Philippines",
+      "state": "Benguet"
+    },
+    {
+      "latitude": -31.926883,
+      "longitude": 115.810097,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -26.96257,
+      "longitude": -48.62547,
+      "country": "Brazil",
+      "state": "Santa Catarina"
+    },
+    {
+      "latitude": -27.533706,
+      "longitude": 153.094139,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.795255,
+      "longitude": 153.286521,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -27.465975,
+      "longitude": 153.13869,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -34.361922,
+      "longitude": 19.12872,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -28.806127,
+      "longitude": 153.267991,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.805997,
+      "longitude": 153.268118,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -35.212484,
+      "longitude": 149.664151,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.362463,
+      "longitude": 19.130489,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 25.956219,
+      "longitude": 119.972388,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": -29.6251,
+      "longitude": 30.403463,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -34.362122,
+      "longitude": 19.132625,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 21.320525,
+      "longitude": -157.820678,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -34.698457,
+      "longitude": 138.920071,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -32.02156,
+      "longitude": 116.07445,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -27.483382,
+      "longitude": 153.18524,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.396367,
+      "longitude": -157.902051,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -28.627602,
+      "longitude": 153.578001,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -27.569445,
+      "longitude": 153.275427,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 31.846952,
+      "longitude": 117.161297,
+      "country": "China",
+      "state": "Anhui"
+    },
+    {
+      "latitude": 21.320415,
+      "longitude": -157.820664,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 23.766454,
+      "longitude": 120.457679,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -16.833158,
+      "longitude": 145.700594,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.766573,
+      "longitude": 120.458002,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.766378,
+      "longitude": 120.457927,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -39.996133,
+      "longitude": -73.420932,
+      "country": "Chile",
+      "state": "Los R\u00edos"
+    },
+    {
+      "latitude": 25.015719,
+      "longitude": 121.463363,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -27.735894,
+      "longitude": 153.053864,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.95404,
+      "longitude": 121.500887,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -28.636648,
+      "longitude": 153.346342,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -29.105182,
+      "longitude": 30.833564,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 23.637804,
+      "longitude": 120.359557,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 21.342687,
+      "longitude": -157.822543,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -34.071484,
+      "longitude": 151.058517,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 23.637858,
+      "longitude": 120.359515,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.480442,
+      "longitude": 120.856239,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -34.419478,
+      "longitude": 150.477351,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 23.637658,
+      "longitude": 120.359292,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.637838,
+      "longitude": 120.359398,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.523384,
+      "longitude": 153.260806,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -8.425564,
+      "longitude": 115.298154,
+      "country": "Indonesia",
+      "state": "Bali"
+    },
+    {
+      "latitude": 23.637942,
+      "longitude": 120.359528,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.637808,
+      "longitude": 120.359673,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -33.88809,
+      "longitude": -58.893252,
+      "country": "Argentina",
+      "state": "Entre R\u00edos"
+    },
+    {
+      "latitude": 21.434197,
+      "longitude": -157.928498,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -28.238368,
+      "longitude": 153.555861,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 24.501819,
+      "longitude": 120.839692,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -33.657001,
+      "longitude": 151.03937,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.705973,
+      "longitude": 150.594813,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.028261,
+      "longitude": 151.049277,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -27.764219,
+      "longitude": 153.294796,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 25.295943,
+      "longitude": 121.534371,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 21.299898,
+      "longitude": -157.815781,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -32.682839,
+      "longitude": 26.485557,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -33.13874,
+      "longitude": 151.524217,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.649959,
+      "longitude": 152.19442,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.043534,
+      "longitude": 22.203921,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -27.935693,
+      "longitude": 153.035641,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -33.969154,
+      "longitude": 22.476165,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -35.853711,
+      "longitude": 149.598708,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -35.724556,
+      "longitude": 149.647003,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 12.595033,
+      "longitude": 54.053277,
+      "country": "Yemen",
+      "state": "Hadramawt"
+    },
+    {
+      "latitude": 25.013925,
+      "longitude": 121.558592,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 25.109675,
+      "longitude": 121.844465,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -29.846256,
+      "longitude": -50.519944,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": -34.382703,
+      "longitude": 150.8965,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -21.252458,
+      "longitude": -159.791207,
+      "country": "Cook Islands",
+      "state": null
+    },
+    {
+      "latitude": 13.561275,
+      "longitude": 99.842327,
+      "country": "Thailand",
+      "state": "Ratchaburi"
+    },
+    {
+      "latitude": -33.970517,
+      "longitude": 25.490683,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -33.204339,
+      "longitude": 151.539367,
+      "country": "Australia",
+      "state": null
+    },
+    {
+      "latitude": -33.489595,
+      "longitude": 151.440713,
+      "country": "Australia",
+      "state": null
+    },
+    {
+      "latitude": -30.574131,
+      "longitude": 29.646742,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -32.626555,
+      "longitude": 151.735881,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.018398,
+      "longitude": 151.55158,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.708717,
+      "longitude": 150.600947,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.608319,
+      "longitude": 151.778479,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.568079,
+      "longitude": 151.806691,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.582132,
+      "longitude": 151.784807,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.711748,
+      "longitude": 151.156818,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.502901,
+      "longitude": 150.507748,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -35.786221,
+      "longitude": 150.140433,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -25.5925,
+      "longitude": -48.562222,
+      "country": "Brazil",
+      "state": "Pr"
+    },
+    {
+      "latitude": -20.385948,
+      "longitude": 57.423408,
+      "country": "Mauritius",
+      "state": "Black River"
+    },
+    {
+      "latitude": -25.5925,
+      "longitude": -48.562222,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -25.59242,
+      "longitude": -48.56222,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -32.653024,
+      "longitude": 152.135797,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.649466,
+      "longitude": 152.144522,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.65135,
+      "longitude": 152.145623,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.653314,
+      "longitude": 152.139911,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.5629,
+      "longitude": 153.532,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.792881,
+      "longitude": 151.181295,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.76304,
+      "longitude": 150.639102,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -27.431889,
+      "longitude": 152.999606,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -34.360777,
+      "longitude": 19.135483,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -33.636457,
+      "longitude": 151.04779,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.195263,
+      "longitude": 151.601503,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 23.612741,
+      "longitude": 120.293129,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 21.315367,
+      "longitude": -157.791387,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -28.806425,
+      "longitude": 153.266929,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 23.612575,
+      "longitude": 120.29352,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -26.729287,
+      "longitude": 153.05362,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.889187,
+      "longitude": 153.343262,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.677922,
+      "longitude": 152.937187,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.621378,
+      "longitude": 120.650047,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -28.592583,
+      "longitude": 153.223069,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -27.642136,
+      "longitude": 153.070308,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -31.936446,
+      "longitude": 115.889861,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -28.470532,
+      "longitude": 153.296297,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.478337,
+      "longitude": 153.298842,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.95145,
+      "longitude": 151.678545,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -29.0496,
+      "longitude": 29.4054,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 23.99842,
+      "longitude": 121.584498,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.851887,
+      "longitude": 153.34938,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -26.903715,
+      "longitude": 26.267702,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": -25.347787,
+      "longitude": 152.579292,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -33.762338,
+      "longitude": 150.738727,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -27.958163,
+      "longitude": 153.374908,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -33.753261,
+      "longitude": 151.066931,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.281758,
+      "longitude": 115.712295,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -32.402853,
+      "longitude": 151.733283,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.926753,
+      "longitude": 151.704728,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -30.295533,
+      "longitude": 153.123397,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 24.750707,
+      "longitude": 121.767227,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -34.067951,
+      "longitude": 151.01561,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.329603,
+      "longitude": 18.988922,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -27.656469,
+      "longitude": 153.075974,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.281825,
+      "longitude": 152.696217,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.2824,
+      "longitude": 152.695903,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.314657,
+      "longitude": -157.792332,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -26.378556,
+      "longitude": 153.107007,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -31.926883,
+      "longitude": 115.810142,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 22.539752,
+      "longitude": 114.187419,
+      "country": "Hong Kong",
+      "state": "North"
+    },
+    {
+      "latitude": 22.596219,
+      "longitude": 120.335478,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -34.204778,
+      "longitude": 151.016997,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 24.237143,
+      "longitude": 120.906545,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.901251,
+      "longitude": 121.216353,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 22.377678,
+      "longitude": 114.125018,
+      "country": "Hong Kong",
+      "state": "Tsuen Wan"
+    },
+    {
+      "latitude": 25.629813,
+      "longitude": 88.129513,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 24.237146,
+      "longitude": 120.906541,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -32.40614,
+      "longitude": 151.729588,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.889917,
+      "longitude": 151.047127,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 21.308803,
+      "longitude": -157.795525,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -32.694028,
+      "longitude": 28.373647,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -27.568725,
+      "longitude": 153.337928,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.539353,
+      "longitude": 120.8814,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.158064,
+      "longitude": 121.623069,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.974568,
+      "longitude": 120.70535,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -31.92858,
+      "longitude": 115.807097,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 22.65779,
+      "longitude": 120.287896,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -33.800184,
+      "longitude": 151.136986,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -27.987642,
+      "longitude": 153.34221,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.143765,
+      "longitude": 120.723288,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -30.19267,
+      "longitude": 30.112341,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 24.253908,
+      "longitude": 120.719622,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 25.013592,
+      "longitude": 121.21455,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -28.560799,
+      "longitude": 153.500699,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.71856,
+      "longitude": 151.282366,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 6.027952,
+      "longitude": 116.45982,
+      "country": "Malaysia",
+      "state": "Sabah"
+    },
+    {
+      "latitude": -15.387505,
+      "longitude": 28.321547,
+      "country": "Zambia",
+      "state": "Lusaka"
+    },
+    {
+      "latitude": -22.863929,
+      "longitude": -47.100597,
+      "country": "Brazil",
+      "state": "S\u00e3o Paulo"
+    },
+    {
+      "latitude": -30.204332,
+      "longitude": 30.089758,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 24.009872,
+      "longitude": 121.618025,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 11.953797,
+      "longitude": 79.760763,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 24.746636,
+      "longitude": 121.746061,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 12.590601,
+      "longitude": 54.051543,
+      "country": "Yemen",
+      "state": "Hadramawt"
+    },
+    {
+      "latitude": 22.873174,
+      "longitude": 121.178499,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -34.055816,
+      "longitude": 18.426009,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -29.842924,
+      "longitude": 30.239743,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 23.942892,
+      "longitude": 120.921386,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.960812,
+      "longitude": 121.527419,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 22.382258,
+      "longitude": 114.189613,
+      "country": "Hong Kong",
+      "state": "Sha Tin"
+    },
+    {
+      "latitude": -29.843023,
+      "longitude": 30.240227,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 20.948425,
+      "longitude": -156.536545,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 19.6419,
+      "longitude": -155.993545,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 24.148506,
+      "longitude": 120.729816,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 11.249213,
+      "longitude": 76.615128,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -21.137419,
+      "longitude": 55.29634,
+      "country": "R\u00e9union",
+      "state": null
+    },
+    {
+      "latitude": -34.446389,
+      "longitude": 150.828889,
+      "country": "Australia",
+      "state": null
+    },
+    {
+      "latitude": 15.289161,
+      "longitude": 74.152809,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -32.718725,
+      "longitude": 151.456345,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.468291,
+      "longitude": 150.307182,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.890708,
+      "longitude": 151.03273,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.964491,
+      "longitude": 150.650742,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 22.331975,
+      "longitude": 114.248612,
+      "country": "Hong Kong",
+      "state": "Sai Kung"
+    },
+    {
+      "latitude": -31.464887,
+      "longitude": 152.867323,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 25.269032,
+      "longitude": 115.729592,
+      "country": "China",
+      "state": "Jiangxi"
+    },
+    {
+      "latitude": 24.7465,
+      "longitude": 121.743864,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -33.92358,
+      "longitude": 150.730676,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.925828,
+      "longitude": 150.731139,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.652735,
+      "longitude": 152.138445,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.80525,
+      "longitude": 151.010838,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.74928,
+      "longitude": 151.145174,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.67824,
+      "longitude": 151.187812,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.592674,
+      "longitude": 153.216887,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.595465,
+      "longitude": 153.225612,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 24.445151,
+      "longitude": 118.378021,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 25.149743,
+      "longitude": 121.775308,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.60438,
+      "longitude": 121.394945,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.017254,
+      "longitude": 121.538802,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 25.015412,
+      "longitude": 121.53537,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -34.102984,
+      "longitude": 151.115601,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 23.91952,
+      "longitude": 120.884175,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -33.895712,
+      "longitude": 150.973328,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 19.97134,
+      "longitude": 99.965261,
+      "country": "Thailand",
+      "state": "Chiang Rai"
+    },
+    {
+      "latitude": 23.578735,
+      "longitude": 121.375424,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -29.534255,
+      "longitude": 31.198141,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 25.229008,
+      "longitude": 121.650758,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -33.800206,
+      "longitude": 151.250811,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -26.589621,
+      "longitude": 29.630852,
+      "country": "South Africa",
+      "state": "Mpumalanga"
+    },
+    {
+      "latitude": 21.321938,
+      "longitude": -157.797009,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 28.583364,
+      "longitude": -81.357017,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 25.021003,
+      "longitude": 121.50418,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 25.409031,
+      "longitude": 115.833119,
+      "country": "China",
+      "state": "Jiangxi"
+    },
+    {
+      "latitude": -33.759737,
+      "longitude": 151.068681,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 16.081938,
+      "longitude": -61.599788,
+      "country": "Guadeloupe",
+      "state": "Basse-Terre"
+    },
+    {
+      "latitude": 24.390438,
+      "longitude": 120.758217,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.954272,
+      "longitude": 153.144726,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.759948,
+      "longitude": 121.10675,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.750146,
+      "longitude": 121.766756,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.14302,
+      "longitude": 120.657708,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.178704,
+      "longitude": 120.760615,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -33.332953,
+      "longitude": 26.645368,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -16.831942,
+      "longitude": 145.700161,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -35.083425,
+      "longitude": 150.657088,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 24.88328,
+      "longitude": 121.227822,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 21.333795,
+      "longitude": -157.810105,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -27.464724,
+      "longitude": 153.094553,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -29.735529,
+      "longitude": 30.682914,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -34.609265,
+      "longitude": 19.919525,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 22.5961,
+      "longitude": 120.335808,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.638805,
+      "longitude": 120.299642,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -33.911217,
+      "longitude": 150.999328,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 16.104587,
+      "longitude": 108.255192,
+      "country": "Viet Nam",
+      "state": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+      "latitude": 22.989322,
+      "longitude": 120.207262,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -32.020967,
+      "longitude": 115.931237,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 25.141043,
+      "longitude": 121.795563,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -33.759055,
+      "longitude": 150.753067,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 22.780957,
+      "longitude": 120.283525,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -31.96991,
+      "longitude": 152.567748,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 21.32385,
+      "longitude": -157.78776,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 23.971115,
+      "longitude": 120.323963,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.974967,
+      "longitude": 121.610113,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.587309,
+      "longitude": 120.318199,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.377537,
+      "longitude": 114.003759,
+      "country": "Hong Kong",
+      "state": "Tsuen Wan"
+    },
+    {
+      "latitude": -27.53435,
+      "longitude": 153.123108,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.565952,
+      "longitude": 120.21046,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.971151,
+      "longitude": 120.324066,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -28.59539,
+      "longitude": 153.225973,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.596124,
+      "longitude": 153.225901,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -25.770673,
+      "longitude": 152.693397,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.312117,
+      "longitude": 120.551155,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -33.947152,
+      "longitude": 150.937145,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.592781,
+      "longitude": 153.216845,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 3.942587,
+      "longitude": 115.5447,
+      "country": "Malaysia",
+      "state": "Sarawak"
+    },
+    {
+      "latitude": -28.598335,
+      "longitude": 153.229274,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -27.640875,
+      "longitude": 153.128736,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.638667,
+      "longitude": 120.359307,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -25.295683,
+      "longitude": 152.833785,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -25.541854,
+      "longitude": 152.667519,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.998303,
+      "longitude": 121.457362,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 25.027449,
+      "longitude": 121.390466,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.515364,
+      "longitude": 120.487118,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.782312,
+      "longitude": 153.283433,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.595169,
+      "longitude": 153.225669,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 21.295925,
+      "longitude": -157.817917,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 23.515359,
+      "longitude": 120.486954,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.515499,
+      "longitude": 120.486825,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.034035,
+      "longitude": 121.389641,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -33.673309,
+      "longitude": 150.915996,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.760223,
+      "longitude": 151.070498,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -42.713757,
+      "longitude": -74.155937,
+      "country": "Chile",
+      "state": "Los Lagos"
+    },
+    {
+      "latitude": 23.632631,
+      "longitude": 120.2244,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 21.439465,
+      "longitude": -157.832955,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 24.026398,
+      "longitude": 120.977829,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.468377,
+      "longitude": 120.24939,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.460752,
+      "longitude": 120.285497,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.611292,
+      "longitude": 152.976972,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.487311,
+      "longitude": 120.453064,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.209192,
+      "longitude": 120.610846,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.236275,
+      "longitude": 120.2574,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 24.434744,
+      "longitude": 120.886064,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.431897,
+      "longitude": 120.883858,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.52531,
+      "longitude": 153.147976,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.28347,
+      "longitude": 114.133903,
+      "country": "Hong Kong",
+      "state": "Central and Western"
+    },
+    {
+      "latitude": 22.652462,
+      "longitude": 120.30495,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -24.716871,
+      "longitude": 46.865496,
+      "country": "Madagascar",
+      "state": null
+    },
+    {
+      "latitude": -33.342772,
+      "longitude": 151.368272,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 23.773904,
+      "longitude": 120.533299,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.032405,
+      "longitude": 121.392281,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.913457,
+      "longitude": 120.705711,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -33.112276,
+      "longitude": 151.467245,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.6717,
+      "longitude": 150.635136,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.112591,
+      "longitude": 151.46775,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.888194,
+      "longitude": 151.042804,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.112545,
+      "longitude": 151.468368,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -35.697339,
+      "longitude": 150.214601,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.703502,
+      "longitude": 150.579795,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.112588,
+      "longitude": 151.469113,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -33.749778,
+      "longitude": 25.107019,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 22.544552,
+      "longitude": 114.111162,
+      "country": "Hong Kong",
+      "state": "Tsuen Wan"
+    },
+    {
+      "latitude": 24.118384,
+      "longitude": 120.800306,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 4.493342,
+      "longitude": 101.387786,
+      "country": "Malaysia",
+      "state": "Pahang"
+    },
+    {
+      "latitude": 23.638078,
+      "longitude": 120.358988,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 13.188853,
+      "longitude": 77.483281,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 10.983218,
+      "longitude": 76.73635,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 23.181215,
+      "longitude": 120.110046,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 24.118284,
+      "longitude": 120.800479,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.587311,
+      "longitude": 120.318148,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.18718,
+      "longitude": 120.785342,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -33.668524,
+      "longitude": 150.867399,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 24.895532,
+      "longitude": 121.136399,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -34.367144,
+      "longitude": 150.920908,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -8.049045,
+      "longitude": 113.06324,
+      "country": "Indonesia",
+      "state": "Jawa Timur"
+    },
+    {
+      "latitude": -25.385413,
+      "longitude": -49.015325,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -33.468804,
+      "longitude": 150.907744,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.810439,
+      "longitude": 149.459764,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 24.597342,
+      "longitude": 121.000411,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.051447,
+      "longitude": 152.888558,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.511143,
+      "longitude": 152.868004,
+      "country": "Australia",
+      "state": null
+    },
+    {
+      "latitude": -35.065125,
+      "longitude": 149.85965,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 23.712586,
+      "longitude": 120.448653,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.685997,
+      "longitude": 121.727367,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.056993,
+      "longitude": 121.565719,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.058394,
+      "longitude": 120.236303,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 25.107978,
+      "longitude": 121.58532,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.703187,
+      "longitude": 120.63302,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -33.738692,
+      "longitude": 151.100084,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -25.367986,
+      "longitude": 152.787989,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.640422,
+      "longitude": 121.017625,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.753641,
+      "longitude": 153.098948,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 25.034933,
+      "longitude": 121.541122,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.482117,
+      "longitude": 120.469996,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.935408,
+      "longitude": 121.7119,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -38.00586,
+      "longitude": 145.158668,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 24.572022,
+      "longitude": 120.765694,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -28.804611,
+      "longitude": 153.277844,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.152136,
+      "longitude": 115.974966,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 22.614547,
+      "longitude": 120.320642,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -28.638092,
+      "longitude": 153.474094,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 22.61452,
+      "longitude": 120.320617,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.571975,
+      "longitude": 120.769386,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 21.298622,
+      "longitude": -157.817825,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 24.259449,
+      "longitude": 120.812283,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.113353,
+      "longitude": 121.222763,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.1846,
+      "longitude": 120.589645,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -27.826046,
+      "longitude": 153.309944,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.187136,
+      "longitude": 113.556136,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 24.762272,
+      "longitude": 121.105256,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.023876,
+      "longitude": 121.535981,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -27.134049,
+      "longitude": 152.965156,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.804212,
+      "longitude": 121.035336,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.096125,
+      "longitude": 152.377578,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 25.031386,
+      "longitude": 121.387762,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 24.75958,
+      "longitude": 121.106567,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -32.982933,
+      "longitude": 151.726572,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 11.322315,
+      "longitude": 76.598022,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 25.060163,
+      "longitude": 121.700842,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 25.020722,
+      "longitude": 121.53879,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -8.278745,
+      "longitude": 115.156122,
+      "country": "Indonesia",
+      "state": "Bali"
+    },
+    {
+      "latitude": 24.015697,
+      "longitude": 120.472947,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.443467,
+      "longitude": 120.892625,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 21.300309,
+      "longitude": -157.815497,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -33.727009,
+      "longitude": 151.180939,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.017136,
+      "longitude": 153.013761,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 14.667887,
+      "longitude": 102.195342,
+      "country": "Thailand",
+      "state": "Nakhon Ratchasima"
+    },
+    {
+      "latitude": -34.350255,
+      "longitude": 18.836162,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 24.443514,
+      "longitude": 120.892319,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.441175,
+      "longitude": 120.896531,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.443481,
+      "longitude": 120.892678,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.443628,
+      "longitude": 120.891983,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.44799,
+      "longitude": 114.040666,
+      "country": "Hong Kong",
+      "state": "Yuen Long"
+    },
+    {
+      "latitude": 24.443594,
+      "longitude": 120.892892,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.443589,
+      "longitude": 120.892867,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -28.181456,
+      "longitude": 153.393203,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -34.436255,
+      "longitude": 150.830458,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -36.230912,
+      "longitude": 146.266775,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 25.060725,
+      "longitude": 121.560949,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.060583,
+      "longitude": 120.234989,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -37.909875,
+      "longitude": 145.25183,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 23.468844,
+      "longitude": 120.484031,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -28.069712,
+      "longitude": 153.367881,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.105587,
+      "longitude": 153.303489,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 29.683936,
+      "longitude": -95.490014,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -34.051125,
+      "longitude": 18.504206,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 24.434381,
+      "longitude": 120.902283,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.369599,
+      "longitude": 114.181984,
+      "country": "Hong Kong",
+      "state": "Sha Tin"
+    },
+    {
+      "latitude": -30.212961,
+      "longitude": 30.782797,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 22.213488,
+      "longitude": 113.548195,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": -33.738881,
+      "longitude": 150.784679,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -20.415932,
+      "longitude": 32.785045,
+      "country": "Mozambique",
+      "state": "Manica"
+    },
+    {
+      "latitude": 25.33105,
+      "longitude": 91.822933,
+      "country": "India",
+      "state": "Meghalaya"
+    },
+    {
+      "latitude": 22.461011,
+      "longitude": 114.328601,
+      "country": "Hong Kong",
+      "state": "Tai Po"
+    },
+    {
+      "latitude": 21.30002,
+      "longitude": -157.813958,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 24.209235,
+      "longitude": 120.598954,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 25.023669,
+      "longitude": 121.504869,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 25.091672,
+      "longitude": 121.594991,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 21.299391,
+      "longitude": -157.813666,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 23.263826,
+      "longitude": 120.498934,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.215888,
+      "longitude": 113.543997,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 22.372997,
+      "longitude": 114.116058,
+      "country": "Hong Kong",
+      "state": "Tsuen Wan"
+    },
+    {
+      "latitude": -33.684714,
+      "longitude": 151.090427,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -25.78883,
+      "longitude": 152.6976,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.333885,
+      "longitude": -157.802287,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.422702,
+      "longitude": 114.18109,
+      "country": "Hong Kong",
+      "state": "Tai Po"
+    },
+    {
+      "latitude": 22.260301,
+      "longitude": 113.940161,
+      "country": "Hong Kong",
+      "state": "Islands"
+    },
+    {
+      "latitude": 22.19928,
+      "longitude": 113.552799,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 21.296122,
+      "longitude": -157.818237,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.216034,
+      "longitude": 113.546003,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 22.124233,
+      "longitude": 113.5562,
+      "country": "Macao",
+      "state": "Ilhas"
+    },
+    {
+      "latitude": 22.19918,
+      "longitude": 113.548455,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 23.935679,
+      "longitude": 121.512406,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.805747,
+      "longitude": 121.04975,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.663833,
+      "longitude": 153.148166,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -33.804122,
+      "longitude": 150.997199,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.368352,
+      "longitude": 18.888168,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 25.031108,
+      "longitude": 121.416367,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -33.730851,
+      "longitude": 151.046877,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 22.212811,
+      "longitude": 113.548669,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 22.460857,
+      "longitude": 114.328542,
+      "country": "Hong Kong",
+      "state": "Tai Po"
+    },
+    {
+      "latitude": 22.226798,
+      "longitude": 113.554428,
+      "country": "China",
+      "state": "Guangdong"
+    },
+    {
+      "latitude": 23.05412,
+      "longitude": 120.244634,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -28.960097,
+      "longitude": 31.75678,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -33.741169,
+      "longitude": 151.079325,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 27.681337,
+      "longitude": 85.288089,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": -34.061475,
+      "longitude": 18.873434,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 22.394816,
+      "longitude": 114.042549,
+      "country": "Hong Kong",
+      "state": "Tuen Mun"
+    },
+    {
+      "latitude": 22.207505,
+      "longitude": 113.548155,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": -32.073518,
+      "longitude": 115.844096,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -30.207625,
+      "longitude": 30.084884,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -29.647122,
+      "longitude": 31.13025,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 22.344525,
+      "longitude": 114.204742,
+      "country": "Hong Kong",
+      "state": "Wong Tai Sin"
+    },
+    {
+      "latitude": 25.000803,
+      "longitude": 121.512226,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 21.333727,
+      "longitude": -157.802385,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.498553,
+      "longitude": 114.133667,
+      "country": "Hong Kong",
+      "state": "North"
+    },
+    {
+      "latitude": 24.707353,
+      "longitude": 121.689252,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -34.161675,
+      "longitude": 18.936613,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -20.410088,
+      "longitude": 32.699382,
+      "country": "Zimbabwe",
+      "state": "Manicaland"
+    },
+    {
+      "latitude": -29.646823,
+      "longitude": 31.130303,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 25.013889,
+      "longitude": 121.558369,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": -29.84416,
+      "longitude": 30.90144,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -20.410101,
+      "longitude": 32.699381,
+      "country": "Zimbabwe",
+      "state": "Manicaland"
+    },
+    {
+      "latitude": 23.620027,
+      "longitude": 120.261504,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -29.630472,
+      "longitude": 30.984266,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -34.833338,
+      "longitude": 116.029458,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": 22.442566,
+      "longitude": 114.018778,
+      "country": "Hong Kong",
+      "state": "Yuen Long"
+    },
+    {
+      "latitude": -29.729267,
+      "longitude": 31.068597,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -19.936241,
+      "longitude": -40.589297,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": -28.787474,
+      "longitude": 32.103177,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -29.775503,
+      "longitude": 30.835567,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -34.471095,
+      "longitude": 19.901502,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -18.479943,
+      "longitude": 32.792941,
+      "country": "Zimbabwe",
+      "state": "Manicaland"
+    },
+    {
+      "latitude": 17.321091,
+      "longitude": 78.393821,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -34.166078,
+      "longitude": 18.927956,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 22.385839,
+      "longitude": 114.143733,
+      "country": "Hong Kong",
+      "state": "Tsuen Wan"
+    },
+    {
+      "latitude": -34.066443,
+      "longitude": 18.932454,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 23.950886,
+      "longitude": 120.939545,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.002389,
+      "longitude": 121.929786,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 27.053628,
+      "longitude": 88.701621,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 4.829538,
+      "longitude": -52.485232,
+      "country": "French Guiana",
+      "state": "Cayenne"
+    },
+    {
+      "latitude": 32.607274,
+      "longitude": -85.502014,
+      "country": "United States of America",
+      "state": "Alabama"
+    },
+    {
+      "latitude": -25.775154,
+      "longitude": 28.28001,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": -18.48292,
+      "longitude": 32.793185,
+      "country": "Zimbabwe",
+      "state": "Manicaland"
+    },
+    {
+      "latitude": 22.330372,
+      "longitude": 114.198692,
+      "country": "Hong Kong",
+      "state": "Kowloon City"
+    },
+    {
+      "latitude": 25.05792,
+      "longitude": 121.58892,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 22.386325,
+      "longitude": 114.143828,
+      "country": "Hong Kong",
+      "state": "Tsuen Wan"
+    },
+    {
+      "latitude": -34.161746,
+      "longitude": 18.936611,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -34.386471,
+      "longitude": 19.254984,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": 22.407184,
+      "longitude": 120.756763,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.729957,
+      "longitude": 121.688442,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -32.073891,
+      "longitude": 115.844043,
+      "country": "Australia",
+      "state": "Western Australia"
+    }
+  ],
+  "scientific_name": "Centella asiatica",
+  "common_name": "Indian pennywort",
+  "description": null
+}

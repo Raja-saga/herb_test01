@@ -125,7 +125,7 @@ export default function HerbMap({ herbName, confidence = 0, locations = [], user
     const nearestDistance = validationResults?.locationPlausibility?.nearestDistance;
     const distanceText = nearestDistance ? ` (nearest: ${nearestDistance.toFixed(1)} km)` : '';
     
-    return `Showing ${locations.length} known locations for ${herbName}${distanceText}`;
+    return `Showing known locations for ${herbName}${distanceText}`;
   };
 
   return (

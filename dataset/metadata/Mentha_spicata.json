@@ -1,0 +1,3008 @@
+{
+  "herb": "Mentha spicata",
+  "locations": [
+    {
+      "latitude": -44.728841,
+      "longitude": 171.050537,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": -41.152022,
+      "longitude": 173.014225,
+      "country": "New Zealand",
+      "state": "Nelson"
+    },
+    {
+      "latitude": 36.789526,
+      "longitude": -76.125967,
+      "country": "United States of America",
+      "state": "Virginia"
+    },
+    {
+      "latitude": -38.355972,
+      "longitude": 146.409306,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -0.384713,
+      "longitude": -78.4156,
+      "country": "Ecuador",
+      "state": "Pichincha"
+    },
+    {
+      "latitude": 33.554165,
+      "longitude": -117.661611,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -37.663884,
+      "longitude": 145.180463,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -41.1242,
+      "longitude": 174.8002,
+      "country": "New Zealand",
+      "state": "North Island, Southern North Island"
+    },
+    {
+      "latitude": -36.140692,
+      "longitude": 146.919758,
+      "country": "Australia",
+      "state": null
+    },
+    {
+      "latitude": 17.454969,
+      "longitude": 78.440506,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -37.863573,
+      "longitude": 145.113063,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -44.836289,
+      "longitude": 169.413878,
+      "country": "New Zealand",
+      "state": "Otago"
+    },
+    {
+      "latitude": -31.992163,
+      "longitude": 116.03875,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -41.230369,
+      "longitude": 146.40136,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": -33.349545,
+      "longitude": 150.099196,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -43.481189,
+      "longitude": 172.693937,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": -35.017038,
+      "longitude": 138.71662,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -41.2068,
+      "longitude": 174.815072,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 36.459112,
+      "longitude": -121.15445,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 32.82654,
+      "longitude": 35.490287,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": 32.826542,
+      "longitude": 35.490258,
+      "country": "Israel",
+      "state": "HaZafon"
+    },
+    {
+      "latitude": -41.228387,
+      "longitude": 146.30403,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": -41.228413,
+      "longitude": 146.304062,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": 13.035892,
+      "longitude": 80.107208,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -37.882894,
+      "longitude": 145.387213,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -37.721075,
+      "longitude": 145.089442,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -34.501613,
+      "longitude": -58.495653,
+      "country": "Argentina",
+      "state": null
+    },
+    {
+      "latitude": -34.737869,
+      "longitude": -58.426565,
+      "country": "Argentina",
+      "state": null
+    },
+    {
+      "latitude": 47.357533,
+      "longitude": 8.944022,
+      "country": "Switzerland",
+      "state": null
+    },
+    {
+      "latitude": -43.538435,
+      "longitude": 172.677101,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": -41.228354,
+      "longitude": 146.304131,
+      "country": "Australia",
+      "state": "Tasmania"
+    },
+    {
+      "latitude": 33.080258,
+      "longitude": -87.556818,
+      "country": "United States of America",
+      "state": "Alabama"
+    },
+    {
+      "latitude": 33.554243,
+      "longitude": -117.661597,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 51.38056,
+      "longitude": 1.398075,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 44.560527,
+      "longitude": -123.215956,
+      "country": "United States of America",
+      "state": "Oregon"
+    },
+    {
+      "latitude": 32.657657,
+      "longitude": -16.865984,
+      "country": "Portugal",
+      "state": null
+    },
+    {
+      "latitude": 36.126727,
+      "longitude": -115.203559,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 33.252755,
+      "longitude": -97.134048,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 47.4233,
+      "longitude": 7.47176,
+      "country": "Switzerland",
+      "state": "Bl"
+    },
+    {
+      "latitude": -29.091468,
+      "longitude": 27.748207,
+      "country": "Lesotho",
+      "state": "Berea"
+    },
+    {
+      "latitude": 33.460613,
+      "longitude": -117.108397,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 36.12671,
+      "longitude": -115.203573,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 41.737958,
+      "longitude": 13.346675,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 50.88454,
+      "longitude": 3.26082,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 39.7249,
+      "longitude": -121.781303,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 39.025597,
+      "longitude": -27.954605,
+      "country": "Portugal",
+      "state": "Azores"
+    },
+    {
+      "latitude": -39.700138,
+      "longitude": 176.89618,
+      "country": "New Zealand",
+      "state": "Hawke's Bay"
+    },
+    {
+      "latitude": -27.894295,
+      "longitude": 25.124797,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 38.8694,
+      "longitude": -76.955025,
+      "country": "United States of America",
+      "state": "District of Columbia"
+    },
+    {
+      "latitude": 39.01436,
+      "longitude": -27.955033,
+      "country": "Portugal",
+      "state": "Azores"
+    },
+    {
+      "latitude": 40.537509,
+      "longitude": -79.877572,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": -26.218986,
+      "longitude": 26.809637,
+      "country": "South Africa",
+      "state": "North West"
+    },
+    {
+      "latitude": 34.196252,
+      "longitude": -118.429582,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.142412,
+      "longitude": -118.116935,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 39.063905,
+      "longitude": -28.021353,
+      "country": "Portugal",
+      "state": "Azores"
+    },
+    {
+      "latitude": 53.169742,
+      "longitude": -2.216246,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 23.144636,
+      "longitude": 79.907831,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 52.429025,
+      "longitude": -1.865214,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 42.361659,
+      "longitude": -71.132223,
+      "country": "United States of America",
+      "state": "Massachusetts"
+    },
+    {
+      "latitude": 30.292388,
+      "longitude": -95.320138,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 53.17208,
+      "longitude": 45.009016,
+      "country": "Russian Federation",
+      "state": "Penza"
+    },
+    {
+      "latitude": 40.42402,
+      "longitude": -79.938658,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 41.533353,
+      "longitude": -73.02288,
+      "country": "United States of America",
+      "state": "Connecticut"
+    },
+    {
+      "latitude": -43.576097,
+      "longitude": 172.651724,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 53.368919,
+      "longitude": -2.853587,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 43.330231,
+      "longitude": 5.418167,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 51.493283,
+      "longitude": -0.082075,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 34.976919,
+      "longitude": -101.921925,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 33.349103,
+      "longitude": -116.91278,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.952167,
+      "longitude": -117.264003,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 43.275352,
+      "longitude": 5.429193,
+      "country": "France",
+      "state": "Provence-Alpes-C\u00f4te d'Azur"
+    },
+    {
+      "latitude": 40.772292,
+      "longitude": -73.800964,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 17.221586,
+      "longitude": 74.45311,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 47.652562,
+      "longitude": -122.309072,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 38.258376,
+      "longitude": 15.241267,
+      "country": "Italy",
+      "state": "Sicily"
+    },
+    {
+      "latitude": 40.08388,
+      "longitude": -83.152792,
+      "country": "United States of America",
+      "state": "Ohio"
+    },
+    {
+      "latitude": 29.516605,
+      "longitude": -98.516005,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": -46.313803,
+      "longitude": 168.798142,
+      "country": "New Zealand",
+      "state": "Southland"
+    },
+    {
+      "latitude": 43.312622,
+      "longitude": 11.33687,
+      "country": "Italy",
+      "state": "Toscana"
+    },
+    {
+      "latitude": 33.51432,
+      "longitude": -84.386166,
+      "country": "United States of America",
+      "state": "Georgia"
+    },
+    {
+      "latitude": 40.722328,
+      "longitude": -73.941253,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 46.943985,
+      "longitude": 15.364795,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 55.010679,
+      "longitude": -1.696624,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": -0.901715,
+      "longitude": -89.611698,
+      "country": "Ecuador",
+      "state": "Gal\u00e1pagos"
+    },
+    {
+      "latitude": 47.46816,
+      "longitude": 7.60442,
+      "country": "Switzerland",
+      "state": "Bl"
+    },
+    {
+      "latitude": -44.676147,
+      "longitude": 169.130398,
+      "country": "New Zealand",
+      "state": "Otago"
+    },
+    {
+      "latitude": 37.67035,
+      "longitude": -121.756862,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 38.608833,
+      "longitude": -90.246863,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": -33.965774,
+      "longitude": 18.841032,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -30.636377,
+      "longitude": 30.015375,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 33.846763,
+      "longitude": -110.971237,
+      "country": "United States of America",
+      "state": "Arizona"
+    },
+    {
+      "latitude": -30.857697,
+      "longitude": 29.85785,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -31.188098,
+      "longitude": 29.99119,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": -29.643933,
+      "longitude": 30.985333,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 33.273492,
+      "longitude": -108.261872,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": 40.350452,
+      "longitude": -80.131039,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 51.414521,
+      "longitude": 19.738286,
+      "country": "Poland",
+      "state": "\u0141\u00f3d\u017a"
+    },
+    {
+      "latitude": 38.549639,
+      "longitude": -90.377343,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 33.040836,
+      "longitude": -108.238237,
+      "country": "United States of America",
+      "state": "New Mexico"
+    },
+    {
+      "latitude": 33.773215,
+      "longitude": -84.344483,
+      "country": "United States of America",
+      "state": "Georgia"
+    },
+    {
+      "latitude": 46.952824,
+      "longitude": 15.520553,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 49.773876,
+      "longitude": 7.540842,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 51.75,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.84887,
+      "longitude": 2.71558,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 56.502687,
+      "longitude": -5.418737,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 39.052417,
+      "longitude": -28.007722,
+      "country": "Portugal",
+      "state": "Azores"
+    },
+    {
+      "latitude": -28.706841,
+      "longitude": 24.69655,
+      "country": "South Africa",
+      "state": "Northern Cape"
+    },
+    {
+      "latitude": 33.34528,
+      "longitude": -84.404892,
+      "country": "United States of America",
+      "state": "Georgia"
+    },
+    {
+      "latitude": 50.711033,
+      "longitude": -122.27485,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 17.442383,
+      "longitude": 78.367463,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 50.711656,
+      "longitude": -122.274936,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 52.790408,
+      "longitude": 0.537822,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 50.961747,
+      "longitude": -1.357155,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 47.50978,
+      "longitude": 8.33465,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 47.41749,
+      "longitude": 8.59815,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.23888,
+      "longitude": 8.46219,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.20113,
+      "longitude": 6.11068,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 47.37037,
+      "longitude": 8.79574,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.24685,
+      "longitude": 6.1744,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.70333,
+      "longitude": 7.73284,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 54.208783,
+      "longitude": 37.562622,
+      "country": "Russian Federation",
+      "state": "Tula"
+    },
+    {
+      "latitude": 41.710653,
+      "longitude": -122.651302,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 47.65251,
+      "longitude": -122.309223,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": -28.706841,
+      "longitude": 24.69655,
+      "country": "South Africa",
+      "state": "Northern Cape"
+    },
+    {
+      "latitude": -28.706573,
+      "longitude": 24.733847,
+      "country": "South Africa",
+      "state": "Northern Cape"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.331789,
+      "longitude": -4.200869,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 17.442503,
+      "longitude": 78.367772,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 53.559562,
+      "longitude": -1.227088,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 45.496511,
+      "longitude": 12.23574,
+      "country": "Italy",
+      "state": "Veneto"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.95,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 43.21351,
+      "longitude": -77.449897,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": -26.142567,
+      "longitude": 28.4183,
+      "country": "South Africa",
+      "state": "Gauteng"
+    },
+    {
+      "latitude": 59.0434,
+      "longitude": 15.95663,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 57.52433,
+      "longitude": 12.13787,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 57.52424,
+      "longitude": 12.13789,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.55,
+      "longitude": 6.6,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 45.651704,
+      "longitude": 9.736585,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 41.816252,
+      "longitude": -79.565877,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 46.967043,
+      "longitude": 15.488336,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 40.766383,
+      "longitude": -73.731778,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 40.863162,
+      "longitude": -73.806777,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 41.94486,
+      "longitude": -79.484109,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 40.240489,
+      "longitude": -76.660787,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 56.2271,
+      "longitude": 15.63601,
+      "country": "Sweden",
+      "state": "Blekinge"
+    },
+    {
+      "latitude": 38.005299,
+      "longitude": -122.708374,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 33.996495,
+      "longitude": -117.064925,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": -7.261464,
+      "longitude": -35.484508,
+      "country": "Brazil",
+      "state": "Para\u00edba"
+    },
+    {
+      "latitude": 20.706234,
+      "longitude": -97.309922,
+      "country": "Mexico",
+      "state": "Veracruz"
+    },
+    {
+      "latitude": 57.52438,
+      "longitude": 12.1398,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 50.10236,
+      "longitude": 10.363798,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.113861,
+      "longitude": -122.839134,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 53.616066,
+      "longitude": -2.871751,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 53.783821,
+      "longitude": -1.538062,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 31.489736,
+      "longitude": -97.230303,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 53.616166,
+      "longitude": -2.871738,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 38.572262,
+      "longitude": -78.294511,
+      "country": "United States of America",
+      "state": "Virginia"
+    },
+    {
+      "latitude": 43.833641,
+      "longitude": 7.864974,
+      "country": "Italy",
+      "state": "Liguria"
+    },
+    {
+      "latitude": 47.41609,
+      "longitude": 8.73064,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.50978,
+      "longitude": 8.33465,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 47.41609,
+      "longitude": 8.73064,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 58.124378,
+      "longitude": 52.637197,
+      "country": "Russian Federation",
+      "state": "Udmurt"
+    },
+    {
+      "latitude": 37.231425,
+      "longitude": -97.168522,
+      "country": "United States of America",
+      "state": "Kansas"
+    },
+    {
+      "latitude": 48.17137,
+      "longitude": 23.881216,
+      "country": "Ukraine",
+      "state": "Transcarpathia"
+    },
+    {
+      "latitude": 39.064521,
+      "longitude": -94.474721,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 39.21974,
+      "longitude": -84.690541,
+      "country": "United States of America",
+      "state": "Ohio"
+    },
+    {
+      "latitude": 47.3246,
+      "longitude": 8.86073,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.20113,
+      "longitude": 6.11068,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.20113,
+      "longitude": 6.11068,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.73744,
+      "longitude": 9.04154,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.73744,
+      "longitude": 9.04154,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 48.771781,
+      "longitude": -122.500472,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 38.666788,
+      "longitude": -79.085248,
+      "country": "United States of America",
+      "state": "Virginia"
+    },
+    {
+      "latitude": 53.783821,
+      "longitude": -1.538062,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 33.778458,
+      "longitude": -84.399763,
+      "country": "United States of America",
+      "state": "Georgia"
+    },
+    {
+      "latitude": 52.173603,
+      "longitude": 8.040755,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 52.2,
+      "longitude": 5.45,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.85,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.9,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Friesland"
+    },
+    {
+      "latitude": 52.2,
+      "longitude": 5.45,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 41.033094,
+      "longitude": -71.945142,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 33.632364,
+      "longitude": -84.328076,
+      "country": "United States of America",
+      "state": "Georgia"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.8,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.75,
+      "longitude": 5.35,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 4.45,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 49.167511,
+      "longitude": 16.633966,
+      "country": "Czechia",
+      "state": "Jihomoravsk\u00fd"
+    },
+    {
+      "latitude": 44.686527,
+      "longitude": 8.034111,
+      "country": "Italy",
+      "state": "Piemonte"
+    },
+    {
+      "latitude": 43.654571,
+      "longitude": 10.666547,
+      "country": "Italy",
+      "state": "Toscana"
+    },
+    {
+      "latitude": 55.846867,
+      "longitude": 37.412546,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 48.791965,
+      "longitude": 5.811592,
+      "country": "France",
+      "state": "Lorraine"
+    },
+    {
+      "latitude": -41.287975,
+      "longitude": 175.867783,
+      "country": "New Zealand",
+      "state": "Wellington"
+    },
+    {
+      "latitude": 40.743813,
+      "longitude": -73.85025,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 47.160853,
+      "longitude": 15.245282,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 33.760181,
+      "longitude": -84.322508,
+      "country": "United States of America",
+      "state": "Georgia"
+    },
+    {
+      "latitude": 39.222482,
+      "longitude": -79.582861,
+      "country": "United States of America",
+      "state": "Maryland"
+    },
+    {
+      "latitude": 32.827283,
+      "longitude": -96.715633,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 39.403841,
+      "longitude": 20.014519,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 55.61765,
+      "longitude": 37.89788,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 55.847675,
+      "longitude": 37.413051,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 54.438811,
+      "longitude": -1.131142,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 30.012924,
+      "longitude": 122.396771,
+      "country": "China",
+      "state": "Zhejiang"
+    },
+    {
+      "latitude": 51.510995,
+      "longitude": 45.989547,
+      "country": "Russian Federation",
+      "state": "Saratov"
+    },
+    {
+      "latitude": 52.208635,
+      "longitude": 20.991463,
+      "country": "Poland",
+      "state": "Masovian"
+    },
+    {
+      "latitude": 45.42807,
+      "longitude": 9.138958,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 39.029292,
+      "longitude": -84.452937,
+      "country": "United States of America",
+      "state": "Kentucky"
+    },
+    {
+      "latitude": 50.767395,
+      "longitude": 6.48622,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 58.237787,
+      "longitude": 8.311294,
+      "country": "Norway",
+      "state": "Agder"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.4,
+      "longitude": 3.95,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 50.9,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.95,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.95,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 4.55,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 5.5,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.55,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 4.15,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.3,
+      "longitude": 5.8,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 51.20876,
+      "longitude": 4.61668,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 51.27127,
+      "longitude": 3.219,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.20893,
+      "longitude": 4.61682,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 50.8222,
+      "longitude": 4.71914,
+      "country": "Belgium",
+      "state": "Flemish Brabant"
+    },
+    {
+      "latitude": 50.75818,
+      "longitude": 5.13912,
+      "country": "Belgium",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.27121,
+      "longitude": 3.21901,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 51.20877,
+      "longitude": 4.61669,
+      "country": "Belgium",
+      "state": "Antwerp"
+    },
+    {
+      "latitude": 51.27127,
+      "longitude": 3.21897,
+      "country": "Belgium",
+      "state": "West Flanders"
+    },
+    {
+      "latitude": 56.41856,
+      "longitude": -5.414483,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 51.966299,
+      "longitude": -0.278903,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 37.897869,
+      "longitude": -121.946106,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 36.89783,
+      "longitude": -88.042681,
+      "country": "United States of America",
+      "state": "Kentucky"
+    },
+    {
+      "latitude": 55.686162,
+      "longitude": -1.940487,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 40.674953,
+      "longitude": -73.969078,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 38.413003,
+      "longitude": -81.609959,
+      "country": "United States of America",
+      "state": "West Virginia"
+    },
+    {
+      "latitude": 37.976526,
+      "longitude": -85.009527,
+      "country": "United States of America",
+      "state": "Kentucky"
+    },
+    {
+      "latitude": 45.715088,
+      "longitude": -73.490943,
+      "country": "Canada",
+      "state": "Qu\u00e9bec"
+    },
+    {
+      "latitude": 49.335415,
+      "longitude": 8.619118,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.856419,
+      "longitude": 6.156889,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 55.75862,
+      "longitude": 14.13306,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 56.68314,
+      "longitude": 12.92676,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 55.69862,
+      "longitude": 13.15841,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": -13.598313,
+      "longitude": -70.981152,
+      "country": "Peru",
+      "state": "Cusco"
+    },
+    {
+      "latitude": 46.136951,
+      "longitude": 14.585843,
+      "country": "Slovenia",
+      "state": "Osrednjeslovenska"
+    },
+    {
+      "latitude": 35.770367,
+      "longitude": -82.831925,
+      "country": "United States of America",
+      "state": "North Carolina"
+    },
+    {
+      "latitude": 36.771908,
+      "longitude": -76.042641,
+      "country": "United States of America",
+      "state": "Virginia"
+    },
+    {
+      "latitude": 39.313497,
+      "longitude": -74.595072,
+      "country": "United States of America",
+      "state": "New Jersey"
+    },
+    {
+      "latitude": 48.412131,
+      "longitude": -2.173982,
+      "country": "France",
+      "state": "Bretagne"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.3,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 4.2,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.75,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 4.25,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.95,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.9,
+      "longitude": 5.4,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.95,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 47.5581,
+      "longitude": 7.6047,
+      "country": "Switzerland",
+      "state": "Bs"
+    },
+    {
+      "latitude": 47.3304,
+      "longitude": 8.26549,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 46.25393,
+      "longitude": 7.40623,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.52132,
+      "longitude": 6.6893,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.19126,
+      "longitude": 8.72521,
+      "country": "Switzerland",
+      "state": "Sz"
+    },
+    {
+      "latitude": 55.64488,
+      "longitude": 13.17126,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 50.42789,
+      "longitude": 3.93304,
+      "country": "Belgium",
+      "state": "Hainaut"
+    },
+    {
+      "latitude": 52.872983,
+      "longitude": 1.230379,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 53.312878,
+      "longitude": -1.924069,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 53.90945,
+      "longitude": -2.06775,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 53.52307,
+      "longitude": -2.57557,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 39.332645,
+      "longitude": -76.631212,
+      "country": "United States of America",
+      "state": "Maryland"
+    },
+    {
+      "latitude": 55.795,
+      "longitude": 37.832778,
+      "country": "Russian Federation",
+      "state": "Moscow"
+    },
+    {
+      "latitude": 51.501685,
+      "longitude": 7.29967,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 35.827036,
+      "longitude": -95.939896,
+      "country": "United States of America",
+      "state": "Oklahoma"
+    },
+    {
+      "latitude": 50.961399,
+      "longitude": 10.345661,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 36.406056,
+      "longitude": -93.836344,
+      "country": "United States of America",
+      "state": "Arkansas"
+    },
+    {
+      "latitude": 58.346989,
+      "longitude": 8.537067,
+      "country": "Norway",
+      "state": "Agder"
+    },
+    {
+      "latitude": 57.52418,
+      "longitude": 12.13849,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 55.72252,
+      "longitude": 13.18438,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 42.959442,
+      "longitude": -85.576758,
+      "country": "United States of America",
+      "state": "Michigan"
+    },
+    {
+      "latitude": 54.131811,
+      "longitude": -1.008399,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 58.972378,
+      "longitude": -3.341558,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 41.7881,
+      "longitude": -80.068359,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 51.84337,
+      "longitude": -3.012258,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Wales"
+    },
+    {
+      "latitude": 51.7,
+      "longitude": 3.8,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.3,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.25,
+      "longitude": 6.75,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.55,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.45,
+      "longitude": 6.1,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 51.02097,
+      "longitude": 3.71098,
+      "country": "Belgium",
+      "state": "East Flanders"
+    },
+    {
+      "latitude": 50.83475,
+      "longitude": 4.28943,
+      "country": "Belgium",
+      "state": "Brussels Capital Region"
+    },
+    {
+      "latitude": 61.34434,
+      "longitude": 16.38676,
+      "country": "Sweden",
+      "state": "H\u00e4lsingland"
+    },
+    {
+      "latitude": 56.06359,
+      "longitude": 12.7744,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 59.31592,
+      "longitude": 18.17405,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 55.7224,
+      "longitude": 13.18473,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 56.6831,
+      "longitude": 12.89306,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 59.5723,
+      "longitude": 17.5295,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 59.965159,
+      "longitude": 10.674213,
+      "country": "Norway",
+      "state": "Oslo"
+    },
+    {
+      "latitude": 59.988374,
+      "longitude": 10.635837,
+      "country": "Norway",
+      "state": "Oslo"
+    },
+    {
+      "latitude": 58.255232,
+      "longitude": 8.055463,
+      "country": "Norway",
+      "state": "Agder"
+    },
+    {
+      "latitude": 59.73503,
+      "longitude": 10.216109,
+      "country": "Norway",
+      "state": "Buskerud"
+    },
+    {
+      "latitude": 59.898186,
+      "longitude": 10.622902,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 59.552883,
+      "longitude": 10.490319,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 6.25,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.7,
+      "longitude": 4.35,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 4.35,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.25,
+      "longitude": 3.75,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.3,
+      "longitude": 4.55,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.95,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 47.027164,
+      "longitude": 10.73942,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.561066,
+      "longitude": 10.640173,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 51.276306,
+      "longitude": 6.407003,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.923752,
+      "longitude": 10.290426,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 47.572994,
+      "longitude": 9.622198,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.856419,
+      "longitude": 6.156889,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 47.117207,
+      "longitude": 10.667848,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 49.644003,
+      "longitude": 8.645966,
+      "country": "Germany",
+      "state": "Hessen"
+    },
+    {
+      "latitude": 45.715143,
+      "longitude": -73.490154,
+      "country": "Canada",
+      "state": "Qu\u00e9bec"
+    },
+    {
+      "latitude": 32.616999,
+      "longitude": -96.971253,
+      "country": "United States of America",
+      "state": "Texas"
+    },
+    {
+      "latitude": 43.167988,
+      "longitude": -77.449411,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 44.832568,
+      "longitude": 20.551853,
+      "country": "Serbia",
+      "state": "Grad Beograd"
+    },
+    {
+      "latitude": 34.555713,
+      "longitude": -93.157089,
+      "country": "United States of America",
+      "state": "Arkansas"
+    },
+    {
+      "latitude": 53.724061,
+      "longitude": -0.388832,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 50.976717,
+      "longitude": 16.648892,
+      "country": "Poland",
+      "state": "Lower Silesian"
+    },
+    {
+      "latitude": 40.683011,
+      "longitude": -73.558978,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 54.91298,
+      "longitude": 43.181656,
+      "country": "Russian Federation",
+      "state": "Nizhegorod"
+    },
+    {
+      "latitude": 40.839177,
+      "longitude": -81.586642,
+      "country": "United States of America",
+      "state": "Ohio"
+    },
+    {
+      "latitude": 35.797527,
+      "longitude": -83.979942,
+      "country": "United States of America",
+      "state": "Tennessee"
+    },
+    {
+      "latitude": 39.907842,
+      "longitude": -80.207716,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 39.594833,
+      "longitude": -78.956772,
+      "country": "United States of America",
+      "state": "Maryland"
+    },
+    {
+      "latitude": 55.830014,
+      "longitude": 37.818886,
+      "country": "Russian Federation",
+      "state": "Moscow City"
+    },
+    {
+      "latitude": 48.3186,
+      "longitude": -123.547428,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 56.076852,
+      "longitude": 40.231353,
+      "country": "Russian Federation",
+      "state": "Vladimir"
+    },
+    {
+      "latitude": 43.118172,
+      "longitude": -77.596749,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 45.139553,
+      "longitude": 10.012977,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 53.721022,
+      "longitude": -0.413277,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 37.542872,
+      "longitude": -84.17997,
+      "country": "United States of America",
+      "state": "Kentucky"
+    },
+    {
+      "latitude": 56.375984,
+      "longitude": 41.316994,
+      "country": "Russian Federation",
+      "state": "Vladimir"
+    },
+    {
+      "latitude": 41.006486,
+      "longitude": -76.460633,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 43.203486,
+      "longitude": -77.59322,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 40.119319,
+      "longitude": -76.977088,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 39.197005,
+      "longitude": -86.508745,
+      "country": "United States of America",
+      "state": "Indiana"
+    },
+    {
+      "latitude": 51.87888,
+      "longitude": -5.265352,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Wales"
+    },
+    {
+      "latitude": 55.867358,
+      "longitude": 41.748554,
+      "country": "Russian Federation",
+      "state": "Vladimir"
+    },
+    {
+      "latitude": 46.92165,
+      "longitude": 15.384234,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 55.949883,
+      "longitude": -3.229317,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 48.317347,
+      "longitude": -118.062316,
+      "country": "United States of America",
+      "state": "Washington"
+    },
+    {
+      "latitude": 46.500949,
+      "longitude": -84.272813,
+      "country": "Canada",
+      "state": "Ontario"
+    },
+    {
+      "latitude": 53.150787,
+      "longitude": -2.094798,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 17.442636,
+      "longitude": 78.367619,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 44.890702,
+      "longitude": 34.619517,
+      "country": "Ukraine",
+      "state": "Crimea"
+    },
+    {
+      "latitude": 53.616086,
+      "longitude": -2.871761,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 40.982115,
+      "longitude": -76.582289,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 46.15616,
+      "longitude": 6.11177,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.73125,
+      "longitude": 9.43394,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 47.60295,
+      "longitude": 7.67133,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 46.73125,
+      "longitude": 9.43394,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.73346,
+      "longitude": 9.30315,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.92651,
+      "longitude": 6.74929,
+      "country": "Switzerland",
+      "state": "Ne"
+    },
+    {
+      "latitude": 46.20188,
+      "longitude": 6.17545,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 58.76487,
+      "longitude": 17.03054,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 55.64489,
+      "longitude": 13.1712,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 57.8002,
+      "longitude": 14.27044,
+      "country": "Sweden",
+      "state": "Sm\u00e5land"
+    },
+    {
+      "latitude": 57.45308,
+      "longitude": 12.1691,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 56.19003,
+      "longitude": 12.7713,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 57.45315,
+      "longitude": 12.16973,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 56.55209,
+      "longitude": 13.07471,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 56.74809,
+      "longitude": 12.77351,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 59.0434,
+      "longitude": 15.95663,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 59.64969,
+      "longitude": 15.80123,
+      "country": "Sweden",
+      "state": "V\u00e4stmanland"
+    },
+    {
+      "latitude": 59.23462,
+      "longitude": 15.22485,
+      "country": "Sweden",
+      "state": "N\u00e4rke"
+    },
+    {
+      "latitude": 57.70205,
+      "longitude": 11.78238,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 59.23462,
+      "longitude": 15.22485,
+      "country": "Sweden",
+      "state": "N\u00e4rke"
+    },
+    {
+      "latitude": 56.69724,
+      "longitude": 12.9594,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 57.64084,
+      "longitude": 18.29585,
+      "country": "Sweden",
+      "state": "Gotland"
+    },
+    {
+      "latitude": 55.72243,
+      "longitude": 13.18474,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 53.772877,
+      "longitude": 12.152296,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 40.691405,
+      "longitude": -73.838745,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 48.331835,
+      "longitude": -1.832453,
+      "country": "France",
+      "state": "Bretagne"
+    },
+    {
+      "latitude": 56.321409,
+      "longitude": 44.035693,
+      "country": "Russian Federation",
+      "state": "Nizhegorod"
+    },
+    {
+      "latitude": 53.452472,
+      "longitude": -1.990319,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 55.806866,
+      "longitude": -4.008672,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 54.233842,
+      "longitude": -1.663157,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 38.41299,
+      "longitude": -81.610096,
+      "country": "United States of America",
+      "state": "West Virginia"
+    },
+    {
+      "latitude": 54.211185,
+      "longitude": -0.809326,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 42.962714,
+      "longitude": -89.513889,
+      "country": "United States of America",
+      "state": "Wisconsin"
+    },
+    {
+      "latitude": 53.057052,
+      "longitude": 9.32705,
+      "country": "Germany",
+      "state": "Niedersachsen"
+    },
+    {
+      "latitude": 54.206383,
+      "longitude": -0.806198,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 47.791109,
+      "longitude": 19.130246,
+      "country": "Hungary",
+      "state": "Pest"
+    },
+    {
+      "latitude": 55.141279,
+      "longitude": -7.45714,
+      "country": "Ireland",
+      "state": "Donegal"
+    },
+    {
+      "latitude": 40.71542,
+      "longitude": -73.955383,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 55.736203,
+      "longitude": -1.988867,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 54.211185,
+      "longitude": -0.809326,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.994858,
+      "longitude": -4.973653,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Wales"
+    },
+    {
+      "latitude": 53.228282,
+      "longitude": -2.882531,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 43.172231,
+      "longitude": -77.52824,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 49.411072,
+      "longitude": -119.599838,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 53.616086,
+      "longitude": -2.871761,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 55.037147,
+      "longitude": -1.539956,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.84023,
+      "longitude": -0.44021,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.429662,
+      "longitude": 6.875403,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 57.52427,
+      "longitude": 12.13788,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 50.105057,
+      "longitude": 10.184755,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 50.099697,
+      "longitude": 10.595375,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 47.316603,
+      "longitude": 11.058044,
+      "country": "Austria",
+      "state": "Tirol"
+    },
+    {
+      "latitude": 42.886767,
+      "longitude": -75.642739,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 40.598437,
+      "longitude": -79.998043,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 40.619775,
+      "longitude": -80.031238,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 40.286025,
+      "longitude": -76.238967,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    },
+    {
+      "latitude": 45.531237,
+      "longitude": 9.186803,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 51.371326,
+      "longitude": -0.283997,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 45.540023,
+      "longitude": -73.298781,
+      "country": "Canada",
+      "state": "Qu\u00e9bec"
+    },
+    {
+      "latitude": 48.042778,
+      "longitude": -1.619444,
+      "country": "France",
+      "state": "Bretagne"
+    },
+    {
+      "latitude": 24.024511,
+      "longitude": 32.884645,
+      "country": "Egypt",
+      "state": "Aswan"
+    },
+    {
+      "latitude": 52.232997,
+      "longitude": 20.911263,
+      "country": "Poland",
+      "state": "Masovian"
+    },
+    {
+      "latitude": 51.7,
+      "longitude": 6.0,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.65,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.85,
+      "longitude": 5.8,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 6.25,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 55.72245,
+      "longitude": 13.18464,
+      "country": "Sweden",
+      "state": "Sk\u00e5ne"
+    },
+    {
+      "latitude": 52.354212,
+      "longitude": 4.952139,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.5,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.65,
+      "longitude": 3.8,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 52.0,
+      "longitude": 4.55,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 51.25,
+      "longitude": 3.75,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 53.515078,
+      "longitude": -2.989255,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 50.98932,
+      "longitude": 0.12488,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 58.972378,
+      "longitude": -3.341558,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Scotland"
+    },
+    {
+      "latitude": 53.452472,
+      "longitude": -1.990319,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.7,
+      "longitude": 4.05,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 54.232738,
+      "longitude": 37.641108,
+      "country": "Russian Federation",
+      "state": "Tula"
+    },
+    {
+      "latitude": 55.749887,
+      "longitude": 12.237579,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 55.716778,
+      "longitude": 12.625642,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 52.071128,
+      "longitude": 27.346029,
+      "country": "Belarus",
+      "state": "Brest"
+    },
+    {
+      "latitude": 34.15678,
+      "longitude": -118.296244,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 41.470561,
+      "longitude": -112.039382,
+      "country": "United States of America",
+      "state": "Utah"
+    },
+    {
+      "latitude": 45.921708,
+      "longitude": 6.488436,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 37.17999,
+      "longitude": -90.201657,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 37.17999,
+      "longitude": -90.201657,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 44.26326,
+      "longitude": -72.572556,
+      "country": "United States of America",
+      "state": "Vermont"
+    },
+    {
+      "latitude": 56.63115,
+      "longitude": 12.94773,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 56.6319,
+      "longitude": 12.95428,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 50.961399,
+      "longitude": 10.345661,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 51.730281,
+      "longitude": -2.464285,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 36.999581,
+      "longitude": -78.51449,
+      "country": "United States of America",
+      "state": "Virginia"
+    },
+    {
+      "latitude": 49.130997,
+      "longitude": -114.026994,
+      "country": "Canada",
+      "state": "Alberta"
+    },
+    {
+      "latitude": 53.470014,
+      "longitude": -1.98551,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 53.833281,
+      "longitude": -3.052911,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.881787,
+      "longitude": -5.299525,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Wales"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.25,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.55,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 5.25,
+      "country": "Netherlands",
+      "state": "Flevoland"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 5.25,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 6.25,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 58.60166,
+      "longitude": 16.20877,
+      "country": "Sweden",
+      "state": "\u00d6sterg\u00f6tland"
+    },
+    {
+      "latitude": 57.52418,
+      "longitude": 12.13849,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 52.25,
+      "longitude": 4.5,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 56.64513,
+      "longitude": 16.50207,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 50.131802,
+      "longitude": 10.235653,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 49.496006,
+      "longitude": 8.467369,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 37.828753,
+      "longitude": -122.376247,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 40.721399,
+      "longitude": -74.241843,
+      "country": "United States of America",
+      "state": "New Jersey"
+    },
+    {
+      "latitude": 40.543976,
+      "longitude": -8.656951,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 42.891138,
+      "longitude": -75.636405,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 39.620745,
+      "longitude": 2.737504,
+      "country": "Spain",
+      "state": "Islas Baleares"
+    },
+    {
+      "latitude": 47.138519,
+      "longitude": 3.783462,
+      "country": "France",
+      "state": "Bourgogne"
+    },
+    {
+      "latitude": 47.990329,
+      "longitude": 16.914879,
+      "country": "Austria",
+      "state": "Burgenland"
+    },
+    {
+      "latitude": 53.990218,
+      "longitude": -1.880791,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 41.468239,
+      "longitude": -87.658127,
+      "country": "United States of America",
+      "state": "Illinois"
+    },
+    {
+      "latitude": 42.891022,
+      "longitude": -75.636466,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 45.505713,
+      "longitude": 10.258028,
+      "country": "Italy",
+      "state": "Lombardia"
+    },
+    {
+      "latitude": 42.887852,
+      "longitude": -75.637547,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 40.738411,
+      "longitude": -73.92334,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 39.358025,
+      "longitude": -79.478403,
+      "country": "United States of America",
+      "state": "Maryland"
+    },
+    {
+      "latitude": 41.059039,
+      "longitude": -72.368653,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 49.347578,
+      "longitude": -119.579244,
+      "country": "Canada",
+      "state": "British Columbia"
+    },
+    {
+      "latitude": 42.885718,
+      "longitude": -75.64144,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 48.470367,
+      "longitude": -2.015927,
+      "country": "France",
+      "state": "Bretagne"
+    },
+    {
+      "latitude": 54.667469,
+      "longitude": -7.310147,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Northern Ireland"
+    },
+    {
+      "latitude": 56.016937,
+      "longitude": 37.129519,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 50.029352,
+      "longitude": 15.200275,
+      "country": "Czechia",
+      "state": "St\u0159edo\u010desk\u00fd"
+    },
+    {
+      "latitude": 48.46961,
+      "longitude": -2.022928,
+      "country": "France",
+      "state": "Bretagne"
+    },
+    {
+      "latitude": 42.88573,
+      "longitude": -75.641425,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 42.891118,
+      "longitude": -75.635561,
+      "country": "United States of America",
+      "state": "New York"
+    },
+    {
+      "latitude": 38.845287,
+      "longitude": -84.778245,
+      "country": "United States of America",
+      "state": "Kentucky"
+    },
+    {
+      "latitude": 50.95,
+      "longitude": 5.95,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.1,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 57.7018,
+      "longitude": 11.78253,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 59.56574,
+      "longitude": 17.5356,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 56.74809,
+      "longitude": 12.77351,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 42.149902,
+      "longitude": -80.132837,
+      "country": "United States of America",
+      "state": "Pennsylvania"
+    }
+  ],
+  "scientific_name": "Mentha spicata",
+  "common_name": "spearmint",
+  "description": null
+}

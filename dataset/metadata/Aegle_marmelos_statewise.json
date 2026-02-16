@@ -1,0 +1,101 @@
+{
+  "herb": "Aegle marmelos",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Telangana": {
+      "count": 25,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Rajasthan": {
+      "count": 23,
+      "normalizedScore": 0.92,
+      "presence": "High"
+    },
+    "Haryana": {
+      "count": 3,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "Maharashtra": {
+      "count": 22,
+      "normalizedScore": 0.88,
+      "presence": "High"
+    },
+    "Uttarakhand": {
+      "count": 7,
+      "normalizedScore": 0.28,
+      "presence": "Low"
+    },
+    "AndhraPradesh": {
+      "count": 5,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    },
+    "Odisha": {
+      "count": 13,
+      "normalizedScore": 0.52,
+      "presence": "Medium"
+    },
+    "WestBengal": {
+      "count": 7,
+      "normalizedScore": 0.28,
+      "presence": "Low"
+    },
+    "MadhyaPradesh": {
+      "count": 9,
+      "normalizedScore": 0.36,
+      "presence": "Low"
+    },
+    "NCTofDelhi": {
+      "count": 5,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    },
+    "Bihar": {
+      "count": 4,
+      "normalizedScore": 0.16,
+      "presence": "Very Low"
+    },
+    "TamilNadu": {
+      "count": 11,
+      "normalizedScore": 0.44,
+      "presence": "Low"
+    },
+    "UttarPradesh": {
+      "count": 7,
+      "normalizedScore": 0.28,
+      "presence": "Low"
+    },
+    "Karnataka": {
+      "count": 5,
+      "normalizedScore": 0.2,
+      "presence": "Low"
+    },
+    "Chhattisgarh": {
+      "count": 4,
+      "normalizedScore": 0.16,
+      "presence": "Very Low"
+    },
+    "Kerala": {
+      "count": 6,
+      "normalizedScore": 0.24,
+      "presence": "Low"
+    },
+    "Assam": {
+      "count": 3,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "Goa": {
+      "count": 1,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 4,
+      "normalizedScore": 0.16,
+      "presence": "Very Low"
+    }
+  }
+}

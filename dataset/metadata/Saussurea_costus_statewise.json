@@ -1,0 +1,11 @@
+{
+  "herb": "Saussurea costus",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Uttarakhand": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    }
+  }
+}

@@ -1,0 +1,3008 @@
+{
+  "herb": "Cinnamomum verum",
+  "locations": [
+    {
+      "latitude": -7.943,
+      "longitude": 111.197,
+      "country": "Indonesia",
+      "state": null
+    },
+    {
+      "latitude": -6.105,
+      "longitude": 39.251,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": 14.77,
+      "longitude": -61.113,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 8.034414,
+      "longitude": 80.748558,
+      "country": "Sri Lanka",
+      "state": "Anuradhapura"
+    },
+    {
+      "latitude": 6.879707,
+      "longitude": 79.929859,
+      "country": "Sri Lanka",
+      "state": "Colombo"
+    },
+    {
+      "latitude": 14.7,
+      "longitude": -60.978,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 16.013,
+      "longitude": -61.709,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": -23.501,
+      "longitude": -46.594,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -20.375,
+      "longitude": -40.768,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 22.969,
+      "longitude": 88.463,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 6.354027,
+      "longitude": 80.491264,
+      "country": "Sri Lanka",
+      "state": "Matara"
+    },
+    {
+      "latitude": 22.126757,
+      "longitude": 113.558036,
+      "country": "Macao",
+      "state": "Ilhas"
+    },
+    {
+      "latitude": 22.200857,
+      "longitude": 113.547899,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 22.199192,
+      "longitude": 113.551115,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": 9.806776,
+      "longitude": 76.305786,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 6.262649,
+      "longitude": -75.57677,
+      "country": "Colombia",
+      "state": "Antioquia"
+    },
+    {
+      "latitude": 4.720162,
+      "longitude": -52.303372,
+      "country": "French Guiana",
+      "state": "Cayenne"
+    },
+    {
+      "latitude": 6.8368,
+      "longitude": 80.096083,
+      "country": "Sri Lanka",
+      "state": "Colombo"
+    },
+    {
+      "latitude": 15.413016,
+      "longitude": 74.029831,
+      "country": "India",
+      "state": "Goa"
+    },
+    {
+      "latitude": 12.059485,
+      "longitude": -61.688592,
+      "country": "Grenada",
+      "state": "Saint David"
+    },
+    {
+      "latitude": 1.188135,
+      "longitude": 104.407745,
+      "country": "Indonesia",
+      "state": "Kepulauan Riau"
+    },
+    {
+      "latitude": 9.329097,
+      "longitude": 80.684976,
+      "country": "Sri Lanka",
+      "state": "Mullaitivu"
+    },
+    {
+      "latitude": 14.658213,
+      "longitude": -60.938142,
+      "country": "Martinique",
+      "state": "Le Trinit\u00e9"
+    },
+    {
+      "latitude": -17.017678,
+      "longitude": -41.054353,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": -12.781984,
+      "longitude": 45.135186,
+      "country": "Mayotte",
+      "state": "Tsingoni"
+    },
+    {
+      "latitude": 21.335529,
+      "longitude": -157.807771,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.335841,
+      "longitude": -157.806538,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.33749,
+      "longitude": -157.80651,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.335313,
+      "longitude": -157.807877,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.335356,
+      "longitude": -157.806495,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -9.406044,
+      "longitude": 147.165606,
+      "country": "Papua New Guinea",
+      "state": "National Capital District"
+    },
+    {
+      "latitude": 7.602562,
+      "longitude": 80.630037,
+      "country": "Sri Lanka",
+      "state": "Matale"
+    },
+    {
+      "latitude": 6.002547,
+      "longitude": 80.321342,
+      "country": "Sri Lanka",
+      "state": "Galle"
+    },
+    {
+      "latitude": 6.821462,
+      "longitude": 80.043156,
+      "country": "Sri Lanka",
+      "state": "Colombo"
+    },
+    {
+      "latitude": -20.378611,
+      "longitude": -43.711944,
+      "country": "Brazil",
+      "state": "Minas Gerais"
+    },
+    {
+      "latitude": 6.044765,
+      "longitude": 80.257889,
+      "country": "Sri Lanka",
+      "state": "Galle"
+    },
+    {
+      "latitude": 6.822185,
+      "longitude": 80.042537,
+      "country": "Sri Lanka",
+      "state": "Colombo"
+    },
+    {
+      "latitude": 6.822982,
+      "longitude": 80.042216,
+      "country": "Sri Lanka",
+      "state": "Colombo"
+    },
+    {
+      "latitude": 22.104189,
+      "longitude": -159.343217,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 21.337292,
+      "longitude": -157.804984,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 6.441287,
+      "longitude": 80.418113,
+      "country": "Sri Lanka",
+      "state": "Ratnapura"
+    },
+    {
+      "latitude": -4.614124,
+      "longitude": 55.428856,
+      "country": "Seychelles",
+      "state": "Beau Vallon"
+    },
+    {
+      "latitude": -29.442058,
+      "longitude": -51.274319,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": 6.822063,
+      "longitude": 80.042473,
+      "country": "Sri Lanka",
+      "state": "Colombo"
+    },
+    {
+      "latitude": 6.822063,
+      "longitude": 80.042473,
+      "country": "Sri Lanka",
+      "state": "Colombo"
+    },
+    {
+      "latitude": 12.082108,
+      "longitude": 75.190469,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 6.432428,
+      "longitude": 80.413945,
+      "country": "Sri Lanka",
+      "state": "Ratnapura"
+    },
+    {
+      "latitude": 12.896,
+      "longitude": 74.846,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 1.28073,
+      "longitude": 103.846366,
+      "country": "Singapore",
+      "state": "Central"
+    },
+    {
+      "latitude": 12.868854,
+      "longitude": 99.495161,
+      "country": "Thailand",
+      "state": "Phetchaburi"
+    },
+    {
+      "latitude": 14.324458,
+      "longitude": 101.306763,
+      "country": "Thailand",
+      "state": "Nakhon Nayok"
+    },
+    {
+      "latitude": -22.515,
+      "longitude": -43.998333,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -4.707033,
+      "longitude": 55.509876,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.356681,
+      "longitude": 55.842896,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 6.388,
+      "longitude": 80.048,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 6.048538,
+      "longitude": 80.679852,
+      "country": "Sri Lanka",
+      "state": "Hambantota"
+    },
+    {
+      "latitude": 14.532,
+      "longitude": -61.023,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 7.062344,
+      "longitude": 79.930992,
+      "country": "Sri Lanka",
+      "state": "Gampaha"
+    },
+    {
+      "latitude": 10.153226,
+      "longitude": 76.337679,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 16.691662,
+      "longitude": 74.250196,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 6.403587,
+      "longitude": 80.022729,
+      "country": "Sri Lanka",
+      "state": "Galle"
+    },
+    {
+      "latitude": -12.252222,
+      "longitude": -38.943889,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": 9.57,
+      "longitude": 76.518,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -20.311,
+      "longitude": -45.529,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 6.284191,
+      "longitude": 80.051443,
+      "country": "Sri Lanka",
+      "state": "Galle"
+    },
+    {
+      "latitude": 16.321,
+      "longitude": -61.692,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": -15.938055,
+      "longitude": -47.961111,
+      "country": "Brazil",
+      "state": "Distrito Federal"
+    },
+    {
+      "latitude": -21.76,
+      "longitude": -48.151,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 14.716,
+      "longitude": -61.003,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 15.592928,
+      "longitude": -61.342653,
+      "country": "Dominica",
+      "state": "Saint Andrew"
+    },
+    {
+      "latitude": 14.08997,
+      "longitude": -89.69571,
+      "country": "El Salvador",
+      "state": null
+    },
+    {
+      "latitude": -20.529,
+      "longitude": -40.4,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -20.287,
+      "longitude": 57.778,
+      "country": "Mauritius",
+      "state": null
+    },
+    {
+      "latitude": 15.593,
+      "longitude": -61.343,
+      "country": "Dominica",
+      "state": null
+    },
+    {
+      "latitude": 6.731578,
+      "longitude": 79.966416,
+      "country": "Sri Lanka",
+      "state": "Kalutara"
+    },
+    {
+      "latitude": -23.244381,
+      "longitude": -45.889199,
+      "country": "Brazil",
+      "state": "S\u00e3o Paulo"
+    },
+    {
+      "latitude": -34.478,
+      "longitude": -58.871,
+      "country": "Argentina",
+      "state": null
+    },
+    {
+      "latitude": -6.87,
+      "longitude": 107.667,
+      "country": "Indonesia",
+      "state": null
+    },
+    {
+      "latitude": -13.448889,
+      "longitude": -39.42,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -22.977778,
+      "longitude": -43.232778,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -18.6725,
+      "longitude": -39.856667,
+      "country": "Brazil",
+      "state": "Esp\u00edrito Santo"
+    },
+    {
+      "latitude": 10.015,
+      "longitude": 76.293,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -22.486,
+      "longitude": -42.846,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 7.581,
+      "longitude": 80.627,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": -22.486,
+      "longitude": -42.846,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -17.536389,
+      "longitude": -51.437778,
+      "country": "Brazil",
+      "state": "Goi\u00e1s"
+    },
+    {
+      "latitude": 6.799765,
+      "longitude": 80.07077,
+      "country": "Sri Lanka",
+      "state": "Kalutara"
+    },
+    {
+      "latitude": -17.536389,
+      "longitude": -51.437778,
+      "country": "Brazil",
+      "state": "Goi\u00e1s"
+    },
+    {
+      "latitude": 2.912525,
+      "longitude": 101.678436,
+      "country": "Malaysia",
+      "state": "Putrajaya"
+    },
+    {
+      "latitude": 23.979037,
+      "longitude": 121.594276,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -12.834078,
+      "longitude": 45.170045,
+      "country": "Mayotte",
+      "state": "Dembeni"
+    },
+    {
+      "latitude": -12.783333,
+      "longitude": -38.433333,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -29.846389,
+      "longitude": 31.006656,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 12.003,
+      "longitude": 79.812,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -23.586,
+      "longitude": -46.688,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 18.435,
+      "longitude": 72.912,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.966942,
+      "longitude": 120.221525,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.069964,
+      "longitude": -159.417974,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": -0.825,
+      "longitude": -47.449167,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": -16.842,
+      "longitude": -49.232,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -27.422,
+      "longitude": -55.928,
+      "country": "Argentina",
+      "state": null
+    },
+    {
+      "latitude": 1.320114,
+      "longitude": 103.815836,
+      "country": "Singapore",
+      "state": "Central"
+    },
+    {
+      "latitude": -4.659773,
+      "longitude": 55.437293,
+      "country": "Seychelles",
+      "state": "Port Glaud"
+    },
+    {
+      "latitude": 9.326913,
+      "longitude": -79.885405,
+      "country": "Panama",
+      "state": "Col\u00f3n"
+    },
+    {
+      "latitude": -4.63051,
+      "longitude": 55.40847,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.63383,
+      "longitude": 55.41597,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 0.289,
+      "longitude": 6.612,
+      "country": "Sao Tome and Principe",
+      "state": null
+    },
+    {
+      "latitude": 17.173864,
+      "longitude": 78.672592,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -23.828699,
+      "longitude": -45.349143,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -4.63383,
+      "longitude": 55.41597,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.63051,
+      "longitude": 55.40847,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -1.774444,
+      "longitude": -47.441389,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": 6.789064,
+      "longitude": 80.460464,
+      "country": "Sri Lanka",
+      "state": "Ratnapura"
+    },
+    {
+      "latitude": -23.576457,
+      "longitude": -46.915708,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -19.107764,
+      "longitude": -48.325108,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 17.74,
+      "longitude": -96.56,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": -25.571667,
+      "longitude": -54.562778,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -25.571667,
+      "longitude": -54.562778,
+      "country": "Brazil",
+      "state": "Pr"
+    },
+    {
+      "latitude": 6.418214,
+      "longitude": 80.007175,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 18.96212,
+      "longitude": 82.999231,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 17.76,
+      "longitude": -96.56,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 7.3,
+      "longitude": 80.6,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 12.908,
+      "longitude": 77.568,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -23.152182,
+      "longitude": -46.279027,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -4.369,
+      "longitude": 55.847,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 22.663625,
+      "longitude": 88.436695,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 16.210695,
+      "longitude": -61.78159,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": 16.234588,
+      "longitude": -61.602133,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": 16.083393,
+      "longitude": -61.583774,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": -0.720556,
+      "longitude": -48.525833,
+      "country": "Brazil",
+      "state": "Par\u00e1"
+    },
+    {
+      "latitude": 8.64221,
+      "longitude": -83.725751,
+      "country": "Costa Rica",
+      "state": "Puntarenas"
+    },
+    {
+      "latitude": -4.65015,
+      "longitude": 55.45829,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.65292,
+      "longitude": 55.45759,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.653888,
+      "longitude": 55.449043,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -22.539746,
+      "longitude": -43.996876,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 6.894936,
+      "longitude": 79.918894,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": 1.490396,
+      "longitude": 110.336078,
+      "country": "Malaysia",
+      "state": null
+    },
+    {
+      "latitude": -4.65015,
+      "longitude": 55.45829,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.65292,
+      "longitude": 55.45759,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 38.614167,
+      "longitude": -90.258889,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": -4.66197,
+      "longitude": 55.42572,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.66236,
+      "longitude": 55.42595,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6618,
+      "longitude": 55.42553,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.66249,
+      "longitude": 55.42612,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.66129,
+      "longitude": 55.42562,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.66197,
+      "longitude": 55.42572,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6618,
+      "longitude": 55.42553,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.66129,
+      "longitude": 55.42562,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.66236,
+      "longitude": 55.42595,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.66249,
+      "longitude": 55.42612,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -23.67323,
+      "longitude": -46.342023,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -21.934907,
+      "longitude": -47.878211,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -21.232799,
+      "longitude": -47.7688,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -21.550021,
+      "longitude": -45.458411,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -4.65019,
+      "longitude": 55.457878,
+      "country": "Seychelles",
+      "state": "Plaisance"
+    },
+    {
+      "latitude": -6.086,
+      "longitude": 39.248,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": -4.67138,
+      "longitude": 55.45432,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67138,
+      "longitude": 55.45432,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -6.562409,
+      "longitude": 106.726057,
+      "country": "Indonesia",
+      "state": null
+    },
+    {
+      "latitude": -21.609519,
+      "longitude": -47.022262,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -21.760322,
+      "longitude": -48.151149,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 23.815552,
+      "longitude": 120.848999,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 17.001738,
+      "longitude": 81.310614,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -13.891217,
+      "longitude": -171.796509,
+      "country": "Samoa",
+      "state": "Tuamasaga"
+    },
+    {
+      "latitude": -21.76,
+      "longitude": -48.151,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -20.351,
+      "longitude": 57.748,
+      "country": "Mauritius",
+      "state": null
+    },
+    {
+      "latitude": -16.607283,
+      "longitude": 145.339906,
+      "country": "Australia",
+      "state": null
+    },
+    {
+      "latitude": -4.359753,
+      "longitude": 55.839542,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -19.977347,
+      "longitude": -44.07682,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -7.281167,
+      "longitude": -39.277472,
+      "country": "Brazil",
+      "state": "Cear\u00e1"
+    },
+    {
+      "latitude": -15.420278,
+      "longitude": -34.713056,
+      "country": "Brazil",
+      "state": "Bahia"
+    },
+    {
+      "latitude": -23.587,
+      "longitude": -46.688,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -4.654327,
+      "longitude": 55.399749,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -23.808599,
+      "longitude": -45.364848,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -22.98,
+      "longitude": -43.233333,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -6.091,
+      "longitude": 39.261,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": -6.087,
+      "longitude": 39.258,
+      "country": "Tanzania, United Republic of",
+      "state": null
+    },
+    {
+      "latitude": 10.158298,
+      "longitude": 76.340393,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 23.787415,
+      "longitude": 90.404839,
+      "country": "Bangladesh",
+      "state": "Dhaka"
+    },
+    {
+      "latitude": -8.246389,
+      "longitude": 115.100556,
+      "country": "Indonesia",
+      "state": "Bali"
+    },
+    {
+      "latitude": -8.246389,
+      "longitude": 115.100556,
+      "country": "Indonesia",
+      "state": "Bali"
+    },
+    {
+      "latitude": -23.943,
+      "longitude": -46.303,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -22.864722,
+      "longitude": -42.343889,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": -22.864722,
+      "longitude": -42.343889,
+      "country": "Brazil",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "latitude": 11.15,
+      "longitude": -84.416667,
+      "country": "Nicaragua",
+      "state": "R\u00edo San Juan"
+    },
+    {
+      "latitude": 11.15,
+      "longitude": -84.416667,
+      "country": "Nicaragua",
+      "state": "R\u00edo San Juan"
+    },
+    {
+      "latitude": 8.517219,
+      "longitude": 76.882906,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 13.904507,
+      "longitude": 120.894534,
+      "country": "Philippines",
+      "state": null
+    },
+    {
+      "latitude": -12.91917,
+      "longitude": 45.1487,
+      "country": "Mayotte",
+      "state": null
+    },
+    {
+      "latitude": -12.91917,
+      "longitude": 45.1487,
+      "country": "Mayotte",
+      "state": null
+    },
+    {
+      "latitude": -4.6805,
+      "longitude": 55.4794,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6805,
+      "longitude": 55.4794,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6723,
+      "longitude": 55.47432,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67384,
+      "longitude": 55.47629,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67575,
+      "longitude": 55.47724,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.69225,
+      "longitude": 55.48502,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67945,
+      "longitude": 55.47931,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67203,
+      "longitude": 55.47252,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.68524,
+      "longitude": 55.48257,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 14.790315,
+      "longitude": -61.216403,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": -21.244527,
+      "longitude": -159.73286,
+      "country": "Cook Islands",
+      "state": null
+    },
+    {
+      "latitude": 28.414738,
+      "longitude": 77.084736,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -13.878,
+      "longitude": -171.767,
+      "country": "Samoa",
+      "state": null
+    },
+    {
+      "latitude": -25.598033,
+      "longitude": -54.586968,
+      "country": "Argentina",
+      "state": "Misiones"
+    },
+    {
+      "latitude": 10.390941,
+      "longitude": 76.298151,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -4.67718,
+      "longitude": 55.47463,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71656,
+      "longitude": 55.50962,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67251,
+      "longitude": 55.47245,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.34462,
+      "longitude": 55.74251,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67596,
+      "longitude": 55.47219,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28048,
+      "longitude": 55.71359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.7164,
+      "longitude": 55.50659,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67763,
+      "longitude": 55.47226,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28275,
+      "longitude": 55.71333,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28281,
+      "longitude": 55.71315,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71451,
+      "longitude": 55.51274,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.68149,
+      "longitude": 55.51143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67438,
+      "longitude": 55.50866,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.674,
+      "longitude": 55.47082,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67307,
+      "longitude": 55.47062,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.27818,
+      "longitude": 55.71399,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.32706,
+      "longitude": 55.73096,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28193,
+      "longitude": 55.71331,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67486,
+      "longitude": 55.47211,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33545,
+      "longitude": 55.72725,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33695,
+      "longitude": 55.7376,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33741,
+      "longitude": 55.7275,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -6.894178,
+      "longitude": 107.610225,
+      "country": "Indonesia",
+      "state": null
+    },
+    {
+      "latitude": -20.249887,
+      "longitude": -49.211489,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -21.696311,
+      "longitude": -41.031846,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -4.71656,
+      "longitude": 55.50962,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28338,
+      "longitude": 55.71522,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.32706,
+      "longitude": 55.73096,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71508,
+      "longitude": 55.51216,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33825,
+      "longitude": 55.72772,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28048,
+      "longitude": 55.71359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67793,
+      "longitude": 55.47323,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67347,
+      "longitude": 55.50856,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.3066,
+      "longitude": 55.70597,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67307,
+      "longitude": 55.47062,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33545,
+      "longitude": 55.72725,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28281,
+      "longitude": 55.71315,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.674,
+      "longitude": 55.47082,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28406,
+      "longitude": 55.71656,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33695,
+      "longitude": 55.7376,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67718,
+      "longitude": 55.47463,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33856,
+      "longitude": 55.73761,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67486,
+      "longitude": 55.47211,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33741,
+      "longitude": 55.7275,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33615,
+      "longitude": 55.73724,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.34462,
+      "longitude": 55.74251,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67596,
+      "longitude": 55.47219,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67845,
+      "longitude": 55.50875,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71451,
+      "longitude": 55.51274,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28193,
+      "longitude": 55.71331,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.2829,
+      "longitude": 55.71463,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.32658,
+      "longitude": 55.73099,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67251,
+      "longitude": 55.47245,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.7164,
+      "longitude": 55.50659,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.27818,
+      "longitude": 55.71399,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71704,
+      "longitude": 55.50459,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33667,
+      "longitude": 55.72716,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67729,
+      "longitude": 55.47573,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67763,
+      "longitude": 55.47226,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.28275,
+      "longitude": 55.71333,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.68149,
+      "longitude": 55.51143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.33579,
+      "longitude": 55.73706,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 17.7,
+      "longitude": -96.46,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": -4.6719,
+      "longitude": 55.48799,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67599,
+      "longitude": 55.49284,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6704,
+      "longitude": 55.49148,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 12.983404,
+      "longitude": 79.891443,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -4.66992,
+      "longitude": 55.49021,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67125,
+      "longitude": 55.48966,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6719,
+      "longitude": 55.48799,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6704,
+      "longitude": 55.49148,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.67599,
+      "longitude": 55.49284,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 22.788,
+      "longitude": 83.57,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -24.368722,
+      "longitude": -51.959167,
+      "country": "Brazil",
+      "state": "Pr"
+    },
+    {
+      "latitude": -4.65665,
+      "longitude": 55.44157,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.621,
+      "longitude": 55.393,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 29.975448,
+      "longitude": 78.042578,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -6.601515,
+      "longitude": 106.570377,
+      "country": "Indonesia",
+      "state": null
+    },
+    {
+      "latitude": -19.762194,
+      "longitude": -42.136719,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 16.255989,
+      "longitude": -61.790654,
+      "country": "Guadeloupe",
+      "state": null
+    },
+    {
+      "latitude": -4.65665,
+      "longitude": 55.44157,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -24.368611,
+      "longitude": -51.959167,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -24.368611,
+      "longitude": -51.959167,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -24.368611,
+      "longitude": -51.959167,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": -24.368722,
+      "longitude": -51.959167,
+      "country": "Brazil",
+      "state": "Paran\u00e1"
+    },
+    {
+      "latitude": 15.5572,
+      "longitude": -91.753685,
+      "country": "Guatemala",
+      "state": "Huehuetenango"
+    },
+    {
+      "latitude": -4.61065,
+      "longitude": 55.50361,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.60928,
+      "longitude": 55.50375,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.60864,
+      "longitude": 55.50052,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": 14.746,
+      "longitude": -60.967,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": -18.892475,
+      "longitude": -41.960313,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -4.61065,
+      "longitude": 55.50361,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.60928,
+      "longitude": 55.50375,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.60864,
+      "longitude": 55.50052,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -28.263333,
+      "longitude": -52.406944,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": -28.263333,
+      "longitude": -52.406944,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": -28.263333,
+      "longitude": -52.406944,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": -28.263333,
+      "longitude": -52.406944,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": -28.263333,
+      "longitude": -52.406944,
+      "country": "Brazil",
+      "state": "Rio Grande do Sul"
+    },
+    {
+      "latitude": -2.55375,
+      "longitude": -44.305861,
+      "country": "Brazil",
+      "state": "Maranh\u00e3o"
+    },
+    {
+      "latitude": -4.71261,
+      "longitude": 55.49954,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71596,
+      "longitude": 55.50161,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -22.413374,
+      "longitude": -43.155359,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 14.768017,
+      "longitude": -61.111757,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": -4.71596,
+      "longitude": 55.50161,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71261,
+      "longitude": 55.49954,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.72024,
+      "longitude": 55.50162,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71291,
+      "longitude": 55.49975,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.71122,
+      "longitude": 55.49976,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -21.736599,
+      "longitude": -43.401372,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": 13.933876,
+      "longitude": 75.577246,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -22.645082,
+      "longitude": -43.183235,
+      "country": "Brazil",
+      "state": null
+    },
+    {
+      "latitude": -4.362497,
+      "longitude": 55.833764,
+      "country": "Seychelles",
+      "state": "La Digue and Inner Islands"
+    },
+    {
+      "latitude": 23.682,
+      "longitude": 85.05,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.700912,
+      "longitude": -61.01779,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 23.743222,
+      "longitude": 92.6832,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 14.706,
+      "longitude": -60.994,
+      "country": "Martinique",
+      "state": null
+    },
+    {
+      "latitude": 17.093611,
+      "longitude": -94.128609,
+      "country": "Mexico",
+      "state": "Oaxaca"
+    },
+    {
+      "latitude": 9.597015,
+      "longitude": 76.600802,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 6.755227,
+      "longitude": 80.932048,
+      "country": "Sri Lanka",
+      "state": null
+    },
+    {
+      "latitude": -4.64703,
+      "longitude": 55.41464,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64587,
+      "longitude": 55.41254,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64703,
+      "longitude": 55.41464,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64703,
+      "longitude": 55.41464,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.48871,
+      "longitude": 55.25286,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64712,
+      "longitude": 55.41545,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64712,
+      "longitude": 55.41545,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49664,
+      "longitude": 55.24988,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64677,
+      "longitude": 55.4133,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49664,
+      "longitude": 55.24988,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64677,
+      "longitude": 55.4133,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64677,
+      "longitude": 55.4133,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64587,
+      "longitude": 55.41254,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64677,
+      "longitude": 55.4133,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64703,
+      "longitude": 55.41464,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64703,
+      "longitude": 55.41464,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49664,
+      "longitude": 55.24988,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49664,
+      "longitude": 55.24988,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49664,
+      "longitude": 55.24988,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64712,
+      "longitude": 55.41545,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.48871,
+      "longitude": 55.25286,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.48871,
+      "longitude": 55.25286,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.48871,
+      "longitude": 55.25286,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64587,
+      "longitude": 55.41254,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49664,
+      "longitude": 55.24988,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64703,
+      "longitude": 55.41464,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64632,
+      "longitude": 55.41363,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64703,
+      "longitude": 55.41464,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64712,
+      "longitude": 55.41545,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.48871,
+      "longitude": 55.25286,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.48871,
+      "longitude": 55.25286,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64677,
+      "longitude": 55.4133,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64677,
+      "longitude": 55.4133,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64676,
+      "longitude": 55.41359,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64587,
+      "longitude": 55.41254,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.48871,
+      "longitude": 55.25286,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49664,
+      "longitude": 55.24988,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64712,
+      "longitude": 55.41545,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64631,
+      "longitude": 55.41372,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64713,
+      "longitude": 55.41506,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64605,
+      "longitude": 55.41343,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64749,
+      "longitude": 55.4143,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.49702,
+      "longitude": 55.24973,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64712,
+      "longitude": 55.41545,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64677,
+      "longitude": 55.4133,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64712,
+      "longitude": 55.41545,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64694,
+      "longitude": 55.41357,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64587,
+      "longitude": 55.41254,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.50104,
+      "longitude": 55.24839,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64712,
+      "longitude": 55.41545,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64637,
+      "longitude": 55.41287,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64587,
+      "longitude": 55.41254,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64703,
+      "longitude": 55.41464,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.64677,
+      "longitude": 55.4133,
+      "country": "Seychelles",
+      "state": null
+    },
+    {
+      "latitude": -4.6475,
+      "longitude": 55.41465,
+      "country": "Seychelles",
+      "state": null
+    }
+  ],
+  "scientific_name": "Cinnamomum verum",
+  "common_name": "Ceylon cinnamon",
+  "description": null
+}

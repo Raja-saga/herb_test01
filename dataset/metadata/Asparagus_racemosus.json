@@ -1,0 +1,3008 @@
+{
+  "herb": "Asparagus racemosus",
+  "locations": [
+    {
+      "latitude": 25.198261,
+      "longitude": 75.7951,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 16.84016,
+      "longitude": 96.192075,
+      "country": "Myanmar",
+      "state": "Yangon"
+    },
+    {
+      "latitude": 25.198493,
+      "longitude": 75.793354,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -27.591445,
+      "longitude": 152.751642,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -24.82905,
+      "longitude": 29.354695,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.826037,
+      "longitude": 29.35318,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.829147,
+      "longitude": 29.36398,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.64616,
+      "longitude": 28.668513,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.645417,
+      "longitude": 28.668392,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 6.966971,
+      "longitude": 126.222308,
+      "country": "Philippines",
+      "state": "Davao Oriental"
+    },
+    {
+      "latitude": 17.456334,
+      "longitude": 78.318954,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 7.145533,
+      "longitude": 100.472277,
+      "country": "Thailand",
+      "state": "Songkhla"
+    },
+    {
+      "latitude": 9.790578,
+      "longitude": 76.303749,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 9.751497,
+      "longitude": 76.327248,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": 9.807997,
+      "longitude": 76.30562,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -24.114886,
+      "longitude": 29.905347,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 23.259933,
+      "longitude": 77.412615,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 17.283284,
+      "longitude": 78.594574,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -24.282797,
+      "longitude": 29.373797,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -25.522161,
+      "longitude": 152.668679,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.580733,
+      "longitude": 30.20673,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.2706,
+      "longitude": 29.608637,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -12.103153,
+      "longitude": 134.908905,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.107669,
+      "longitude": 134.903105,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -15.105446,
+      "longitude": 125.010035,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -23.556933,
+      "longitude": 29.757025,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 17.373295,
+      "longitude": 78.365905,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.440496,
+      "longitude": 78.402917,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.537739,
+      "longitude": 78.554194,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.445126,
+      "longitude": 78.402829,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.444026,
+      "longitude": 78.399153,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 21.220942,
+      "longitude": 76.503511,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 21.28498,
+      "longitude": 76.602895,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 21.227269,
+      "longitude": 76.634578,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 17.392011,
+      "longitude": 78.285616,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 21.283788,
+      "longitude": 76.614556,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 17.759249,
+      "longitude": 83.253487,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 16.154517,
+      "longitude": 78.882538,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 22.296394,
+      "longitude": 76.478958,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 17.76265,
+      "longitude": 82.264247,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 22.296394,
+      "longitude": 76.478958,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 18.045257,
+      "longitude": 83.43914,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": -29.506767,
+      "longitude": 30.505797,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": 17.110042,
+      "longitude": 54.453062,
+      "country": "Oman",
+      "state": "Dhofar"
+    },
+    {
+      "latitude": -12.334343,
+      "longitude": 130.8967,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.358056,
+      "longitude": 130.911531,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 25.0981,
+      "longitude": 75.923917,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 25.12141,
+      "longitude": 75.903679,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -27.998869,
+      "longitude": 152.690446,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -27.455382,
+      "longitude": 152.966304,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 25.45259,
+      "longitude": 81.78131,
+      "country": "India",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "latitude": 26.882204,
+      "longitude": 75.831047,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -11.80254,
+      "longitude": 133.82726,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 23.91368,
+      "longitude": 91.320755,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -23.941593,
+      "longitude": 151.318381,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.300181,
+      "longitude": 28.803879,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 29.342089,
+      "longitude": 80.10024,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 26.30428,
+      "longitude": 73.017143,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -17.496017,
+      "longitude": 24.265247,
+      "country": "Namibia",
+      "state": "Zambezi"
+    },
+    {
+      "latitude": 9.98874,
+      "longitude": 76.272524,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -23.310767,
+      "longitude": 150.519698,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.261213,
+      "longitude": 146.809067,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.310824,
+      "longitude": 150.519714,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 14.510056,
+      "longitude": 101.930868,
+      "country": "Thailand",
+      "state": "Nakhon Ratchasima"
+    },
+    {
+      "latitude": 14.041972,
+      "longitude": 79.312531,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 20.936929,
+      "longitude": 96.238886,
+      "country": "Myanmar",
+      "state": "Mandalay"
+    },
+    {
+      "latitude": 21.454838,
+      "longitude": 71.82853,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 20.309202,
+      "longitude": 75.12848,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 6.882205,
+      "longitude": 101.242233,
+      "country": "Thailand",
+      "state": "Pattani"
+    },
+    {
+      "latitude": 10.092753,
+      "longitude": 76.917204,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -25.575178,
+      "longitude": 152.595479,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 25.002253,
+      "longitude": 73.142547,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 21.260225,
+      "longitude": 69.966613,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.952387,
+      "longitude": 73.274497,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 12.303097,
+      "longitude": 75.674808,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 22.487812,
+      "longitude": 71.165558,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 12.829651,
+      "longitude": 99.601212,
+      "country": "Thailand",
+      "state": "Phetchaburi"
+    },
+    {
+      "latitude": -0.676763,
+      "longitude": 37.912741,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 17.37082,
+      "longitude": 78.366762,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -12.625781,
+      "longitude": 143.432839,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -12.329693,
+      "longitude": 130.896321,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 17.314586,
+      "longitude": 78.20513,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -12.514652,
+      "longitude": 49.181155,
+      "country": "Madagascar",
+      "state": null
+    },
+    {
+      "latitude": -25.57498,
+      "longitude": 152.59553,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 28.199432,
+      "longitude": 85.368674,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 25.199606,
+      "longitude": 75.794012,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 25.161638,
+      "longitude": 75.78384,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 28.199388,
+      "longitude": 85.368683,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 0.272367,
+      "longitude": 37.495738,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 25.196856,
+      "longitude": 75.791831,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -12.336517,
+      "longitude": 130.906509,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 25.193409,
+      "longitude": 75.785966,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 26.247113,
+      "longitude": 73.020426,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 29.460413,
+      "longitude": 79.655824,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 25.193501,
+      "longitude": 75.785993,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -24.649241,
+      "longitude": 28.673498,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 0.261745,
+      "longitude": 37.495853,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 18.649178,
+      "longitude": 73.770682,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 12.601029,
+      "longitude": 75.734663,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 15.05323,
+      "longitude": 101.961538,
+      "country": "Thailand",
+      "state": "Nakhon Ratchasima"
+    },
+    {
+      "latitude": -14.892675,
+      "longitude": 141.619628,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.2605,
+      "longitude": 146.8088,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 12.394772,
+      "longitude": 99.981103,
+      "country": "Thailand",
+      "state": "Prachuap Khiri Khan"
+    },
+    {
+      "latitude": 15.053232,
+      "longitude": 101.961558,
+      "country": "Thailand",
+      "state": "Nakhon Ratchasima"
+    },
+    {
+      "latitude": 27.500296,
+      "longitude": 89.878959,
+      "country": "Bhutan",
+      "state": "Punakha"
+    },
+    {
+      "latitude": -12.6169,
+      "longitude": 143.4464,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 30.738886,
+      "longitude": 76.799362,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.69585,
+      "longitude": 75.106738,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -15.480464,
+      "longitude": 144.852006,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 16.208373,
+      "longitude": 74.060633,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 18.143792,
+      "longitude": 83.458421,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 23.23525,
+      "longitude": 72.64782,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 8.477945,
+      "longitude": 76.930615,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 0.259072,
+      "longitude": 37.410357,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 25.184709,
+      "longitude": 75.825049,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 25.1847,
+      "longitude": 75.825,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 13.908779,
+      "longitude": 100.479623,
+      "country": "Thailand",
+      "state": "Nonthaburi"
+    },
+    {
+      "latitude": 25.267443,
+      "longitude": 82.987927,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 13.042937,
+      "longitude": 79.085133,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 15.319852,
+      "longitude": 101.844519,
+      "country": "Thailand",
+      "state": "Nakhon Ratchasima"
+    },
+    {
+      "latitude": -17.176053,
+      "longitude": 145.370955,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -17.176072,
+      "longitude": 145.370955,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -18.2211,
+      "longitude": 144.6663,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 26.912434,
+      "longitude": 75.787271,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -25.551521,
+      "longitude": 152.611107,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -13.812023,
+      "longitude": 136.353901,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.912871,
+      "longitude": 136.718531,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.826094,
+      "longitude": 136.351336,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.330262,
+      "longitude": 130.896648,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.936281,
+      "longitude": 133.167515,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 17.361944,
+      "longitude": 78.376111,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -19.321667,
+      "longitude": 146.733056,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.322778,
+      "longitude": 146.732778,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.322947,
+      "longitude": 146.732917,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 16.101845,
+      "longitude": 74.124363,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.13045,
+      "longitude": 82.140253,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.527127,
+      "longitude": 88.363867,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 4.470683,
+      "longitude": -74.122368,
+      "country": "Colombia",
+      "state": "Cundinamarca"
+    },
+    {
+      "latitude": 0.295038,
+      "longitude": 36.898308,
+      "country": "Kenya",
+      "state": "Laikipia"
+    },
+    {
+      "latitude": 19.172988,
+      "longitude": 72.960228,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -25.58662,
+      "longitude": 152.593761,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -12.706125,
+      "longitude": 131.00029,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.796244,
+      "longitude": 136.670516,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.726192,
+      "longitude": 136.598364,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 12.862626,
+      "longitude": 77.513889,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -23.318378,
+      "longitude": 150.506837,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 18.080579,
+      "longitude": 82.664547,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": 10.352392,
+      "longitude": 76.938517,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -13.886399,
+      "longitude": 136.700202,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 10.530298,
+      "longitude": 76.347318,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -12.54658,
+      "longitude": 130.949408,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.5412,
+      "longitude": 130.92587,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.56249,
+      "longitude": 130.88492,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.82028,
+      "longitude": 130.538426,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -18.31059,
+      "longitude": 144.73979,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -18.22078,
+      "longitude": 144.66706,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 9.643771,
+      "longitude": 77.179638,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": -14.653254,
+      "longitude": 145.452687,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -14.653066,
+      "longitude": 145.452647,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 10.346893,
+      "longitude": 76.207412,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.00174,
+      "longitude": 85.446359,
+      "country": "India",
+      "state": "Bihar"
+    },
+    {
+      "latitude": 18.60517,
+      "longitude": 73.04555,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -14.648174,
+      "longitude": 145.455223,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -14.5659,
+      "longitude": 132.44925,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 16.536132,
+      "longitude": 101.661293,
+      "country": "Thailand",
+      "state": "Chaiyaphum"
+    },
+    {
+      "latitude": -0.30135,
+      "longitude": 37.58806,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 17.397046,
+      "longitude": 78.519789,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -0.792,
+      "longitude": 36.80522,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 28.170792,
+      "longitude": 85.293709,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": -1.141538,
+      "longitude": 39.777258,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -1.118264,
+      "longitude": 39.688082,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.535508,
+      "longitude": 39.434222,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.535508,
+      "longitude": 39.434222,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": 28.103025,
+      "longitude": -17.326298,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": -29.823966,
+      "longitude": 30.438652,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -15.576973,
+      "longitude": 133.200766,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 27.439409,
+      "longitude": 91.580963,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": -13.93523,
+      "longitude": 136.56291,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.23709,
+      "longitude": 136.59863,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.84753,
+      "longitude": 136.64032,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.83264,
+      "longitude": 136.51436,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -0.69806,
+      "longitude": 36.82328,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.36158,
+      "longitude": 37.06689,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.675,
+      "longitude": 36.8095,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.27489,
+      "longitude": 37.15656,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.78172,
+      "longitude": 36.79317,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -0.27489,
+      "longitude": 37.15656,
+      "country": "Kenya",
+      "state": null
+    },
+    {
+      "latitude": -33.802811,
+      "longitude": 25.429761,
+      "country": "South Africa",
+      "state": null
+    },
+    {
+      "latitude": -10.597692,
+      "longitude": 142.251059,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 19.236813,
+      "longitude": 72.817619,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -11.463333,
+      "longitude": 130.671944,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.463411,
+      "longitude": 130.672212,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.708427,
+      "longitude": 130.995102,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 0.9196,
+      "longitude": 31.5981,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -12.370358,
+      "longitude": 130.865123,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.369631,
+      "longitude": 130.865826,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 12.878894,
+      "longitude": 77.526805,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -15.18507,
+      "longitude": 144.7082,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -32.555556,
+      "longitude": 25.188611,
+      "country": "South Africa",
+      "state": "Eastern Cape"
+    },
+    {
+      "latitude": 35.38,
+      "longitude": 72.16,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": -12.47,
+      "longitude": 131.074,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 14.607739,
+      "longitude": 74.847513,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 20.753996,
+      "longitude": 73.49866,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.754236,
+      "longitude": 73.498312,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.754088,
+      "longitude": 73.499529,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.215475,
+      "longitude": 85.361538,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.25406,
+      "longitude": 85.367233,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 26.825659,
+      "longitude": 92.77549,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -20.762833,
+      "longitude": 148.77775,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -31.918056,
+      "longitude": 22.8825,
+      "country": "South Africa",
+      "state": "Western Cape"
+    },
+    {
+      "latitude": -12.33693,
+      "longitude": 130.90099,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.70364,
+      "longitude": 136.6149,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.667778,
+      "longitude": 132.836944,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.667694,
+      "longitude": 132.836889,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 30.544157,
+      "longitude": 78.182176,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": -12.667694,
+      "longitude": 132.836889,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -33.80855,
+      "longitude": 25.356,
+      "country": "South Africa",
+      "state": null
+    },
+    {
+      "latitude": 27.166695,
+      "longitude": 91.282654,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 27.42515,
+      "longitude": 89.649384,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 7.69567,
+      "longitude": -8.396,
+      "country": "Guinea",
+      "state": "Nz\u00e9r\u00e9kor\u00e9"
+    },
+    {
+      "latitude": 26.978764,
+      "longitude": 90.048409,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 9.617545,
+      "longitude": 76.430095,
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "latitude": -23.799611,
+      "longitude": 150.971772,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 27.628584,
+      "longitude": 75.408249,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 17.08806,
+      "longitude": 54.44111,
+      "country": "Oman",
+      "state": null
+    },
+    {
+      "latitude": -12.715417,
+      "longitude": 130.352611,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 16.67,
+      "longitude": 74.25,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.723446,
+      "longitude": 77.575123,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": -13.179803,
+      "longitude": 143.107804,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -14.259667,
+      "longitude": 144.460194,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -12.372458,
+      "longitude": 136.827584,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.4588,
+      "longitude": 127.85956,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -14.418806,
+      "longitude": 144.255889,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -14.418889,
+      "longitude": 144.255833,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 34.17,
+      "longitude": 73.21,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 28.671,
+      "longitude": 82.951,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": -11.436364,
+      "longitude": 130.398048,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -33.444265,
+      "longitude": 25.747253,
+      "country": "South Africa",
+      "state": null
+    },
+    {
+      "latitude": -13.9636,
+      "longitude": 143.2394,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -13.9636,
+      "longitude": 143.2394,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -13.963611,
+      "longitude": 143.239444,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -15.3075,
+      "longitude": 144.427778,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 10.033333,
+      "longitude": -10.733333,
+      "country": "Guinea",
+      "state": "Haute Guin\u00e9e"
+    },
+    {
+      "latitude": 9.589444,
+      "longitude": -10.541111,
+      "country": "Guinea",
+      "state": null
+    },
+    {
+      "latitude": 9.593694,
+      "longitude": -10.546419,
+      "country": "Guinea",
+      "state": null
+    },
+    {
+      "latitude": -16.779602,
+      "longitude": 145.696996,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -18.643056,
+      "longitude": 34.814722,
+      "country": "Mozambique",
+      "state": null
+    },
+    {
+      "latitude": 17.98555,
+      "longitude": 73.655986,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 23.22158,
+      "longitude": 72.66272,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.22803,
+      "longitude": 72.648,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": -10.200653,
+      "longitude": 142.325089,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -10.2006,
+      "longitude": 142.325,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -12.48115,
+      "longitude": 131.07872,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -15.528056,
+      "longitude": 145.238056,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -15.361389,
+      "longitude": 145.238056,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 7.69733,
+      "longitude": -8.4415,
+      "country": "Guinea",
+      "state": "Nz\u00e9r\u00e9kor\u00e9"
+    },
+    {
+      "latitude": 9.616389,
+      "longitude": -12.748444,
+      "country": "Guinea",
+      "state": null
+    },
+    {
+      "latitude": 10.432528,
+      "longitude": -11.972639,
+      "country": "Guinea",
+      "state": null
+    },
+    {
+      "latitude": 15.80144,
+      "longitude": 103.199886,
+      "country": "Thailand",
+      "state": "Maha Sarakham"
+    },
+    {
+      "latitude": 28.382446,
+      "longitude": 84.90651,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": -12.96839,
+      "longitude": 136.61197,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.9654,
+      "longitude": 136.61867,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.96034,
+      "longitude": 136.60669,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.95032,
+      "longitude": 136.59515,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.95259,
+      "longitude": 136.58968,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 9.661139,
+      "longitude": -12.67975,
+      "country": "Guinea",
+      "state": null
+    },
+    {
+      "latitude": -9.303125,
+      "longitude": 125.315157,
+      "country": "Timor-Leste",
+      "state": null
+    },
+    {
+      "latitude": -16.539,
+      "longitude": 145.104389,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -16.5389,
+      "longitude": 145.1044,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -16.5389,
+      "longitude": 145.1044,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -16.529694,
+      "longitude": 145.183111,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -19.635556,
+      "longitude": 33.069167,
+      "country": "Mozambique",
+      "state": "Manica"
+    },
+    {
+      "latitude": -12.669076,
+      "longitude": 130.994867,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.26497,
+      "longitude": 136.05528,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.30476,
+      "longitude": 136.08508,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.30133,
+      "longitude": 136.08771,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -15.3,
+      "longitude": 144.750001,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -15.2997,
+      "longitude": 144.75,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -33.225555,
+      "longitude": 26.402778,
+      "country": "South Africa",
+      "state": null
+    },
+    {
+      "latitude": -12.587366,
+      "longitude": 131.023476,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 5.321833,
+      "longitude": 37.459,
+      "country": "Ethiopia",
+      "state": null
+    },
+    {
+      "latitude": -12.37265,
+      "longitude": 136.95555,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.371286,
+      "longitude": 136.9531,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.363092,
+      "longitude": 136.946909,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.41118,
+      "longitude": 136.880659,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.37175,
+      "longitude": 136.82775,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.37075,
+      "longitude": 136.82965,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -15.07108,
+      "longitude": 125.18627,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -12.50891,
+      "longitude": 136.791693,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.506734,
+      "longitude": 136.790061,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.50024,
+      "longitude": 136.784063,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.708333,
+      "longitude": 143.256944,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -17.454089,
+      "longitude": 140.837389,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -17.4539,
+      "longitude": 140.8372,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -17.454167,
+      "longitude": 140.8375,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -11.301647,
+      "longitude": 132.554517,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -17.5209,
+      "longitude": -149.783,
+      "country": "French Polynesia",
+      "state": null
+    },
+    {
+      "latitude": -17.52093,
+      "longitude": -149.78265,
+      "country": "French Polynesia",
+      "state": "French polynesia"
+    },
+    {
+      "latitude": -18.221389,
+      "longitude": 144.666389,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -21.161554,
+      "longitude": 148.85895,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -12.260822,
+      "longitude": 136.875337,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.2995,
+      "longitude": 136.805808,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -16.713889,
+      "longitude": 138.210833,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -12.311449,
+      "longitude": 136.832576,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.242719,
+      "longitude": 136.849786,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.312894,
+      "longitude": 136.877796,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.315997,
+      "longitude": 136.931684,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -3.230556,
+      "longitude": 36.716667,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -3.300278,
+      "longitude": 36.728889,
+      "country": "Tanzania, United Republic of",
+      "state": "Arusha"
+    },
+    {
+      "latitude": -10.593808,
+      "longitude": 26.20078,
+      "country": "Congo, Democratic Republic of the",
+      "state": null
+    },
+    {
+      "latitude": -10.616288,
+      "longitude": 26.295738,
+      "country": "Congo, Democratic Republic of the",
+      "state": null
+    },
+    {
+      "latitude": -10.610119,
+      "longitude": 26.127869,
+      "country": "Congo, Democratic Republic of the",
+      "state": null
+    },
+    {
+      "latitude": -10.592669,
+      "longitude": 26.196227,
+      "country": "Congo, Democratic Republic of the",
+      "state": null
+    },
+    {
+      "latitude": -10.625299,
+      "longitude": 26.284469,
+      "country": "Congo, Democratic Republic of the",
+      "state": null
+    },
+    {
+      "latitude": -13.48138,
+      "longitude": 136.12579,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.4781,
+      "longitude": 136.12605,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.47392,
+      "longitude": 136.12341,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.49599,
+      "longitude": 136.15028,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -0.602029,
+      "longitude": 30.932036,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.626676,
+      "longitude": 30.979153,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.625609,
+      "longitude": 30.978695,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602981,
+      "longitude": 30.937407,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.627102,
+      "longitude": 30.979476,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.603079,
+      "longitude": 30.934748,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602826,
+      "longitude": 30.934892,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -13.777244,
+      "longitude": 131.101734,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -25.5525,
+      "longitude": 152.6025,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -12.30521,
+      "longitude": 136.92601,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.26123,
+      "longitude": 136.88571,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.169175,
+      "longitude": 136.761754,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.0,
+      "longitude": 127.333333,
+      "country": "Australia",
+      "state": "Wa"
+    },
+    {
+      "latitude": -12.412664,
+      "longitude": 142.764731,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -13.918611,
+      "longitude": 127.326389,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -12.414167,
+      "longitude": 142.763611,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -13.918611,
+      "longitude": 127.326389,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -13.918611,
+      "longitude": 127.326389,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -0.534672,
+      "longitude": 31.017699,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.625609,
+      "longitude": 30.978695,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602981,
+      "longitude": 30.937308,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.626676,
+      "longitude": 30.979153,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.625248,
+      "longitude": 30.978767,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602029,
+      "longitude": 30.932036,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.627102,
+      "longitude": 30.979476,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -13.572245,
+      "longitude": 131.054014,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.58274,
+      "longitude": 131.048146,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -15.537983,
+      "longitude": 145.024017,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -15.728765,
+      "longitude": 143.623441,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -15.7289,
+      "longitude": 143.6233,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.3785,
+      "longitude": 31.40832,
+      "country": "South Africa",
+      "state": "KwaZulu-Natal"
+    },
+    {
+      "latitude": -14.103233,
+      "longitude": 136.575109,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -10.74609,
+      "longitude": 142.18521,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.00222,
+      "longitude": 43.71444,
+      "country": "Madagascar",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -22.97222,
+      "longitude": 43.69472,
+      "country": "Madagascar",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -22.972222,
+      "longitude": 43.694722,
+      "country": "Madagascar",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -23.002222,
+      "longitude": 43.714444,
+      "country": "Madagascar",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -20.5,
+      "longitude": 147.833333,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.00222,
+      "longitude": 43.71444,
+      "country": "Afghanistan",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -22.97222,
+      "longitude": 43.69472,
+      "country": "Afghanistan",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -0.625609,
+      "longitude": 30.978695,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.603079,
+      "longitude": 30.934748,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602826,
+      "longitude": 30.934892,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602029,
+      "longitude": 30.932036,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.625248,
+      "longitude": 30.978767,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -12.25069,
+      "longitude": 136.8385,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.32517,
+      "longitude": 136.82126,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -12.29215,
+      "longitude": 136.81225,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -20.547609,
+      "longitude": 147.83943,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.002222,
+      "longitude": 43.714444,
+      "country": "Madagascar",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -22.972222,
+      "longitude": 43.694722,
+      "country": "Madagascar",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -22.972222,
+      "longitude": 43.694722,
+      "country": "Madagascar",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -23.002222,
+      "longitude": 43.714444,
+      "country": "Madagascar",
+      "state": "Toliara"
+    },
+    {
+      "latitude": -22.972222,
+      "longitude": 43.694722,
+      "country": "Madagascar",
+      "state": null
+    },
+    {
+      "latitude": -11.31446,
+      "longitude": 132.21453,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.22435,
+      "longitude": 132.20082,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.18304,
+      "longitude": 132.22805,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.16819,
+      "longitude": 132.19866,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.16452,
+      "longitude": 132.18601,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -17.833333,
+      "longitude": 144.833333,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -17.793746,
+      "longitude": 144.867508,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -1.783333,
+      "longitude": 40.8,
+      "country": "Kenya",
+      "state": "Coast"
+    },
+    {
+      "latitude": -0.602029,
+      "longitude": 30.932036,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.626676,
+      "longitude": 30.979153,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.625609,
+      "longitude": 30.978695,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602826,
+      "longitude": 30.934892,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602981,
+      "longitude": 30.937308,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.627102,
+      "longitude": 30.979476,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.625248,
+      "longitude": 30.978767,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602981,
+      "longitude": 30.937407,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -12.24161,
+      "longitude": 136.87717,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -1.783333,
+      "longitude": 40.8,
+      "country": "Kenya",
+      "state": "Coast"
+    },
+    {
+      "latitude": -1.783333,
+      "longitude": 40.8,
+      "country": "Kenya",
+      "state": "Coast"
+    },
+    {
+      "latitude": -1.783333,
+      "longitude": 40.8,
+      "country": "Kenya",
+      "state": "Coast"
+    },
+    {
+      "latitude": -13.59818,
+      "longitude": 136.24054,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.72645,
+      "longitude": 136.57194,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.53373,
+      "longitude": 133.39684,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 10.1048,
+      "longitude": 78.2931,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -14.333333,
+      "longitude": 125.0,
+      "country": "Australia",
+      "state": "Wa"
+    },
+    {
+      "latitude": -14.391977,
+      "longitude": 124.979019,
+      "country": "Australia",
+      "state": "Western Australia"
+    },
+    {
+      "latitude": -0.603079,
+      "longitude": 30.934748,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602029,
+      "longitude": 30.932036,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.627102,
+      "longitude": 30.979476,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.625248,
+      "longitude": 30.978767,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602981,
+      "longitude": 30.937407,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602826,
+      "longitude": 30.934892,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.626676,
+      "longitude": 30.979153,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.625609,
+      "longitude": 30.978695,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -26.223409,
+      "longitude": 152.67606,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -11.24189,
+      "longitude": 132.37902,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.24475,
+      "longitude": 132.37601,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.1543,
+      "longitude": 132.33811,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.23885,
+      "longitude": 132.37801,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.23902,
+      "longitude": 132.37796,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.24142,
+      "longitude": 132.37929,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.24471,
+      "longitude": 132.37598,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.15445,
+      "longitude": 132.33795,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 11.07,
+      "longitude": 77.55,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -24.375,
+      "longitude": 30.125,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -11.22257,
+      "longitude": 132.27417,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.22258,
+      "longitude": 132.27398,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.1439,
+      "longitude": 136.4329,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.141553,
+      "longitude": 136.512589,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.704005,
+      "longitude": 136.67968,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.144345,
+      "longitude": 136.42848,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.106109,
+      "longitude": 136.548308,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.8435,
+      "longitude": 136.3385,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -14.148968,
+      "longitude": 136.421839,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -13.83,
+      "longitude": 136.4526,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -24.375,
+      "longitude": 30.125,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -17.333333,
+      "longitude": 144.833333,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -17.3686,
+      "longitude": 144.8881,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -14.1061,
+      "longitude": 136.5317,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.20961,
+      "longitude": 131.90273,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.20487,
+      "longitude": 131.90154,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 8.027833,
+      "longitude": -9.738,
+      "country": "Liberia",
+      "state": "Lofa"
+    },
+    {
+      "latitude": -0.534312,
+      "longitude": 31.021319,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.602826,
+      "longitude": 30.934892,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": 8.02783,
+      "longitude": -9.738,
+      "country": "Liberia",
+      "state": "Lofa"
+    },
+    {
+      "latitude": -24.625,
+      "longitude": 29.875,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": -24.542222,
+      "longitude": 29.993889,
+      "country": "South Africa",
+      "state": "Limpopo"
+    },
+    {
+      "latitude": 28.201961,
+      "longitude": 85.365237,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 28.202469,
+      "longitude": 85.364089,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": -22.59389,
+      "longitude": 45.13889,
+      "country": "Madagascar",
+      "state": "Fianarantsoa"
+    },
+    {
+      "latitude": -22.593889,
+      "longitude": 45.138889,
+      "country": "Madagascar",
+      "state": "Fianarantsoa"
+    },
+    {
+      "latitude": -22.59389,
+      "longitude": 45.13889,
+      "country": "Afghanistan",
+      "state": "Fianarantsoa"
+    },
+    {
+      "latitude": -22.5939,
+      "longitude": 45.1389,
+      "country": "Madagascar",
+      "state": "Ihorombe"
+    },
+    {
+      "latitude": -0.61667,
+      "longitude": 30.91667,
+      "country": "Uganda",
+      "state": null
+    },
+    {
+      "latitude": -0.61666,
+      "longitude": 30.91666,
+      "country": "Uganda",
+      "state": "Western"
+    },
+    {
+      "latitude": -11.49563,
+      "longitude": 132.6424,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -11.44515,
+      "longitude": 132.56734,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -22.833333,
+      "longitude": 149.833333,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -22.833333,
+      "longitude": 149.833333,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.166667,
+      "longitude": 150.333333,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -11.27298,
+      "longitude": 131.85731,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -23.135478,
+      "longitude": 150.366499,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -22.817872,
+      "longitude": 149.887114,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.123333,
+      "longitude": 150.396417,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -22.8194,
+      "longitude": 149.8861,
+      "country": "Australia",
+      "state": "Queensland"
+    }
+  ],
+  "scientific_name": "Asparagus racemosus",
+  "common_name": "Bottlebrush Asparagus",
+  "description": null
+}

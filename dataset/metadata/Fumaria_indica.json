@@ -1,0 +1,2306 @@
+{
+  "herb": "Fumaria indica",
+  "locations": [
+    {
+      "latitude": 24.957956,
+      "longitude": 75.591889,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 24.969824,
+      "longitude": 75.587162,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 30.842333,
+      "longitude": 73.604278,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.843306,
+      "longitude": 73.609222,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.842278,
+      "longitude": 73.603361,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.842306,
+      "longitude": 73.606556,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.842333,
+      "longitude": 73.603583,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.843611,
+      "longitude": 73.609139,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.843639,
+      "longitude": 73.609139,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 24.631599,
+      "longitude": 72.765739,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 24.631927,
+      "longitude": 72.768307,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 25.181646,
+      "longitude": 75.789914,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": -32.645711,
+      "longitude": 149.862239,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 29.658192,
+      "longitude": 70.616213,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.658609,
+      "longitude": 70.615663,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.658718,
+      "longitude": 70.615768,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.658192,
+      "longitude": 70.616213,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.659183,
+      "longitude": 70.615585,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.658208,
+      "longitude": 70.616228,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.659183,
+      "longitude": 70.615585,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.658718,
+      "longitude": 70.615768,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.658609,
+      "longitude": 70.615663,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 29.658208,
+      "longitude": 70.616228,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047514,
+      "longitude": 71.925802,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047514,
+      "longitude": 71.925895,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047932,
+      "longitude": 71.925704,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028282,
+      "longitude": 71.893042,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028279,
+      "longitude": 71.893031,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044941,
+      "longitude": 71.906807,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035327,
+      "longitude": 71.90262,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044097,
+      "longitude": 71.90645,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044654,
+      "longitude": 71.90686,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.034896,
+      "longitude": 71.902511,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035354,
+      "longitude": 71.90281,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.0469,
+      "longitude": 71.918839,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045972,
+      "longitude": 71.907158,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.01031,
+      "longitude": 71.865472,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.051143,
+      "longitude": 71.915939,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050034,
+      "longitude": 71.914452,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047926,
+      "longitude": 71.925674,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048541,
+      "longitude": 71.924021,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.024402,
+      "longitude": 71.884081,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045058,
+      "longitude": 71.906674,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.018528,
+      "longitude": 71.872403,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.44596,
+      "longitude": 71.9237,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048796,
+      "longitude": 71.92348,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050804,
+      "longitude": 71.916441,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002256,
+      "longitude": 71.847642,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045913,
+      "longitude": 71.907074,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046794,
+      "longitude": 71.925932,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.04272,
+      "longitude": 71.883459,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048184,
+      "longitude": 71.925231,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.029039,
+      "longitude": 71.894181,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046675,
+      "longitude": 71.918346,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.04532,
+      "longitude": 71.923187,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028909,
+      "longitude": 71.893881,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006714,
+      "longitude": 71.857807,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046385,
+      "longitude": 71.918236,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019011,
+      "longitude": 71.872786,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045583,
+      "longitude": 71.923484,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044889,
+      "longitude": 71.923384,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046395,
+      "longitude": 71.918685,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019657,
+      "longitude": 71.873092,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.036633,
+      "longitude": 71.903654,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.04867,
+      "longitude": 71.923846,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006509,
+      "longitude": 71.858323,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010964,
+      "longitude": 71.866795,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044889,
+      "longitude": 71.923384,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002151,
+      "longitude": 71.846015,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045597,
+      "longitude": 71.90775,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002426,
+      "longitude": 71.846471,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.00703,
+      "longitude": 71.858151,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.043682,
+      "longitude": 71.906158,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.029336,
+      "longitude": 71.894026,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006602,
+      "longitude": 71.858001,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.029169,
+      "longitude": 71.894482,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002229,
+      "longitude": 71.846769,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045476,
+      "longitude": 71.907588,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010946,
+      "longitude": 71.866816,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050707,
+      "longitude": 71.915785,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.01001,
+      "longitude": 71.86583,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045849,
+      "longitude": 71.906838,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023566,
+      "longitude": 71.88288,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035114,
+      "longitude": 71.902066,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006477,
+      "longitude": 71.856866,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048869,
+      "longitude": 71.923509,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047707,
+      "longitude": 71.926234,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.018294,
+      "longitude": 71.872372,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023786,
+      "longitude": 71.882445,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048404,
+      "longitude": 71.924171,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.0239,
+      "longitude": 71.88333,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046787,
+      "longitude": 71.926174,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045988,
+      "longitude": 71.918345,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.05045,
+      "longitude": 71.915891,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.018993,
+      "longitude": 71.872532,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044834,
+      "longitude": 71.923601,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.011482,
+      "longitude": 71.867199,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050491,
+      "longitude": 71.914686,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002074,
+      "longitude": 71.84668,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044143,
+      "longitude": 71.906505,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044438,
+      "longitude": 71.907021,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.043909,
+      "longitude": 71.906605,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047019,
+      "longitude": 71.92632,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.02893,
+      "longitude": 71.893664,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.024343,
+      "longitude": 71.882438,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050214,
+      "longitude": 71.915603,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047336,
+      "longitude": 71.926205,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047225,
+      "longitude": 71.926,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048406,
+      "longitude": 71.924205,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.02846,
+      "longitude": 71.893578,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002581,
+      "longitude": 71.847479,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048614,
+      "longitude": 71.923819,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002229,
+      "longitude": 71.846644,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045082,
+      "longitude": 71.923302,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050138,
+      "longitude": 71.915349,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002382,
+      "longitude": 71.846943,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046438,
+      "longitude": 71.9185,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023809,
+      "longitude": 71.882949,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.007197,
+      "longitude": 71.858495,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046713,
+      "longitude": 71.92632,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046108,
+      "longitude": 71.918506,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035703,
+      "longitude": 71.903219,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050492,
+      "longitude": 71.914909,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045457,
+      "longitude": 71.907584,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.018331,
+      "longitude": 71.871706,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.01014,
+      "longitude": 71.865379,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035278,
+      "longitude": 71.903082,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048688,
+      "longitude": 71.923938,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010259,
+      "longitude": 71.866302,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050279,
+      "longitude": 71.914547,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006421,
+      "longitude": 71.856802,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.01925,
+      "longitude": 71.872683,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047147,
+      "longitude": 71.926652,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006708,
+      "longitude": 71.857385,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045568,
+      "longitude": 71.907066,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.027851,
+      "longitude": 71.892409,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019213,
+      "longitude": 71.87249,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028943,
+      "longitude": 71.893756,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046842,
+      "longitude": 71.926113,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.024532,
+      "longitude": 71.884254,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046829,
+      "longitude": 71.92648,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.0453,
+      "longitude": 71.924135,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045481,
+      "longitude": 71.907618,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010556,
+      "longitude": 71.866494,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048388,
+      "longitude": 71.925334,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044631,
+      "longitude": 71.923883,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035022,
+      "longitude": 71.902715,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019583,
+      "longitude": 71.873113,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045204,
+      "longitude": 71.923562,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045387,
+      "longitude": 71.907721,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019412,
+      "longitude": 71.872929,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.024142,
+      "longitude": 71.883894,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046994,
+      "longitude": 71.92686,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050279,
+      "longitude": 71.914547,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002448,
+      "longitude": 71.847249,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.04627,
+      "longitude": 71.918773,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035092,
+      "longitude": 71.902614,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023883,
+      "longitude": 71.882778,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048434,
+      "longitude": 71.923971,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.04867,
+      "longitude": 71.923739,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046596,
+      "longitude": 71.91849,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010481,
+      "longitude": 71.866709,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.046183,
+      "longitude": 71.918369,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.007278,
+      "longitude": 71.858858,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045589,
+      "longitude": 71.907376,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006549,
+      "longitude": 71.857246,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002637,
+      "longitude": 71.847543,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010649,
+      "longitude": 71.866194,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045072,
+      "longitude": 71.906896,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035476,
+      "longitude": 71.903326,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.034818,
+      "longitude": 71.902286,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002062,
+      "longitude": 71.846404,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.001918,
+      "longitude": 71.84631,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.034288,
+      "longitude": 71.902136,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.00664,
+      "longitude": 71.858387,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.00703,
+      "longitude": 71.858624,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.018499,
+      "longitude": 71.877565,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023823,
+      "longitude": 71.882513,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010741,
+      "longitude": 71.866795,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019067,
+      "longitude": 71.872657,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.018234,
+      "longitude": 71.872557,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023863,
+      "longitude": 71.883697,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050724,
+      "longitude": 71.916484,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002216,
+      "longitude": 71.846786,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028316,
+      "longitude": 71.893074,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006732,
+      "longitude": 71.858087,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028218,
+      "longitude": 71.893214,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.043931,
+      "longitude": 71.06134,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.029244,
+      "longitude": 71.894503,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045113,
+      "longitude": 71.907047,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044974,
+      "longitude": 71.906484,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035264,
+      "longitude": 71.902801,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050574,
+      "longitude": 71.91473,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044716,
+      "longitude": 71.906776,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035076,
+      "longitude": 71.902701,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035099,
+      "longitude": 71.902922,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.024049,
+      "longitude": 71.883481,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050427,
+      "longitude": 71.916163,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035127,
+      "longitude": 71.90279,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010426,
+      "longitude": 71.866259,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.001687,
+      "longitude": 71.846054,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010029,
+      "longitude": 71.865885,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.0481,
+      "longitude": 71.925402,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044972,
+      "longitude": 71.906871,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050397,
+      "longitude": 71.915648,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.009938,
+      "longitude": 71.865966,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.018993,
+      "longitude": 71.87236,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.048092,
+      "longitude": 71.924949,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.024253,
+      "longitude": 71.883309,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010739,
+      "longitude": 71.867177,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.047553,
+      "longitude": 71.92563,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006509,
+      "longitude": 71.85828,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028779,
+      "longitude": 71.89416,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028034,
+      "longitude": 71.893073,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019064,
+      "longitude": 71.872554,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002106,
+      "longitude": 71.846582,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006496,
+      "longitude": 71.856651,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.02403,
+      "longitude": 71.884212,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010215,
+      "longitude": 71.865594,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006962,
+      "longitude": 71.859222,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019675,
+      "longitude": 71.87292,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.49713,
+      "longitude": 71.872963,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002603,
+      "longitude": 71.847757,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006652,
+      "longitude": 71.857685,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.024588,
+      "longitude": 71.883787,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035875,
+      "longitude": 71.903333,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006568,
+      "longitude": 71.856989,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010296,
+      "longitude": 71.866151,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.0285,
+      "longitude": 71.893921,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002449,
+      "longitude": 71.847271,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019268,
+      "longitude": 71.80726,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050619,
+      "longitude": 71.913845,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.043813,
+      "longitude": 71.90641,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002546,
+      "longitude": 71.847681,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002546,
+      "longitude": 71.847681,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044745,
+      "longitude": 71.906584,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010388,
+      "longitude": 71.866837,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050078,
+      "longitude": 71.914678,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035678,
+      "longitude": 71.902561,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050467,
+      "longitude": 71.915123,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028738,
+      "longitude": 71.843422,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023396,
+      "longitude": 71.882758,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.049438,
+      "longitude": 71.915385,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.0498,
+      "longitude": 71.915176,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023656,
+      "longitude": 71.882803,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.050801,
+      "longitude": 71.915612,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.023778,
+      "longitude": 71.883245,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035553,
+      "longitude": 71.903204,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.024069,
+      "longitude": 71.8831,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.018412,
+      "longitude": 71.87204,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006456,
+      "longitude": 71.857268,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035862,
+      "longitude": 71.903643,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010574,
+      "longitude": 71.866323,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002416,
+      "longitude": 71.847297,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.082165,
+      "longitude": 71.893021,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.035458,
+      "longitude": 71.903191,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.044697,
+      "longitude": 71.906285,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.019643,
+      "longitude": 71.872998,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.045251,
+      "longitude": 71.907112,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.04476,
+      "longitude": 71.906232,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.002548,
+      "longitude": 71.846876,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.010314,
+      "longitude": 71.866687,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.028815,
+      "longitude": 71.894181,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.006491,
+      "longitude": 71.857636,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 34.89836,
+      "longitude": 71.998047,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": -30.58927,
+      "longitude": 138.39663,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -34.049618,
+      "longitude": 150.731573,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 27.23955,
+      "longitude": 68.447394,
+      "country": "Pakistan",
+      "state": "Sind"
+    },
+    {
+      "latitude": -33.685255,
+      "longitude": 151.287112,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -30.587859,
+      "longitude": 138.395525,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 33.1099,
+      "longitude": 70.8737,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 30.44573,
+      "longitude": 67.47615,
+      "country": "Pakistan",
+      "state": "Baluchistan"
+    },
+    {
+      "latitude": -34.112481,
+      "longitude": 141.922027,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 30.39,
+      "longitude": 70.39,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": 30.66667,
+      "longitude": 70.53333,
+      "country": "Pakistan",
+      "state": "Punjab"
+    },
+    {
+      "latitude": -33.819051,
+      "longitude": 143.367253,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -31.996944,
+      "longitude": 140.549167,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -35.40757,
+      "longitude": 138.97326,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -32.27494,
+      "longitude": 150.920024,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.060838,
+      "longitude": 145.692547,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -28.061077,
+      "longitude": 145.692286,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -31.885635,
+      "longitude": 152.18364,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -35.40757,
+      "longitude": 138.97326,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -35.40756,
+      "longitude": 138.97328,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -33.472347,
+      "longitude": 150.996058,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -32.28232,
+      "longitude": 150.881576,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -35.40757,
+      "longitude": 138.97326,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 33.53872,
+      "longitude": 72.51728,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    },
+    {
+      "latitude": 42.59639,
+      "longitude": -123.585,
+      "country": "United States of America",
+      "state": "Oregon"
+    },
+    {
+      "latitude": -23.75,
+      "longitude": 133.7667,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": -35.05,
+      "longitude": 147.1,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -34.480556,
+      "longitude": 145.254167,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 36.48,
+      "longitude": 72.53,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": -38.27472,
+      "longitude": 144.76722,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.27472,
+      "longitude": 144.76722,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.27472,
+      "longitude": 144.76722,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.27472,
+      "longitude": 144.76722,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.27472,
+      "longitude": 144.76722,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.27472,
+      "longitude": 144.76722,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.27472,
+      "longitude": 144.76722,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.27472,
+      "longitude": 144.76722,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 30.286517,
+      "longitude": 77.97496,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": -34.06827,
+      "longitude": 137.60886,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -38.24861,
+      "longitude": 144.66778,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -30.482039,
+      "longitude": 138.416611,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -38.19397,
+      "longitude": 144.69915,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -37.61444,
+      "longitude": 144.95472,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -35.07365,
+      "longitude": 138.49994,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -31.51049,
+      "longitude": 138.56731,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -35.49833,
+      "longitude": 143.91806,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -29.360665,
+      "longitude": 149.762817,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -29.363241,
+      "longitude": 149.769065,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -29.363233,
+      "longitude": 149.769053,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -29.360656,
+      "longitude": 149.762806,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -38.265,
+      "longitude": 144.76806,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.26778,
+      "longitude": 144.4375,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.27611,
+      "longitude": 144.4625,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -38.23333,
+      "longitude": 144.4525,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": 34.75,
+      "longitude": 71.02,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 32.18,
+      "longitude": 67.02,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.9,
+      "longitude": 63.08,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 28.5825,
+      "longitude": 82.8122,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 35.62,
+      "longitude": 68.87,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.82,
+      "longitude": 71.1,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 36.42,
+      "longitude": 64.97,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.82,
+      "longitude": 67.18,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": -30.55,
+      "longitude": 138.4167,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -30.592596,
+      "longitude": 138.399945,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -31.286389,
+      "longitude": 138.825,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 34.82,
+      "longitude": 69.07,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.43,
+      "longitude": 70.45,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.62,
+      "longitude": 70.58,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.45,
+      "longitude": 70.45,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.9,
+      "longitude": 68.25,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.82,
+      "longitude": 67.18,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": -22.997222,
+      "longitude": 132.685599,
+      "country": "Australia",
+      "state": "Northern Territory"
+    },
+    {
+      "latitude": 36.73,
+      "longitude": 69.53,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 36.68,
+      "longitude": 69.53,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 36.38,
+      "longitude": 69.32,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 28.6593,
+      "longitude": 77.2564,
+      "country": "India",
+      "state": "Delhi"
+    },
+    {
+      "latitude": 25.213745,
+      "longitude": 84.990011,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -30.583333,
+      "longitude": 138.466667,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": 24.592591,
+      "longitude": 72.715627,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -34.1,
+      "longitude": 141.916667,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -28.547222,
+      "longitude": 150.308333,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 28.609422,
+      "longitude": 77.17395,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": -30.59204,
+      "longitude": 138.364668,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -30.599263,
+      "longitude": 138.372724,
+      "country": "Australia",
+      "state": "South Australia"
+    },
+    {
+      "latitude": -34.3,
+      "longitude": 142.2167,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -34.29851,
+      "longitude": 142.21797,
+      "country": "Australia",
+      "state": "Victoria"
+    },
+    {
+      "latitude": -27.415081,
+      "longitude": 151.584419,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -31.566667,
+      "longitude": 147.2,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": -31.816667,
+      "longitude": 141.35,
+      "country": "Australia",
+      "state": "New South Wales"
+    },
+    {
+      "latitude": 35.53,
+      "longitude": 74.68,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 33.75,
+      "longitude": 70.33,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.5,
+      "longitude": 72.0,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.5,
+      "longitude": 73.0,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 33.77,
+      "longitude": 74.13,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 33.85,
+      "longitude": 74.73,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 35.0,
+      "longitude": 72.5,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 25.5,
+      "longitude": 69.0,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 28.0,
+      "longitude": 66.0,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 36.75,
+      "longitude": 72.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.25,
+      "longitude": 68.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.5,
+      "longitude": 62.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.5,
+      "longitude": 69.42,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 35.25,
+      "longitude": 69.5,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.75,
+      "longitude": 70.83,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 35.25,
+      "longitude": 71.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 35.0,
+      "longitude": 70.25,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 36.5,
+      "longitude": 69.5,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 68.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 36.0,
+      "longitude": 65.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 34.75,
+      "longitude": 67.25,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 35.75,
+      "longitude": 69.0,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 35.0,
+      "longitude": 63.75,
+      "country": "Afghanistan",
+      "state": null
+    },
+    {
+      "latitude": 22.88361,
+      "longitude": 79.61611,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 28.25306,
+      "longitude": 83.93861,
+      "country": "Nepal",
+      "state": "Gandaki Province"
+    },
+    {
+      "latitude": 22.88361,
+      "longitude": 79.61611,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 33.83889,
+      "longitude": 66.02639,
+      "country": "Afghanistan",
+      "state": "Daykundi Province"
+    },
+    {
+      "latitude": 28.25306,
+      "longitude": 83.93861,
+      "country": "Nepal",
+      "state": "Gandaki Province"
+    },
+    {
+      "latitude": 28.25306,
+      "longitude": 83.93861,
+      "country": "Nepal",
+      "state": "Gandaki Province"
+    },
+    {
+      "latitude": -30.548706,
+      "longitude": 138.417723,
+      "country": "Australia",
+      "state": "South Australia"
+    }
+  ],
+  "scientific_name": "Fumaria indica",
+  "common_name": null,
+  "description": null
+}

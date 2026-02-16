@@ -1,0 +1,3008 @@
+{
+  "herb": "Zanthoxylum armatum",
+  "locations": [
+    {
+      "latitude": 28.321575,
+      "longitude": 83.130403,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": -29.17672,
+      "longitude": -59.642763,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": -29.17413,
+      "longitude": -59.635078,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": -38.5615,
+      "longitude": 177.721167,
+      "country": "New Zealand",
+      "state": null
+    },
+    {
+      "latitude": 36.137488,
+      "longitude": 120.657248,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.147252,
+      "longitude": 120.673095,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 34.167174,
+      "longitude": 126.861159,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.990788,
+      "longitude": 117.570602,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 27.705134,
+      "longitude": 85.351344,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 36.376046,
+      "longitude": 126.386745,
+      "country": "Korea, Republic of",
+      "state": "Chungcheongnam-do"
+    },
+    {
+      "latitude": 28.48218,
+      "longitude": 118.49028,
+      "country": "China",
+      "state": "Zhejiang"
+    },
+    {
+      "latitude": 30.542937,
+      "longitude": 78.185527,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 27.618243,
+      "longitude": 92.010317,
+      "country": "India",
+      "state": "Arunachal Pradesh"
+    },
+    {
+      "latitude": 26.122476,
+      "longitude": 119.963931,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 26.17476,
+      "longitude": 119.967912,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": -32.387714,
+      "longitude": -59.866413,
+      "country": "Argentina",
+      "state": "Entre R\u00edos"
+    },
+    {
+      "latitude": -32.191254,
+      "longitude": -64.577281,
+      "country": "Argentina",
+      "state": "C\u00f3rdoba"
+    },
+    {
+      "latitude": 27.048335,
+      "longitude": 88.268946,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 35.673504,
+      "longitude": 119.358414,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 35.673504,
+      "longitude": 119.358414,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 28.481873,
+      "longitude": 118.49032,
+      "country": "China",
+      "state": "Zhejiang"
+    },
+    {
+      "latitude": 28.494059,
+      "longitude": 118.59175,
+      "country": "China",
+      "state": "Zhejiang"
+    },
+    {
+      "latitude": 27.035776,
+      "longitude": 88.035473,
+      "country": "Nepal",
+      "state": "East"
+    },
+    {
+      "latitude": 34.376663,
+      "longitude": 134.095953,
+      "country": "Japan",
+      "state": "Kagawa"
+    },
+    {
+      "latitude": 30.230392,
+      "longitude": 120.122573,
+      "country": "China",
+      "state": "Zhejiang"
+    },
+    {
+      "latitude": 35.613757,
+      "longitude": 126.466857,
+      "country": "Korea, Republic of",
+      "state": "Jeollabuk-do"
+    },
+    {
+      "latitude": 35.613757,
+      "longitude": 126.466857,
+      "country": "Korea, Republic of",
+      "state": "Jeollabuk-do"
+    },
+    {
+      "latitude": 35.613757,
+      "longitude": 126.466857,
+      "country": "Korea, Republic of",
+      "state": "Jeollabuk-do"
+    },
+    {
+      "latitude": 34.687603,
+      "longitude": 125.447275,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 31.652958,
+      "longitude": 118.884023,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 36.129097,
+      "longitude": 120.617053,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 30.726804,
+      "longitude": 114.19088,
+      "country": "China",
+      "state": "Hubei"
+    },
+    {
+      "latitude": 36.147173,
+      "longitude": 120.673541,
+      "country": "China",
+      "state": "Shandong"
+    },
+    {
+      "latitude": 36.228324,
+      "longitude": 126.082621,
+      "country": "Korea, Republic of",
+      "state": "Chungcheongnam-do"
+    },
+    {
+      "latitude": 35.01229,
+      "longitude": 135.674596,
+      "country": "Japan",
+      "state": "Kyoto"
+    },
+    {
+      "latitude": 26.615819,
+      "longitude": 106.686308,
+      "country": "China",
+      "state": "Guizhou"
+    },
+    {
+      "latitude": 28.53,
+      "longitude": 84.362778,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 28.3575,
+      "longitude": 84.277222,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 28.546806,
+      "longitude": 84.471667,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 28.53,
+      "longitude": 84.362778,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 28.016909,
+      "longitude": 85.522617,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 27.79,
+      "longitude": 112.88,
+      "country": "China",
+      "state": "Hunan"
+    },
+    {
+      "latitude": 26.623392,
+      "longitude": 106.699903,
+      "country": "China",
+      "state": "Guizhou"
+    },
+    {
+      "latitude": 26.624133,
+      "longitude": 106.692603,
+      "country": "China",
+      "state": "Guizhou"
+    },
+    {
+      "latitude": 30.085807,
+      "longitude": 80.240231,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 31.795108,
+      "longitude": 119.316238,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 25.86556,
+      "longitude": 114.93827,
+      "country": "China",
+      "state": "Jiangxi"
+    },
+    {
+      "latitude": 34.854905,
+      "longitude": 127.52346,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.854905,
+      "longitude": 127.52346,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 32.080169,
+      "longitude": 118.862687,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 31.979885,
+      "longitude": 118.939584,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 27.497016,
+      "longitude": 89.893854,
+      "country": "Bhutan",
+      "state": "Wangduephodrang"
+    },
+    {
+      "latitude": 33.289481,
+      "longitude": 126.274968,
+      "country": "Korea, Republic of",
+      "state": "Jeju-do"
+    },
+    {
+      "latitude": 27.500296,
+      "longitude": 89.878959,
+      "country": "Bhutan",
+      "state": "Punakha"
+    },
+    {
+      "latitude": 27.500325,
+      "longitude": 89.878718,
+      "country": "Bhutan",
+      "state": "Punakha"
+    },
+    {
+      "latitude": 27.501179,
+      "longitude": 89.878854,
+      "country": "Bhutan",
+      "state": "Punakha"
+    },
+    {
+      "latitude": 27.499854,
+      "longitude": 89.878143,
+      "country": "Bhutan",
+      "state": "Punakha"
+    },
+    {
+      "latitude": 33.028383,
+      "longitude": 75.369988,
+      "country": "India",
+      "state": "Jammu and Kashmir"
+    },
+    {
+      "latitude": 34.852816,
+      "longitude": 126.252951,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.852758,
+      "longitude": 126.252999,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 27.676953,
+      "longitude": 88.731342,
+      "country": "India",
+      "state": "Sikkim"
+    },
+    {
+      "latitude": 28.553909,
+      "longitude": 84.88915,
+      "country": "Nepal",
+      "state": "Gandaki"
+    },
+    {
+      "latitude": 29.741848,
+      "longitude": 120.537946,
+      "country": "China",
+      "state": "Zhejiang"
+    },
+    {
+      "latitude": 34.71328,
+      "longitude": 128.4516,
+      "country": "Korea, Republic of",
+      "state": "Gyeongnam"
+    },
+    {
+      "latitude": 34.53406,
+      "longitude": 127.717,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 35.60356,
+      "longitude": 126.5839,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 34.82144,
+      "longitude": 128.4144,
+      "country": "Korea, Republic of",
+      "state": "Gyeongnam"
+    },
+    {
+      "latitude": 35.69266,
+      "longitude": 126.6316,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 35.69247,
+      "longitude": 126.6315,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 34.3529,
+      "longitude": 126.1823,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 29.740278,
+      "longitude": 82.068611,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 35.1338,
+      "longitude": 126.9727,
+      "country": "Korea, Republic of",
+      "state": "gwangju"
+    },
+    {
+      "latitude": 32.081053,
+      "longitude": 118.817754,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 32.07955,
+      "longitude": 118.821178,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 34.83935,
+      "longitude": 128.6589,
+      "country": "Korea, Republic of",
+      "state": "Gyeongnam"
+    },
+    {
+      "latitude": 35.61417,
+      "longitude": 126.5883,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 33.23781,
+      "longitude": 126.3587,
+      "country": "Korea, Republic of",
+      "state": "Jeju Special Self-Governing Province"
+    },
+    {
+      "latitude": 34.59648,
+      "longitude": 127.5498,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 35.27854,
+      "longitude": 129.0808,
+      "country": "Korea, Republic of",
+      "state": "busan"
+    },
+    {
+      "latitude": 34.68822,
+      "longitude": 125.4156,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 34.67673,
+      "longitude": 125.4142,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": -30.548208,
+      "longitude": -59.932908,
+      "country": "Argentina",
+      "state": "Santa Fe"
+    },
+    {
+      "latitude": 35.09244,
+      "longitude": 128.4533,
+      "country": "Korea, Republic of",
+      "state": "Gyeongnam"
+    },
+    {
+      "latitude": 35.5803,
+      "longitude": 126.5314,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 35.5803,
+      "longitude": 126.5314,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 35.58025,
+      "longitude": 126.5313,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 46.440541,
+      "longitude": 30.768327,
+      "country": "Ukraine",
+      "state": "Odessa"
+    },
+    {
+      "latitude": 34.014431,
+      "longitude": 108.788111,
+      "country": "China",
+      "state": "Shaanxi"
+    },
+    {
+      "latitude": 35.601095,
+      "longitude": 126.508948,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 25.000367,
+      "longitude": 121.432905,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 35.47778,
+      "longitude": 126.6525,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 34.85231,
+      "longitude": 126.2571,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 34.85588,
+      "longitude": 126.231,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 36.37411,
+      "longitude": 126.4036,
+      "country": "Korea, Republic of",
+      "state": "Chungnam"
+    },
+    {
+      "latitude": 36.37073,
+      "longitude": 126.3975,
+      "country": "Korea, Republic of",
+      "state": "Chungnam"
+    },
+    {
+      "latitude": 36.37058,
+      "longitude": 126.3976,
+      "country": "Korea, Republic of",
+      "state": "Chungnam"
+    },
+    {
+      "latitude": 35.78735,
+      "longitude": 126.6314,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 36.37317,
+      "longitude": 126.4022,
+      "country": "Korea, Republic of",
+      "state": "Chungnam"
+    },
+    {
+      "latitude": 36.37396,
+      "longitude": 126.4037,
+      "country": "Korea, Republic of",
+      "state": "Chungnam"
+    },
+    {
+      "latitude": 36.37311,
+      "longitude": 126.4021,
+      "country": "Korea, Republic of",
+      "state": "Chungnam"
+    },
+    {
+      "latitude": 32.596294,
+      "longitude": 119.966499,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 35.604167,
+      "longitude": 126.584167,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 34.292574,
+      "longitude": 126.52444,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 34.352895,
+      "longitude": 126.182943,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 34.598412,
+      "longitude": 127.539772,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.440381,
+      "longitude": 126.107549,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 34.352817,
+      "longitude": 126.182793,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 35.845911,
+      "longitude": 129.196424,
+      "country": "Korea, Republic of",
+      "state": "Gyeongbuk"
+    },
+    {
+      "latitude": -31.127939,
+      "longitude": -64.738024,
+      "country": "Argentina",
+      "state": "C\u00f3rdoba"
+    },
+    {
+      "latitude": 35.676824,
+      "longitude": 126.52618,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 35.676824,
+      "longitude": 126.52618,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 35.59391,
+      "longitude": 126.512191,
+      "country": "Korea, Republic of",
+      "state": "jeonbuk"
+    },
+    {
+      "latitude": 29.948232,
+      "longitude": 121.836281,
+      "country": "China",
+      "state": "Zhejiang"
+    },
+    {
+      "latitude": 34.749139,
+      "longitude": 125.906056,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.749139,
+      "longitude": 125.906056,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 35.577604,
+      "longitude": 129.385319,
+      "country": "Korea, Republic of",
+      "state": "Ulsan"
+    },
+    {
+      "latitude": 35.278268,
+      "longitude": 129.08145,
+      "country": "Korea, Republic of",
+      "state": "busan"
+    },
+    {
+      "latitude": 34.852167,
+      "longitude": 126.257139,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.852332,
+      "longitude": 126.257134,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 34.852292,
+      "longitude": 126.257034,
+      "country": "Korea, Republic of",
+      "state": "Jeonnam"
+    },
+    {
+      "latitude": 34.904706,
+      "longitude": 128.151668,
+      "country": "Korea, Republic of",
+      "state": "Gyeongnam"
+    },
+    {
+      "latitude": 44.33041,
+      "longitude": 9.3169,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 35.103682,
+      "longitude": 128.484524,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 35.128438,
+      "longitude": 128.984858,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 35.044773,
+      "longitude": 128.849957,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 34.708722,
+      "longitude": 126.126243,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 34.496694,
+      "longitude": 127.445306,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.496694,
+      "longitude": 127.445306,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.496694,
+      "longitude": 127.445306,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 35.872345,
+      "longitude": 127.054413,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 28.277167,
+      "longitude": 84.309403,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 23.035556,
+      "longitude": 115.135833,
+      "country": "China",
+      "state": "Guangdong"
+    },
+    {
+      "latitude": 33.433407,
+      "longitude": 126.329903,
+      "country": "Korea, Republic of",
+      "state": "Jeju Special Self-Governing Province"
+    },
+    {
+      "latitude": 33.304905,
+      "longitude": 126.263497,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 34.769582,
+      "longitude": 128.507129,
+      "country": "Korea, Republic of",
+      "state": "Gyeongnam"
+    },
+    {
+      "latitude": 33.304425,
+      "longitude": 126.265372,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 33.304163,
+      "longitude": 126.266137,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 32.060874,
+      "longitude": 118.830681,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 34.511236,
+      "longitude": 126.333811,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.579956,
+      "longitude": 126.6165,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 37.381989,
+      "longitude": 129.124328,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.430869,
+      "longitude": 127.0469,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.229186,
+      "longitude": 126.089806,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.69905,
+      "longitude": 128.189269,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.636489,
+      "longitude": 128.288789,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 35.253611,
+      "longitude": 128.311806,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.827444,
+      "longitude": 126.094972,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.077083,
+      "longitude": 125.106186,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.557978,
+      "longitude": 126.041475,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.974897,
+      "longitude": 126.569586,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.561972,
+      "longitude": 126.608694,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.841114,
+      "longitude": 126.264328,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.293806,
+      "longitude": 126.522444,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.323333,
+      "longitude": 126.983611,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.539644,
+      "longitude": 126.290986,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 36.227569,
+      "longitude": 126.095011,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 35.196944,
+      "longitude": 126.568056,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.708814,
+      "longitude": 126.126325,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 35.114684,
+      "longitude": 137.341091,
+      "country": "Japan",
+      "state": "Aichi"
+    },
+    {
+      "latitude": 35.6324,
+      "longitude": 139.218347,
+      "country": "Japan",
+      "state": "Kanagawa Prefecture"
+    },
+    {
+      "latitude": 43.761295,
+      "longitude": 39.743213,
+      "country": "Russian Federation",
+      "state": null
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 43.513056,
+      "longitude": 39.874167,
+      "country": "Russian Federation",
+      "state": "Krasnodar Krai"
+    },
+    {
+      "latitude": 33.268389,
+      "longitude": 126.239514,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.514675,
+      "longitude": 127.4264,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.799206,
+      "longitude": 127.304589,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.763928,
+      "longitude": 127.377125,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.54,
+      "longitude": 93.58,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.57,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.57,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.57,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.54,
+      "longitude": 93.58,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.54,
+      "longitude": 93.58,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.54,
+      "longitude": 93.58,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.57,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.57,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.54,
+      "longitude": 93.58,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.673283,
+      "longitude": 127.605467,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.798797,
+      "longitude": 127.307381,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.738939,
+      "longitude": 127.708206,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.943139,
+      "longitude": 127.643439,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.0,
+      "longitude": 94.2,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.634444,
+      "longitude": 127.359167,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.695278,
+      "longitude": 127.436667,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.820856,
+      "longitude": 127.729083,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 33.247108,
+      "longitude": 126.419517,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 34.614181,
+      "longitude": 127.755971,
+      "country": "Korea, Republic of",
+      "state": "Jeollanam-do"
+    },
+    {
+      "latitude": 33.523861,
+      "longitude": 126.770306,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 33.460908,
+      "longitude": 126.337972,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 33.323611,
+      "longitude": 126.166903,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.728333,
+      "longitude": 127.185833,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.548767,
+      "longitude": 126.93485,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.985336,
+      "longitude": 128.0445,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 33.334014,
+      "longitude": 126.250906,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.54,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.54,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.54,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.2,
+      "longitude": 73.35,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.54,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.47,
+      "longitude": 93.54,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.37,
+      "longitude": 94.01,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.143674,
+      "longitude": 85.338819,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 33.241614,
+      "longitude": 126.313417,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.742419,
+      "longitude": 127.709742,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.654153,
+      "longitude": 127.605256,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.932828,
+      "longitude": 127.653053,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.933333,
+      "longitude": 134.616667,
+      "country": "Japan",
+      "state": "Hyogo"
+    },
+    {
+      "latitude": 34.233333,
+      "longitude": 131.283333,
+      "country": "Japan",
+      "state": "Yamaguchi"
+    },
+    {
+      "latitude": 25.7,
+      "longitude": 110.3,
+      "country": "China",
+      "state": "Guangxi"
+    },
+    {
+      "latitude": 35.307441,
+      "longitude": 139.190574,
+      "country": "Japan",
+      "state": "Kanagawa Prefecture"
+    },
+    {
+      "latitude": 35.092164,
+      "longitude": 126.627594,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 32.05,
+      "longitude": 118.816666,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 32.05,
+      "longitude": 118.816666,
+      "country": "China",
+      "state": "Jiangsu"
+    },
+    {
+      "latitude": 34.722172,
+      "longitude": 126.82999,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 34.282386,
+      "longitude": 126.19884,
+      "country": "Korea, Republic of",
+      "state": null
+    },
+    {
+      "latitude": 28.134444,
+      "longitude": 85.356111,
+      "country": "Nepal",
+      "state": "Bagmati Zone"
+    },
+    {
+      "latitude": 34.993883,
+      "longitude": 128.012105,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 35.034203,
+      "longitude": 128.039017,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 34.99314,
+      "longitude": 128.012252,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": -31.062778,
+      "longitude": -64.520556,
+      "country": "Argentina",
+      "state": "C\u00f3rdoba"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.52,
+      "longitude": 109.4,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 29.710779,
+      "longitude": 110.080087,
+      "country": "China",
+      "state": "Hunan"
+    },
+    {
+      "latitude": 27.50309,
+      "longitude": 89.878677,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 27.528976,
+      "longitude": 89.841904,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 34.71233,
+      "longitude": 135.19154,
+      "country": "Japan",
+      "state": "Pref. Hyogo:"
+    },
+    {
+      "latitude": 30.533333,
+      "longitude": 114.416664,
+      "country": "China",
+      "state": "Hubei"
+    },
+    {
+      "latitude": 30.533333,
+      "longitude": 114.416664,
+      "country": "China",
+      "state": "Hubei"
+    },
+    {
+      "latitude": 34.71015,
+      "longitude": 135.192137,
+      "country": "Japan",
+      "state": "Hy\u014dgo"
+    },
+    {
+      "latitude": 34.1859,
+      "longitude": 134.5111,
+      "country": "Japan",
+      "state": "Tokushima"
+    },
+    {
+      "latitude": 35.399091,
+      "longitude": 139.090582,
+      "country": "Japan",
+      "state": "Kanagawa Prefecture"
+    },
+    {
+      "latitude": 35.382425,
+      "longitude": 139.065584,
+      "country": "Japan",
+      "state": "Kanagawa Prefecture"
+    },
+    {
+      "latitude": 35.466667,
+      "longitude": 134.55,
+      "country": "Japan",
+      "state": "Hyogo"
+    },
+    {
+      "latitude": 26.53,
+      "longitude": 106.7,
+      "country": "China",
+      "state": "\u8d35\u5dde"
+    },
+    {
+      "latitude": 35.59583,
+      "longitude": 139.34486,
+      "country": "Japan",
+      "state": "Kanagawa"
+    },
+    {
+      "latitude": 44.505278,
+      "longitude": 34.168611,
+      "country": "Ukraine",
+      "state": null
+    },
+    {
+      "latitude": 24.43,
+      "longitude": 106.74,
+      "country": "China",
+      "state": "Guangxi (\u5ee3\u897f\u58ef\u65cf\u81ea\u6cbb\u5340|\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a)"
+    },
+    {
+      "latitude": 34.833333,
+      "longitude": 135.316667,
+      "country": "Japan",
+      "state": "Pref. Hyogo:"
+    },
+    {
+      "latitude": 27.515398,
+      "longitude": 89.866585,
+      "country": "Bhutan",
+      "state": null
+    },
+    {
+      "latitude": 35.315769,
+      "longitude": 139.090584,
+      "country": "Japan",
+      "state": "Kanagawa Prefecture"
+    },
+    {
+      "latitude": 33.949181,
+      "longitude": 136.178393,
+      "country": "Japan",
+      "state": "Mie Prefecture"
+    },
+    {
+      "latitude": 28.37238,
+      "longitude": 84.887517,
+      "country": "Nepal",
+      "state": "West"
+    },
+    {
+      "latitude": 35.299105,
+      "longitude": 139.078087,
+      "country": "Japan",
+      "state": "Kanagawa Prefecture"
+    },
+    {
+      "latitude": 31.95,
+      "longitude": 119.17,
+      "country": "China",
+      "state": "\u6c5f\u82cf"
+    },
+    {
+      "latitude": 35.424094,
+      "longitude": 139.253068,
+      "country": "Japan",
+      "state": "Kanagawa Prefecture"
+    },
+    {
+      "latitude": 34.9333,
+      "longitude": 134.3833,
+      "country": "Japan",
+      "state": "Hyogo Pref."
+    },
+    {
+      "latitude": 33.626194,
+      "longitude": 133.504389,
+      "country": "Japan",
+      "state": "Kochi"
+    },
+    {
+      "latitude": 33.243583,
+      "longitude": 132.972722,
+      "country": "Japan",
+      "state": "Kochi"
+    },
+    {
+      "latitude": 35.619,
+      "longitude": 139.19925,
+      "country": "Japan",
+      "state": "Kanagawa"
+    },
+    {
+      "latitude": 35.024,
+      "longitude": 134.383333,
+      "country": "Japan",
+      "state": "Pref. Hyogo:"
+    },
+    {
+      "latitude": 35.56828,
+      "longitude": 139.29933,
+      "country": "Japan",
+      "state": "Kanagawa"
+    },
+    {
+      "latitude": 40.205091,
+      "longitude": -8.42248,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 35.619,
+      "longitude": 139.19925,
+      "country": "Japan",
+      "state": "Kanagawa"
+    },
+    {
+      "latitude": 34.766667,
+      "longitude": 135.066667,
+      "country": "Japan",
+      "state": "Pref. Hyogo:"
+    },
+    {
+      "latitude": 28.166272,
+      "longitude": 85.433178,
+      "country": "Nepal",
+      "state": "Bagmati"
+    },
+    {
+      "latitude": 35.126077,
+      "longitude": 126.964849,
+      "country": "Korea, Republic of",
+      "state": "Gwangju"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 36.278333,
+      "longitude": 126.149167,
+      "country": "Korea, Republic of",
+      "state": "Chungcheongnam-do"
+    },
+    {
+      "latitude": 29.644577,
+      "longitude": 80.202232,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.349101,
+      "longitude": 133.941095,
+      "country": "Japan",
+      "state": "Kagawa Prefecture"
+    },
+    {
+      "latitude": 44.509389,
+      "longitude": 34.232806,
+      "country": "Ukraine",
+      "state": null
+    },
+    {
+      "latitude": 34.75,
+      "longitude": 106.14,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 22.7,
+      "longitude": 100.86,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 35.56351,
+      "longitude": 139.26675,
+      "country": "Japan",
+      "state": "Kanagawa"
+    },
+    {
+      "latitude": 35.6203,
+      "longitude": 139.18721,
+      "country": "Japan",
+      "state": "Kanagawa"
+    },
+    {
+      "latitude": 36.602778,
+      "longitude": -119.518611,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 35.0,
+      "longitude": 135.6,
+      "country": "Japan",
+      "state": "Kyoto Pref."
+    },
+    {
+      "latitude": 33.599201,
+      "longitude": 133.916103,
+      "country": "Japan",
+      "state": "Kochi"
+    },
+    {
+      "latitude": 27.929722,
+      "longitude": 85.901111,
+      "country": "Nepal",
+      "state": "Central"
+    },
+    {
+      "latitude": 29.25,
+      "longitude": 117.85,
+      "country": "China",
+      "state": "\u6c5f\u897f"
+    },
+    {
+      "latitude": 35.554167,
+      "longitude": 139.28125,
+      "country": "Japan",
+      "state": "Kanagawa"
+    },
+    {
+      "latitude": 30.016667,
+      "longitude": 109.716667,
+      "country": "China",
+      "state": "Hubei (\u6e56\u5317\u7701)"
+    },
+    {
+      "latitude": 30.016667,
+      "longitude": 109.716667,
+      "country": "China",
+      "state": "Hubei (\u6e56\u5317\u7701)"
+    },
+    {
+      "latitude": 30.05,
+      "longitude": 109.833333,
+      "country": "China",
+      "state": "Hubei (\u6e56\u5317\u7701)"
+    },
+    {
+      "latitude": 30.05,
+      "longitude": 109.833333,
+      "country": "China",
+      "state": "Hubei (\u6e56\u5317\u7701)"
+    },
+    {
+      "latitude": 24.141389,
+      "longitude": 121.633056,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 35.3,
+      "longitude": 136.54,
+      "country": "Japan",
+      "state": null
+    },
+    {
+      "latitude": 35.3,
+      "longitude": 136.54,
+      "country": "Japan",
+      "state": null
+    },
+    {
+      "latitude": 35.3,
+      "longitude": 136.54,
+      "country": "Japan",
+      "state": null
+    },
+    {
+      "latitude": 35.3036,
+      "longitude": 136.541,
+      "country": "Japan",
+      "state": "Gifu"
+    },
+    {
+      "latitude": 35.3036,
+      "longitude": 136.541,
+      "country": "Japan",
+      "state": "Gifu"
+    },
+    {
+      "latitude": 26.637528,
+      "longitude": 101.546944,
+      "country": "China",
+      "state": "Sichuan (\u56db\u5ddd\u7701)"
+    },
+    {
+      "latitude": 34.84,
+      "longitude": 133.23,
+      "country": "Japan",
+      "state": null
+    },
+    {
+      "latitude": 34.84,
+      "longitude": 133.23,
+      "country": "Japan",
+      "state": null
+    },
+    {
+      "latitude": 34.84,
+      "longitude": 133.23,
+      "country": "Japan",
+      "state": null
+    },
+    {
+      "latitude": 34.8417,
+      "longitude": 133.231,
+      "country": "Japan",
+      "state": "Hiroshima"
+    },
+    {
+      "latitude": 34.8417,
+      "longitude": 133.231,
+      "country": "Japan",
+      "state": "Hiroshima"
+    },
+    {
+      "latitude": 44.509389,
+      "longitude": 34.232806,
+      "country": "Ukraine",
+      "state": null
+    },
+    {
+      "latitude": 33.303624,
+      "longitude": 126.279158,
+      "country": "Korea, Republic of",
+      "state": "Korea"
+    },
+    {
+      "latitude": 24.052222,
+      "longitude": 121.159444,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 35.5625,
+      "longitude": 139.29375,
+      "country": "Japan",
+      "state": "Kanagawa"
+    },
+    {
+      "latitude": 38.5,
+      "longitude": -121.46,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 35.193798,
+      "longitude": 137.289195,
+      "country": "Japan",
+      "state": "Aichi"
+    },
+    {
+      "latitude": 63.434,
+      "longitude": 10.671,
+      "country": "Norway",
+      "state": null
+    },
+    {
+      "latitude": 29.740278,
+      "longitude": 82.068611,
+      "country": "Nepal",
+      "state": "Mid-Western"
+    },
+    {
+      "latitude": 35.4739,
+      "longitude": 137.1864,
+      "country": "Japan",
+      "state": "Gifu Pref."
+    },
+    {
+      "latitude": 26.266108,
+      "longitude": 107.525074,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 23.498056,
+      "longitude": 120.880833,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 26.194297,
+      "longitude": 119.832943,
+      "country": "Chinese Taipei",
+      "state": "Fujian"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 31.42,
+      "longitude": 119.48,
+      "country": "China",
+      "state": "\u6c5f\u82cf"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 34.732361,
+      "longitude": 133.661361,
+      "country": "Japan",
+      "state": "Okayama"
+    },
+    {
+      "latitude": 34.745278,
+      "longitude": 134.112222,
+      "country": "Japan",
+      "state": "Okayama"
+    },
+    {
+      "latitude": 34.730278,
+      "longitude": 134.09,
+      "country": "Japan",
+      "state": "Okayama"
+    },
+    {
+      "latitude": 38.64,
+      "longitude": -121.45,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 34.861944,
+      "longitude": 134.228056,
+      "country": "Japan",
+      "state": "Okayama"
+    },
+    {
+      "latitude": 34.365768,
+      "longitude": 134.116078,
+      "country": "Japan",
+      "state": "Kagawa Prefecture"
+    },
+    {
+      "latitude": 31.68,
+      "longitude": 103.85,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 117.95,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 117.95,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 117.95,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 22.25,
+      "longitude": 99.46,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 117.95,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 31.68,
+      "longitude": 103.85,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.68,
+      "longitude": 103.85,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 31.68,
+      "longitude": 103.85,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 117.95,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 117.95,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 117.95,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 28.72,
+      "longitude": 109.65,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 31.75,
+      "longitude": 110.67,
+      "country": "China",
+      "state": "\u6e56\u5317"
+    },
+    {
+      "latitude": 33.8,
+      "longitude": 133.816667,
+      "country": "Japan",
+      "state": "Kochi"
+    },
+    {
+      "latitude": 25.401944,
+      "longitude": 98.708889,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.3275,
+      "longitude": 98.703611,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.37167,
+      "longitude": 98.691277,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.706667,
+      "longitude": 98.685,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 34.91667,
+      "longitude": 134.71667,
+      "country": "Japan",
+      "state": "Hyogo"
+    },
+    {
+      "latitude": 25.327611,
+      "longitude": 98.703667,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.401889,
+      "longitude": 98.708889,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.014167,
+      "longitude": 98.443056,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 33.616667,
+      "longitude": 133.783333,
+      "country": "Japan",
+      "state": "Kochi"
+    },
+    {
+      "latitude": 25.014194,
+      "longitude": 98.443056,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 33.804167,
+      "longitude": 133.38125,
+      "country": "Japan",
+      "state": "Pref. Kochi:"
+    },
+    {
+      "latitude": 32.783333,
+      "longitude": 132.666667,
+      "country": "Japan",
+      "state": "Kochi"
+    },
+    {
+      "latitude": 33.8,
+      "longitude": 133.383333,
+      "country": "Japan",
+      "state": "Kochi"
+    },
+    {
+      "latitude": 27.666944,
+      "longitude": 98.719444,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.906944,
+      "longitude": 98.659167,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.974722,
+      "longitude": 98.655,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.6375,
+      "longitude": 98.727778,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.666806,
+      "longitude": 98.7195,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.974694,
+      "longitude": 98.655028,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.906972,
+      "longitude": 98.659028,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.637583,
+      "longitude": 98.727806,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.428889,
+      "longitude": 99.844444,
+      "country": "China",
+      "state": "Yunnan Province"
+    },
+    {
+      "latitude": 39.92,
+      "longitude": 111.68,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 39.92,
+      "longitude": 111.68,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 39.92,
+      "longitude": 111.68,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 28.72,
+      "longitude": 109.65,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 28.72,
+      "longitude": 109.65,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 39.92,
+      "longitude": 111.68,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 39.92,
+      "longitude": 111.68,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.13,
+      "longitude": 110.48,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.13,
+      "longitude": 110.48,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 34.17,
+      "longitude": 108.2,
+      "country": "China",
+      "state": "\u9655\u897f"
+    },
+    {
+      "latitude": 28.72,
+      "longitude": 109.65,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 24.32306,
+      "longitude": 109.49222,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 24.32306,
+      "longitude": 109.49222,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 24.48333,
+      "longitude": 109.73333,
+      "country": "China",
+      "state": "Guangxi Province"
+    },
+    {
+      "latitude": 24.48333,
+      "longitude": 109.73333,
+      "country": "China",
+      "state": "Guangxi Province"
+    },
+    {
+      "latitude": 34.40693,
+      "longitude": 135.79846,
+      "country": "Japan",
+      "state": "Nara"
+    },
+    {
+      "latitude": 26.077778,
+      "longitude": 98.600833,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 26.015278,
+      "longitude": 98.6075,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 24.801389,
+      "longitude": 98.875,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 24.931111,
+      "longitude": 98.796389,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 26.015278,
+      "longitude": 98.6075,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 24.931111,
+      "longitude": 98.796389,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 24.801389,
+      "longitude": 98.875,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 24.813278,
+      "longitude": 98.782837,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.077698,
+      "longitude": 98.60083,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 24.32306,
+      "longitude": 109.49222,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 26.015278,
+      "longitude": 98.6075,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 24.931111,
+      "longitude": 98.796389,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 24.48333,
+      "longitude": 109.73333,
+      "country": "China",
+      "state": "Guangxi Province"
+    },
+    {
+      "latitude": 25.294167,
+      "longitude": 98.794444,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 25.295556,
+      "longitude": 98.800278,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 25.294167,
+      "longitude": 98.794444,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.295556,
+      "longitude": 98.800278,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.294167,
+      "longitude": 98.794444,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 25.295556,
+      "longitude": 98.800278,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 30.353794,
+      "longitude": 119.436458,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 33.633333,
+      "longitude": 133.5,
+      "country": "Japan",
+      "state": "Kochi"
+    },
+    {
+      "latitude": 24.9936,
+      "longitude": 102.459,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.491389,
+      "longitude": 98.9,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.119444,
+      "longitude": 98.857778,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.130003,
+      "longitude": 98.877861,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.443889,
+      "longitude": 98.816111,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.760278,
+      "longitude": 98.8875,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.119444,
+      "longitude": 98.857778,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.190833,
+      "longitude": 98.883056,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.489722,
+      "longitude": 98.891389,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 35.055013,
+      "longitude": 137.284083,
+      "country": "Japan",
+      "state": "Aichi"
+    },
+    {
+      "latitude": 26.119167,
+      "longitude": 98.857778,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.119167,
+      "longitude": 98.857778,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.443889,
+      "longitude": 98.816111,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.491111,
+      "longitude": 98.899722,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.76,
+      "longitude": 98.887222,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.190556,
+      "longitude": 98.883056,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.489444,
+      "longitude": 98.891389,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 24.993611,
+      "longitude": 102.458889,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 34.895556,
+      "longitude": 134.035556,
+      "country": "Japan",
+      "state": "Okayama"
+    },
+    {
+      "latitude": 27.766667,
+      "longitude": 86.722778,
+      "country": "Nepal",
+      "state": null
+    },
+    {
+      "latitude": 26.466667,
+      "longitude": 111.316667,
+      "country": "China",
+      "state": "Hunan"
+    },
+    {
+      "latitude": 27.119444,
+      "longitude": 98.879722,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 26.902222,
+      "longitude": 98.861111,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 27.119444,
+      "longitude": 98.879722,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.902111,
+      "longitude": 98.861115,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.128611,
+      "longitude": 98.877778,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.119444,
+      "longitude": 98.879722,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 27.1287,
+      "longitude": 98.8778,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.812778,
+      "longitude": 98.884722,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 26.674444,
+      "longitude": 98.895833,
+      "country": "China",
+      "state": null
+    },
+    {
+      "latitude": 26.812666,
+      "longitude": 98.884666,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.674444,
+      "longitude": 98.895833,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 26.674444,
+      "longitude": 98.895833,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 33.583333,
+      "longitude": 133.733333,
+      "country": "Japan",
+      "state": "Kochi"
+    }
+  ],
+  "scientific_name": "Zanthoxylum armatum",
+  "common_name": "winged prickly ash",
+  "description": null
+}

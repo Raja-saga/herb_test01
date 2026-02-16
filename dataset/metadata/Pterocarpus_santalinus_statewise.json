@@ -1,0 +1,41 @@
+{
+  "herb": "Pterocarpus santalinus",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "AndhraPradesh": {
+      "count": 10,
+      "normalizedScore": 0.83,
+      "presence": "High"
+    },
+    "TamilNadu": {
+      "count": 12,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Karnataka": {
+      "count": 4,
+      "normalizedScore": 0.33,
+      "presence": "Low"
+    },
+    "Telangana": {
+      "count": 4,
+      "normalizedScore": 0.33,
+      "presence": "Low"
+    },
+    "Kerala": {
+      "count": 5,
+      "normalizedScore": 0.42,
+      "presence": "Low"
+    },
+    "WestBengal": {
+      "count": 3,
+      "normalizedScore": 0.25,
+      "presence": "Low"
+    },
+    "Gujarat": {
+      "count": 1,
+      "normalizedScore": 0.08,
+      "presence": "Very Low"
+    }
+  }
+}

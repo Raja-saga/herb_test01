@@ -1,0 +1,3008 @@
+{
+  "herb": "Origanum vulgare",
+  "locations": [
+    {
+      "latitude": -33.417078,
+      "longitude": -70.601563,
+      "country": "Chile",
+      "state": "Regi\u00f3n Metropolitana de Santiago"
+    },
+    {
+      "latitude": 51.493808,
+      "longitude": -0.047242,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 58.33733,
+      "longitude": 11.9068,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 57.70571,
+      "longitude": 12.00562,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 55.820015,
+      "longitude": 12.304488,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 56.70854,
+      "longitude": 12.87898,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 57.60342,
+      "longitude": 18.24605,
+      "country": "Sweden",
+      "state": "Gotland"
+    },
+    {
+      "latitude": 54.72098,
+      "longitude": 11.903334,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 55.667837,
+      "longitude": 12.609251,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 28.613293,
+      "longitude": -17.794743,
+      "country": "Spain",
+      "state": null
+    },
+    {
+      "latitude": 56.70854,
+      "longitude": 12.87898,
+      "country": "Sweden",
+      "state": "Halland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 47.656129,
+      "longitude": 13.148567,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.713411,
+      "longitude": 7.09099,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 54.939067,
+      "longitude": 39.020614,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 40.216302,
+      "longitude": -8.434428,
+      "country": "Portugal",
+      "state": "Coimbra"
+    },
+    {
+      "latitude": 46.839067,
+      "longitude": 15.760502,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 53.221423,
+      "longitude": -4.166792,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "Wales"
+    },
+    {
+      "latitude": 54.932269,
+      "longitude": 39.015475,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 43.492797,
+      "longitude": 3.675385,
+      "country": "France",
+      "state": "Languedoc-Roussillon"
+    },
+    {
+      "latitude": 47.886807,
+      "longitude": 12.986338,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 47.884267,
+      "longitude": 12.987713,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 58.33733,
+      "longitude": 11.9068,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": -45.080551,
+      "longitude": 168.472061,
+      "country": "New Zealand",
+      "state": "Otago"
+    },
+    {
+      "latitude": 45.935074,
+      "longitude": 4.801802,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 46.87016,
+      "longitude": 15.503825,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": 41.660116,
+      "longitude": 2.74047,
+      "country": "Spain",
+      "state": "Catalu\u00f1a"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 53.05,
+      "longitude": 6.4,
+      "country": "Netherlands",
+      "state": "Drenthe"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.55,
+      "longitude": 5.05,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 47.743887,
+      "longitude": 13.258299,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 51.445362,
+      "longitude": 6.889842,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.3,
+      "longitude": 4.7,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 47.296743,
+      "longitude": 11.403226,
+      "country": "Austria",
+      "state": "Tirol"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.4,
+      "longitude": 4.9,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.6,
+      "longitude": 5.4,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 52.55,
+      "longitude": 4.6,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 52.5,
+      "longitude": 5.5,
+      "country": "Netherlands",
+      "state": "Flevoland"
+    },
+    {
+      "latitude": 56.74782,
+      "longitude": 16.5825,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 59.81977,
+      "longitude": 17.62257,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 58.33145,
+      "longitude": 11.92813,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 59.83883,
+      "longitude": 17.60555,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 58.23619,
+      "longitude": 11.43177,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 59.84883,
+      "longitude": 17.69903,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 54.932275,
+      "longitude": 39.015469,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 56.987595,
+      "longitude": 72.561017,
+      "country": "Russian Federation",
+      "state": "Omsk"
+    },
+    {
+      "latitude": -45.007347,
+      "longitude": 168.568695,
+      "country": "New Zealand",
+      "state": "Otago"
+    },
+    {
+      "latitude": 47.279273,
+      "longitude": 15.646387,
+      "country": "Austria",
+      "state": "Steiermark"
+    },
+    {
+      "latitude": -43.506395,
+      "longitude": 172.641708,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 47.296575,
+      "longitude": 11.403469,
+      "country": "Austria",
+      "state": "Tirol"
+    },
+    {
+      "latitude": 46.34284,
+      "longitude": 6.95155,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.47713,
+      "longitude": 6.82013,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.96905,
+      "longitude": 8.45705,
+      "country": "Switzerland",
+      "state": "Nw"
+    },
+    {
+      "latitude": 46.74473,
+      "longitude": 6.48989,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.83852,
+      "longitude": 7.27478,
+      "country": "Switzerland",
+      "state": "Fr"
+    },
+    {
+      "latitude": 46.11843,
+      "longitude": 7.08292,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.83222,
+      "longitude": 8.65109,
+      "country": "Switzerland",
+      "state": "Ur"
+    },
+    {
+      "latitude": 47.51313,
+      "longitude": 7.60456,
+      "country": "Switzerland",
+      "state": "Bl"
+    },
+    {
+      "latitude": 46.25314,
+      "longitude": 7.0172,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 50.740319,
+      "longitude": 0.261281,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": -45.067314,
+      "longitude": 168.544542,
+      "country": "New Zealand",
+      "state": "Otago"
+    },
+    {
+      "latitude": 58.30558,
+      "longitude": 13.7037,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30347,
+      "longitude": 13.70231,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32908,
+      "longitude": 13.79465,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.27896,
+      "longitude": 13.71276,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.27896,
+      "longitude": 13.71276,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31501,
+      "longitude": 13.71066,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28404,
+      "longitude": 13.7082,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31007,
+      "longitude": 13.70726,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28734,
+      "longitude": 13.6984,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28946,
+      "longitude": 13.69687,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31929,
+      "longitude": 13.71572,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29879,
+      "longitude": 13.69927,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28647,
+      "longitude": 13.70003,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31669,
+      "longitude": 13.71227,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29892,
+      "longitude": 13.69949,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31346,
+      "longitude": 13.70965,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28057,
+      "longitude": 13.71268,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2956,
+      "longitude": 13.69792,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.3061,
+      "longitude": 13.70418,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29908,
+      "longitude": 13.69931,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28647,
+      "longitude": 13.70009,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31345,
+      "longitude": 13.70949,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28855,
+      "longitude": 13.69712,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32102,
+      "longitude": 13.70997,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29443,
+      "longitude": 13.69743,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31951,
+      "longitude": 13.71553,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31669,
+      "longitude": 13.71227,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28384,
+      "longitude": 13.70882,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31925,
+      "longitude": 13.71572,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31501,
+      "longitude": 13.71066,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29571,
+      "longitude": 13.69768,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29481,
+      "longitude": 13.69743,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31925,
+      "longitude": 13.71572,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31078,
+      "longitude": 13.70813,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31953,
+      "longitude": 13.71557,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31503,
+      "longitude": 13.71056,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.27879,
+      "longitude": 13.71285,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31574,
+      "longitude": 13.71128,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29908,
+      "longitude": 13.69931,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28338,
+      "longitude": 13.70994,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31612,
+      "longitude": 13.71168,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29892,
+      "longitude": 13.69949,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32095,
+      "longitude": 13.70999,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31363,
+      "longitude": 13.70977,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31967,
+      "longitude": 13.71529,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31346,
+      "longitude": 13.70965,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30692,
+      "longitude": 13.70493,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28831,
+      "longitude": 13.69736,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.27806,
+      "longitude": 13.7128,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32016,
+      "longitude": 13.71348,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29204,
+      "longitude": 13.69662,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29907,
+      "longitude": 13.69934,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31002,
+      "longitude": 13.70711,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30007,
+      "longitude": 13.70004,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30655,
+      "longitude": 13.70443,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32905,
+      "longitude": 13.79466,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.3055,
+      "longitude": 13.70389,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32908,
+      "longitude": 13.79465,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28957,
+      "longitude": 13.69686,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31487,
+      "longitude": 13.71057,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28339,
+      "longitude": 13.70996,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29907,
+      "longitude": 13.69934,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30558,
+      "longitude": 13.7037,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2886,
+      "longitude": 13.69708,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31363,
+      "longitude": 13.70977,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29483,
+      "longitude": 13.69758,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28985,
+      "longitude": 13.69674,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30345,
+      "longitude": 13.70231,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.3058,
+      "longitude": 13.70394,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30549,
+      "longitude": 13.70374,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28064,
+      "longitude": 13.71268,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29875,
+      "longitude": 13.69943,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.3058,
+      "longitude": 13.70394,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28347,
+      "longitude": 13.70958,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30556,
+      "longitude": 13.70375,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.33298,
+      "longitude": 13.76515,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32084,
+      "longitude": 13.7109,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30602,
+      "longitude": 13.70413,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30007,
+      "longitude": 13.70004,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31574,
+      "longitude": 13.71128,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28347,
+      "longitude": 13.70958,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29462,
+      "longitude": 13.69757,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31812,
+      "longitude": 13.71393,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31502,
+      "longitude": 13.71055,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31448,
+      "longitude": 13.71013,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32095,
+      "longitude": 13.70999,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29892,
+      "longitude": 13.69949,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31502,
+      "longitude": 13.71055,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31967,
+      "longitude": 13.71524,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31834,
+      "longitude": 13.71453,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29892,
+      "longitude": 13.69949,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28404,
+      "longitude": 13.7082,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31007,
+      "longitude": 13.70726,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29892,
+      "longitude": 13.69949,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32098,
+      "longitude": 13.71028,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28647,
+      "longitude": 13.70003,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30692,
+      "longitude": 13.70493,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31967,
+      "longitude": 13.71529,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29571,
+      "longitude": 13.69768,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28339,
+      "longitude": 13.70977,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28057,
+      "longitude": 13.71268,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29251,
+      "longitude": 13.69644,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30974,
+      "longitude": 13.70692,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28957,
+      "longitude": 13.69663,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28907,
+      "longitude": 13.69683,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.3055,
+      "longitude": 13.70389,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.288,
+      "longitude": 13.69761,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28855,
+      "longitude": 13.69712,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30469,
+      "longitude": 13.70326,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28831,
+      "longitude": 13.69736,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31487,
+      "longitude": 13.71057,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31391,
+      "longitude": 13.70979,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31345,
+      "longitude": 13.70949,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30602,
+      "longitude": 13.70413,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32998,
+      "longitude": 13.78936,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32084,
+      "longitude": 13.7109,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28338,
+      "longitude": 13.70994,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31812,
+      "longitude": 13.71393,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2938,
+      "longitude": 13.69708,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30974,
+      "longitude": 13.70692,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30972,
+      "longitude": 13.70712,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28998,
+      "longitude": 13.69664,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31953,
+      "longitude": 13.71557,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2938,
+      "longitude": 13.69708,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28064,
+      "longitude": 13.71268,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30549,
+      "longitude": 13.70374,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30347,
+      "longitude": 13.70231,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31448,
+      "longitude": 13.71013,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29251,
+      "longitude": 13.69644,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31391,
+      "longitude": 13.70979,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29256,
+      "longitude": 13.69662,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30972,
+      "longitude": 13.70712,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29555,
+      "longitude": 13.69775,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28734,
+      "longitude": 13.6984,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31967,
+      "longitude": 13.71524,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.27806,
+      "longitude": 13.7128,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29462,
+      "longitude": 13.69757,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.307,
+      "longitude": 13.70486,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2859,
+      "longitude": 13.70172,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29497,
+      "longitude": 13.69766,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28339,
+      "longitude": 13.70996,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2886,
+      "longitude": 13.69708,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31834,
+      "longitude": 13.71453,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29892,
+      "longitude": 13.69949,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28907,
+      "longitude": 13.69683,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29878,
+      "longitude": 13.69936,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29879,
+      "longitude": 13.69927,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28396,
+      "longitude": 13.70849,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29204,
+      "longitude": 13.69662,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29878,
+      "longitude": 13.69936,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29935,
+      "longitude": 13.69963,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.288,
+      "longitude": 13.69761,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31951,
+      "longitude": 13.71553,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29443,
+      "longitude": 13.69743,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32041,
+      "longitude": 13.71248,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.27879,
+      "longitude": 13.71285,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31929,
+      "longitude": 13.71572,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.27889,
+      "longitude": 13.7128,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30973,
+      "longitude": 13.70711,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2928,
+      "longitude": 13.69652,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.27889,
+      "longitude": 13.7128,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32098,
+      "longitude": 13.71028,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30655,
+      "longitude": 13.70443,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30556,
+      "longitude": 13.70375,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.307,
+      "longitude": 13.70486,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30126,
+      "longitude": 13.70053,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31049,
+      "longitude": 13.70786,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29481,
+      "longitude": 13.69743,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29875,
+      "longitude": 13.69943,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30973,
+      "longitude": 13.70711,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29935,
+      "longitude": 13.69963,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.3006,
+      "longitude": 13.70024,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.3061,
+      "longitude": 13.70418,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30171,
+      "longitude": 13.70084,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2956,
+      "longitude": 13.69792,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29857,
+      "longitude": 13.69915,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30681,
+      "longitude": 13.70487,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.33298,
+      "longitude": 13.76515,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30469,
+      "longitude": 13.70326,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30126,
+      "longitude": 13.70053,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28998,
+      "longitude": 13.69664,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32016,
+      "longitude": 13.71348,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31612,
+      "longitude": 13.71168,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29555,
+      "longitude": 13.69775,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28647,
+      "longitude": 13.70009,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30345,
+      "longitude": 13.70231,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29857,
+      "longitude": 13.69915,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28384,
+      "longitude": 13.70882,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28985,
+      "longitude": 13.69674,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28957,
+      "longitude": 13.69686,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30171,
+      "longitude": 13.70084,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29256,
+      "longitude": 13.69662,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28396,
+      "longitude": 13.70849,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30957,
+      "longitude": 13.70679,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28339,
+      "longitude": 13.70977,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.3006,
+      "longitude": 13.70024,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32905,
+      "longitude": 13.79466,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30957,
+      "longitude": 13.70679,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30928,
+      "longitude": 13.70676,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31049,
+      "longitude": 13.70786,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29483,
+      "longitude": 13.69758,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2863,
+      "longitude": 13.70057,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32102,
+      "longitude": 13.70997,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32041,
+      "longitude": 13.71248,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2859,
+      "longitude": 13.70172,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30928,
+      "longitude": 13.70676,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28957,
+      "longitude": 13.69663,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31503,
+      "longitude": 13.71056,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.29497,
+      "longitude": 13.69766,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31078,
+      "longitude": 13.70813,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2928,
+      "longitude": 13.69652,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.2863,
+      "longitude": 13.70057,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.30681,
+      "longitude": 13.70487,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.32998,
+      "longitude": 13.78936,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.28946,
+      "longitude": 13.69687,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 58.31002,
+      "longitude": 13.70711,
+      "country": "Sweden",
+      "state": "V\u00e4sterg\u00f6tland"
+    },
+    {
+      "latitude": 47.908462,
+      "longitude": 12.918798,
+      "country": "Germany",
+      "state": "Bayern"
+    },
+    {
+      "latitude": 47.656129,
+      "longitude": 13.148567,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.296743,
+      "longitude": 11.403226,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.743887,
+      "longitude": 13.258299,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.884267,
+      "longitude": 12.987713,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.886807,
+      "longitude": 12.986338,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 55.817914,
+      "longitude": 12.236552,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 50.9427,
+      "longitude": 3.57931,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 50.9427,
+      "longitude": 3.57931,
+      "country": "Belgium",
+      "state": null
+    },
+    {
+      "latitude": 47.988266,
+      "longitude": 13.260765,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 6.05,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.95,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 58.33621,
+      "longitude": 11.9103,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 58.33656,
+      "longitude": 11.9095,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 58.2932,
+      "longitude": 11.89949,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 56.64404,
+      "longitude": 16.534,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": -39.646765,
+      "longitude": 176.995508,
+      "country": "New Zealand",
+      "state": "Hawke's Bay"
+    },
+    {
+      "latitude": 46.572717,
+      "longitude": 0.623625,
+      "country": "France",
+      "state": "Poitou-Charentes"
+    },
+    {
+      "latitude": -43.73848,
+      "longitude": 170.099991,
+      "country": "New Zealand",
+      "state": "Canterbury"
+    },
+    {
+      "latitude": 46.731705,
+      "longitude": 8.185084,
+      "country": "Switzerland",
+      "state": "Bern (BE)"
+    },
+    {
+      "latitude": 46.729532,
+      "longitude": 8.195946,
+      "country": "Switzerland",
+      "state": "Bern (BE)"
+    },
+    {
+      "latitude": 46.729178,
+      "longitude": 8.195298,
+      "country": "Switzerland",
+      "state": "Bern (BE)"
+    },
+    {
+      "latitude": 51.25,
+      "longitude": 3.75,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 51.25,
+      "longitude": 3.75,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 47.716419,
+      "longitude": 13.100337,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 52.15,
+      "longitude": 5.35,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 59.83883,
+      "longitude": 17.60555,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 45.889235,
+      "longitude": 4.849679,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 52.25,
+      "longitude": 6.15,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 52.4,
+      "longitude": 6.65,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 52.4,
+      "longitude": 6.65,
+      "country": "Netherlands",
+      "state": "Overijssel"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.95,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.95,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 46.86497,
+      "longitude": 9.5045,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.90873,
+      "longitude": 9.57183,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.07364,
+      "longitude": 7.14784,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.73125,
+      "longitude": 9.43394,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.47635,
+      "longitude": 6.68992,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.59518,
+      "longitude": 8.80149,
+      "country": "Switzerland",
+      "state": "Tg"
+    },
+    {
+      "latitude": 46.86497,
+      "longitude": 9.5045,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.56368,
+      "longitude": 6.36264,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.29786,
+      "longitude": 6.95196,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.50978,
+      "longitude": 8.33465,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 46.25314,
+      "longitude": 7.0172,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.56368,
+      "longitude": 6.36264,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.55764,
+      "longitude": 7.80399,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 46.77621,
+      "longitude": 9.43561,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.34255,
+      "longitude": 7.99068,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.90993,
+      "longitude": 9.50623,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.56368,
+      "longitude": 6.36264,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.95369,
+      "longitude": 9.57362,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.56428,
+      "longitude": 6.42784,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.83656,
+      "longitude": 6.75045,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.86497,
+      "longitude": 9.5045,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 43.162374,
+      "longitude": 76.672669,
+      "country": "Kazakhstan",
+      "state": "Almaty"
+    },
+    {
+      "latitude": 43.147372,
+      "longitude": 76.66372,
+      "country": "Kazakhstan",
+      "state": "Almaty"
+    },
+    {
+      "latitude": 61.586168,
+      "longitude": 9.818532,
+      "country": "Norway",
+      "state": "Innlandet"
+    },
+    {
+      "latitude": 51.1,
+      "longitude": 5.8,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 56.60877,
+      "longitude": 16.52305,
+      "country": "Sweden",
+      "state": "\u00d6land"
+    },
+    {
+      "latitude": 51.408443,
+      "longitude": -2.233079,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 54.983172,
+      "longitude": -1.524947,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 51.156358,
+      "longitude": 7.087144,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 48.839671,
+      "longitude": 2.441898,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 48.839696,
+      "longitude": 2.441894,
+      "country": "France",
+      "state": null
+    },
+    {
+      "latitude": 51.408443,
+      "longitude": -2.233079,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 39.339057,
+      "longitude": -7.285765,
+      "country": "Spain",
+      "state": "Extremadura"
+    },
+    {
+      "latitude": 46.25288,
+      "longitude": 6.95236,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.97353,
+      "longitude": 7.34007,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 47.27078,
+      "longitude": 9.45411,
+      "country": "Switzerland",
+      "state": "Ai"
+    },
+    {
+      "latitude": 47.15335,
+      "longitude": 7.27381,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 46.74575,
+      "longitude": 6.62074,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.5581,
+      "longitude": 7.6047,
+      "country": "Switzerland",
+      "state": "Bs"
+    },
+    {
+      "latitude": 47.716419,
+      "longitude": 13.100337,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.988266,
+      "longitude": 13.260765,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 55.680822,
+      "longitude": 11.132384,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 59.850823,
+      "longitude": 10.49429,
+      "country": "Norway",
+      "state": "Akershus"
+    },
+    {
+      "latitude": 60.668021,
+      "longitude": 10.94996,
+      "country": "Norway",
+      "state": "Innlandet"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 51.45,
+      "longitude": 5.6,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 47.476406,
+      "longitude": 12.824885,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 47.500768,
+      "longitude": 9.700141,
+      "country": "Austria",
+      "state": "Vorarlberg"
+    },
+    {
+      "latitude": 52.1,
+      "longitude": 5.3,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.8,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 58.33621,
+      "longitude": 11.9103,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 58.26861,
+      "longitude": 11.99911,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 59.83883,
+      "longitude": 17.60555,
+      "country": "Sweden",
+      "state": "Uppland"
+    },
+    {
+      "latitude": 58.33656,
+      "longitude": 11.9095,
+      "country": "Sweden",
+      "state": "Bohusl\u00e4n"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.1,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.3,
+      "longitude": 6.05,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.95,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 47.942828,
+      "longitude": 13.109764,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 49.160849,
+      "longitude": 9.74222,
+      "country": "Germany",
+      "state": "Baden-W\u00fcrttemberg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 6.65,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.85,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.2,
+      "longitude": 3.9,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 51.8,
+      "longitude": 4.65,
+      "country": "Netherlands",
+      "state": "Zuid-Holland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 28.363327,
+      "longitude": -16.496472,
+      "country": "Spain",
+      "state": "Santa Cruz de Tenerife"
+    },
+    {
+      "latitude": 50.665041,
+      "longitude": 7.204807,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 56.131953,
+      "longitude": 47.193045,
+      "country": "Russian Federation",
+      "state": "Chuvash"
+    },
+    {
+      "latitude": 50.050861,
+      "longitude": 8.105903,
+      "country": "Germany",
+      "state": "Hessen"
+    },
+    {
+      "latitude": 52.057895,
+      "longitude": 10.71447,
+      "country": "Germany",
+      "state": "Niedersachsen"
+    },
+    {
+      "latitude": 38.739269,
+      "longitude": 20.714621,
+      "country": "Greece",
+      "state": "Peloponnese, Western Greece and the Ionian Islands"
+    },
+    {
+      "latitude": 59.51069,
+      "longitude": 15.03592,
+      "country": "Sweden",
+      "state": "V\u00e4stmanland"
+    },
+    {
+      "latitude": 52.65,
+      "longitude": 4.8,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.75,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 51.95,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Gelderland"
+    },
+    {
+      "latitude": 47.604797,
+      "longitude": 13.140823,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 51.3,
+      "longitude": 6.05,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 52.05,
+      "longitude": 5.0,
+      "country": "Netherlands",
+      "state": "Utrecht"
+    },
+    {
+      "latitude": 51.628815,
+      "longitude": 7.496649,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 51.55,
+      "longitude": 5.05,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 52.35,
+      "longitude": 4.8,
+      "country": "Netherlands",
+      "state": "Noord-Holland"
+    },
+    {
+      "latitude": 51.3,
+      "longitude": 3.95,
+      "country": "Netherlands",
+      "state": "Zeeland"
+    },
+    {
+      "latitude": 50.660247,
+      "longitude": 7.212817,
+      "country": "Germany",
+      "state": "Nordrhein-Westfalen"
+    },
+    {
+      "latitude": 47.63158,
+      "longitude": 13.22794,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 51.55,
+      "longitude": 5.0,
+      "country": "Netherlands",
+      "state": "Noord-Brabant"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.65,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 47.905459,
+      "longitude": 13.190971,
+      "country": "Austria",
+      "state": "Salzburg"
+    },
+    {
+      "latitude": 51.306227,
+      "longitude": 0.513495,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 48.03372,
+      "longitude": 16.254405,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 48.037587,
+      "longitude": 16.259797,
+      "country": "Austria",
+      "state": "Nieder\u00f6sterreich"
+    },
+    {
+      "latitude": 58.92929,
+      "longitude": 17.6122,
+      "country": "Sweden",
+      "state": "S\u00f6dermanland"
+    },
+    {
+      "latitude": 50.85,
+      "longitude": 5.9,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 55.743226,
+      "longitude": 37.304398,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 55.743181,
+      "longitude": 37.304292,
+      "country": "Russian Federation",
+      "state": "Moskva"
+    },
+    {
+      "latitude": 44.532337,
+      "longitude": 10.835775,
+      "country": "Italy",
+      "state": null
+    },
+    {
+      "latitude": 34.552659,
+      "longitude": -93.948576,
+      "country": "United States of America",
+      "state": null
+    },
+    {
+      "latitude": 51.481491,
+      "longitude": 6.782169,
+      "country": "Germany",
+      "state": null
+    },
+    {
+      "latitude": 38.878136,
+      "longitude": -9.216536,
+      "country": "Portugal",
+      "state": "Lisboa"
+    },
+    {
+      "latitude": 50.8,
+      "longitude": 5.7,
+      "country": "Netherlands",
+      "state": "Limburg"
+    },
+    {
+      "latitude": 55.375191,
+      "longitude": 10.15452,
+      "country": "Denmark",
+      "state": null
+    },
+    {
+      "latitude": 49.89119,
+      "longitude": 8.074008,
+      "country": "Germany",
+      "state": "Rheinland-Pfalz"
+    },
+    {
+      "latitude": 50.72889,
+      "longitude": 4.828109,
+      "country": "Belgium",
+      "state": "Brabant Wallon"
+    },
+    {
+      "latitude": 47.51313,
+      "longitude": 7.60456,
+      "country": "Switzerland",
+      "state": "Bl"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.65422,
+      "longitude": 6.42616,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.29786,
+      "longitude": 6.95196,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.15335,
+      "longitude": 7.27381,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 47.50978,
+      "longitude": 8.33465,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 47.14213,
+      "longitude": 9.05366,
+      "country": "Switzerland",
+      "state": "Sg"
+    },
+    {
+      "latitude": 46.65422,
+      "longitude": 6.42616,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.50978,
+      "longitude": 8.33465,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 46.65479,
+      "longitude": 6.49147,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.92855,
+      "longitude": 7.53711,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 46.99612,
+      "longitude": 9.70683,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.3394,
+      "longitude": 6.43203,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 47.4978,
+      "longitude": 9.32996,
+      "country": "Switzerland",
+      "state": "Sg"
+    },
+    {
+      "latitude": 46.47309,
+      "longitude": 6.29933,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.73834,
+      "longitude": 8.97614,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 47.50978,
+      "longitude": 8.33465,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 46.73834,
+      "longitude": 8.97614,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.65422,
+      "longitude": 6.42616,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.54771,
+      "longitude": 8.99956,
+      "country": "Switzerland",
+      "state": "Tg"
+    },
+    {
+      "latitude": 46.92689,
+      "longitude": 6.81494,
+      "country": "Switzerland",
+      "state": "Ne"
+    },
+    {
+      "latitude": 47.19738,
+      "longitude": 7.93351,
+      "country": "Switzerland",
+      "state": "Lu"
+    },
+    {
+      "latitude": 46.99612,
+      "longitude": 9.70683,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.47713,
+      "longitude": 6.82013,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.79072,
+      "longitude": 6.62006,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.51244,
+      "longitude": 7.87006,
+      "country": "Switzerland",
+      "state": "Bl"
+    },
+    {
+      "latitude": 47.24304,
+      "longitude": 7.73581,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 47.54858,
+      "longitude": 8.93316,
+      "country": "Switzerland",
+      "state": "Tg"
+    },
+    {
+      "latitude": 46.47676,
+      "longitude": 6.75503,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 47.33298,
+      "longitude": 7.73631,
+      "country": "Switzerland",
+      "state": "So"
+    },
+    {
+      "latitude": 46.20817,
+      "longitude": 7.85974,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.11843,
+      "longitude": 7.08292,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.99612,
+      "longitude": 9.70683,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 46.65422,
+      "longitude": 6.42616,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.61034,
+      "longitude": 6.55752,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.34333,
+      "longitude": 7.79584,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 46.15538,
+      "longitude": 6.04706,
+      "country": "Switzerland",
+      "state": "Ge"
+    },
+    {
+      "latitude": 46.83853,
+      "longitude": 7.60249,
+      "country": "Switzerland",
+      "state": "Be"
+    },
+    {
+      "latitude": 46.29786,
+      "longitude": 6.95196,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 45.97471,
+      "longitude": 8.89015,
+      "country": "Switzerland",
+      "state": "Ti"
+    },
+    {
+      "latitude": 46.1636,
+      "longitude": 7.14736,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 47.46789,
+      "longitude": 7.73706,
+      "country": "Switzerland",
+      "state": "Bl"
+    },
+    {
+      "latitude": 47.55475,
+      "longitude": 8.33541,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 47.55764,
+      "longitude": 7.80399,
+      "country": "Switzerland",
+      "state": "Ag"
+    },
+    {
+      "latitude": 46.69423,
+      "longitude": 8.9095,
+      "country": "Switzerland",
+      "state": "Gr"
+    },
+    {
+      "latitude": 47.37317,
+      "longitude": 8.53098,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 47.55239,
+      "longitude": 8.60109,
+      "country": "Switzerland",
+      "state": "Zh"
+    },
+    {
+      "latitude": 46.1569,
+      "longitude": 6.17649,
+      "country": "France",
+      "state": "Rh\u00f4ne-Alpes"
+    },
+    {
+      "latitude": 46.65422,
+      "longitude": 6.42616,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.52132,
+      "longitude": 6.6893,
+      "country": "Switzerland",
+      "state": "Vd"
+    },
+    {
+      "latitude": 46.25315,
+      "longitude": 7.86009,
+      "country": "Switzerland",
+      "state": "Vs"
+    },
+    {
+      "latitude": 50.435908,
+      "longitude": 5.674717,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.473043,
+      "longitude": 5.690153,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.469565,
+      "longitude": 5.685674,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.480996,
+      "longitude": 5.640743,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.472826,
+      "longitude": 5.689655,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.480261,
+      "longitude": 5.641406,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.544513,
+      "longitude": 5.170355,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.568342,
+      "longitude": 5.169073,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.567862,
+      "longitude": 5.168375,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 50.568158,
+      "longitude": 5.168799,
+      "country": "Belgium",
+      "state": "Li\u00e8ge"
+    },
+    {
+      "latitude": 45.276167,
+      "longitude": 37.379933,
+      "country": "Russian Federation",
+      "state": "Krasnodar"
+    },
+    {
+      "latitude": 50.904947,
+      "longitude": -0.458986,
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "state": "England"
+    },
+    {
+      "latitude": 47.384209,
+      "longitude": 12.309875,
+      "country": "Austria",
+      "state": null
+    },
+    {
+      "latitude": 47.905459,
+      "longitude": 13.190971,
+      "country": "Austria",
+      "state": null
+    }
+  ],
+  "scientific_name": "Origanum vulgare",
+  "common_name": "Oregano",
+  "description": null
+}

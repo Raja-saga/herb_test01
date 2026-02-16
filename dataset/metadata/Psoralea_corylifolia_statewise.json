@@ -1,0 +1,46 @@
+{
+  "herb": "Psoralea corylifolia",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Maharashtra": {
+      "count": 44,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Bihar": {
+      "count": 4,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "MadhyaPradesh": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Chhattisgarh": {
+      "count": 3,
+      "normalizedScore": 0.07,
+      "presence": "Very Low"
+    },
+    "Telangana": {
+      "count": 4,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "WestBengal": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "herb": "Boerhavia diffusa",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Telangana": {
+      "count": 47,
+      "normalizedScore": 0.94,
+      "presence": "High"
+    },
+    "WestBengal": {
+      "count": 6,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "Kerala": {
+      "count": 19,
+      "normalizedScore": 0.38,
+      "presence": "Low"
+    },
+    "Maharashtra": {
+      "count": 18,
+      "normalizedScore": 0.36,
+      "presence": "Low"
+    },
+    "MadhyaPradesh": {
+      "count": 3,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "AndhraPradesh": {
+      "count": 6,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "Rajasthan": {
+      "count": 14,
+      "normalizedScore": 0.28,
+      "presence": "Low"
+    },
+    "TamilNadu": {
+      "count": 17,
+      "normalizedScore": 0.34,
+      "presence": "Low"
+    },
+    "Karnataka": {
+      "count": 6,
+      "normalizedScore": 0.12,
+      "presence": "Very Low"
+    },
+    "Odisha": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "UttarPradesh": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    },
+    "Bihar": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Gujarat": {
+      "count": 50,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Puducherry": {
+      "count": 1,
+      "normalizedScore": 0.02,
+      "presence": "Very Low"
+    },
+    "Haryana": {
+      "count": 2,
+      "normalizedScore": 0.04,
+      "presence": "Very Low"
+    }
+  }
+}

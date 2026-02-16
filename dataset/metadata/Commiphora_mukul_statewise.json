@@ -1,0 +1,31 @@
+{
+  "herb": "Commiphora mukul",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Rajasthan": {
+      "count": 9,
+      "normalizedScore": 0.5,
+      "presence": "Medium"
+    },
+    "Gujarat": {
+      "count": 18,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Telangana": {
+      "count": 3,
+      "normalizedScore": 0.17,
+      "presence": "Very Low"
+    },
+    "Maharashtra": {
+      "count": 1,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    },
+    "DamanandDiu": {
+      "count": 1,
+      "normalizedScore": 0.06,
+      "presence": "Very Low"
+    }
+  }
+}

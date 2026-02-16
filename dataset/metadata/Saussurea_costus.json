@@ -1,0 +1,434 @@
+{
+  "herb": "Saussurea costus",
+  "locations": [
+    {
+      "latitude": 30.387108,
+      "longitude": 80.046923,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 35.47,
+      "longitude": 75.7,
+      "country": "Pakistan",
+      "state": "Gilgit-Baltistan"
+    },
+    {
+      "latitude": 30.3,
+      "longitude": 80.28,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.39,
+      "longitude": 98.71,
+      "country": "China",
+      "state": "Yunnan"
+    },
+    {
+      "latitude": 30.33,
+      "longitude": 80.18,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 38.68306,
+      "longitude": -90.52333,
+      "country": "United States of America",
+      "state": "Missouri"
+    },
+    {
+      "latitude": 37.87167,
+      "longitude": -122.27167,
+      "country": "United States of America",
+      "state": "California"
+    },
+    {
+      "latitude": 27.177166,
+      "longitude": 99.28717,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.177166,
+      "longitude": 99.28717,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.61,
+      "longitude": 115.99,
+      "country": "China",
+      "state": "\u6c5f\u897f"
+    },
+    {
+      "latitude": 29.73797,
+      "longitude": 103.231884,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.73797,
+      "longitude": 103.231884,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 27.740736,
+      "longitude": 98.66582,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.740736,
+      "longitude": 98.66582,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 32.32,
+      "longitude": 105.97,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.39,
+      "longitude": 110.16,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 25.35,
+      "longitude": 103.03,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 25.35,
+      "longitude": 103.03,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 29.4,
+      "longitude": 110.15,
+      "country": "China",
+      "state": "\u6e56\u5357"
+    },
+    {
+      "latitude": 25.35,
+      "longitude": 103.03,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 32.35,
+      "longitude": 106.83,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 29.49,
+      "longitude": 103.39,
+      "country": "China",
+      "state": "\u56db\u5ddd"
+    },
+    {
+      "latitude": 47.34,
+      "longitude": 130.32,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 27.78,
+      "longitude": 120.08,
+      "country": "China",
+      "state": "\u6d59\u6c5f"
+    },
+    {
+      "latitude": 25.13,
+      "longitude": 113.35,
+      "country": "China",
+      "state": "\u5e7f\u4e1c"
+    },
+    {
+      "latitude": 34.4,
+      "longitude": 73.5,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.8,
+      "longitude": 74.18,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.8,
+      "longitude": 74.18,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 25.012526,
+      "longitude": 102.700013,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 34.4,
+      "longitude": 73.5,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 27.177166,
+      "longitude": 99.28717,
+      "country": "China",
+      "state": "\u4e91\u5357"
+    },
+    {
+      "latitude": 34.78,
+      "longitude": 75.08,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.63,
+      "longitude": 74.83,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.3,
+      "longitude": 75.3,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.03,
+      "longitude": 75.33,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.05,
+      "longitude": 74.38,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.87,
+      "longitude": 75.12,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.85,
+      "longitude": 75.12,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.25,
+      "longitude": 75.43,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 33.52,
+      "longitude": 75.22,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 35.9,
+      "longitude": 74.3,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 35.9,
+      "longitude": 74.3,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.87,
+      "longitude": 74.92,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.87,
+      "longitude": 74.92,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 35.13,
+      "longitude": 74.8,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 35.9,
+      "longitude": 74.3,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 35.2,
+      "longitude": 74.95,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 33.58,
+      "longitude": 76.83,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.78,
+      "longitude": 73.53,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.08,
+      "longitude": 74.82,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.5,
+      "longitude": 74.65,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 77.0,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.3,
+      "longitude": 75.3,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.08,
+      "longitude": 75.52,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.03,
+      "longitude": 75.33,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.67,
+      "longitude": 73.97,
+      "country": "unknown or invalid",
+      "state": null
+    },
+    {
+      "latitude": 35.13,
+      "longitude": 74.8,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 35.37,
+      "longitude": 74.87,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 34.17,
+      "longitude": 74.75,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.03,
+      "longitude": 74.35,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 77.0,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 32.48,
+      "longitude": 77.1,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.17,
+      "longitude": 74.75,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 33.0,
+      "longitude": 77.0,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.78,
+      "longitude": 74.92,
+      "country": "Pakistan",
+      "state": null
+    },
+    {
+      "latitude": 33.52,
+      "longitude": 75.22,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.5,
+      "longitude": 74.65,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.3,
+      "longitude": 75.3,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.5863,
+      "longitude": 81.173004,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 34.42,
+      "longitude": 73.26,
+      "country": "Pakistan",
+      "state": "Khyber Pakhtunkhwa"
+    }
+  ],
+  "scientific_name": "Dolomiaea costus",
+  "common_name": null,
+  "description": null
+}

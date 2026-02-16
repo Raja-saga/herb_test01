@@ -1,0 +1,3008 @@
+{
+  "herb": "Cordia dichotoma",
+  "locations": [
+    {
+      "latitude": -16.78815,
+      "longitude": 145.688688,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -16.674178,
+      "longitude": 145.327265,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 25.132164,
+      "longitude": 121.514144,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 24.07382,
+      "longitude": 120.712228,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.658017,
+      "longitude": 120.511643,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.396764,
+      "longitude": 120.863425,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.657333,
+      "longitude": 120.284753,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -16.905424,
+      "longitude": 145.745418,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.51865,
+      "longitude": 120.844261,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.569942,
+      "longitude": 120.46527,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.600044,
+      "longitude": 120.178849,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.481786,
+      "longitude": 120.852836,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.69382,
+      "longitude": 120.30581,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.9091,
+      "longitude": 120.341833,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 24.888517,
+      "longitude": 121.514826,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -8.669392,
+      "longitude": 115.150397,
+      "country": "Indonesia",
+      "state": null
+    },
+    {
+      "latitude": 30.34617,
+      "longitude": 78.00774,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.657217,
+      "longitude": 103.435102,
+      "country": "Viet Nam",
+      "state": "\u0110i\u1ec7n Bi\u00ean"
+    },
+    {
+      "latitude": 22.637998,
+      "longitude": 120.276639,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 9.20109,
+      "longitude": 76.59887,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.16596,
+      "longitude": 76.60465,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 18.563227,
+      "longitude": 73.794378,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": -25.47626,
+      "longitude": 152.002709,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.912047,
+      "longitude": 121.536713,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 22.902499,
+      "longitude": 120.466345,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.684248,
+      "longitude": 120.475863,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -23.928547,
+      "longitude": 151.267065,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.897348,
+      "longitude": 120.493012,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.660017,
+      "longitude": 120.4255,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.655842,
+      "longitude": 120.264692,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.138529,
+      "longitude": 120.731788,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.176766,
+      "longitude": 120.286917,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.283794,
+      "longitude": 120.603256,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -16.913389,
+      "longitude": 145.760916,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.703589,
+      "longitude": 120.316867,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 18.581083,
+      "longitude": 73.255674,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.933748,
+      "longitude": 121.403989,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 9.20109,
+      "longitude": 76.59887,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.81885,
+      "longitude": 75.43362,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 18.581623,
+      "longitude": 73.779597,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 22.638281,
+      "longitude": 120.273911,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 18.409792,
+      "longitude": -66.05188,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 21.351729,
+      "longitude": -158.023351,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 22.656008,
+      "longitude": 120.265067,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.7735,
+      "longitude": 120.4423,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -16.906793,
+      "longitude": 145.745719,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.790478,
+      "longitude": 121.063889,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.790492,
+      "longitude": 121.063897,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.175281,
+      "longitude": 120.783436,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.175002,
+      "longitude": 120.783278,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 22.693817,
+      "longitude": 120.30582,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.175185,
+      "longitude": 120.783389,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.183334,
+      "longitude": 120.30592,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.77994,
+      "longitude": 120.637803,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.17934,
+      "longitude": 120.784557,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.179223,
+      "longitude": 120.782707,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.183321,
+      "longitude": 120.30592,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 24.179299,
+      "longitude": 120.784482,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.79,
+      "longitude": 121.06,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.648373,
+      "longitude": 120.352083,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.656017,
+      "longitude": 120.264625,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.180596,
+      "longitude": 120.785409,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.434081,
+      "longitude": 120.884444,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.224041,
+      "longitude": 120.500513,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.181871,
+      "longitude": 120.110901,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.835206,
+      "longitude": 120.864345,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.013975,
+      "longitude": -61.837781,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Mary"
+    },
+    {
+      "latitude": 21.758147,
+      "longitude": 88.222121,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 11.8187,
+      "longitude": 75.43397,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.69071,
+      "longitude": 88.26216,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.76057,
+      "longitude": 88.23082,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.68728,
+      "longitude": 88.25924,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.85337,
+      "longitude": 88.27094,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.16596,
+      "longitude": 76.60465,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.68679,
+      "longitude": 88.25943,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.97057,
+      "longitude": 79.79336,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 18.569435,
+      "longitude": 73.8055,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 23.057597,
+      "longitude": 120.405862,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.061831,
+      "longitude": 120.207398,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 25.091841,
+      "longitude": 121.491493,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 24.825105,
+      "longitude": 120.997974,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.42683,
+      "longitude": 78.397211,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": -17.267025,
+      "longitude": 145.565622,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 25.086172,
+      "longitude": 121.497719,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 27.498617,
+      "longitude": 75.178167,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 22.693624,
+      "longitude": 120.304726,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.982222,
+      "longitude": 120.50035,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 17.717466,
+      "longitude": 78.62496,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 17.732162,
+      "longitude": 83.333348,
+      "country": "India",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "latitude": -23.922479,
+      "longitude": 151.263197,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 22.196249,
+      "longitude": 113.55047,
+      "country": "Macao",
+      "state": "Macau"
+    },
+    {
+      "latitude": -23.922425,
+      "longitude": 151.263231,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.754668,
+      "longitude": 88.221785,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 25.063701,
+      "longitude": 121.652081,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 17.717376,
+      "longitude": 78.624865,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 22.464371,
+      "longitude": 114.153427,
+      "country": "Hong Kong",
+      "state": "Tai Po"
+    },
+    {
+      "latitude": 23.697489,
+      "longitude": 120.44595,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.566258,
+      "longitude": 120.211076,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.655045,
+      "longitude": 120.26607,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.382503,
+      "longitude": 114.139618,
+      "country": "Hong Kong",
+      "state": "Kwai Tsing"
+    },
+    {
+      "latitude": 23.473614,
+      "longitude": 120.760117,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.734935,
+      "longitude": 120.312057,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 21.56313,
+      "longitude": 88.259502,
+      "country": "India",
+      "state": "West Bengal"
+    },
+    {
+      "latitude": 23.473743,
+      "longitude": 120.760165,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.17886,
+      "longitude": 120.775466,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.613231,
+      "longitude": 120.572547,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.243055,
+      "longitude": 120.862692,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 22.653588,
+      "longitude": 120.265266,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.735,
+      "longitude": 120.312142,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 25.080366,
+      "longitude": 121.604583,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 17.426861,
+      "longitude": 78.397217,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 21.032136,
+      "longitude": 75.568707,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 17.544038,
+      "longitude": 78.459012,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 25.276236,
+      "longitude": 85.460925,
+      "country": "India",
+      "state": "Bihar"
+    },
+    {
+      "latitude": 20.021861,
+      "longitude": 73.75517,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 13.448977,
+      "longitude": 77.726848,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 20.021861,
+      "longitude": 73.75517,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 17.542743,
+      "longitude": 78.4586,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 22.959442,
+      "longitude": 120.351876,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.972255,
+      "longitude": 120.221823,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.975025,
+      "longitude": 120.205257,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.97167,
+      "longitude": 120.219872,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 25.098123,
+      "longitude": 121.451987,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 22.965501,
+      "longitude": 120.544961,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.83365,
+      "longitude": 121.021315,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.1114,
+      "longitude": 120.733992,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.180761,
+      "longitude": 120.593869,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 16.522528,
+      "longitude": 96.453255,
+      "country": "Myanmar",
+      "state": "Yangon"
+    },
+    {
+      "latitude": 22.965049,
+      "longitude": 120.543553,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.463163,
+      "longitude": 120.478012,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.907922,
+      "longitude": 120.635064,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.638117,
+      "longitude": 120.276517,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.661204,
+      "longitude": 120.353255,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.637756,
+      "longitude": 120.274656,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.657963,
+      "longitude": 120.284718,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.638117,
+      "longitude": 120.276517,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.649437,
+      "longitude": 120.273323,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.641389,
+      "longitude": 120.276389,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.637355,
+      "longitude": 120.273518,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.637756,
+      "longitude": 120.274656,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.083111,
+      "longitude": 120.754319,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.831103,
+      "longitude": 120.799753,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.303082,
+      "longitude": 120.629626,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.08314,
+      "longitude": 120.754422,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.833984,
+      "longitude": 121.304106,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 22.637756,
+      "longitude": 120.274656,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.690114,
+      "longitude": 120.90297,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 21.289447,
+      "longitude": 76.499775,
+      "country": "India",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "latitude": 29.961482,
+      "longitude": 76.706676,
+      "country": "India",
+      "state": "Haryana"
+    },
+    {
+      "latitude": 12.212995,
+      "longitude": 79.043411,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 21.088787,
+      "longitude": 75.493396,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 16.985564,
+      "longitude": 73.594233,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 24.140587,
+      "longitude": 120.747329,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 22.222371,
+      "longitude": 114.173102,
+      "country": "Hong Kong",
+      "state": "Kwai Tsing"
+    },
+    {
+      "latitude": 25.213807,
+      "longitude": 75.864753,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 24.1023,
+      "longitude": 120.775758,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 19.325954,
+      "longitude": 73.633687,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 23.56125,
+      "longitude": 120.323447,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.795125,
+      "longitude": 120.30072,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.256515,
+      "longitude": 120.809346,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 29.406095,
+      "longitude": 79.007281,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 24.129744,
+      "longitude": 120.746508,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 29.406094,
+      "longitude": 79.007215,
+      "country": "India",
+      "state": "Uttarakhand"
+    },
+    {
+      "latitude": 24.30675,
+      "longitude": 120.799897,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.331987,
+      "longitude": 120.390216,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.786194,
+      "longitude": 120.732437,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.458649,
+      "longitude": 120.437565,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.380663,
+      "longitude": 120.337563,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 15.842161,
+      "longitude": -61.329595,
+      "country": "Guadeloupe",
+      "state": "Pointe-\u00e0-Pitre"
+    },
+    {
+      "latitude": 24.139176,
+      "longitude": 120.742236,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": -20.975824,
+      "longitude": 164.744565,
+      "country": "New Caledonia",
+      "state": "Nord"
+    },
+    {
+      "latitude": 23.831045,
+      "longitude": 120.901118,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.078725,
+      "longitude": 121.662934,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.729562,
+      "longitude": 120.30835,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.850342,
+      "longitude": 120.355491,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 25.141364,
+      "longitude": 121.468283,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 24.224835,
+      "longitude": 120.747045,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 25.080328,
+      "longitude": 121.604553,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 12.880354,
+      "longitude": 79.376261,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 11.0374,
+      "longitude": 77.041874,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 12.870292,
+      "longitude": 80.20439,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 28.4344,
+      "longitude": 77.10969,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.4595,
+      "longitude": 77.02664,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.4595,
+      "longitude": 77.02664,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.43247,
+      "longitude": 77.10646,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 28.4595,
+      "longitude": 77.02664,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.967981,
+      "longitude": 120.222021,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 24.939584,
+      "longitude": 121.243059,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 21.340931,
+      "longitude": -157.913139,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 24.771743,
+      "longitude": 120.976415,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.949378,
+      "longitude": 120.671942,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.842547,
+      "longitude": 120.699467,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.194002,
+      "longitude": 75.859387,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 18.438927,
+      "longitude": -66.206589,
+      "country": "Puerto Rico",
+      "state": "Vega Baja"
+    },
+    {
+      "latitude": 22.729747,
+      "longitude": 120.270903,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 25.033183,
+      "longitude": 121.510319,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.442151,
+      "longitude": 120.592943,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.083198,
+      "longitude": 121.603154,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 22.635486,
+      "longitude": 120.274184,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.122245,
+      "longitude": 120.697934,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.981599,
+      "longitude": 120.997147,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.428753,
+      "longitude": 120.882128,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.90358,
+      "longitude": 121.118233,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.970585,
+      "longitude": 120.647803,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 18.488384,
+      "longitude": -66.392949,
+      "country": "Puerto Rico",
+      "state": "Vega Baja"
+    },
+    {
+      "latitude": 25.083195,
+      "longitude": 121.529822,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.942198,
+      "longitude": 120.993065,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.772295,
+      "longitude": 120.926353,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.653086,
+      "longitude": 120.513806,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 11.166552,
+      "longitude": -60.75901,
+      "country": "Trinidad and Tobago",
+      "state": "Tobago"
+    },
+    {
+      "latitude": 13.127632,
+      "longitude": -61.179329,
+      "country": "Saint Vincent and the Grenadines",
+      "state": "Saint George"
+    },
+    {
+      "latitude": 13.128682,
+      "longitude": -61.179104,
+      "country": "Saint Vincent and the Grenadines",
+      "state": "Saint George"
+    },
+    {
+      "latitude": 18.378614,
+      "longitude": -65.974937,
+      "country": "Puerto Rico",
+      "state": "Carolina"
+    },
+    {
+      "latitude": 17.283001,
+      "longitude": -62.685143,
+      "country": "Saint Kitts and Nevis",
+      "state": "Saint George Basseterre"
+    },
+    {
+      "latitude": 13.128594,
+      "longitude": -61.179134,
+      "country": "Saint Vincent and the Grenadines",
+      "state": "Saint George"
+    },
+    {
+      "latitude": 26.426656,
+      "longitude": -80.222804,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 13.128594,
+      "longitude": -61.179134,
+      "country": "Saint Vincent and the Grenadines",
+      "state": "Saint George"
+    },
+    {
+      "latitude": 15.913416,
+      "longitude": -61.33151,
+      "country": "Guadeloupe",
+      "state": "Pointe-\u00e0-Pitre"
+    },
+    {
+      "latitude": 23.981588,
+      "longitude": 120.997175,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 11.01536,
+      "longitude": 76.93235,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.00513,
+      "longitude": 79.79816,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 22.34051,
+      "longitude": 114.198161,
+      "country": "Hong Kong",
+      "state": "Wong Tai Sin"
+    },
+    {
+      "latitude": -23.184552,
+      "longitude": 150.792973,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.259599,
+      "longitude": 120.810018,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 22.640197,
+      "longitude": 120.272367,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.828668,
+      "longitude": 120.795322,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.131162,
+      "longitude": 120.661705,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 22.530194,
+      "longitude": 114.131719,
+      "country": "Hong Kong",
+      "state": "Tai Po"
+    },
+    {
+      "latitude": 23.83042,
+      "longitude": 120.905343,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.861292,
+      "longitude": 121.551292,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 24.134533,
+      "longitude": 120.72805,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 22.729783,
+      "longitude": 120.270901,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.65526,
+      "longitude": 120.272969,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 25.059072,
+      "longitude": 121.85056,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 23.457995,
+      "longitude": 120.429053,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.145692,
+      "longitude": 120.420567,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.840269,
+      "longitude": 120.352876,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.990681,
+      "longitude": 121.543561,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 13.100695,
+      "longitude": -59.534273,
+      "country": "Barbados",
+      "state": "Christ Church"
+    },
+    {
+      "latitude": 18.370108,
+      "longitude": -65.639428,
+      "country": "Puerto Rico",
+      "state": "Fajardo"
+    },
+    {
+      "latitude": 11.25098,
+      "longitude": 75.96302,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.22509,
+      "longitude": 76.67867,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.8185,
+      "longitude": 75.43407,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.43709,
+      "longitude": 77.54722,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.25098,
+      "longitude": 75.96298,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.22512,
+      "longitude": 76.67861,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.25098,
+      "longitude": 75.96302,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.86761,
+      "longitude": 76.32199,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.59185,
+      "longitude": 78.96509,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.25098,
+      "longitude": 75.96302,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.59262,
+      "longitude": 78.96426,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.10851,
+      "longitude": 76.26964,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.43682,
+      "longitude": 77.54734,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.36582,
+      "longitude": 76.4398,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.37774,
+      "longitude": 76.42323,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.25098,
+      "longitude": 75.96302,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.36582,
+      "longitude": 76.4398,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 10.80714,
+      "longitude": 76.3496,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.25098,
+      "longitude": 75.96302,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.25098,
+      "longitude": 75.96302,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.04326,
+      "longitude": 76.94609,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 11.25098,
+      "longitude": 75.96302,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.37774,
+      "longitude": 76.42323,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.484572,
+      "longitude": 120.869644,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.6554,
+      "longitude": 121.023644,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.458569,
+      "longitude": 120.437581,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.655433,
+      "longitude": 121.023597,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.108801,
+      "longitude": 121.727303,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.482825,
+      "longitude": 120.873206,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.264598,
+      "longitude": 120.339405,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.262347,
+      "longitude": 120.340537,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 21.356417,
+      "longitude": -158.021578,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 23.050245,
+      "longitude": 120.204285,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.884368,
+      "longitude": 121.238282,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.31826,
+      "longitude": 120.392223,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.97408,
+      "longitude": 120.88385,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 11.735277,
+      "longitude": 77.987073,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 1.333738,
+      "longitude": 103.82785,
+      "country": "Singapore",
+      "state": "Central"
+    },
+    {
+      "latitude": 23.844319,
+      "longitude": 120.808686,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 18.404264,
+      "longitude": -66.050512,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 18.406627,
+      "longitude": -66.049881,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 6.878466,
+      "longitude": 79.891303,
+      "country": "Sri Lanka",
+      "state": "Colombo"
+    },
+    {
+      "latitude": 24.875132,
+      "longitude": 120.964092,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.887287,
+      "longitude": 121.142022,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 25.164456,
+      "longitude": 121.456273,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -19.319103,
+      "longitude": 146.524512,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.477117,
+      "longitude": 120.48265,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.049383,
+      "longitude": 120.602638,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 7.855533,
+      "longitude": 80.649987,
+      "country": "Sri Lanka",
+      "state": "Matale"
+    },
+    {
+      "latitude": 22.888112,
+      "longitude": 120.240472,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 18.957327,
+      "longitude": 72.804643,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 24.144291,
+      "longitude": 120.685634,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 25.141497,
+      "longitude": 121.468795,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": -16.900358,
+      "longitude": 145.759063,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -23.157169,
+      "longitude": 150.458664,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": -16.902705,
+      "longitude": 145.761597,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.594868,
+      "longitude": 120.273329,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.673523,
+      "longitude": 120.396725,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.538102,
+      "longitude": 120.58743,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.573625,
+      "longitude": 120.249139,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.673768,
+      "longitude": 120.39676,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.574294,
+      "longitude": 120.249275,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.232338,
+      "longitude": 120.096328,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.619638,
+      "longitude": 120.268678,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 17.273785,
+      "longitude": -62.673878,
+      "country": "Saint Kitts and Nevis",
+      "state": "Saint George Basseterre"
+    },
+    {
+      "latitude": 17.02528,
+      "longitude": -61.775005,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Paul"
+    },
+    {
+      "latitude": 17.026594,
+      "longitude": -61.775459,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Paul"
+    },
+    {
+      "latitude": 17.02656,
+      "longitude": -61.775368,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Paul"
+    },
+    {
+      "latitude": 17.03932,
+      "longitude": -61.825089,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Mary"
+    },
+    {
+      "latitude": 17.038651,
+      "longitude": -61.825283,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Mary"
+    },
+    {
+      "latitude": 23.638592,
+      "longitude": 120.35885,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.397208,
+      "longitude": 120.258765,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.038328,
+      "longitude": -61.826733,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Mary"
+    },
+    {
+      "latitude": 17.039476,
+      "longitude": -61.779331,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Paul"
+    },
+    {
+      "latitude": 17.039629,
+      "longitude": -61.77985,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Paul"
+    },
+    {
+      "latitude": 17.040071,
+      "longitude": -61.780029,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Paul"
+    },
+    {
+      "latitude": 24.655519,
+      "longitude": 121.023657,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.065873,
+      "longitude": -61.756408,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Peter"
+    },
+    {
+      "latitude": 22.438835,
+      "longitude": 120.456768,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.906542,
+      "longitude": -62.821872,
+      "country": "Saint Barth\u00e9lemy",
+      "state": null
+    },
+    {
+      "latitude": 1.385191,
+      "longitude": 103.937063,
+      "country": "Singapore",
+      "state": "East"
+    },
+    {
+      "latitude": 17.035816,
+      "longitude": -61.824928,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Mary"
+    },
+    {
+      "latitude": 23.697842,
+      "longitude": 120.541894,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.035816,
+      "longitude": -61.824928,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Mary"
+    },
+    {
+      "latitude": 17.035845,
+      "longitude": -61.824871,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Mary"
+    },
+    {
+      "latitude": 25.075362,
+      "longitude": 121.37525,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 1.390797,
+      "longitude": 103.992522,
+      "country": "Singapore",
+      "state": "East"
+    },
+    {
+      "latitude": 23.623417,
+      "longitude": 120.550342,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.541835,
+      "longitude": 120.190794,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.931806,
+      "longitude": 120.199311,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.781156,
+      "longitude": 120.408079,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 16.7356,
+      "longitude": -62.23126,
+      "country": "Montserrat",
+      "state": "Saint Anthon"
+    },
+    {
+      "latitude": 22.434393,
+      "longitude": 120.507001,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.683125,
+      "longitude": 120.189475,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.022828,
+      "longitude": 76.454905,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 23.12498,
+      "longitude": 120.56834,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.780823,
+      "longitude": 120.407252,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.109346,
+      "longitude": 121.468636,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.436368,
+      "longitude": 120.183204,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.793047,
+      "longitude": 120.447736,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.200055,
+      "longitude": 120.401562,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.212912,
+      "longitude": 120.561077,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 28.543842,
+      "longitude": 77.25235,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.793096,
+      "longitude": 121.177517,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.655964,
+      "longitude": 120.266475,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 16.731554,
+      "longitude": -62.21341,
+      "country": "Montserrat",
+      "state": "Saint Anthon"
+    },
+    {
+      "latitude": 16.742357,
+      "longitude": -62.215751,
+      "country": "Montserrat",
+      "state": "Saint Peter"
+    },
+    {
+      "latitude": 22.724638,
+      "longitude": 120.50837,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 18.190839,
+      "longitude": -66.425866,
+      "country": "Puerto Rico",
+      "state": "Ponce"
+    },
+    {
+      "latitude": 23.082204,
+      "longitude": 120.427319,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.440103,
+      "longitude": 120.770609,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.649609,
+      "longitude": 120.427943,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 12.883747,
+      "longitude": 79.234894,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 23.620061,
+      "longitude": 120.261625,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.140717,
+      "longitude": -61.721837,
+      "country": "Antigua and Barbuda",
+      "state": "Saint Peter"
+    },
+    {
+      "latitude": 23.702203,
+      "longitude": 120.601792,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": -27.479956,
+      "longitude": 152.96798,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 21.369944,
+      "longitude": -158.020218,
+      "country": "United States of America",
+      "state": "Hawaii"
+    },
+    {
+      "latitude": 18.679224,
+      "longitude": 73.752047,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 22.897818,
+      "longitude": 121.162094,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.861138,
+      "longitude": 121.155086,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 21.72521,
+      "longitude": 73.02083,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 17.45568,
+      "longitude": 78.3602,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.56062,
+      "longitude": 73.03758,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 21.72738,
+      "longitude": 73.02163,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 17.45858,
+      "longitude": 78.35782,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 24.175472,
+      "longitude": 121.56373,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.295242,
+      "longitude": 120.382583,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": -21.585892,
+      "longitude": 165.348923,
+      "country": "New Caledonia",
+      "state": "Sud"
+    },
+    {
+      "latitude": 23.485285,
+      "longitude": 120.680862,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.424292,
+      "longitude": 71.198222,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": -27.488963,
+      "longitude": 152.997253,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 23.294483,
+      "longitude": 120.380988,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 23.485645,
+      "longitude": 120.680931,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.635063,
+      "longitude": 120.259446,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": -27.557929,
+      "longitude": 153.221914,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 17.201708,
+      "longitude": -62.61014,
+      "country": "Saint Kitts and Nevis",
+      "state": "Saint James Windward"
+    },
+    {
+      "latitude": 22.657378,
+      "longitude": 120.284753,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.973024,
+      "longitude": 121.390418,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 23.295242,
+      "longitude": 120.382583,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 24.431321,
+      "longitude": 120.872223,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.003904,
+      "longitude": 121.633915,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.734403,
+      "longitude": 121.159125,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 12.972089,
+      "longitude": 77.694364,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 17.201765,
+      "longitude": -62.610134,
+      "country": "Saint Kitts and Nevis",
+      "state": "Saint James Windward"
+    },
+    {
+      "latitude": 23.862732,
+      "longitude": 120.599573,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 20.699654,
+      "longitude": 77.007774,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 23.726503,
+      "longitude": 120.623192,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.587707,
+      "longitude": 120.565373,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 28.627873,
+      "longitude": 77.162226,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": 25.101695,
+      "longitude": 121.532529,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 24.008933,
+      "longitude": 120.737113,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 24.027288,
+      "longitude": 120.703093,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.693186,
+      "longitude": 120.450652,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.457363,
+      "longitude": 120.601955,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.018472,
+      "longitude": 121.310369,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 12.0145,
+      "longitude": -61.738369,
+      "country": "Grenada",
+      "state": "Saint George"
+    },
+    {
+      "latitude": 23.269006,
+      "longitude": 120.82429,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.466372,
+      "longitude": 120.456008,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.064986,
+      "longitude": 121.615372,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 26.628416,
+      "longitude": 75.034458,
+      "country": "India",
+      "state": "Rajasthan"
+    },
+    {
+      "latitude": 23.690494,
+      "longitude": 120.426166,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 28.597311,
+      "longitude": 77.247848,
+      "country": "India",
+      "state": "NCT of Delhi"
+    },
+    {
+      "latitude": 20.666374,
+      "longitude": 76.999809,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 17.405715,
+      "longitude": 78.432221,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 23.638205,
+      "longitude": 120.591553,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.433724,
+      "longitude": 120.622416,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 19.209686,
+      "longitude": 73.107668,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 23.619901,
+      "longitude": 120.261763,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.2278,
+      "longitude": 75.8343,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 25.1891,
+      "longitude": 75.8533,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.82748,
+      "longitude": 120.801564,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 26.13488,
+      "longitude": 91.648952,
+      "country": "India",
+      "state": "Assam"
+    },
+    {
+      "latitude": 12.018511,
+      "longitude": 79.80078,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 22.510062,
+      "longitude": 114.107864,
+      "country": "Hong Kong",
+      "state": "North"
+    },
+    {
+      "latitude": 22.653604,
+      "longitude": 120.275566,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.277041,
+      "longitude": 120.60075,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 17.145517,
+      "longitude": -62.629083,
+      "country": "Saint Kitts and Nevis",
+      "state": "Saint Thomas Lowland"
+    },
+    {
+      "latitude": 22.691392,
+      "longitude": 120.304364,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.912075,
+      "longitude": 121.53672,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 17.174653,
+      "longitude": -62.625957,
+      "country": "Saint Kitts and Nevis",
+      "state": "Saint Thomas Lowland"
+    },
+    {
+      "latitude": 17.174497,
+      "longitude": -62.625124,
+      "country": "Saint Kitts and Nevis",
+      "state": "Saint Thomas Lowland"
+    },
+    {
+      "latitude": 24.008422,
+      "longitude": 120.713622,
+      "country": "Chinese Taipei",
+      "state": "Taichung"
+    },
+    {
+      "latitude": 23.802702,
+      "longitude": 120.864766,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.715172,
+      "longitude": 120.535906,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 27.059806,
+      "longitude": -80.332237,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 17.19917,
+      "longitude": -62.610884,
+      "country": "Saint Kitts and Nevis",
+      "state": "Saint James Windward"
+    },
+    {
+      "latitude": 22.735139,
+      "longitude": 120.311917,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.763359,
+      "longitude": 120.648617,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.70521,
+      "longitude": 120.542905,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 18.270288,
+      "longitude": -65.636032,
+      "country": "Puerto Rico",
+      "state": "Ceiba"
+    },
+    {
+      "latitude": -23.352439,
+      "longitude": 150.49438,
+      "country": "Australia",
+      "state": "Queensland"
+    },
+    {
+      "latitude": 24.791211,
+      "longitude": 121.199264,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 18.406669,
+      "longitude": -66.049729,
+      "country": "Puerto Rico",
+      "state": "San Juan"
+    },
+    {
+      "latitude": 23.736807,
+      "longitude": 72.472413,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 22.651728,
+      "longitude": 120.284972,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.827751,
+      "longitude": 120.801226,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.518962,
+      "longitude": 120.630859,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.662634,
+      "longitude": 120.487181,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.012804,
+      "longitude": 85.369919,
+      "country": "India",
+      "state": "Bihar"
+    },
+    {
+      "latitude": 25.012953,
+      "longitude": 85.369736,
+      "country": "India",
+      "state": "Bihar"
+    },
+    {
+      "latitude": 25.013885,
+      "longitude": 121.800989,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 22.975103,
+      "longitude": 120.205514,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 9.16596,
+      "longitude": 76.60465,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 12.04805,
+      "longitude": 75.34994,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 19.02639,
+      "longitude": 73.03979,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 9.16596,
+      "longitude": 76.60465,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 20.983999,
+      "longitude": 70.628202,
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "latitude": 23.461578,
+      "longitude": 120.437311,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.627,
+      "longitude": 120.5067,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 23.6424,
+      "longitude": 120.5354,
+      "country": "Chinese Taipei",
+      "state": null
+    },
+    {
+      "latitude": 24.947118,
+      "longitude": 121.411344,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 19.342421,
+      "longitude": 73.676259,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 22.526422,
+      "longitude": 120.636664,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.251896,
+      "longitude": 114.134146,
+      "country": "Hong Kong",
+      "state": "Southern"
+    },
+    {
+      "latitude": 22.274863,
+      "longitude": 114.1295,
+      "country": "Hong Kong",
+      "state": "Southern"
+    },
+    {
+      "latitude": 25.098185,
+      "longitude": 121.453018,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 23.573212,
+      "longitude": 120.304713,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.080311,
+      "longitude": 121.604553,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 22.657408,
+      "longitude": 120.284828,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 25.009889,
+      "longitude": 121.465487,
+      "country": "Chinese Taipei",
+      "state": "New Taipei"
+    },
+    {
+      "latitude": 24.721699,
+      "longitude": 120.870895,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 22.730903,
+      "longitude": 120.270278,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 24.833617,
+      "longitude": 121.021308,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.077413,
+      "longitude": 120.197298,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 22.622831,
+      "longitude": 120.267173,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.628439,
+      "longitude": 120.267875,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 22.655259,
+      "longitude": 120.272772,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.17177,
+      "longitude": 120.338605,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 12.874784,
+      "longitude": 79.135148,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 18.135416,
+      "longitude": -65.527689,
+      "country": "Puerto Rico",
+      "state": "Vieques"
+    },
+    {
+      "latitude": 16.743812,
+      "longitude": -62.214349,
+      "country": "Montserrat",
+      "state": "Saint Peter"
+    },
+    {
+      "latitude": 18.454079,
+      "longitude": 73.784942,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 15.327922,
+      "longitude": 76.472378,
+      "country": "India",
+      "state": "Karnataka"
+    },
+    {
+      "latitude": 23.216279,
+      "longitude": 77.423224,
+      "country": "India",
+      "state": null
+    },
+    {
+      "latitude": 23.998319,
+      "longitude": 120.580128,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.166687,
+      "longitude": 78.683228,
+      "country": "India",
+      "state": "Telangana"
+    },
+    {
+      "latitude": 23.495089,
+      "longitude": 121.346703,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.019347,
+      "longitude": 121.312978,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 22.657717,
+      "longitude": 120.284894,
+      "country": "Chinese Taipei",
+      "state": "Kaohsiung"
+    },
+    {
+      "latitude": 23.636875,
+      "longitude": 120.518467,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.611638,
+      "longitude": 120.597335,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.494658,
+      "longitude": 121.346617,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 17.98117,
+      "longitude": -67.166389,
+      "country": "Puerto Rico",
+      "state": "Cabo Rojo"
+    },
+    {
+      "latitude": 23.634833,
+      "longitude": 120.612181,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.680895,
+      "longitude": 120.562366,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 24.719399,
+      "longitude": 121.101231,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 25.058872,
+      "longitude": 121.374987,
+      "country": "Chinese Taipei",
+      "state": "Taipei"
+    },
+    {
+      "latitude": 23.674255,
+      "longitude": 120.5509,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.075067,
+      "longitude": 120.19619,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 17.901199,
+      "longitude": -62.796093,
+      "country": "Saint Barth\u00e9lemy",
+      "state": null
+    },
+    {
+      "latitude": 23.492745,
+      "longitude": 120.449349,
+      "country": "Chinese Taipei",
+      "state": "Taiwan"
+    },
+    {
+      "latitude": 23.075858,
+      "longitude": 120.196652,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 16.753616,
+      "longitude": -62.217526,
+      "country": "Montserrat",
+      "state": "Saint Peter"
+    },
+    {
+      "latitude": 23.190564,
+      "longitude": 120.371208,
+      "country": "Chinese Taipei",
+      "state": "Tainan"
+    },
+    {
+      "latitude": 21.12076,
+      "longitude": 75.548452,
+      "country": "India",
+      "state": "Maharashtra"
+    },
+    {
+      "latitude": 26.697197,
+      "longitude": -80.691078,
+      "country": "United States of America",
+      "state": "Florida"
+    },
+    {
+      "latitude": 18.140956,
+      "longitude": -65.476883,
+      "country": "Puerto Rico",
+      "state": "Vieques"
+    },
+    {
+      "latitude": 13.108686,
+      "longitude": 80.107983,
+      "country": "India",
+      "state": "Tamil Nadu"
+    },
+    {
+      "latitude": 21.032607,
+      "longitude": 75.563471,
+      "country": "India",
+      "state": "Maharashtra"
+    }
+  ],
+  "scientific_name": "Cordia dichotoma",
+  "common_name": "Clammy Cherry",
+  "description": null
+}

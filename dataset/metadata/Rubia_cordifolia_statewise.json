@@ -1,0 +1,41 @@
+{
+  "herb": "Rubia cordifolia",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Uttarakhand": {
+      "count": 11,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Maharashtra": {
+      "count": 7,
+      "normalizedScore": 0.64,
+      "presence": "Medium"
+    },
+    "Kerala": {
+      "count": 2,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    },
+    "Karnataka": {
+      "count": 2,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    },
+    "WestBengal": {
+      "count": 1,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    },
+    "HimachalPradesh": {
+      "count": 2,
+      "normalizedScore": 0.18,
+      "presence": "Very Low"
+    },
+    "ArunachalPradesh": {
+      "count": 1,
+      "normalizedScore": 0.09,
+      "presence": "Very Low"
+    }
+  }
+}

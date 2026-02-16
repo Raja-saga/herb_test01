@@ -1,0 +1,16 @@
+{
+  "herb": "Syzygium aromaticum",
+  "source": "GBIF (metadata \u2192 processed)",
+  "states": {
+    "Kerala": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    },
+    "Maharashtra": {
+      "count": 1,
+      "normalizedScore": 1.0,
+      "presence": "High"
+    }
+  }
+}
