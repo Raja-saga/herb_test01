@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:3001/api";
+const API_BASE = "https://herb-test01.onrender.com/api";
 
 export const predictHerb = async (image, location) => {
   const formData = new FormData();

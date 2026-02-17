@@ -191,11 +191,11 @@ app.get('/api/locations/:herbName', (req, res) => {
 });
 
 app.get("/" , (req,res) =>{
-  res.send("Working")
+  res.send("working")
 })
 
 
 
-app.listen(PORT, () =>
-  console.log(`✅ Backend running at ${PORT}`)
+app.listen(3001, () =>
+  console.log(`✅ Backend running at ${3001}`)
 );
