@@ -12,41 +12,29 @@ export default function ImageUpload({ onPredictionChange, location }) {
     const image = e.target.files[0];
     if (!image) return;
 
-    // MANDATORY: Check if location is provided
-    if (!location) {
-      alert("Location Required: Please provide your location before uploading an image.");
-      e.target.value = ""; // Clear the file input
-      return;
-    }
-
-    // Cleanup previous preview URL to prevent memory leaks
     if (preview) {
       URL.revokeObjectURL(preview);
     }
 
-    // Create new preview URL immediately
     const previewUrl = URL.createObjectURL(image);
     setPreview(previewUrl);
 
-    // Reset states
     setResult(null);
     setConfidenceInfo(null);
     setLoading(true);
 
     try {
-      console.log('Starting prediction with location:', location);
-      const res = await predictHerb(image, location);
-      
+      console.log('Starting prediction. Location (optional):', location);
+
+      const res = await predictHerb(image, location || null);
+
       if (!res.herb || res.visualConfidence === undefined) {
         throw new Error('Invalid prediction response');
       }
-      
-      console.log('Prediction response:', res);
-      
-      // Use final confidence for UI logic
+
       const displayConfidence = res.finalConfidence || res.visualConfidence;
       const confInfo = getConfidenceMessage(displayConfidence);
-      
+
       setResult({
         herb: res.herb,
         visualConfidence: res.visualConfidence,
@@ -55,14 +43,15 @@ export default function ImageUpload({ onPredictionChange, location }) {
         nearestDistanceKm: res.nearestDistanceKm,
         success: res.success
       });
+
       setConfidenceInfo(confInfo);
-      
-      // Notify parent component
+
       onPredictionChange({
         herb: res.herb,
         confidence: res.visualConfidence,
         finalConfidence: res.finalConfidence
       });
+
     } catch (err) {
       console.error('Prediction error:', err);
       setResult({ error: err.message || 'Prediction failed' });
@@ -79,18 +68,18 @@ export default function ImageUpload({ onPredictionChange, location }) {
     <>
       <div className="upload-section">
         <h3>Herb Image Upload</h3>
-        
+
         <div className="upload-box">
-          <input 
-            type="file" 
-            accept="image/*" 
+          <input
+            type="file"
+            accept="image/*"
             onChange={handleUpload}
-            disabled={!isLocationProvided}
-            className={!isLocationProvided ? 'disabled' : ''}
           />
-          {!isLocationProvided && (
+
+
+          {/* {!isLocationProvided && (
             <p className="location-warning">Location required for prediction</p>
-          )}
+          )} */}
         </div>
 
         {/* IMAGE PREVIEW */}
@@ -104,10 +93,11 @@ export default function ImageUpload({ onPredictionChange, location }) {
           <div className="loading">
             <p>Processing image...</p>
             <p>• Running ViT classification</p>
-            <p>• Performing geo-validation</p>
+            {location && <p>• Performing geo-validation</p>}
             <p>• Computing final confidence</p>
           </div>
         )}
+
       </div>
 
       {/* PREDICTION RESULTS */}
@@ -129,7 +119,7 @@ export default function ImageUpload({ onPredictionChange, location }) {
               <p><strong>Location Plausibility:</strong> {result.locationPlausibilityScore ? (result.locationPlausibilityScore * 100).toFixed(1) + '%' : 'N/A'}</p>
               <p><strong>Nearest Distance:</strong> {result.nearestDistanceKm ? result.nearestDistanceKm.toFixed(1) + ' km' : 'Unknown'}</p>
               <p><strong>Final Confidence:</strong> {result.finalConfidence}%</p>
-              
+
               {confidenceInfo && (
                 <div className={`confidence-message ${confidenceInfo.action.toLowerCase()}`}>
                   <p>{confidenceInfo.message}</p>

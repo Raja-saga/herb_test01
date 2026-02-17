@@ -49,7 +49,11 @@ export default function LocationInput({ onLocationChange }) {
 
   return (
     <div className="location-input">
-      <h3>Location Required</h3>
+      <h3>Location (Optional)</h3>
+{/* <p className="location-subtitle">
+  Providing location enables geographical validation for improved accuracy.
+</p> */}
+
       <LocationStatus location={location} error={error} />
       
       {!location && (

@@ -1,19 +1,26 @@
 const API_BASE = "http://localhost:3001/api";
 
 export const predictHerb = async (image, location) => {
-  const fd = new FormData();
-  fd.append("image", image);
-  fd.append("latitude", location.latitude);
-  fd.append("longitude", location.longitude);
+  const formData = new FormData();
+  formData.append("image", image);
 
-  const res = await fetch(`${API_BASE}/predict`, {
+  if (location?.latitude && location?.longitude) {
+    formData.append("latitude", location.latitude);
+    formData.append("longitude", location.longitude);
+  }
+
+  const response = await fetch("http://localhost:3001/api/predict", {
     method: "POST",
-    body: fd,
+    body: formData,
   });
 
-  if (!res.ok) throw new Error("Prediction failed");
-  return res.json();
+  if (!response.ok) {
+    throw new Error("Prediction failed");
+  }
+
+  return response.json();
 };
+
 
 export const getHerbLocations = async (herb) => {
   const res = await fetch(`${API_BASE}/locations/${herb}`);

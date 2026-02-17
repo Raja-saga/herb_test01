@@ -10,7 +10,7 @@ const { performExplainableGeoValidation } = require("./services/geoValidationSer
 const app = express();
 const PORT = process.env.PORT || 3001;
 const HOST = process.env.HOST || '0.0.0.0';
-const HOST_IP = process.env.HOST_IP || '39.42.239.242';
+const HOST_IP = process.env.HOST_IP || '31.97.239.242';
 
 // METADATA PATH
 const METADATA_PATH = path.join(__dirname, process.env.METADATA_PATH || "../dataset/metadata");
@@ -47,6 +47,8 @@ function runPythonPrediction(imagePath) {
   });
 }
 
+
+
 // ---------- LOAD HERB METADATA ----------
 function loadHerbMetadata(herbName) {
   const filePath = path.join(METADATA_PATH, `${herbName}.json`);
@@ -56,34 +58,13 @@ function loadHerbMetadata(herbName) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
 
-// ---------- MAIN PREDICTION ENDPOINT WITH EXPLAINABLE VALIDATION ----------
 app.post("/api/predict", upload.single("image"), async (req, res) => {
   const imagePath = req.file.path;
   const { latitude, longitude } = req.body;
 
   console.log(`🔍 Prediction request: lat=${latitude}, lon=${longitude}`);
 
-  // STEP 1: Validate location input (MANDATORY)
-  if (!latitude || !longitude) {
-    fs.unlinkSync(imagePath);
-    return res.status(400).json({ 
-      error: "Location is mandatory",
-      message: "Please provide your location (latitude, longitude) before prediction" 
-    });
-  }
-
-  const userLat = parseFloat(latitude);
-  const userLon = parseFloat(longitude);
-
-  if (isNaN(userLat) || isNaN(userLon)) {
-    fs.unlinkSync(imagePath);
-    return res.status(400).json({ 
-      error: "Invalid coordinates",
-      message: "Latitude and longitude must be valid numbers" 
-    });
-  }
-
-  // STEP 2: Get ViT ML prediction
+  // ---------------- STEP 1: Run ML FIRST ----------------
   console.log(` Running ViT prediction on image...`);
   const mlResult = await runPythonPrediction(imagePath);
   fs.unlinkSync(imagePath);
@@ -97,11 +78,38 @@ app.post("/api/predict", upload.single("image"), async (req, res) => {
 
   console.log(`ViT prediction: ${mlResult.herb} (${mlResult.confidence}%)`);
 
-  // STEP 3: Load herb geographical metadata
+  // ---------------- STEP 2: Check if location exists ----------------
+  if (!latitude || !longitude) {
+    console.log("⚠️ No location provided. Skipping geo-validation.");
+
+    return res.json({
+      success: true,
+      herb: mlResult.herb,
+      visualConfidence: mlResult.confidence,
+      finalConfidence: mlResult.confidence,
+      message: "Location not provided. Showing visual confidence only.",
+      validationResults: null
+    });
+  }
+
+  // ---------------- STEP 3: Validate coordinates ----------------
+  const userLat = parseFloat(latitude);
+  const userLon = parseFloat(longitude);
+
+  if (isNaN(userLat) || isNaN(userLon)) {
+    return res.status(400).json({ 
+      error: "Invalid coordinates",
+      message: "Latitude and longitude must be valid numbers" 
+    });
+  }
+
+  // ---------------- STEP 4: Load metadata ----------------
   const herbMetadata = loadHerbMetadata(mlResult.herb);
+
   if (!herbMetadata || !herbMetadata.locations || herbMetadata.locations.length === 0) {
     console.log(`⚠️ No geographical data for ${mlResult.herb}`);
     return res.json({
+      success: true,
       herb: mlResult.herb,
       visualConfidence: mlResult.confidence,
       finalConfidence: mlResult.confidence,
@@ -110,7 +118,7 @@ app.post("/api/predict", upload.single("image"), async (req, res) => {
     });
   }
 
-  // STEP 4: Perform explainable geo-validation pipeline
+  // ---------------- STEP 5: Perform geo validation ----------------
   console.log(` Running explainable geo-validation...`);
   const validationResults = performExplainableGeoValidation(
     userLat, 
@@ -121,15 +129,11 @@ app.post("/api/predict", upload.single("image"), async (req, res) => {
 
   console.log(`📊 Validation complete: Final confidence ${validationResults.finalConfidence.score}%`);
 
-  // STEP 5: Return all explainable results
+  // ---------------- STEP 6: Return combined result ----------------
   res.json({
     success: true,
     herb: mlResult.herb,
-    
-    // All step-by-step validation results for explainable UI
     validationResults: validationResults,
-    
-    // Legacy fields for backward compatibility
     visualConfidence: mlResult.confidence,
     finalConfidence: validationResults.finalConfidence.score,
     locationPlausibilityScore: validationResults.locationPlausibility.score,
@@ -137,6 +141,7 @@ app.post("/api/predict", upload.single("image"), async (req, res) => {
     nearestDistanceKm: validationResults.locationPlausibility.nearestDistance
   });
 });
+
 
 // Test endpoint to verify dataset access
 app.get('/api/test-locations', (req, res) => {
