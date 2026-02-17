@@ -1,4 +1,6 @@
+// const API_BASE = "http://localhost:3001/api";
 const API_BASE = "https://herb-test01.onrender.com/api";
+
 
 export const predictHerb = async (image, location) => {
   const formData = new FormData();
@@ -9,7 +11,7 @@ export const predictHerb = async (image, location) => {
     formData.append("longitude", location.longitude);
   }
 
-  const response = await fetch("http://localhost:3001/api/predict", {
+  const response = await fetch("https://herb-test01.onrender.com/api/predict", {
     method: "POST",
     body: formData,
   });
